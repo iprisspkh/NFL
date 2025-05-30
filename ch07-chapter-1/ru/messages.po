@@ -1,0 +1,739 @@
+# Chapter 7: Chapter 1
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: Many students of A Course In Miracles are familiar with the oft-quoted statement, Into eternity, where all is one, there crept a tiny, mad idea, at which the Son of God remembered not to laugh. In his...
+#: paragraph:1,sentence:1
+msgid "Many students of A Course In Miracles are familiar with the oft-quoted statement, Into eternity, where all is one, there crept a tiny, mad idea, at which the Son of God remembered not to laugh"
+msgstr ""
+
+#. Paragraph 1: Many students of A Course In Miracles are familiar with the oft-quoted statement, Into eternity, where all is one, there crept a tiny, mad idea, at which the Son of God remembered not to laugh. In his...
+#: paragraph:1,sentence:2
+msgid "In his forgetting did the thought become a serious idea, and possible of both accomplishment and real effects"
+msgstr ""
+
+#. Paragraph 1: Many students of A Course In Miracles are familiar with the oft-quoted statement, Into eternity, where all is one, there crept a tiny, mad idea, at which the Son of God remembered not to laugh. In his...
+#: paragraph:1,sentence:3
+msgid "Together, we can laugh them both away, and understand that time cannot intrude upon eternity"
+msgstr ""
+
+#. Paragraph 1: Many students of A Course In Miracles are familiar with the oft-quoted statement, Into eternity, where all is one, there crept a tiny, mad idea, at which the Son of God remembered not to laugh. In his...
+#: paragraph:1,sentence:4
+msgid "It is a joke to think that time can come to circumvent eternity, which means there is no time.[1]"
+msgstr ""
+
+#. Paragraph 2: If ever there was one who learned to joke about the absurdity of the human condition, it was Bill Thetford. He was graced with a superb sense of humor, delighting in the antics, large and small, of bo...
+#: paragraph:2,sentence:5
+msgid "If ever there was one who learned to joke about the absurdity of the human condition, it was Bill Thetford."
+msgstr ""
+
+#. Paragraph 2: If ever there was one who learned to joke about the absurdity of the human condition, it was Bill Thetford. He was graced with a superb sense of humor, delighting in the antics, large and small, of bo...
+#: paragraph:2,sentence:6
+msgid "He was graced with a superb sense of humor, delighting in the antics, large and small, of both himself and his fellow human beings."
+msgstr ""
+
+#. Paragraph 2: If ever there was one who learned to joke about the absurdity of the human condition, it was Bill Thetford. He was graced with a superb sense of humor, delighting in the antics, large and small, of bo...
+#: paragraph:2,sentence:7
+msgid "A prayer in the liturgy of the Episcopal Church begins, “Almighty God, unto whom all hearts are open, all desires known, and from whom no secrets are hid, . . .” Bill was a mortal version of that omniscience; for him his fellow man was deeply transparent, an open book—and often a comic book."
+msgstr ""
+
+#. Paragraph 2: If ever there was one who learned to joke about the absurdity of the human condition, it was Bill Thetford. He was graced with a superb sense of humor, delighting in the antics, large and small, of bo...
+#: paragraph:2,sentence:8
+msgid "His lighthearted touch was his hallmark as he saw the comedy in the ego’s serious postures."
+msgstr ""
+
+#. Paragraph 2: If ever there was one who learned to joke about the absurdity of the human condition, it was Bill Thetford. He was graced with a superb sense of humor, delighting in the antics, large and small, of bo...
+#: paragraph:2,sentence:9
+msgid "He laughed not at people, however, but at our treasured notions, beliefs, and practiced self-deceptions."
+msgstr ""
+
+#. Paragraph 3: He had his own issues, of course, times that seemed depressing or fraught with difficulty, but sooner or later, his emotional equilibrium would be restored, the twinkle returning to his eye as he told...
+#: paragraph:3,sentence:10
+msgid "He had his own issues, of course, times that seemed depressing or fraught with difficulty, but sooner or later, his emotional equilibrium would be restored, the twinkle returning to his eye as he told his hilarious stories."
+msgstr ""
+
+#. Paragraph 3: He had his own issues, of course, times that seemed depressing or fraught with difficulty, but sooner or later, his emotional equilibrium would be restored, the twinkle returning to his eye as he told...
+#: paragraph:3,sentence:11
+msgid "When we can laugh at the dramas, the formerly unhappy circumstances in our lives, we know they are healed."
+msgstr ""
+
+#. Paragraph 3: He had his own issues, of course, times that seemed depressing or fraught with difficulty, but sooner or later, his emotional equilibrium would be restored, the twinkle returning to his eye as he told...
+#: paragraph:3,sentence:12
+msgid "With a rigid, humorless approach to any aspect of our lives, we still have work to do."
+msgstr ""
+
+#. Paragraph 3: He had his own issues, of course, times that seemed depressing or fraught with difficulty, but sooner or later, his emotional equilibrium would be restored, the twinkle returning to his eye as he told...
+#: paragraph:3,sentence:13
+msgid "Bill’s droll sense of humor pervaded his life and is the single characteristic I believe he would most want remembered."
+msgstr ""
+
+#. Paragraph 4: While finishing the interviews for this book, Hugh Prather, best-selling author and one of Bill’s confidants, and I reminisced by phone about the gift he was to us, especially about how witty and funn...
+#: paragraph:4,sentence:14
+msgid "While finishing the interviews for this book, Hugh Prather, best-selling author and one of Bill’s confidants, and I reminisced by phone about the gift he was to us, especially about how witty and funny he could be."
+msgstr ""
+
+#. Paragraph 4: While finishing the interviews for this book, Hugh Prather, best-selling author and one of Bill’s confidants, and I reminisced by phone about the gift he was to us, especially about how witty and funn...
+#: paragraph:4,sentence:15
+msgid "One of Bill’s favorite early Course stories, told with kindhearted laughter, was about a gentleman who discovered his address in Manhattan and came knocking on his door."
+msgstr ""
+
+#. Paragraph 4: While finishing the interviews for this book, Hugh Prather, best-selling author and one of Bill’s confidants, and I reminisced by phone about the gift he was to us, especially about how witty and funn...
+#: paragraph:4,sentence:16
+msgid "When Bill answered, the man earnestly announced that he was a new ACIM student and that the Holy Spirit told him to find Bill and ask him for $10,000."
+msgstr ""
+
+#. Paragraph 4: While finishing the interviews for this book, Hugh Prather, best-selling author and one of Bill’s confidants, and I reminisced by phone about the gift he was to us, especially about how witty and funn...
+#: paragraph:4,sentence:17
+msgid "Without missing a beat, Bill responded that the Holy Spirit had already alerted him to this request and indicated he was not to give it to him."
+msgstr ""
+
+#. Paragraph 4: While finishing the interviews for this book, Hugh Prather, best-selling author and one of Bill’s confidants, and I reminisced by phone about the gift he was to us, especially about how witty and funn...
+#: paragraph:4,sentence:18
+msgid "I can still see Bill’s delighted smile as he recounted such entertaining tales about humankind in general and Course-related drama in particular."
+msgstr ""
+
+#. Paragraph 4: While finishing the interviews for this book, Hugh Prather, best-selling author and one of Bill’s confidants, and I reminisced by phone about the gift he was to us, especially about how witty and funn...
+#: paragraph:4,sentence:19
+msgid "He often said he thought he should write a book entitled A Course In Miracles Follies about the craziness that occurred while bringing this material into the world, as well as some of the strange ideas and misperceptions that have been perpetuated in its name."
+msgstr ""
+
+#. Paragraph 4: While finishing the interviews for this book, Hugh Prather, best-selling author and one of Bill’s confidants, and I reminisced by phone about the gift he was to us, especially about how witty and funn...
+#: paragraph:4,sentence:20
+msgid "To his credit, he found these occurrences amusing rather than alarming, and we would all benefit from emulating his lighthearted approach."
+msgstr ""
+
+#. Paragraph 5: Why write a book about Bill now, years after publication of the Course in 1975 and his death in 1988? Helen was asked a similar question: Why had she heard her “Voice” from 1965 onward and not at some...
+#: paragraph:5,sentence:21
+msgid "Why write a book about Bill now, years after publication of the Course in 1975 and his death in 1988"
+msgstr ""
+
+#. Paragraph 5: Why write a book about Bill now, years after publication of the Course in 1975 and his death in 1988? Helen was asked a similar question: Why had she heard her “Voice” from 1965 onward and not at some...
+#: paragraph:5,sentence:22
+msgid "Helen was asked a similar question: Why had she heard her “Voice” from 1965 onward and not at some other time"
+msgstr ""
+
+#. Paragraph 5: Why write a book about Bill now, years after publication of the Course in 1975 and his death in 1988? Helen was asked a similar question: Why had she heard her “Voice” from 1965 onward and not at some...
+#: paragraph:5,sentence:23
+msgid "Her answer applies both to ACIM and now to Bill’s biography:"
+msgstr ""
+
+#. Paragraph 6: I was given a sort of mental “explanation” . . . in the form of a series of related thoughts that crossed my mind in rapid succession and made a reasonably coherent whole. According to this “informati...
+#: paragraph:6,sentence:24
+msgid "I was given a sort of mental “explanation” . . . in the form of a series of related thoughts that crossed my mind in rapid succession and made a reasonably coherent whole"
+msgstr ""
+
+#. Paragraph 6: I was given a sort of mental “explanation” . . . in the form of a series of related thoughts that crossed my mind in rapid succession and made a reasonably coherent whole. According to this “informati...
+#: paragraph:6,sentence:25
+msgid "According to this “information,” the world situation was worsening at an alarming pace"
+msgstr ""
+
+#. Paragraph 6: I was given a sort of mental “explanation” . . . in the form of a series of related thoughts that crossed my mind in rapid succession and made a reasonably coherent whole. According to this “informati...
+#: paragraph:6,sentence:26
+msgid "People all over the world were being called on to help, and were making their individual contributions as part of an overall, prearranged plan"
+msgstr ""
+
+#. Paragraph 6: I was given a sort of mental “explanation” . . . in the form of a series of related thoughts that crossed my mind in rapid succession and made a reasonably coherent whole. According to this “informati...
+#: paragraph:6,sentence:27
+msgid "I had apparently agreed to take down a course in miracles as it would be given me"
+msgstr ""
+
+#. Paragraph 6: I was given a sort of mental “explanation” . . . in the form of a series of related thoughts that crossed my mind in rapid succession and made a reasonably coherent whole. According to this “informati...
+#: paragraph:6,sentence:28
+msgid "The Voice was fulfilling its part in the agreement, as I would fulfill mine"
+msgstr ""
+
+#. Paragraph 6: I was given a sort of mental “explanation” . . . in the form of a series of related thoughts that crossed my mind in rapid succession and made a reasonably coherent whole. According to this “informati...
+#: paragraph:6,sentence:29
+msgid "I would be using abilities I had developed very long ago, and which I was not really ready to use again"
+msgstr ""
+
+#. Paragraph 6: I was given a sort of mental “explanation” . . . in the form of a series of related thoughts that crossed my mind in rapid succession and made a reasonably coherent whole. According to this “informati...
+#: paragraph:6,sentence:30
+msgid "Because of the acute emergency, however, the usual slow, evolutionary process of spiritual development was being bypassed in what might be described as a “celestial speed-up.” I could sense the urgency that lay behind this “explanation,” whatever I might think about its content"
+msgstr ""
+
+#. Paragraph 6: I was given a sort of mental “explanation” . . . in the form of a series of related thoughts that crossed my mind in rapid succession and made a reasonably coherent whole. According to this “informati...
+#: paragraph:6,sentence:31
+msgid "The feeling was conveyed to me that time was running out.[2]"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:32
+msgid "I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:33
+msgid "Now, thirty years later, it is even more so"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:34
+msgid "Our world appears to be increasingly less stable, more complex, the years moving by at an accelerated pace"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:35
+msgid "William (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly, Bill and Helen had forewarned and forearmed America for what Helen believed was the coming social and metaphysical crisis.”[3] Now that crisis seems to be upon us"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:36
+msgid "A Course In Miracles reminds us that we are completely confused about what is valuable and what is not"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:37
+msgid "Our values are upside down and backwards, and we put precious and powerful attention on what doesn’t matter, steadily ignoring what does"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:38
+msgid "We believe our actions and their influence are of great importance, but thoughts are our own private business and, being invisible and silent, do not count for much"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:39
+msgid "Hence we set great store on the externals of our lives—our careers, material possessions, the face we present to the world—while being oblivious to our internal processes"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:40
+msgid "With this in mind, we begin Bill’s story with highlights of his external life: early history, the jobs he held, his overriding interests—those areas that were compelling and fascinating for him"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:41
+msgid "These will serve as the framework for becoming better acquainted with his interior life—his choices, struggles, gifts, and most of all, his loving presence"
+msgstr ""
+
+#. Paragraph 7: I remember that phrase, “celestial speed-up,” from my earliest conversations with Bill; it seemed odd but accurate. Now, thirty years later, it is even more so. Our world appears to be increasingly le...
+#: paragraph:7,sentence:42
+msgid "We shall observe the process as Bill steadily moves forward in releasing his ego—“the block to the awareness of Love’s presence”—just as we must do if we want to be joyous, free, safe, and abundantly cared for.[4]"
+msgstr ""
+
+#. Paragraph 8: Lest one think Bill’s life was easier or more charmed than others and that living the Course was inherently less challenging for him, his early years come alive via excerpts from an essay entitled “I ...
+#: paragraph:8,sentence:43
+msgid "Lest one think Bill’s life was easier or more charmed than others and that living the Course was inherently less challenging for him, his early years come alive via excerpts from an essay entitled “I Live Again,” which he wrote as an English assignment when he was fifteen years old"
+msgstr ""
+
+#. Paragraph 8: Lest one think Bill’s life was easier or more charmed than others and that living the Course was inherently less challenging for him, his early years come alive via excerpts from an essay entitled “I ...
+#: paragraph:8,sentence:44
+msgid "Of his parents, John Randolph and Edna Mae Thetford, he wrote:"
+msgstr ""
+
+#. Paragraph 9: Then began an early married life of hard work and sacrifice and of the rearing of three children. John, Jr., the first child, died in infancy after seven days’ struggle for life. A curly haired, beaut...
+#: paragraph:9,sentence:45
+msgid "Then began an early married life of hard work and sacrifice and of the rearing of three children."
+msgstr ""
+
+#. Paragraph 9: Then began an early married life of hard work and sacrifice and of the rearing of three children. John, Jr., the first child, died in infancy after seven days’ struggle for life. A curly haired, beaut...
+#: paragraph:9,sentence:46
+msgid "John, Jr. , the first child, died in infancy after seven days’ struggle for life."
+msgstr ""
+
+#. Paragraph 9: Then began an early married life of hard work and sacrifice and of the rearing of three children. John, Jr., the first child, died in infancy after seven days’ struggle for life. A curly haired, beaut...
+#: paragraph:9,sentence:47
+msgid "A curly haired, beautiful baby girl, Patricia Ann, next entered our busy household three years later. . .."
+msgstr ""
+
+#. Paragraph 9: Then began an early married life of hard work and sacrifice and of the rearing of three children. John, Jr., the first child, died in infancy after seven days’ struggle for life. A curly haired, beaut...
+#: paragraph:9,sentence:48
+msgid "On a bleak April morning [in Chicago, IL] in 1923, . . . the author of this chronicle first saw the light of day. . .."
+msgstr ""
+
+#. Paragraph 9: Then began an early married life of hard work and sacrifice and of the rearing of three children. John, Jr., the first child, died in infancy after seven days’ struggle for life. A curly haired, beaut...
+#: paragraph:9,sentence:49
+msgid "When I look back upon what a strong-tempered little vixen I was, always getting into scrapes, I realize how much extra trouble my behavior caused her [his mother]."
+msgstr ""
+
+#. Paragraph 10: Patricia was the big dominating force of my early life—outside of Mother. The sun rose and set upon Patsy Ann. I was her constant shadow and continual worshipper. A fostering of an unmanly interest in...
+#: paragraph:10,sentence:50
+msgid "Patricia was the big dominating force of my early life—outside of Mother."
+msgstr ""
+
+#. Paragraph 10: Patricia was the big dominating force of my early life—outside of Mother. The sun rose and set upon Patsy Ann. I was her constant shadow and continual worshipper. A fostering of an unmanly interest in...
+#: paragraph:10,sentence:51
+msgid "The sun rose and set upon Patsy Ann."
+msgstr ""
+
+#. Paragraph 10: Patricia was the big dominating force of my early life—outside of Mother. The sun rose and set upon Patsy Ann. I was her constant shadow and continual worshipper. A fostering of an unmanly interest in...
+#: paragraph:10,sentence:52
+msgid "I was her constant shadow and continual worshipper."
+msgstr ""
+
+#. Paragraph 10: Patricia was the big dominating force of my early life—outside of Mother. The sun rose and set upon Patsy Ann. I was her constant shadow and continual worshipper. A fostering of an unmanly interest in...
+#: paragraph:10,sentence:53
+msgid "A fostering of an unmanly interest in dolls and tea parties and other effeminate things was the result of my close association with Patsy and her girl friends."
+msgstr ""
+
+#. Paragraph 10: Patricia was the big dominating force of my early life—outside of Mother. The sun rose and set upon Patsy Ann. I was her constant shadow and continual worshipper. A fostering of an unmanly interest in...
+#: paragraph:10,sentence:54
+msgid "In fact, my fascination for the opposite sex has never deserted me."
+msgstr ""
+
+#. Paragraph 11: In May of 1930, when I was seven years old, my beloved sister was stricken with a fatal infection of the throat. Three weeks later she passed away leaving our family dazed with grief, hardly believing...
+#: paragraph:11,sentence:55
+msgid "In May of 1930, when I was seven years old, my beloved sister was stricken with a fatal infection of the throat."
+msgstr ""
+
+#. Paragraph 11: In May of 1930, when I was seven years old, my beloved sister was stricken with a fatal infection of the throat. Three weeks later she passed away leaving our family dazed with grief, hardly believing...
+#: paragraph:11,sentence:56
+msgid "Three weeks later she passed away leaving our family dazed with grief, hardly believing that death could strike one so young and vibrantly alive."
+msgstr ""
+
+#. Paragraph 11: In May of 1930, when I was seven years old, my beloved sister was stricken with a fatal infection of the throat. Three weeks later she passed away leaving our family dazed with grief, hardly believing...
+#: paragraph:11,sentence:57
+msgid "Even now, after eight years have elapsed, it scarcely seems possible that the playmate of my youth can be gone. . . ."
+msgstr ""
+
+#. Paragraph 12: The following December after having been quarantined for three weeks with scarlet fever, I arose one morning, only to find my body wracked with rheumatic pains and fever. This led within a few days, t...
+#: paragraph:12,sentence:58
+msgid "The following December after having been quarantined for three weeks with scarlet fever, I arose one morning, only to find my body wracked with rheumatic pains and fever"
+msgstr ""
+
+#. Paragraph 12: The following December after having been quarantined for three weeks with scarlet fever, I arose one morning, only to find my body wracked with rheumatic pains and fever. This led within a few days, t...
+#: paragraph:12,sentence:59
+msgid "This led within a few days, to a serious heart ailment"
+msgstr ""
+
+#. Paragraph 12: The following December after having been quarantined for three weeks with scarlet fever, I arose one morning, only to find my body wracked with rheumatic pains and fever. This led within a few days, t...
+#: paragraph:12,sentence:60
+msgid "For three whole months I was unable to raise my head off the pillow"
+msgstr ""
+
+#. Paragraph 12: The following December after having been quarantined for three weeks with scarlet fever, I arose one morning, only to find my body wracked with rheumatic pains and fever. This led within a few days, t...
+#: paragraph:12,sentence:61
+msgid "During these long months of fighting to live, Mother was my nurse, playmate and teacher. . ."
+msgstr ""
+
+#. Paragraph 12: The following December after having been quarantined for three weeks with scarlet fever, I arose one morning, only to find my body wracked with rheumatic pains and fever. This led within a few days, t...
+#: paragraph:12,sentence:62
+msgid "Considering my illness as only a temporary thing, I soon began to plan as to how I would spend my days in the outdoors playing baseball and other games and sports, until I overheard a telephone conversation in which Mother, in whispers, remarked that I would not be able to get out of bed for at least another year and a half.[5]"
+msgstr ""
+
+#. Paragraph 13: Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss o...
+#: paragraph:13,sentence:63
+msgid "Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss of all three of their children"
+msgstr ""
+
+#. Paragraph 13: Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss o...
+#: paragraph:13,sentence:64
+msgid "Early on, he seemed aware that he had a choice in the matter—quite a challenge for a seven-year-old and revealing of his heightened awareness"
+msgstr ""
+
+#. Paragraph 13: Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss o...
+#: paragraph:13,sentence:65
+msgid "In retrospect, Bill recognized that his serious illness, commencing six months after his sister’s passing, was not a coincidence"
+msgstr ""
+
+#. Paragraph 13: Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss o...
+#: paragraph:13,sentence:66
+msgid "Those who work with grieving families observe that siblings of children who die often feel guilty that they remain after the brother or sister has gone"
+msgstr ""
+
+#. Paragraph 13: Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss o...
+#: paragraph:13,sentence:67
+msgid "Or they worry over the effect of the death on their parents’ stability, and thus on their own welfare, and/or try diligently to deny the loss in their young lives"
+msgstr ""
+
+#. Paragraph 13: Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss o...
+#: paragraph:13,sentence:68
+msgid "A Course In Miracles is unequivocal about the role that guilt, fear, and anger play in projecting the dis-ease or dis-harmony within our minds onto the physical body and the role forgiveness plays in restoring both mind and body to health"
+msgstr ""
+
+#. Paragraph 13: Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss o...
+#: paragraph:13,sentence:69
+msgid "Hundreds of pages address this topic in no uncertain terms. “Sickness is a decision"
+msgstr ""
+
+#. Paragraph 13: Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss o...
+#: paragraph:13,sentence:70
+msgid "It is not a thing that happens to you, quite unsought, which makes you weak and brings you suffering"
+msgstr ""
+
+#. Paragraph 13: Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss o...
+#: paragraph:13,sentence:71
+msgid "It is a choice you make, a plan you lay, when for an instant truth arises in your own deluded mind, and all your world appears to totter and prepare to fall"
+msgstr ""
+
+#. Paragraph 13: Bill and sister Patricia Bill told me he was devastated by that conversation and made a determined choice to live, despite the doctor’s gloomy prognosis, rather than have his parents suffer the loss o...
+#: paragraph:13,sentence:72
+msgid "Now are you sick, that truth may go away and threaten your establishments no more.”[6]"
+msgstr ""
+
+#. Paragraph 14: In his essay, Bill continues: The world all of a sudden caved in upon me. It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity. Gradually, however, ...
+#: paragraph:14,sentence:73
+msgid "In his essay, Bill continues: The world all of a sudden caved in upon me"
+msgstr ""
+
+#. Paragraph 14: In his essay, Bill continues: The world all of a sudden caved in upon me. It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity. Gradually, however, ...
+#: paragraph:14,sentence:74
+msgid "It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity"
+msgstr ""
+
+#. Paragraph 14: In his essay, Bill continues: The world all of a sudden caved in upon me. It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity. Gradually, however, ...
+#: paragraph:14,sentence:75
+msgid "Gradually, however, I became accustomed to the thought and soon it held no terror for me"
+msgstr ""
+
+#. Paragraph 14: In his essay, Bill continues: The world all of a sudden caved in upon me. It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity. Gradually, however, ...
+#: paragraph:14,sentence:76
+msgid "Constant reading and the kindness of our family friends made the days fly but too quickly. . ."
+msgstr ""
+
+#. Paragraph 14: In his essay, Bill continues: The world all of a sudden caved in upon me. It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity. Gradually, however, ...
+#: paragraph:14,sentence:77
+msgid "Despite relapses, when I hovered near death’s door, I continued to progress, until after two and a half years of shut-in convalescence, I took my first step outside"
+msgstr ""
+
+#. Paragraph 14: In his essay, Bill continues: The world all of a sudden caved in upon me. It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity. Gradually, however, ...
+#: paragraph:14,sentence:78
+msgid "My first glimpse of the brilliant blue of the sky, after months of seclusion, caused me to emit a gasp of wonderment"
+msgstr ""
+
+#. Paragraph 14: In his essay, Bill continues: The world all of a sudden caved in upon me. It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity. Gradually, however, ...
+#: paragraph:14,sentence:79
+msgid "At the time I thought it was the most beautiful sight I had ever seen"
+msgstr ""
+
+#. Paragraph 14: In his essay, Bill continues: The world all of a sudden caved in upon me. It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity. Gradually, however, ...
+#: paragraph:14,sentence:80
+msgid "I was very unsteady on my feet, and in fact, I had to learn anew how to walk. . ."
+msgstr ""
+
+#. Paragraph 14: In his essay, Bill continues: The world all of a sudden caved in upon me. It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity. Gradually, however, ...
+#: paragraph:14,sentence:81
+msgid "My rediscovery of the world is the most thrilling and vivid of all my recollections"
+msgstr ""
+
+#. Paragraph 14: In his essay, Bill continues: The world all of a sudden caved in upon me. It was unbelievable that I must lie flat on my back, imprisoned by four walls, for that seeming eternity. Gradually, however, ...
+#: paragraph:14,sentence:82
+msgid "Being out of circulation had made me very shy and I found it extremely difficult to mix with people.[7]"
+msgstr ""
+
+#. Paragraph 15: From the beginning, Bill was innately at home in the world of the abstract, and for him this inner world was real, vivid, and as satisfying as if he were physically engaged. He credits “reading and fa...
+#: paragraph:15,sentence:83
+msgid "From the beginning, Bill was innately at home in the world of the abstract, and for him this inner world was real, vivid, and as satisfying as if he were physically engaged."
+msgstr ""
+
+#. Paragraph 15: From the beginning, Bill was innately at home in the world of the abstract, and for him this inner world was real, vivid, and as satisfying as if he were physically engaged. He credits “reading and fa...
+#: paragraph:15,sentence:84
+msgid "He credits “reading and family friends” as causing the time to fly, but that observation is incomplete."
+msgstr ""
+
+#. Paragraph 15: From the beginning, Bill was innately at home in the world of the abstract, and for him this inner world was real, vivid, and as satisfying as if he were physically engaged. He credits “reading and fa...
+#: paragraph:15,sentence:85
+msgid "He doesn’t mention his rich inner life, taking that for granted and very likely assuming, as we all do in our earlier years, that everyone processes life as we do and that our own approach to circumstances is the norm."
+msgstr ""
+
+#. Paragraph 15: From the beginning, Bill was innately at home in the world of the abstract, and for him this inner world was real, vivid, and as satisfying as if he were physically engaged. He credits “reading and fa...
+#: paragraph:15,sentence:86
+msgid "That is hardly the case."
+msgstr ""
+
+#. Paragraph 15: From the beginning, Bill was innately at home in the world of the abstract, and for him this inner world was real, vivid, and as satisfying as if he were physically engaged. He credits “reading and fa...
+#: paragraph:15,sentence:87
+msgid "He wrote this essay before he knew about personality types or had yet realized that not everyone has such readily available intuitive ability."
+msgstr ""
+
+#. Paragraph 15: From the beginning, Bill was innately at home in the world of the abstract, and for him this inner world was real, vivid, and as satisfying as if he were physically engaged. He credits “reading and fa...
+#: paragraph:15,sentence:88
+msgid "His being socialized to be alone was actually in keeping with his basic tendencies."
+msgstr ""
+
+#. Paragraph 15: From the beginning, Bill was innately at home in the world of the abstract, and for him this inner world was real, vivid, and as satisfying as if he were physically engaged. He credits “reading and fa...
+#: paragraph:15,sentence:89
+msgid "People today, particularly those with more outgoing temperaments, might find such confinement unimaginable considering there were no TVs, video games, or cell phones for distraction."
+msgstr ""
+
+#. Paragraph 16: It also seems, from our vantage point, that Bill learned the art of surrender at an early age. His long, solitary stay in bed, with its enforced introspection, facilitated a capacity for acceptance th...
+#: paragraph:16,sentence:90
+msgid "It also seems, from our vantage point, that Bill learned the art of surrender at an early age"
+msgstr ""
+
+#. Paragraph 16: It also seems, from our vantage point, that Bill learned the art of surrender at an early age. His long, solitary stay in bed, with its enforced introspection, facilitated a capacity for acceptance th...
+#: paragraph:16,sentence:91
+msgid "His long, solitary stay in bed, with its enforced introspection, facilitated a capacity for acceptance that would have great transfer value to other dimensions of his unfolding life"
+msgstr ""
+
+#. Paragraph 16: It also seems, from our vantage point, that Bill learned the art of surrender at an early age. His long, solitary stay in bed, with its enforced introspection, facilitated a capacity for acceptance th...
+#: paragraph:16,sentence:92
+msgid "Just as Helen noted that the urgency of the times required her to practice the art of “inner dictation” sooner than a more leisurely pace of spiritual evolution might allow, it seems that Bill’s nascent spiritual development was also accelerated"
+msgstr ""
+
+#. Paragraph 16: It also seems, from our vantage point, that Bill learned the art of surrender at an early age. His long, solitary stay in bed, with its enforced introspection, facilitated a capacity for acceptance th...
+#: paragraph:16,sentence:93
+msgid "His years of quiet seclusion were like being in a monastery, where he could examine such thoughts as “Who am I?” or “What is life’s purpose?” Catherine Prescott, a friend he met many years later, remembers, “Bill described himself as being very slow in reaction time, . . . in his childhood there was always so much time that he would savor each moment; he didn’t have to rush"
+msgstr ""
+
+#. Paragraph 16: It also seems, from our vantage point, that Bill learned the art of surrender at an early age. His long, solitary stay in bed, with its enforced introspection, facilitated a capacity for acceptance th...
+#: paragraph:16,sentence:94
+msgid "So that if one little thing happened, he was always slowing time down to make the moment last"
+msgstr ""
+
+#. Paragraph 16: It also seems, from our vantage point, that Bill learned the art of surrender at an early age. His long, solitary stay in bed, with its enforced introspection, facilitated a capacity for acceptance th...
+#: paragraph:16,sentence:95
+msgid "I think part of his wisdom was the ability to hesitate and ponder what was going on.”[8]"
+msgstr ""
+
+#. Paragraph 17: After a three-year absence from school, during which his mother tutored him, Bill was placed in a school for children who were crippled or had cardiac problems. His continued poor health caused him to...
+#: paragraph:17,sentence:96
+msgid "After a three-year absence from school, during which his mother tutored him, Bill was placed in a school for children who were crippled or had cardiac problems."
+msgstr ""
+
+#. Paragraph 17: After a three-year absence from school, during which his mother tutored him, Bill was placed in a school for children who were crippled or had cardiac problems. His continued poor health caused him to...
+#: paragraph:17,sentence:97
+msgid "His continued poor health caused him to miss from six weeks to two months of classes each semester."
+msgstr ""
+
+#. Paragraph 17: After a three-year absence from school, during which his mother tutored him, Bill was placed in a school for children who were crippled or had cardiac problems. His continued poor health caused him to...
+#: paragraph:17,sentence:98
+msgid "Despite these prolonged absences, however, he completed grammar school (through the eighth grade) in three years."
+msgstr ""
+
+#. Paragraph 18: Like every other child, Bill simply wanted to be normal. His early years had certainly been atypical, and once returned to school, he was moved into classes, then taken out and reinstalled elsewhere a...
+#: paragraph:18,sentence:99
+msgid "Like every other child, Bill simply wanted to be normal."
+msgstr ""
+
+#. Paragraph 18: Like every other child, Bill simply wanted to be normal. His early years had certainly been atypical, and once returned to school, he was moved into classes, then taken out and reinstalled elsewhere a...
+#: paragraph:18,sentence:100
+msgid "His early years had certainly been atypical, and once returned to school, he was moved into classes, then taken out and reinstalled elsewhere as his teachers tried to balance his extraordinary intellectual ability and, through lack of exposure, his underdeveloped social skills."
+msgstr ""
+
+#. Paragraph 18: Like every other child, Bill simply wanted to be normal. His early years had certainly been atypical, and once returned to school, he was moved into classes, then taken out and reinstalled elsewhere a...
+#: paragraph:18,sentence:101
+msgid "With all the shifting around, he still ended up entering high school at age twelve."
+msgstr ""
+
+#. Paragraph 18: Like every other child, Bill simply wanted to be normal. His early years had certainly been atypical, and once returned to school, he was moved into classes, then taken out and reinstalled elsewhere a...
+#: paragraph:18,sentence:102
+msgid "He did what he could to fit in, attempting to compensate for being sick and missing three years of school."
+msgstr ""
+
+#. Paragraph 18: Like every other child, Bill simply wanted to be normal. His early years had certainly been atypical, and once returned to school, he was moved into classes, then taken out and reinstalled elsewhere a...
+#: paragraph:18,sentence:103
+msgid "He was innately gifted and intellectually far ahead of his age group from the constant reading during his recovery period."
+msgstr ""
+
+#. Paragraph 19: Bill was also gifted in terms of music and theater. Classical music, especially Mozart, which he would discover during his college days, provided an important refuge and immense delight for him throug...
+#: paragraph:19,sentence:104
+msgid "Bill was also gifted in terms of music and theater"
+msgstr ""
+
+#. Paragraph 19: Bill was also gifted in terms of music and theater. Classical music, especially Mozart, which he would discover during his college days, provided an important refuge and immense delight for him throug...
+#: paragraph:19,sentence:105
+msgid "Classical music, especially Mozart, which he would discover during his college days, provided an important refuge and immense delight for him throughout his life"
+msgstr ""
+
+#. Paragraph 19: Bill was also gifted in terms of music and theater. Classical music, especially Mozart, which he would discover during his college days, provided an important refuge and immense delight for him throug...
+#: paragraph:19,sentence:106
+msgid "During his high school years, as his health returned, Bill took voice and piano lessons, for which he was a natural"
+msgstr ""
+
+#. Paragraph 19: Bill was also gifted in terms of music and theater. Classical music, especially Mozart, which he would discover during his college days, provided an important refuge and immense delight for him throug...
+#: paragraph:19,sentence:107
+msgid "In his school essay, he noted: “While I never expect to be a finished pianist, nor a second Nelson Eddy, I find music a soothing as well as stimulating recreation"
+msgstr ""
+
+#. Paragraph 19: Bill was also gifted in terms of music and theater. Classical music, especially Mozart, which he would discover during his college days, provided an important refuge and immense delight for him throug...
+#: paragraph:19,sentence:108
+msgid "Bill [his best friend at the time] and I have had a lot of fun appearing in amateur shows and neighborhood musicals"
+msgstr ""
+
+#. Paragraph 19: Bill was also gifted in terms of music and theater. Classical music, especially Mozart, which he would discover during his college days, provided an important refuge and immense delight for him throug...
+#: paragraph:19,sentence:109
+msgid "This summer I sang my first church solo at the Chicago Lawn Congregational Church, which church I attend regularly.” Commenting on his current school, Lindblom High, he said:"
+msgstr ""
+
+#. Paragraph 20: It is here I have really found myself, in its numerous activities. The A Cappella choir is my first love, even though Mr. Taylor makes me sing tenor when I have a naturally bass voice. Participating i...
+#: paragraph:20,sentence:110
+msgid "It is here I have really found myself, in its numerous activities"
+msgstr ""
+
+#. Paragraph 20: It is here I have really found myself, in its numerous activities. The A Cappella choir is my first love, even though Mr. Taylor makes me sing tenor when I have a naturally bass voice. Participating i...
+#: paragraph:20,sentence:111
+msgid "The A Cappella choir is my first love, even though Mr. Taylor makes me sing tenor when I have a naturally bass voice"
+msgstr ""
+
+#. Paragraph 20: It is here I have really found myself, in its numerous activities. The A Cappella choir is my first love, even though Mr. Taylor makes me sing tenor when I have a naturally bass voice. Participating i...
+#: paragraph:20,sentence:112
+msgid "Participating in boys’ clubs, the Music Club, Camera Club and the Eagle have broadened my social experiences and have helped me to overcome an innate timidity. . ."
+msgstr ""
+
+#. Paragraph 20: It is here I have really found myself, in its numerous activities. The A Cappella choir is my first love, even though Mr. Taylor makes me sing tenor when I have a naturally bass voice. Participating i...
+#: paragraph:20,sentence:113
+msgid "Realizing that I will never be able to do strenuous physical work, I wish to obtain a good educational foundation, with the possibility of becoming a teacher.[9]"
+msgstr ""
+
+#. Paragraph 21: He did become a teacher, although he rather famously proclaimed during his college years that the one thing he would never become was a professor, as he insisted he had nothing to profess. And wouldn’...
+#: paragraph:21,sentence:114
+msgid "He did become a teacher, although he rather famously proclaimed during his college years that the one thing he would never become was a professor, as he insisted he had nothing to profess!"
+msgstr ""
+
+#. Paragraph 21: He did become a teacher, although he rather famously proclaimed during his college years that the one thing he would never become was a professor, as he insisted he had nothing to profess. And wouldn’...
+#: paragraph:21,sentence:115
+msgid "And wouldn’t you know, almost every position he held thereafter involved a professorship as part of the job description!"
+msgstr ""
+
+#. Paragraph 21: He did become a teacher, although he rather famously proclaimed during his college years that the one thing he would never become was a professor, as he insisted he had nothing to profess. And wouldn’...
+#: paragraph:21,sentence:116
+msgid "Never say “never”!"
+msgstr ""
+
+#. Paragraph 22: College years After graduating from high school in 1940, where he was among the top ten students in a class of about one thousand, Bill entered DePauw University in Greencastle, Indiana, on a full sch...
+#: paragraph:22,sentence:117
+msgid "College years After graduating from high school in 1940, where he was among the top ten students in a class of about one thousand, Bill entered DePauw University in Greencastle, Indiana, on a full scholarship."
+msgstr ""
+
+#. Paragraph 22: College years After graduating from high school in 1940, where he was among the top ten students in a class of about one thousand, Bill entered DePauw University in Greencastle, Indiana, on a full sch...
+#: paragraph:22,sentence:118
+msgid "As part of his continuing quest for normalcy and for companionship in this first experience living away from home, Bill joined a fraternity."
+msgstr ""
+
+#. Paragraph 22: College years After graduating from high school in 1940, where he was among the top ten students in a class of about one thousand, Bill entered DePauw University in Greencastle, Indiana, on a full sch...
+#: paragraph:22,sentence:119
+msgid "He had no idea what he was getting into, believing this would be a support system of some kind."
+msgstr ""
+
+#. Paragraph 22: College years After graduating from high school in 1940, where he was among the top ten students in a class of about one thousand, Bill entered DePauw University in Greencastle, Indiana, on a full sch...
+#: paragraph:22,sentence:120
+msgid "Having known Bill well, I cannot imagine him amid the noise and uproar of a fraternity house after long periods of near isolation, but somehow he managed."
+msgstr ""
+
+#. Paragraph 22: College years After graduating from high school in 1940, where he was among the top ten students in a class of about one thousand, Bill entered DePauw University in Greencastle, Indiana, on a full sch...
+#: paragraph:22,sentence:121
+msgid "He indicated it was a difficult challenge for him, with his strong need for privacy and his genuine interest in scholarship."
+msgstr ""
+
+#. Paragraph 22: College years After graduating from high school in 1940, where he was among the top ten students in a class of about one thousand, Bill entered DePauw University in Greencastle, Indiana, on a full sch...
+#: paragraph:22,sentence:122
+msgid "It was hardly the support system he had naively envisioned."
+msgstr ""
+
+#. Paragraph 23: During high school Bill had reconnected with a kindergarten friend, Jo, whom he had lost track of during the intervening years of his illness. Simply good friends in high school (she was “going steady...
+#: paragraph:23,sentence:123
+msgid "During high school Bill had reconnected with a kindergarten friend, Jo, whom he had lost track of during the intervening years of his illness"
+msgstr ""
+
+#. Paragraph 23: During high school Bill had reconnected with a kindergarten friend, Jo, whom he had lost track of during the intervening years of his illness. Simply good friends in high school (she was “going steady...
+#: paragraph:23,sentence:124
+msgid "Simply good friends in high school (she was “going steady” with someone else then), their relationship evolved into something more after graduation"
+msgstr ""
+
+#. Paragraph 23: During high school Bill had reconnected with a kindergarten friend, Jo, whom he had lost track of during the intervening years of his illness. Simply good friends in high school (she was “going steady...
+#: paragraph:23,sentence:125
+msgid "She was his only acknowledged girl friend, according to all available information"
+msgstr ""
+
+#. Paragraph 23: During high school Bill had reconnected with a kindergarten friend, Jo, whom he had lost track of during the intervening years of his illness. Simply good friends in high school (she was “going steady...
+#: paragraph:23,sentence:126
+msgid "Their parents knew each other and the two young people were definitely considered an “item.” At Thanksgiving in 1943 he gave her his fraternity pin, in those days considered almost the same as an engagement ring"
+msgstr ""
+
+#. Paragraph 23: During high school Bill had reconnected with a kindergarten friend, Jo, whom he had lost track of during the intervening years of his illness. Simply good friends in high school (she was “going steady...
+#: paragraph:23,sentence:127
+msgid "Jo remembers:"
+msgstr ""
+
+#. Paragraph 24: I kept saying, “Bill, why? Why do you want me to take your fraternity pin?” thinking that he would say, “I love you. I want to marry you.” But he didn’t. He just said, “Because I want you to wear it m...
+#: paragraph:24,sentence:128
+msgid "I kept saying, “Bill, why."
+msgstr ""
+
+#. Paragraph 24: I kept saying, “Bill, why? Why do you want me to take your fraternity pin?” thinking that he would say, “I love you. I want to marry you.” But he didn’t. He just said, “Because I want you to wear it m...
+#: paragraph:24,sentence:129
+msgid "Why do you want me to take your fraternity pin?” thinking that he would say, “I love you."
+msgstr ""
+
+#. Paragraph 24: I kept saying, “Bill, why? Why do you want me to take your fraternity pin?” thinking that he would say, “I love you. I want to marry you.” But he didn’t. He just said, “Because I want you to wear it m...
+#: paragraph:24,sentence:130
+msgid "I want to marry you.” But he didn’t."
+msgstr ""
+
+#. Paragraph 24: I kept saying, “Bill, why? Why do you want me to take your fraternity pin?” thinking that he would say, “I love you. I want to marry you.” But he didn’t. He just said, “Because I want you to wear it m...
+#: paragraph:24,sentence:131
+msgid "He just said, “Because I want you to wear it more than anyone else in the world.” He just kept insisting I take it."
+msgstr ""
+
+#. Paragraph 25: Yet I wasn’t swept off my feet. He was also still my good kindergarten buddy. Anyway, I thought that if he wants me to wear it, I guess I’ll wear it, although I felt kind of awkward. I went back to th...
+#: paragraph:25,sentence:132
+msgid "Yet I wasn’t swept off my feet"
+msgstr ""
+
+#. Paragraph 25: Yet I wasn’t swept off my feet. He was also still my good kindergarten buddy. Anyway, I thought that if he wants me to wear it, I guess I’ll wear it, although I felt kind of awkward. I went back to th...
+#: paragraph:25,sentence:133
+msgid "He was also still my good kindergarten buddy"
+msgstr ""
+
+#. Paragraph 25: Yet I wasn’t swept off my feet. He was also still my good kindergarten buddy. Anyway, I thought that if he wants me to wear it, I guess I’ll wear it, although I felt kind of awkward. I went back to th...
+#: paragraph:25,sentence:134
+msgid "Anyway, I thought that if he wants me to wear it, I guess I’ll wear it, although I felt kind of awkward"
+msgstr ""
+
+#. Paragraph 25: Yet I wasn’t swept off my feet. He was also still my good kindergarten buddy. Anyway, I thought that if he wants me to wear it, I guess I’ll wear it, although I felt kind of awkward. I went back to th...
+#: paragraph:25,sentence:135
+msgid "I went back to the sorority house where I was staying as their guest"
+msgstr ""
+
+#. Paragraph 25: Yet I wasn’t swept off my feet. He was also still my good kindergarten buddy. Anyway, I thought that if he wants me to wear it, I guess I’ll wear it, although I felt kind of awkward. I went back to th...
+#: paragraph:25,sentence:136
+msgid "That night the girls came and got me, and brought me out to the front of the house about midnight"
+msgstr ""
+
+#. Paragraph 25: Yet I wasn’t swept off my feet. He was also still my good kindergarten buddy. Anyway, I thought that if he wants me to wear it, I guess I’ll wear it, although I felt kind of awkward. I went back to th...
+#: paragraph:25,sentence:137
+msgid "The Lambda Chi guys, with Bill right in the foreground, serenaded me. . ."
+msgstr ""
+
+#. Paragraph 25: Yet I wasn’t swept off my feet. He was also still my good kindergarten buddy. Anyway, I thought that if he wants me to wear it, I guess I’ll wear it, although I felt kind of awkward. I went back to th...
+#: paragraph:25,sentence:138
+msgid "I felt a bit guilty about it all, because all the girls were congratulating me and I just couldn’t tell them that it didn’t mean what they thought it meant.[10]"
+msgstr ""
+
+#. Paragraph 26: They went together, as a long-distance romance (he was at DePauw until his graduation in February 1944), for the next year, and in the fall of 1944, Jo left for the University of California at Berkele...
+#: paragraph:26,sentence:139
+msgid "They went together, as a long-distance romance (he was at DePauw until his graduation in February 1944), for the next year, and in the fall of 1944, Jo left for the University of California at Berkeley."
+msgstr ""
+
+#. Paragraph 26: They went together, as a long-distance romance (he was at DePauw until his graduation in February 1944), for the next year, and in the fall of 1944, Jo left for the University of California at Berkele...
+#: paragraph:26,sentence:140
+msgid "As she prepared to board the train, Bill gave her an orchid corsage and she questioned him about the fraternity pin."
+msgstr ""
+
+#. Paragraph 26: They went together, as a long-distance romance (he was at DePauw until his graduation in February 1944), for the next year, and in the fall of 1944, Jo left for the University of California at Berkele...
+#: paragraph:26,sentence:141
+msgid "He remained vague and would make no other commitment than, “Please wear my fraternity pin.” After a week at Berkeley, Jo was swept off her feet by a young marine whom she ultimately married."
+msgstr ""
+
+#. Paragraph 26: They went together, as a long-distance romance (he was at DePauw until his graduation in February 1944), for the next year, and in the fall of 1944, Jo left for the University of California at Berkele...
+#: paragraph:26,sentence:142
+msgid "She finally wrote to Bill of her new love and returned his pin in the spring of 1945; Jo heard no more from him until the late 1970s."
+msgstr ""
+
+#. Paragraph 27: From our current perspective, we can only imagine Bill’s situation. His girlfriend was out of his life; he had been suspecting his latent homosexuality but being open about it was taboo at that time. ...
+#: paragraph:27,sentence:143
+msgid "From our current perspective, we can only imagine Bill’s situation."
+msgstr ""
+
+#. Paragraph 27: From our current perspective, we can only imagine Bill’s situation. His girlfriend was out of his life; he had been suspecting his latent homosexuality but being open about it was taboo at that time. ...
+#: paragraph:27,sentence:144
+msgid "His girlfriend was out of his life; he had been suspecting his latent homosexuality but being open about it was taboo at that time."
+msgstr ""
+
+#. Paragraph 27: From our current perspective, we can only imagine Bill’s situation. His girlfriend was out of his life; he had been suspecting his latent homosexuality but being open about it was taboo at that time. ...
+#: paragraph:27,sentence:145
+msgid "A gay lifestyle was so unsupported in American society that he could not accept it totally within himself."
+msgstr ""
+
+#. Paragraph 27: From our current perspective, we can only imagine Bill’s situation. His girlfriend was out of his life; he had been suspecting his latent homosexuality but being open about it was taboo at that time. ...
+#: paragraph:27,sentence:146
+msgid "It’s possible, however, that living in a fraternity house in close quarters with many young men, he allowed himself to be more honest privately about his inclinations, an honesty that had been too difficult before."
+msgstr ""
+

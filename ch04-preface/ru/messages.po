@@ -1,0 +1,114 @@
+# Chapter 4: Preface
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: In a few short years all who knew Bill Thetford personally will have exited the world stage. It would be unconscionable for this first generation of A Course In Miracles students, those who were Bill’...
+#: paragraph:1,sentence:1
+msgid "In a few short years all who knew Bill Thetford personally will have exited the world stage."
+msgstr ""
+
+#. Paragraph 1: In a few short years all who knew Bill Thetford personally will have exited the world stage. It would be unconscionable for this first generation of A Course In Miracles students, those who were Bill’...
+#: paragraph:1,sentence:2
+msgid "It would be unconscionable for this first generation of A Course In Miracles students, those who were Bill’s friends, to leave without recording our collective witnessing of his transformation.[1] Humanity expends much time and treasure seeking any scrap of information about the teachers, philosophers, and avatars who have gone before, lighting the path for us throughout all cultures and ages."
+msgstr ""
+
+#. Paragraph 1: In a few short years all who knew Bill Thetford personally will have exited the world stage. It would be unconscionable for this first generation of A Course In Miracles students, those who were Bill’...
+#: paragraph:1,sentence:3
+msgid "Bill was such a light."
+msgstr ""
+
+#. Paragraph 2: Drs. William Thetford and Helen Schucman were professors of medical psychology at Columbia University’s College of Physicians and Surgeons in New York, eminent in their field and known for their resea...
+#: paragraph:2,sentence:4
+msgid "Drs."
+msgstr ""
+
+#. Paragraph 2: Drs. William Thetford and Helen Schucman were professors of medical psychology at Columbia University’s College of Physicians and Surgeons in New York, eminent in their field and known for their resea...
+#: paragraph:2,sentence:5
+msgid "William Thetford and Helen Schucman were professors of medical psychology at Columbia University’s College of Physicians and Surgeons in New York, eminent in their field and known for their research into personality theory."
+msgstr ""
+
+#. Paragraph 2: Drs. William Thetford and Helen Schucman were professors of medical psychology at Columbia University’s College of Physicians and Surgeons in New York, eminent in their field and known for their resea...
+#: paragraph:2,sentence:6
+msgid "The preface to A Course In Miracles states that the scribes’ names do not matter and, therefore, are not listed on the cover."
+msgstr ""
+
+#. Paragraph 2: Drs. William Thetford and Helen Schucman were professors of medical psychology at Columbia University’s College of Physicians and Surgeons in New York, eminent in their field and known for their resea...
+#: paragraph:2,sentence:7
+msgid "True though that may be, as the Course continues to become more widely recognized for the life-changing curriculum it proposes, more people are interested in knowing about these two who considered themselves most unlikely candidates for the job."
+msgstr ""
+
+#. Paragraph 3: In beginning this project, I originally intended to simply write about my own personal memories and recollections of Bill, perhaps with input from my family and some friends in Denver who also knew an...
+#: paragraph:3,sentence:8
+msgid "In beginning this project, I originally intended to simply write about my own personal memories and recollections of Bill, perhaps with input from my family and some friends in Denver who also knew and loved him!"
+msgstr ""
+
+#. Paragraph 3: In beginning this project, I originally intended to simply write about my own personal memories and recollections of Bill, perhaps with input from my family and some friends in Denver who also knew an...
+#: paragraph:3,sentence:9
+msgid "The writing project took on a life of its own, however, and grew to include recollections from a number of his close friends, as well as input from archival records!"
+msgstr ""
+
+#. Paragraph 3: In beginning this project, I originally intended to simply write about my own personal memories and recollections of Bill, perhaps with input from my family and some friends in Denver who also knew an...
+#: paragraph:3,sentence:10
+msgid "In time, even though we are never objective about anyone and see them through our own individual filters, a common view of Bill emerged—and what a picture!"
+msgstr ""
+
+#. Paragraph 4: In some extant publications on ACIM and from information on the Internet—some incomplete or actually incorrect—Bill’s role often seems marginalized as the typist or as Helen’s helper. In most of these...
+#: paragraph:4,sentence:11
+msgid "In some extant publications on ACIM and from information on the Internet—some incomplete or actually incorrect—Bill’s role often seems marginalized as the typist or as Helen’s helper."
+msgstr ""
+
+#. Paragraph 4: In some extant publications on ACIM and from information on the Internet—some incomplete or actually incorrect—Bill’s role often seems marginalized as the typist or as Helen’s helper. In most of these...
+#: paragraph:4,sentence:12
+msgid "In most of these accounts, one does not begin to fathom Bill’s presence, his greatest contribution."
+msgstr ""
+
+#. Paragraph 4: In some extant publications on ACIM and from information on the Internet—some incomplete or actually incorrect—Bill’s role often seems marginalized as the typist or as Helen’s helper. In most of these...
+#: paragraph:4,sentence:13
+msgid "As for A Course In Miracles, his gifts were twofold: as Helen’s unwavering partner and co-scribe and as its most dedicated and accomplished practitioner."
+msgstr ""
+
+#. Paragraph 5: The Course lays out a specific plan to liberate our happiness and peace of mind, and Bill’s commitment to it personified the process of forgiveness. For more than ten years, a number of people had the...
+#: paragraph:5,sentence:14
+msgid "The Course lays out a specific plan to liberate our happiness and peace of mind, and Bill’s commitment to it personified the process of forgiveness."
+msgstr ""
+
+#. Paragraph 5: The Course lays out a specific plan to liberate our happiness and peace of mind, and Bill’s commitment to it personified the process of forgiveness. For more than ten years, a number of people had the...
+#: paragraph:5,sentence:15
+msgid "For more than ten years, a number of people had the good fortune of watching a master teacher in the making, as Bill’s ego steadily dissolved and his gracious presence—the same presence that exists in all of us—became ever more radiant and unencumbered."
+msgstr ""
+
+#. Paragraph 5: The Course lays out a specific plan to liberate our happiness and peace of mind, and Bill’s commitment to it personified the process of forgiveness. For more than ten years, a number of people had the...
+#: paragraph:5,sentence:16
+msgid "My intention is to pay homage to Bill for the gifts he gave us, to provide a more complete portrayal of his life, and to show how his awakening process can illuminate our own."
+msgstr ""
+
+#. Paragraph 6: [1]A Course In Miracles is a self-study course in three parts: a text, a workbook, and a manual for teachers. Its basic hypothesis is that we are conditioned from birth to a limited way of perceiving ...
+#: paragraph:6,sentence:17
+msgid "[1]A Course In Miracles is a self-study course in three parts: a text, a workbook, and a manual for teachers."
+msgstr ""
+
+#. Paragraph 6: [1]A Course In Miracles is a self-study course in three parts: a text, a workbook, and a manual for teachers. Its basic hypothesis is that we are conditioned from birth to a limited way of perceiving ...
+#: paragraph:6,sentence:18
+msgid "Its basic hypothesis is that we are conditioned from birth to a limited way of perceiving and our “understanding” of life is a product of past conditioning."
+msgstr ""
+
+#. Paragraph 6: [1]A Course In Miracles is a self-study course in three parts: a text, a workbook, and a manual for teachers. Its basic hypothesis is that we are conditioned from birth to a limited way of perceiving ...
+#: paragraph:6,sentence:19
+msgid "Practicing the workbook lessons undoes our negative, unhelpful, inaccurate view of people, situations, and events, resulting in a different perception of the world."
+msgstr ""
+
+#. Paragraph 6: [1]A Course In Miracles is a self-study course in three parts: a text, a workbook, and a manual for teachers. Its basic hypothesis is that we are conditioned from birth to a limited way of perceiving ...
+#: paragraph:6,sentence:20
+msgid "As Course practice proceeds, the fearful ideas we have learned are systematically replaced with an alternative viewpoint—happier, more spiritual, and all-encompassing."
+msgstr ""
+
+#. Paragraph 6: [1]A Course In Miracles is a self-study course in three parts: a text, a workbook, and a manual for teachers. Its basic hypothesis is that we are conditioned from birth to a limited way of perceiving ...
+#: paragraph:6,sentence:21
+msgid "Later lessons are designed to evoke a direct spiritual experience and greater love for self and others."
+msgstr ""
+

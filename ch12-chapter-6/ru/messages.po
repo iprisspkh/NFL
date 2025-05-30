@@ -1,0 +1,859 @@
+# Chapter 12: Chapter 6
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: Although neither Bill nor Helen had been consciously interested in religious or spiritual matters before ACIM dictation began, Bill quickly recognized the universal nature of the material and began a ...
+#: paragraph:1,sentence:1
+msgid "Although neither Bill nor Helen had been consciously interested in religious or spiritual matters before ACIM dictation began, Bill quickly recognized the universal nature of the material and began a serious inquiry into the world’s major religious traditions and teachings."
+msgstr ""
+
+#. Paragraph 1: Although neither Bill nor Helen had been consciously interested in religious or spiritual matters before ACIM dictation began, Bill quickly recognized the universal nature of the material and began a ...
+#: paragraph:1,sentence:2
+msgid "In his search for corroboration, he discovered the nondualistic teaching of Advaita Vedanta from India and immediately saw its parallels to the Course."
+msgstr ""
+
+#. Paragraph 1: Although neither Bill nor Helen had been consciously interested in religious or spiritual matters before ACIM dictation began, Bill quickly recognized the universal nature of the material and began a ...
+#: paragraph:1,sentence:3
+msgid "Thus he dubbed ACIM the “Christian Vedanta” because of its use of Christian language to present these truths."
+msgstr ""
+
+#. Paragraph 1: Although neither Bill nor Helen had been consciously interested in religious or spiritual matters before ACIM dictation began, Bill quickly recognized the universal nature of the material and began a ...
+#: paragraph:1,sentence:4
+msgid "He became more impressed with the Course as his study deepened, finding it integrated and synthesized the best of the teachings he investigated—and it was practical."
+msgstr ""
+
+#. Paragraph 1: Although neither Bill nor Helen had been consciously interested in religious or spiritual matters before ACIM dictation began, Bill quickly recognized the universal nature of the material and began a ...
+#: paragraph:1,sentence:5
+msgid "He read extensively in his newly discovered field of interest and became extremely well versed in this formerly uninteresting subject."
+msgstr ""
+
+#. Paragraph 1: Although neither Bill nor Helen had been consciously interested in religious or spiritual matters before ACIM dictation began, Bill quickly recognized the universal nature of the material and began a ...
+#: paragraph:1,sentence:6
+msgid "Many of Bill’s friends and colleagues said he had an astounding capacity to absorb vast quantities of written material quickly, a valuable trait given that he had five thousand years of mystical traditions to explore."
+msgstr ""
+
+#. Paragraph 1: Although neither Bill nor Helen had been consciously interested in religious or spiritual matters before ACIM dictation began, Bill quickly recognized the universal nature of the material and began a ...
+#: paragraph:1,sentence:7
+msgid "Years later, he noted with some disappointment that the PAS, on which he had lavished so much time and attention, did not explain or even address the spiritual dimension of our life experience."
+msgstr ""
+
+#. Paragraph 1: Although neither Bill nor Helen had been consciously interested in religious or spiritual matters before ACIM dictation began, Bill quickly recognized the universal nature of the material and began a ...
+#: paragraph:1,sentence:8
+msgid "How unexpectedly our lives can change and even reverse course."
+msgstr ""
+
+#. Paragraph 2: As Bill was deepening his research into metaphysics, he became intrigued with a chapter about mysticism and schizophrenia in the book, Higher States of Consciousness, by John White. It was written by ...
+#: paragraph:2,sentence:9
+msgid "As Bill was deepening his research into metaphysics, he became intrigued with a chapter about mysticism and schizophrenia in the book, Higher States of Consciousness, by John White."
+msgstr ""
+
+#. Paragraph 2: As Bill was deepening his research into metaphysics, he became intrigued with a chapter about mysticism and schizophrenia in the book, Higher States of Consciousness, by John White. It was written by ...
+#: paragraph:2,sentence:10
+msgid "It was written by Kenneth Wapnick, a young psychologist, and Bill shared it with one of his graduate students, Father Benedict, a Capuchin friar."
+msgstr ""
+
+#. Paragraph 2: As Bill was deepening his research into metaphysics, he became intrigued with a chapter about mysticism and schizophrenia in the book, Higher States of Consciousness, by John White. It was written by ...
+#: paragraph:2,sentence:11
+msgid "Benedict, one of the three or four people entrusted with their “guilty secret,” as Bill jokingly called it, subsequently became friendly with Ken and later introduced him to Bill and Helen."
+msgstr ""
+
+#. Paragraph 2: As Bill was deepening his research into metaphysics, he became intrigued with a chapter about mysticism and schizophrenia in the book, Higher States of Consciousness, by John White. It was written by ...
+#: paragraph:2,sentence:12
+msgid "Shortly after they met in late 1972, Ken left New York for Israel to live in a monastery, presumably to be his permanent home, having converted from Judaism to Catholicism."
+msgstr ""
+
+#. Paragraph 2: As Bill was deepening his research into metaphysics, he became intrigued with a chapter about mysticism and schizophrenia in the book, Higher States of Consciousness, by John White. It was written by ...
+#: paragraph:2,sentence:13
+msgid "Once there, however, he couldn’t get that meeting out of his mind; he dreamt of it, aware of a very strong connection with both of them, especially Helen."
+msgstr ""
+
+#. Paragraph 2: As Bill was deepening his research into metaphysics, he became intrigued with a chapter about mysticism and schizophrenia in the book, Higher States of Consciousness, by John White. It was written by ...
+#: paragraph:2,sentence:14
+msgid "His guidance prevailed and in the spring of 1973, as if on cue, he returned to New York (the last place he thought he wanted to be) to meet with them again and to find out more about the manuscript his new friends had mentioned to him earlier."
+msgstr ""
+
+#. Paragraph 2: As Bill was deepening his research into metaphysics, he became intrigued with a chapter about mysticism and schizophrenia in the book, Higher States of Consciousness, by John White. It was written by ...
+#: paragraph:2,sentence:15
+msgid "One look and that intriguing book “knocked him off his feet,” to use his words—his fate was sealed."
+msgstr ""
+
+#. Paragraph 2: As Bill was deepening his research into metaphysics, he became intrigued with a chapter about mysticism and schizophrenia in the book, Higher States of Consciousness, by John White. It was written by ...
+#: paragraph:2,sentence:16
+msgid "He notified his Israeli friends of his change of plans and re-established himself in New York to be close to “ACIM Central.” Thus, as the dictation was concluding, Kenneth Wapnick officially entered the picture, commencing three more years of editing, rereading, checking for errors, and improving section and chapter titles."
+msgstr ""
+
+#. Paragraph 3: As if there were not enough turmoil and high drama around Bill and Helen’s busy professional lives, punctuated with general angst and their unrelenting distress with each other, Ken’s arrival stirred ...
+#: paragraph:3,sentence:17
+msgid "As if there were not enough turmoil and high drama around Bill and Helen’s busy professional lives, punctuated with general angst and their unrelenting distress with each other, Ken’s arrival stirred the pot even more."
+msgstr ""
+
+#. Paragraph 3: As if there were not enough turmoil and high drama around Bill and Helen’s busy professional lives, punctuated with general angst and their unrelenting distress with each other, Ken’s arrival stirred ...
+#: paragraph:3,sentence:18
+msgid "Despite serious difficulties, they were extremely codependent and genuinely and deeply cared for one another; introducing a third party into the mix was more than a little unsettling for Bill."
+msgstr ""
+
+#. Paragraph 3: As if there were not enough turmoil and high drama around Bill and Helen’s busy professional lives, punctuated with general angst and their unrelenting distress with each other, Ken’s arrival stirred ...
+#: paragraph:3,sentence:19
+msgid "Ken’s services were badly needed and truly appreciated, but they came at a price from his perspective."
+msgstr ""
+
+#. Paragraph 3: As if there were not enough turmoil and high drama around Bill and Helen’s busy professional lives, punctuated with general angst and their unrelenting distress with each other, Ken’s arrival stirred ...
+#: paragraph:3,sentence:20
+msgid "Helen and Ken’s apparent mutual adoration, which developed right away, was the perfect setup to trigger within Bill a deep sense of rejection and betrayal."
+msgstr ""
+
+#. Paragraph 3: As if there were not enough turmoil and high drama around Bill and Helen’s busy professional lives, punctuated with general angst and their unrelenting distress with each other, Ken’s arrival stirred ...
+#: paragraph:3,sentence:21
+msgid "Notice the word is trigger and not cause, as that feeling of rejection was already in place."
+msgstr ""
+
+#. Paragraph 3: As if there were not enough turmoil and high drama around Bill and Helen’s busy professional lives, punctuated with general angst and their unrelenting distress with each other, Ken’s arrival stirred ...
+#: paragraph:3,sentence:22
+msgid "This new situation brought those painful feelings into conscious awareness, exactly what the Course and life under its guidance is designed to do in order to be free of them."
+msgstr ""
+
+#. Paragraph 4: The harshness and sarcasm evident in some of the following stories and quotes is not an indictment of Ken, Helen, or Bill himself. Helen and Ken were, and are, brilliant, dedicated, and of incalculabl...
+#: paragraph:4,sentence:23
+msgid "The harshness and sarcasm evident in some of the following stories and quotes is not an indictment of Ken, Helen, or Bill himself"
+msgstr ""
+
+#. Paragraph 4: The harshness and sarcasm evident in some of the following stories and quotes is not an indictment of Ken, Helen, or Bill himself. Helen and Ken were, and are, brilliant, dedicated, and of incalculabl...
+#: paragraph:4,sentence:24
+msgid "Helen and Ken were, and are, brilliant, dedicated, and of incalculable value in the ACIM saga, executing their special functions on schedule and as promised"
+msgstr ""
+
+#. Paragraph 4: The harshness and sarcasm evident in some of the following stories and quotes is not an indictment of Ken, Helen, or Bill himself. Helen and Ken were, and are, brilliant, dedicated, and of incalculabl...
+#: paragraph:4,sentence:25
+msgid "Bill’s upset was clearly his own responsibility, which he ultimately recognized, but at this point, he responded like most of humanity, not realizing that the difficult characters in his “drama” were merely reflecting back to him the unloving projections of his own ego and the fears he had thus far refused to own"
+msgstr ""
+
+#. Paragraph 4: The harshness and sarcasm evident in some of the following stories and quotes is not an indictment of Ken, Helen, or Bill himself. Helen and Ken were, and are, brilliant, dedicated, and of incalculabl...
+#: paragraph:4,sentence:26
+msgid "Bill remembers in his autobiography:"
+msgstr ""
+
+#. Paragraph 5: Helen and I were working desperately on a chapter for the Comprehensive Textbook of Psychiatry. We were on a deadline and we had to turn out a lot of material. We had decided to cover one personality ...
+#: paragraph:5,sentence:27
+msgid "Helen and I were working desperately on a chapter for the Comprehensive Textbook of Psychiatry."
+msgstr ""
+
+#. Paragraph 5: Helen and I were working desperately on a chapter for the Comprehensive Textbook of Psychiatry. We were on a deadline and we had to turn out a lot of material. We had decided to cover one personality ...
+#: paragraph:5,sentence:28
+msgid "We were on a deadline and we had to turn out a lot of material."
+msgstr ""
+
+#. Paragraph 5: Helen and I were working desperately on a chapter for the Comprehensive Textbook of Psychiatry. We were on a deadline and we had to turn out a lot of material. We had decided to cover one personality ...
+#: paragraph:5,sentence:29
+msgid "We had decided to cover one personality theorist a week, which was the only way we could get it all done."
+msgstr ""
+
+#. Paragraph 5: Helen and I were working desperately on a chapter for the Comprehensive Textbook of Psychiatry. We were on a deadline and we had to turn out a lot of material. We had decided to cover one personality ...
+#: paragraph:5,sentence:30
+msgid "I was doing all the reference work and Helen was writing the material."
+msgstr ""
+
+#. Paragraph 5: Helen and I were working desperately on a chapter for the Comprehensive Textbook of Psychiatry. We were on a deadline and we had to turn out a lot of material. We had decided to cover one personality ...
+#: paragraph:5,sentence:31
+msgid "It was a big job, and it had to be done well."
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:32
+msgid "Ken surfaced in the midst of all this"
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:33
+msgid "Helen and I were both edgy, partly because we were trying to get our work done"
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:34
+msgid "I also had a lot of other things I had to do"
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:35
+msgid "We were sharp with each other"
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:36
+msgid "Ken was appalled at our relationship"
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:37
+msgid "Here we had this holy book—this wonderful spiritual material—and we didn’t know how to relate to each other"
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:38
+msgid "The two of us were bickering and carrying on in a terrible way"
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:39
+msgid "We were obviously not being loving and holy"
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:40
+msgid "Ken decided he was going to demonstrate how relationships could be healed, to demonstrate perfect love and that sort of thing, how to do it properly"
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:41
+msgid "He would take Helen on as the demonstration and show me the power of love—or holiness—in action"
+msgstr ""
+
+#. Paragraph 6: Ken surfaced in the midst of all this. Helen and I were both edgy, partly because we were trying to get our work done. I also had a lot of other things I had to do. We were sharp with each other. Ken ...
+#: paragraph:6,sentence:42
+msgid "I was apparently to learn from watching.[84]"
+msgstr ""
+
+#. Paragraph 7: Ken observed: That first summer I spent a lot of time with them. They were writing this chapter for a very prestigious publication on personality theories. They would argue and fight—it was awful. We ...
+#: paragraph:7,sentence:43
+msgid "Ken observed: That first summer I spent a lot of time with them"
+msgstr ""
+
+#. Paragraph 7: Ken observed: That first summer I spent a lot of time with them. They were writing this chapter for a very prestigious publication on personality theories. They would argue and fight—it was awful. We ...
+#: paragraph:7,sentence:44
+msgid "They were writing this chapter for a very prestigious publication on personality theories"
+msgstr ""
+
+#. Paragraph 7: Ken observed: That first summer I spent a lot of time with them. They were writing this chapter for a very prestigious publication on personality theories. They would argue and fight—it was awful. We ...
+#: paragraph:7,sentence:45
+msgid "They would argue and fight—it was awful"
+msgstr ""
+
+#. Paragraph 7: Ken observed: That first summer I spent a lot of time with them. They were writing this chapter for a very prestigious publication on personality theories. They would argue and fight—it was awful. We ...
+#: paragraph:7,sentence:46
+msgid "We were just getting to know one another so we spent a lot of time together"
+msgstr ""
+
+#. Paragraph 7: Ken observed: That first summer I spent a lot of time with them. They were writing this chapter for a very prestigious publication on personality theories. They would argue and fight—it was awful. We ...
+#: paragraph:7,sentence:47
+msgid "When we talked about the Course and the path that led me to them, there was no acrimony, none whatsoever"
+msgstr ""
+
+#. Paragraph 7: Ken observed: That first summer I spent a lot of time with them. They were writing this chapter for a very prestigious publication on personality theories. They would argue and fight—it was awful. We ...
+#: paragraph:7,sentence:48
+msgid "We would finish, they’d go back to the chapter [for the textbook] and start going at each other"
+msgstr ""
+
+#. Paragraph 7: Ken observed: That first summer I spent a lot of time with them. They were writing this chapter for a very prestigious publication on personality theories. They would argue and fight—it was awful. We ...
+#: paragraph:7,sentence:49
+msgid "It was almost like Bill and Helen had a pact that they would not screw up the Course"
+msgstr ""
+
+#. Paragraph 7: Ken observed: That first summer I spent a lot of time with them. They were writing this chapter for a very prestigious publication on personality theories. They would argue and fight—it was awful. We ...
+#: paragraph:7,sentence:50
+msgid "They would screw everything else up, but they would be faithful to this.[85]"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:51
+msgid "Bill continued: Helen was susceptible to all this attention and massive devotion from Ken"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:52
+msgid "It was amazing; she now had the word of Jesus and the whole thing—this was it"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:53
+msgid "Ken thought Helen was sort of the Mother of God, the Virgin Mary"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:54
+msgid "Helen thought Ken was one of the world’s greatest saints of all time"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:55
+msgid "She would say things like, “I can’t think of any saint in history who was as beatific as Ken.” So I would have lunch with the Virgin Mary and the world’s greatest saint"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:56
+msgid "Of course, I was the world’s greatest sinner; I was the terrible guilty party"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:57
+msgid "I’m not sure why I was guilty; that was more obscure"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:58
+msgid "But someone had to be guilty, so I was it"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:59
+msgid "Probably one thing was that I was not being loving enough with Helen"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:60
+msgid "I wasn’t impressed by the fact that she was the Mother of God"
+msgstr ""
+
+#. Paragraph 8: Bill continued: Helen was susceptible to all this attention and massive devotion from Ken. It was amazing; she now had the word of Jesus and the whole thing—this was it. Ken thought Helen was sort of ...
+#: paragraph:8,sentence:61
+msgid "This sort of thing went on for quite a while and I was both relieved and annoyed by it all.[86]"
+msgstr ""
+
+#. Paragraph 9: Clearly, Bill felt both replaced by Ken and, by his own acknowledgment, some panic that he was not following the injunction to heal his relationship with Helen. What would happen over that perceived f...
+#: paragraph:9,sentence:62
+msgid "Clearly, Bill felt both replaced by Ken and, by his own acknowledgment, some panic that he was not following the injunction to heal his relationship with Helen."
+msgstr ""
+
+#. Paragraph 9: Clearly, Bill felt both replaced by Ken and, by his own acknowledgment, some panic that he was not following the injunction to heal his relationship with Helen. What would happen over that perceived f...
+#: paragraph:9,sentence:63
+msgid "What would happen over that perceived failure."
+msgstr ""
+
+#. Paragraph 9: Clearly, Bill felt both replaced by Ken and, by his own acknowledgment, some panic that he was not following the injunction to heal his relationship with Helen. What would happen over that perceived f...
+#: paragraph:9,sentence:64
+msgid "He also acknowledged that Ken tried to be inclusive, but the situation remained difficult."
+msgstr ""
+
+#. Paragraph 10: Ken offers a revealing, and very different, perspective. When I asked if he had felt as troubled by Bill as Bill had been by him, he answered that he had not. He said Bill would so thoroughly hide his...
+#: paragraph:10,sentence:65
+msgid "Ken offers a revealing, and very different, perspective"
+msgstr ""
+
+#. Paragraph 10: Ken offers a revealing, and very different, perspective. When I asked if he had felt as troubled by Bill as Bill had been by him, he answered that he had not. He said Bill would so thoroughly hide his...
+#: paragraph:10,sentence:66
+msgid "When I asked if he had felt as troubled by Bill as Bill had been by him, he answered that he had not"
+msgstr ""
+
+#. Paragraph 10: Ken offers a revealing, and very different, perspective. When I asked if he had felt as troubled by Bill as Bill had been by him, he answered that he had not. He said Bill would so thoroughly hide his...
+#: paragraph:10,sentence:67
+msgid "He said Bill would so thoroughly hide his true feelings that he often didn’t know Bill was upset with him until he heard about it from someone else"
+msgstr ""
+
+#. Paragraph 10: Ken offers a revealing, and very different, perspective. When I asked if he had felt as troubled by Bill as Bill had been by him, he answered that he had not. He said Bill would so thoroughly hide his...
+#: paragraph:10,sentence:68
+msgid "He would then approach Bill to address the problem"
+msgstr ""
+
+#. Paragraph 10: Ken offers a revealing, and very different, perspective. When I asked if he had felt as troubled by Bill as Bill had been by him, he answered that he had not. He said Bill would so thoroughly hide his...
+#: paragraph:10,sentence:69
+msgid "In his experience, there was very little tension between them and none at all when the Course dominated their discussions"
+msgstr ""
+
+#. Paragraph 10: Ken offers a revealing, and very different, perspective. When I asked if he had felt as troubled by Bill as Bill had been by him, he answered that he had not. He said Bill would so thoroughly hide his...
+#: paragraph:10,sentence:70
+msgid "He acknowledged that Bill and Helen’s relationship was terrible in many respects and that, indeed, it did get worse after he arrived"
+msgstr ""
+
+#. Paragraph 10: Ken offers a revealing, and very different, perspective. When I asked if he had felt as troubled by Bill as Bill had been by him, he answered that he had not. He said Bill would so thoroughly hide his...
+#: paragraph:10,sentence:71
+msgid "His role was often that of a sounding board as they complained about each other"
+msgstr ""
+
+#. Paragraph 10: Ken offers a revealing, and very different, perspective. When I asked if he had felt as troubled by Bill as Bill had been by him, he answered that he had not. He said Bill would so thoroughly hide his...
+#: paragraph:10,sentence:72
+msgid "I asked Ken what they could still find to argue about after all those years and he answered,"
+msgstr ""
+
+#. Paragraph 11: They would recycle. It was always the same—you said that, and you did this, and didn’t do that. I was there and I don’t even remember. It didn’t matter; they had a strong love-hate relationship, they ...
+#: paragraph:11,sentence:73
+msgid "They would recycle."
+msgstr ""
+
+#. Paragraph 11: They would recycle. It was always the same—you said that, and you did this, and didn’t do that. I was there and I don’t even remember. It didn’t matter; they had a strong love-hate relationship, they ...
+#: paragraph:11,sentence:74
+msgid "It was always the same—you said that, and you did this, and didn’t do that."
+msgstr ""
+
+#. Paragraph 11: They would recycle. It was always the same—you said that, and you did this, and didn’t do that. I was there and I don’t even remember. It didn’t matter; they had a strong love-hate relationship, they ...
+#: paragraph:11,sentence:75
+msgid "I was there and I don’t even remember."
+msgstr ""
+
+#. Paragraph 11: They would recycle. It was always the same—you said that, and you did this, and didn’t do that. I was there and I don’t even remember. It didn’t matter; they had a strong love-hate relationship, they ...
+#: paragraph:11,sentence:76
+msgid "It didn’t matter; they had a strong love-hate relationship, they didn’t like each other."
+msgstr ""
+
+#. Paragraph 11: They would recycle. It was always the same—you said that, and you did this, and didn’t do that. I was there and I don’t even remember. It didn’t matter; they had a strong love-hate relationship, they ...
+#: paragraph:11,sentence:77
+msgid "Their personalities were so different."
+msgstr ""
+
+#. Paragraph 11: They would recycle. It was always the same—you said that, and you did this, and didn’t do that. I was there and I don’t even remember. It didn’t matter; they had a strong love-hate relationship, they ...
+#: paragraph:11,sentence:78
+msgid "I’m sure they argued about me, but not in front of me."
+msgstr ""
+
+#. Paragraph 11: They would recycle. It was always the same—you said that, and you did this, and didn’t do that. I was there and I don’t even remember. It didn’t matter; they had a strong love-hate relationship, they ...
+#: paragraph:11,sentence:79
+msgid "Helen would tell me about it later."
+msgstr ""
+
+#. Paragraph 12: Helen thought Bill never fully understood the Course, so that would come up occasionally. They would argue a lot about Bill’s choice of partners; that was a big one. Then there was Harold, who lived w...
+#: paragraph:12,sentence:80
+msgid "Helen thought Bill never fully understood the Course, so that would come up occasionally"
+msgstr ""
+
+#. Paragraph 12: Helen thought Bill never fully understood the Course, so that would come up occasionally. They would argue a lot about Bill’s choice of partners; that was a big one. Then there was Harold, who lived w...
+#: paragraph:12,sentence:81
+msgid "They would argue a lot about Bill’s choice of partners; that was a big one"
+msgstr ""
+
+#. Paragraph 12: Helen thought Bill never fully understood the Course, so that would come up occasionally. They would argue a lot about Bill’s choice of partners; that was a big one. Then there was Harold, who lived w...
+#: paragraph:12,sentence:82
+msgid "Then there was Harold, who lived with Bill for a year or so"
+msgstr ""
+
+#. Paragraph 12: Helen thought Bill never fully understood the Course, so that would come up occasionally. They would argue a lot about Bill’s choice of partners; that was a big one. Then there was Harold, who lived w...
+#: paragraph:12,sentence:83
+msgid "Helen didn’t like Harold at all and let him know that in no uncertain terms"
+msgstr ""
+
+#. Paragraph 12: Helen thought Bill never fully understood the Course, so that would come up occasionally. They would argue a lot about Bill’s choice of partners; that was a big one. Then there was Harold, who lived w...
+#: paragraph:12,sentence:84
+msgid "Helen got very angry when Bill asked if I would see Harold [professionally], which I did"
+msgstr ""
+
+#. Paragraph 12: Helen thought Bill never fully understood the Course, so that would come up occasionally. They would argue a lot about Bill’s choice of partners; that was a big one. Then there was Harold, who lived w...
+#: paragraph:12,sentence:85
+msgid "Conversely, if one of them was in trouble or needed help, the other one would be right there"
+msgstr ""
+
+#. Paragraph 12: Helen thought Bill never fully understood the Course, so that would come up occasionally. They would argue a lot about Bill’s choice of partners; that was a big one. Then there was Harold, who lived w...
+#: paragraph:12,sentence:86
+msgid "They were very supportive of each other, very faithful to each other in that way"
+msgstr ""
+
+#. Paragraph 12: Helen thought Bill never fully understood the Course, so that would come up occasionally. They would argue a lot about Bill’s choice of partners; that was a big one. Then there was Harold, who lived w...
+#: paragraph:12,sentence:87
+msgid "It was very strange, very unusual"
+msgstr ""
+
+#. Paragraph 12: Helen thought Bill never fully understood the Course, so that would come up occasionally. They would argue a lot about Bill’s choice of partners; that was a big one. Then there was Harold, who lived w...
+#: paragraph:12,sentence:88
+msgid "I was very struck by it.[87]"
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:89
+msgid "Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:90
+msgid "One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passive aggressive; you always knew where you stood with Helen."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:91
+msgid "Also, Helen was much more aware of her anger than Bill was."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:92
+msgid "Helen was clear and she really never tried to justify it; I knew her very, very well and it was kind of a given."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:93
+msgid "She did not forgive Bill, did not want to forgive Bill, would not forgive Bill, and she wasn’t saying this was a spiritual position."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:94
+msgid "Bill, on the other hand, was not aware."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:95
+msgid "I can give you one example that typified the whole issue."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:96
+msgid "They had three offices, an outer office and their two private offices, very secluded."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:97
+msgid "You have to picture this."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:98
+msgid "We were sitting in Helen’s office; there was Helen and her desk, I sat against the wall adjacent to her desk, and Bill would be standing in the doorway, which he would do since every once in a while he would go to his office and smoke."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:99
+msgid "I was literally in the middle."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:100
+msgid "Bill, who did this more often than Helen, tried to put me in the middle [of their battle]."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:101
+msgid "I don’t remember what it was about, but they were at each other’s throats."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:102
+msgid "They were sniping at each other, the tension was building, and Bill turned to me, asking me to support him against Helen, saying something like, “Wouldn’t you agree, Kenneth?” It was obvious they were both contributing, but Bill, I know, was not conscious of what he was doing."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:103
+msgid "He was being very snide; he was wonderful with words, a master."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:104
+msgid "I finessed it by saying, “Well, you’re both doing it,” which was true."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:105
+msgid "Bill stormed out, really angry; Helen looked at me and said, “Now you see what I’m up against.” She meant Bill’s being passive aggressive and not knowing it; that was very, very common."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:106
+msgid "He was just not aware of his own anger and how he was expressing it."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:107
+msgid "Helen was just as much at fault, but she was right in your face, she knew what she was doing."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:108
+msgid "Helen was clear, Bill was not, and that was often the problem."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:109
+msgid "Since he was so good with words, he could make a comment and not even know he was doing it."
+msgstr ""
+
+#. Paragraph 13: Because Ken and Helen were so close, he offers an entry point into a third perspective—Helen’s. One of the ways you could see their differences was that Helen was overtly aggressive and Bill was passi...
+#: paragraph:13,sentence:110
+msgid "That particular morning typified, I think, what their relationship was like."
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:111
+msgid "Basically, Bill blamed Helen for problems in the relationship"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:112
+msgid "Even after Helen died, I noticed there was a lot of bitterness"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:113
+msgid "That’s what Helen had trouble understanding"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:114
+msgid "When she said Bill didn’t understand the Course, that is part of what she meant"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:115
+msgid "Somehow, he thought the relationship was not healed because Helen wouldn’t change her mind"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:116
+msgid "He was always blaming her and feeling that if only Helen would change, he would be healed"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:117
+msgid "A lot of Bill’s and my discussions and our work together had to do with that"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:118
+msgid "That was a blind spot for Bill, making it impossible for him because Helen was not going to change her mind"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:119
+msgid "On the other hand, she did not blame Bill for the relationship, she blamed him for just being Bill"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:120
+msgid "She was very clear about her own choices, how they kept the acrimony going"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:121
+msgid "She was brilliant, very insightful and basically said, “I’m not going to do it [forgive him].” She would be very clear with people, “Do what I write, not what I do.” We spent many, many hours—as an understatement—talking about Bill and what she was doing"
+msgstr ""
+
+#. Paragraph 14: Basically, Bill blamed Helen for problems in the relationship. Even after Helen died, I noticed there was a lot of bitterness. That’s what Helen had trouble understanding. When she said Bill didn’t un...
+#: paragraph:14,sentence:122
+msgid "What really impressed me about Bill was that, despite what he felt, there was a deep sense of commitment and trust to whatever this was with Helen.[88]"
+msgstr ""
+
+#. Paragraph 15: Helen and Bill—the good times During the year 1965–1966, as an exception to their established norm, Helen and Bill’s relationship did improve. They diligently practiced the Course lessons and, as prom...
+#: paragraph:15,sentence:123
+msgid "Helen and Bill—the good times During the year 1965–1966, as an exception to their established norm, Helen and Bill’s relationship did improve"
+msgstr ""
+
+#. Paragraph 15: Helen and Bill—the good times During the year 1965–1966, as an exception to their established norm, Helen and Bill’s relationship did improve. They diligently practiced the Course lessons and, as prom...
+#: paragraph:15,sentence:124
+msgid "They diligently practiced the Course lessons and, as promised, their hostility lessened considerably but they didn’t keep it up"
+msgstr ""
+
+#. Paragraph 15: Helen and Bill—the good times During the year 1965–1966, as an exception to their established norm, Helen and Bill’s relationship did improve. They diligently practiced the Course lessons and, as prom...
+#: paragraph:15,sentence:125
+msgid "Ken said, “They tried very, very hard to look at their projections, accept them, and just be responsible for them"
+msgstr ""
+
+#. Paragraph 15: Helen and Bill—the good times During the year 1965–1966, as an exception to their established norm, Helen and Bill’s relationship did improve. They diligently practiced the Course lessons and, as prom...
+#: paragraph:15,sentence:126
+msgid "I have some of their letters in my book [Absence From Felicity], plus they both told me about this.[89] Then it got to be too much and they couldn’t sustain it"
+msgstr ""
+
+#. Paragraph 15: Helen and Bill—the good times During the year 1965–1966, as an exception to their established norm, Helen and Bill’s relationship did improve. They diligently practiced the Course lessons and, as prom...
+#: paragraph:15,sentence:127
+msgid "It got worse and worse, and when I met them, their relationship was at an all-time low.”[90]"
+msgstr ""
+
+#. Paragraph 16: To do them justice and to balance out the picture, however, Ken said the three of them had many wonderful and funny times together. They laughed a lot, kidded each other, and shared a common sense of ...
+#: paragraph:16,sentence:128
+msgid "To do them justice and to balance out the picture, however, Ken said the three of them had many wonderful and funny times together."
+msgstr ""
+
+#. Paragraph 16: To do them justice and to balance out the picture, however, Ken said the three of them had many wonderful and funny times together. They laughed a lot, kidded each other, and shared a common sense of ...
+#: paragraph:16,sentence:129
+msgid "They laughed a lot, kidded each other, and shared a common sense of humor and total devotion to the Course."
+msgstr ""
+
+#. Paragraph 16: To do them justice and to balance out the picture, however, Ken said the three of them had many wonderful and funny times together. They laughed a lot, kidded each other, and shared a common sense of ...
+#: paragraph:16,sentence:130
+msgid "As contradictory and nearly impossible as it sounds, they actually shared great love and trust in one another that carried them through some very difficult times."
+msgstr ""
+
+#. Paragraph 16: To do them justice and to balance out the picture, however, Ken said the three of them had many wonderful and funny times together. They laughed a lot, kidded each other, and shared a common sense of ...
+#: paragraph:16,sentence:131
+msgid "Others around Bill and Helen also commented on their real love for one another, though it was often eclipsed by their antagonism."
+msgstr ""
+
+#. Paragraph 17: When Ken returned to New York from Israel in April 1973, exactly how he was going to be included in this monumental project was a bit unclear. Since Ken was now frequently in their offices, Bill found...
+#: paragraph:17,sentence:132
+msgid "When Ken returned to New York from Israel in April 1973, exactly how he was going to be included in this monumental project was a bit unclear."
+msgstr ""
+
+#. Paragraph 17: When Ken returned to New York from Israel in April 1973, exactly how he was going to be included in this monumental project was a bit unclear. Since Ken was now frequently in their offices, Bill found...
+#: paragraph:17,sentence:133
+msgid "Since Ken was now frequently in their offices, Bill found him a part-time job to justify his spending so much time there, observing normal protocol as much as possible to avoid arousing suspicion about their hidden work."
+msgstr ""
+
+#. Paragraph 17: When Ken returned to New York from Israel in April 1973, exactly how he was going to be included in this monumental project was a bit unclear. Since Ken was now frequently in their offices, Bill found...
+#: paragraph:17,sentence:134
+msgid "As Ken looked over the previously edited material, now referred to as the Hugh Lynn Cayce version (so named because Helen and Bill had made a copy for Hugh Lynn and presented it to him as a gift in gratitude for his considerable support and encouragement), he felt additional work was needed and he was correct.[91] Helen and Bill had already gone through the text more than once, and though they had removed much personal material as well as references to Freud, Jung, Cayce, and several friends and colleagues, the capitalization was inconsistent, some section headings were not clear, and some personal information remained."
+msgstr ""
+
+#. Paragraph 17: When Ken returned to New York from Israel in April 1973, exactly how he was going to be included in this monumental project was a bit unclear. Since Ken was now frequently in their offices, Bill found...
+#: paragraph:17,sentence:135
+msgid "Bill was burned out by the initial editing process, but he recognized the need for more and had been urging Helen, although with ambivalence, for several months to join him in renewing the process; she refused."
+msgstr ""
+
+#. Paragraph 17: When Ken returned to New York from Israel in April 1973, exactly how he was going to be included in this monumental project was a bit unclear. Since Ken was now frequently in their offices, Bill found...
+#: paragraph:17,sentence:136
+msgid "Now, however, with growing admiration for Ken—tireless, enthusiastic, and ready to serve her completely—she was persuaded to start another round of editing."
+msgstr ""
+
+#. Paragraph 18: When ACIM dictation first began, Bill and Helen had no idea what was unfolding; they presumed it was a long and comprehensive answer to their request for a better way to live. Therefore, Helen wrote e...
+#: paragraph:18,sentence:137
+msgid "When ACIM dictation first began, Bill and Helen had no idea what was unfolding; they presumed it was a long and comprehensive answer to their request for a better way to live."
+msgstr ""
+
+#. Paragraph 18: When ACIM dictation first began, Bill and Helen had no idea what was unfolding; they presumed it was a long and comprehensive answer to their request for a better way to live. Therefore, Helen wrote e...
+#: paragraph:18,sentence:138
+msgid "Therefore, Helen wrote everything as it appeared in her mind without discrimination."
+msgstr ""
+
+#. Paragraph 18: When ACIM dictation first began, Bill and Helen had no idea what was unfolding; they presumed it was a long and comprehensive answer to their request for a better way to live. Therefore, Helen wrote e...
+#: paragraph:18,sentence:139
+msgid "Why not."
+msgstr ""
+
+#. Paragraph 18: When ACIM dictation first began, Bill and Helen had no idea what was unfolding; they presumed it was a long and comprehensive answer to their request for a better way to live. Therefore, Helen wrote e...
+#: paragraph:18,sentence:140
+msgid "After all, it was for them."
+msgstr ""
+
+#. Paragraph 18: When ACIM dictation first began, Bill and Helen had no idea what was unfolding; they presumed it was a long and comprehensive answer to their request for a better way to live. Therefore, Helen wrote e...
+#: paragraph:18,sentence:141
+msgid "Bill often had a list of questions for Helen to ask the Voice, and answering them seemed helpful in facilitating her ability to receive."
+msgstr ""
+
+#. Paragraph 18: When ACIM dictation first began, Bill and Helen had no idea what was unfolding; they presumed it was a long and comprehensive answer to their request for a better way to live. Therefore, Helen wrote e...
+#: paragraph:18,sentence:142
+msgid "As the material continued to appear, it became clear that some of it was not intended to be part of the Course itself, but was personal advice, answers to specific questions, something of a three-way conversation."
+msgstr ""
+
+#. Paragraph 18: When ACIM dictation first began, Bill and Helen had no idea what was unfolding; they presumed it was a long and comprehensive answer to their request for a better way to live. Therefore, Helen wrote e...
+#: paragraph:18,sentence:143
+msgid "Now it is obvious that the nonpersonal Course is for anyone who chooses to practice it, but that did not dawn on them until the Voice settled into a monologue format, rather than the dialogue that seemed predominant in the early text."
+msgstr ""
+
+#. Paragraph 19: As various versions of the Course have become available since the original publication in 1976, controversy has surfaced over who did what kind of editing. Judith Skutch Whitson remarked that although...
+#: paragraph:19,sentence:144
+msgid "As various versions of the Course have become available since the original publication in 1976, controversy has surfaced over who did what kind of editing"
+msgstr ""
+
+#. Paragraph 19: As various versions of the Course have become available since the original publication in 1976, controversy has surfaced over who did what kind of editing. Judith Skutch Whitson remarked that although...
+#: paragraph:19,sentence:145
+msgid "Judith Skutch Whitson remarked that although she was not yet involved during the time of the editing, she was included in subsequent decisions that characterized Bill and Helen’s interactions:"
+msgstr ""
+
+#. Paragraph 20: Helen was totally in charge. Bill made suggestions gently, Ken sat by quietly and unobtrusively, and Helen would “rule the roost.” For those who promote the idea that Ken made all the final decisions ...
+#: paragraph:20,sentence:146
+msgid "Helen was totally in charge"
+msgstr ""
+
+#. Paragraph 20: Helen was totally in charge. Bill made suggestions gently, Ken sat by quietly and unobtrusively, and Helen would “rule the roost.” For those who promote the idea that Ken made all the final decisions ...
+#: paragraph:20,sentence:147
+msgid "Bill made suggestions gently, Ken sat by quietly and unobtrusively, and Helen would “rule the roost.” For those who promote the idea that Ken made all the final decisions and had final editorial approval, quite the opposite was the case"
+msgstr ""
+
+#. Paragraph 20: Helen was totally in charge. Bill made suggestions gently, Ken sat by quietly and unobtrusively, and Helen would “rule the roost.” For those who promote the idea that Ken made all the final decisions ...
+#: paragraph:20,sentence:148
+msgid "I remember during the proofreading of the “blues” [final copy before printing], when challenges to inappropriate capitalizations were made, Ken would just shrug and Helen would always get her way"
+msgstr ""
+
+#. Paragraph 20: Helen was totally in charge. Bill made suggestions gently, Ken sat by quietly and unobtrusively, and Helen would “rule the roost.” For those who promote the idea that Ken made all the final decisions ...
+#: paragraph:20,sentence:149
+msgid "The same was true even when it came to the color of the book’s cover"
+msgstr ""
+
+#. Paragraph 20: Helen was totally in charge. Bill made suggestions gently, Ken sat by quietly and unobtrusively, and Helen would “rule the roost.” For those who promote the idea that Ken made all the final decisions ...
+#: paragraph:20,sentence:150
+msgid "Bill and I wanted blue; Ken also felt that would be an appropriate color, but Helen was adamant about black and would not change her mind"
+msgstr ""
+
+#. Paragraph 20: Helen was totally in charge. Bill made suggestions gently, Ken sat by quietly and unobtrusively, and Helen would “rule the roost.” For those who promote the idea that Ken made all the final decisions ...
+#: paragraph:20,sentence:151
+msgid "Finally Ken quietly queried if we should ask the book’s Author for a decision"
+msgstr ""
+
+#. Paragraph 20: Helen was totally in charge. Bill made suggestions gently, Ken sat by quietly and unobtrusively, and Helen would “rule the roost.” For those who promote the idea that Ken made all the final decisions ...
+#: paragraph:20,sentence:152
+msgid "Helen made a sour face but agreed that we should be silent, ask the question, and listen for the answer"
+msgstr ""
+
+#. Paragraph 20: Helen was totally in charge. Bill made suggestions gently, Ken sat by quietly and unobtrusively, and Helen would “rule the roost.” For those who promote the idea that Ken made all the final decisions ...
+#: paragraph:20,sentence:153
+msgid "When we opened our eyes, she muttered, “Okay, he says blue, but a very dark blue!” And so, for the cloth-covered first edition, it was a very dark blue indeed.[92]"
+msgstr ""
+
+#. Paragraph 21: Ken confirmed Helen’s position as “ruler of the roost” and said absolutely no one, not even the Author of the Course, could persuade her to take another position once her mind was made up. “Ken was di...
+#: paragraph:21,sentence:154
+msgid "Ken confirmed Helen’s position as “ruler of the roost” and said absolutely no one, not even the Author of the Course, could persuade her to take another position once her mind was made up. “Ken was difficult to know at first,” Bill writes of this editing time. “He was always nice and he was going to work on Helen, not on me."
+msgstr ""
+
+#. Paragraph 21: Ken confirmed Helen’s position as “ruler of the roost” and said absolutely no one, not even the Author of the Course, could persuade her to take another position once her mind was made up. “Ken was di...
+#: paragraph:21,sentence:155
+msgid "It was a difficult triangle when the three of us were together."
+msgstr ""
+
+#. Paragraph 21: Ken confirmed Helen’s position as “ruler of the roost” and said absolutely no one, not even the Author of the Course, could persuade her to take another position once her mind was made up. “Ken was di...
+#: paragraph:21,sentence:156
+msgid "After some exposure to all this, I told him I couldn’t stand it and I thought there was a lot of spiritual grandiosity going on."
+msgstr ""
+
+#. Paragraph 21: Ken confirmed Helen’s position as “ruler of the roost” and said absolutely no one, not even the Author of the Course, could persuade her to take another position once her mind was made up. “Ken was di...
+#: paragraph:21,sentence:157
+msgid "I didn’t think that was the spirit of the Course and I was fed up with it!”[93] Though he didn’t express it directly, Bill’s early and biased perception of this “difficult triangle” was that Ken talked down to him and interceded between himself and Helen."
+msgstr ""
+
+#. Paragraph 22: Ken returned to Israel in June 1973, but not before extracting a promise from Helen that she would come over for a visit. That August, Helen, Louis, and Bill joined him for what Bill described as a ve...
+#: paragraph:22,sentence:158
+msgid "Ken returned to Israel in June 1973, but not before extracting a promise from Helen that she would come over for a visit."
+msgstr ""
+
+#. Paragraph 22: Ken returned to Israel in June 1973, but not before extracting a promise from Helen that she would come over for a visit. That August, Helen, Louis, and Bill joined him for what Bill described as a ve...
+#: paragraph:22,sentence:159
+msgid "That August, Helen, Louis, and Bill joined him for what Bill described as a very meaningful, magical trip—one that brought an unexplainable closure as they revisited some of the places he had enjoyed on his 1953 trip."
+msgstr ""
+
+#. Paragraph 22: Ken returned to Israel in June 1973, but not before extracting a promise from Helen that she would come over for a visit. That August, Helen, Louis, and Bill joined him for what Bill described as a ve...
+#: paragraph:22,sentence:160
+msgid "He particularly identified with the Holy Land, as well as Egypt and Greece, which comes as no surprise; his various psychic and trance readings placed him in those locales at major turning points in the evolution of his consciousness."
+msgstr ""
+
+#. Paragraph 23: Bill acknowledged that Ken’s help and knowledge of the country made possible a much more meaningful adventure than they might have had, and he was grateful for his contribution. A highlight for all of...
+#: paragraph:23,sentence:161
+msgid "Bill acknowledged that Ken’s help and knowledge of the country made possible a much more meaningful adventure than they might have had, and he was grateful for his contribution"
+msgstr ""
+
+#. Paragraph 23: Bill acknowledged that Ken’s help and knowledge of the country made possible a much more meaningful adventure than they might have had, and he was grateful for his contribution. A highlight for all of...
+#: paragraph:23,sentence:162
+msgid "A highlight for all of them was an extraordinary experience they shared while visiting Qumran, the site where the Dead Sea scrolls were discovered"
+msgstr ""
+
+#. Paragraph 23: Bill acknowledged that Ken’s help and knowledge of the country made possible a much more meaningful adventure than they might have had, and he was grateful for his contribution. A highlight for all of...
+#: paragraph:23,sentence:163
+msgid "Helen suddenly shifted consciousness, as if flipping back in time:"
+msgstr ""
+
+#. Paragraph 24: As they approached the actual area where the scrolls had been found, Helen abruptly stopped, visibly shaken. She stared at the opening of the cave and suddenly burst into tears. Although Bill and Loui...
+#: paragraph:24,sentence:164
+msgid "As they approached the actual area where the scrolls had been found, Helen abruptly stopped, visibly shaken"
+msgstr ""
+
+#. Paragraph 24: As they approached the actual area where the scrolls had been found, Helen abruptly stopped, visibly shaken. She stared at the opening of the cave and suddenly burst into tears. Although Bill and Loui...
+#: paragraph:24,sentence:165
+msgid "She stared at the opening of the cave and suddenly burst into tears"
+msgstr ""
+
+#. Paragraph 24: As they approached the actual area where the scrolls had been found, Helen abruptly stopped, visibly shaken. She stared at the opening of the cave and suddenly burst into tears. Although Bill and Loui...
+#: paragraph:24,sentence:166
+msgid "Although Bill and Louis tried desperately to comfort her, she was unable to speak for almost five minutes"
+msgstr ""
+
+#. Paragraph 24: As they approached the actual area where the scrolls had been found, Helen abruptly stopped, visibly shaken. She stared at the opening of the cave and suddenly burst into tears. Although Bill and Loui...
+#: paragraph:24,sentence:167
+msgid "When she finally regained her composure, she spoke so quietly that the others had to strain to hear her.[94]"
+msgstr ""
+
+#. Paragraph 25: “This is the cave,” she said in a tremulous voice; “this is the cave where I saw the scroll that said, “GOD IS.”[95] None of the others said a word; there was nothing to say. A short while later, whil...
+#: paragraph:25,sentence:168
+msgid "“This is the cave,” she said in a tremulous voice; “this is the cave where I saw the scroll that said, “GOD IS.”[95] None of the others said a word; there was nothing to say"
+msgstr ""
+
+#. Paragraph 25: “This is the cave,” she said in a tremulous voice; “this is the cave where I saw the scroll that said, “GOD IS.”[95] None of the others said a word; there was nothing to say. A short while later, whil...
+#: paragraph:25,sentence:169
+msgid "A short while later, while they were breathing in the historical atmosphere of the Dead Sea surroundings, Helen began musing half to herself. “You know,” she said, “something’s wrong with the water level"
+msgstr ""
+
+#. Paragraph 25: “This is the cave,” she said in a tremulous voice; “this is the cave where I saw the scroll that said, “GOD IS.”[95] None of the others said a word; there was nothing to say. A short while later, whil...
+#: paragraph:25,sentence:170
+msgid "It’s too low; it used to be much higher.” Bill, who took none of Helen’s thoughts lightly, opened a guide book he had bought when they had arrived in Israel and began thumbing through it. “Very interesting, Helen,” he remarked. “It says here that at the time of the Essenes, the water level of the Dead Sea was a good deal higher.” Everyone was quiet and finally Helen, visibly moved, remarked quietly, “This is the holiest place on earth.”[96]"
+msgstr ""
+

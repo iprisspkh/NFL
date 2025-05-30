@@ -1,0 +1,654 @@
+# Chapter 14: Chapter 8
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: As with all chapters, Bill’s time in New York was coming to a close. ACIM was finished and Helen, fourteen years his senior, had finally retired. He had managed to keep her employed past the usual ret...
+#: paragraph:1,sentence:1
+msgid "As with all chapters, Bill’s time in New York was coming to a close."
+msgstr ""
+
+#. Paragraph 1: As with all chapters, Bill’s time in New York was coming to a close. ACIM was finished and Helen, fourteen years his senior, had finally retired. He had managed to keep her employed past the usual ret...
+#: paragraph:1,sentence:2
+msgid "ACIM was finished and Helen, fourteen years his senior, had finally retired."
+msgstr ""
+
+#. Paragraph 1: As with all chapters, Bill’s time in New York was coming to a close. ACIM was finished and Helen, fourteen years his senior, had finally retired. He had managed to keep her employed past the usual ret...
+#: paragraph:1,sentence:3
+msgid "He had managed to keep her employed past the usual retirement age of sixty-five to finish the last Course details."
+msgstr ""
+
+#. Paragraph 1: As with all chapters, Bill’s time in New York was coming to a close. ACIM was finished and Helen, fourteen years his senior, had finally retired. He had managed to keep her employed past the usual ret...
+#: paragraph:1,sentence:4
+msgid "Before they had contemplated its publication, Bill had applied for and been granted a six-month sabbatical to begin in July 1976."
+msgstr ""
+
+#. Paragraph 1: As with all chapters, Bill’s time in New York was coming to a close. ACIM was finished and Helen, fourteen years his senior, had finally retired. He had managed to keep her employed past the usual ret...
+#: paragraph:1,sentence:5
+msgid "Through no intentional planning, the first edition of ACIM made its debut the month before, in June 1976."
+msgstr ""
+
+#. Paragraph 1: As with all chapters, Bill’s time in New York was coming to a close. ACIM was finished and Helen, fourteen years his senior, had finally retired. He had managed to keep her employed past the usual ret...
+#: paragraph:1,sentence:6
+msgid "With the next stage of the Course’s history unfolding, coupled with the fact that it was a difficult time at the university in general, it was a great time to leave."
+msgstr ""
+
+#. Paragraph 1: As with all chapters, Bill’s time in New York was coming to a close. ACIM was finished and Helen, fourteen years his senior, had finally retired. He had managed to keep her employed past the usual ret...
+#: paragraph:1,sentence:7
+msgid "Bill felt he simply could not stay at Columbia now that their “guilty secret,” as they called it, was out in the open, a potentially awkward situation for everyone else concerned, as well. (He did not specifically attempt to conceal or reveal his association with ACIM."
+msgstr ""
+
+#. Paragraph 1: As with all chapters, Bill’s time in New York was coming to a close. ACIM was finished and Helen, fourteen years his senior, had finally retired. He had managed to keep her employed past the usual ret...
+#: paragraph:1,sentence:8
+msgid "Some colleagues found out about it through conversation or the few articles ultimately written about the work."
+msgstr ""
+
+#. Paragraph 1: As with all chapters, Bill’s time in New York was coming to a close. ACIM was finished and Helen, fourteen years his senior, had finally retired. He had managed to keep her employed past the usual ret...
+#: paragraph:1,sentence:9
+msgid "Others may never have found out.) He had been through a ten-year, life-altering, spiritual overhaul, and to resume his work with traditional psychology as though nothing had happened, no matter how proficient he was, would have been an impossible backward step."
+msgstr ""
+
+#. Paragraph 2: Bill had labored diligently on the PAS for approximately twenty years—teaching, mentoring, researching, writing papers, and teasing out every available bit of insight into how human beings predictably...
+#: paragraph:2,sentence:10
+msgid "Bill had labored diligently on the PAS for approximately twenty years—teaching, mentoring, researching, writing papers, and teasing out every available bit of insight into how human beings predictably operate"
+msgstr ""
+
+#. Paragraph 2: Bill had labored diligently on the PAS for approximately twenty years—teaching, mentoring, researching, writing papers, and teasing out every available bit of insight into how human beings predictably...
+#: paragraph:2,sentence:11
+msgid "Nevertheless, he closed that door, too"
+msgstr ""
+
+#. Paragraph 2: Bill had labored diligently on the PAS for approximately twenty years—teaching, mentoring, researching, writing papers, and teasing out every available bit of insight into how human beings predictably...
+#: paragraph:2,sentence:12
+msgid "He gave up his research on the ego, which he considered his major academic contribution, as he and Helen became immersed in scribing and attempting to practice ACIM"
+msgstr ""
+
+#. Paragraph 2: Bill had labored diligently on the PAS for approximately twenty years—teaching, mentoring, researching, writing papers, and teasing out every available bit of insight into how human beings predictably...
+#: paragraph:2,sentence:13
+msgid "The Course had dealt a devastating blow to his favorite topic:"
+msgstr ""
+
+#. Paragraph 3: If you believe you understand something of the “dynamics” of the ego, let me assure you that you understand nothing of it. For of yourself you could not understand it. The study of the ego is not the ...
+#: paragraph:3,sentence:14
+msgid "If you believe you understand something of the “dynamics” of the ego, let me assure you that you understand nothing of it"
+msgstr ""
+
+#. Paragraph 3: If you believe you understand something of the “dynamics” of the ego, let me assure you that you understand nothing of it. For of yourself you could not understand it. The study of the ego is not the ...
+#: paragraph:3,sentence:15
+msgid "For of yourself you could not understand it"
+msgstr ""
+
+#. Paragraph 3: If you believe you understand something of the “dynamics” of the ego, let me assure you that you understand nothing of it. For of yourself you could not understand it. The study of the ego is not the ...
+#: paragraph:3,sentence:16
+msgid "The study of the ego is not the study of your mind"
+msgstr ""
+
+#. Paragraph 3: If you believe you understand something of the “dynamics” of the ego, let me assure you that you understand nothing of it. For of yourself you could not understand it. The study of the ego is not the ...
+#: paragraph:3,sentence:17
+msgid "In fact, the ego enjoys studying itself, and thoroughly approves the undertakings of students who would “analyze” it, thus approving its importance.[105]"
+msgstr ""
+
+#. Paragraph 4: After years of statements like this, Bill could feel the foundations of his academic life collapsing. Finally, he found it too bizarre and contradictory to research the intricacies of how egos form an...
+#: paragraph:4,sentence:18
+msgid "After years of statements like this, Bill could feel the foundations of his academic life collapsing"
+msgstr ""
+
+#. Paragraph 4: After years of statements like this, Bill could feel the foundations of his academic life collapsing. Finally, he found it too bizarre and contradictory to research the intricacies of how egos form an...
+#: paragraph:4,sentence:19
+msgid "Finally, he found it too bizarre and contradictory to research the intricacies of how egos form and operate on one hand and to actively practice undoing them on the other"
+msgstr ""
+
+#. Paragraph 4: After years of statements like this, Bill could feel the foundations of his academic life collapsing. Finally, he found it too bizarre and contradictory to research the intricacies of how egos form an...
+#: paragraph:4,sentence:20
+msgid "He abandoned his search"
+msgstr ""
+
+#. Paragraph 4: After years of statements like this, Bill could feel the foundations of his academic life collapsing. Finally, he found it too bizarre and contradictory to research the intricacies of how egos form an...
+#: paragraph:4,sentence:21
+msgid "As Whit Whitson stated at Bill’s memorial service, “At the same time he was mapping the ego, he was channeling the process by which we could escape—like mapping an earthquake and then making a plan for how to get out of it.”[106]"
+msgstr ""
+
+#. Paragraph 5: As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied. He now had to make a final decision to stay or leave. He chose to lea...
+#: paragraph:5,sentence:22
+msgid "As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied."
+msgstr ""
+
+#. Paragraph 5: As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied. He now had to make a final decision to stay or leave. He chose to lea...
+#: paragraph:5,sentence:23
+msgid "He now had to make a final decision to stay or leave."
+msgstr ""
+
+#. Paragraph 5: As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied. He now had to make a final decision to stay or leave. He chose to lea...
+#: paragraph:5,sentence:24
+msgid "He chose to leave."
+msgstr ""
+
+#. Paragraph 5: As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied. He now had to make a final decision to stay or leave. He chose to lea...
+#: paragraph:5,sentence:25
+msgid "Because he had started at Columbia in February 1958, he was eligible for early retirement beginning in 1978."
+msgstr ""
+
+#. Paragraph 5: As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied. He now had to make a final decision to stay or leave. He chose to lea...
+#: paragraph:5,sentence:26
+msgid "Thus, after beginning his sabbatical in mid 1976, he never returned to his academic or administrative duties."
+msgstr ""
+
+#. Paragraph 5: As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied. He now had to make a final decision to stay or leave. He chose to lea...
+#: paragraph:5,sentence:27
+msgid "During that period of being employed but not actively working, he made several trips to California, at Judy’s invitation, to meet with groups about the Course. (Helen also participated in a few of them, although under protest because she strongly disliked traveling.) These trips planted the seed in Bill and introduced the possibility of leaving not only Columbia, but New York itself."
+msgstr ""
+
+#. Paragraph 5: As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied. He now had to make a final decision to stay or leave. He chose to lea...
+#: paragraph:5,sentence:28
+msgid "The Skutches were entertaining the idea of moving to Tiburon because Judy planned to work on her Ph.D. in San Francisco and, additionally, she knew many people in the Bay area."
+msgstr ""
+
+#. Paragraph 5: As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied. He now had to make a final decision to stay or leave. He chose to lea...
+#: paragraph:5,sentence:29
+msgid "Also, Jerry Jampolsky, a close friend of Judy’s, was a long-time resident of Tiburon."
+msgstr ""
+
+#. Paragraph 5: As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied. He now had to make a final decision to stay or leave. He chose to lea...
+#: paragraph:5,sentence:30
+msgid "During those visits, Bill realized that both Jerry and Judy needed help with their personal lives and that living close to them would be ideal for offering his assistance."
+msgstr ""
+
+#. Paragraph 5: As his sabbatical was ending in early 1977, Bill took a leave of absence, then applied for another, but the second one was denied. He now had to make a final decision to stay or leave. He chose to lea...
+#: paragraph:5,sentence:31
+msgid "This provided a pivotal rationale for moving."
+msgstr ""
+
+#. Paragraph 6: As he weighed his options, Bill also had to confront his fear about leaving his secure, tenured position, one not easily attained. In addition to his fine reputation and the prestige of being associat...
+#: paragraph:6,sentence:32
+msgid "As he weighed his options, Bill also had to confront his fear about leaving his secure, tenured position, one not easily attained."
+msgstr ""
+
+#. Paragraph 6: As he weighed his options, Bill also had to confront his fear about leaving his secure, tenured position, one not easily attained. In addition to his fine reputation and the prestige of being associat...
+#: paragraph:6,sentence:33
+msgid "In addition to his fine reputation and the prestige of being associated with Columbia, he was financially secure."
+msgstr ""
+
+#. Paragraph 6: As he weighed his options, Bill also had to confront his fear about leaving his secure, tenured position, one not easily attained. In addition to his fine reputation and the prestige of being associat...
+#: paragraph:6,sentence:34
+msgid "Now he wavered as he looked at giving it all up, like standing with one foot on each side of an ever-widening chasm."
+msgstr ""
+
+#. Paragraph 6: As he weighed his options, Bill also had to confront his fear about leaving his secure, tenured position, one not easily attained. In addition to his fine reputation and the prestige of being associat...
+#: paragraph:6,sentence:35
+msgid "It was that branching of the road we all come to eventually and he chose the California path."
+msgstr ""
+
+#. Paragraph 7: Besides leaving academia behind, Bill also cut ties with most of his friends and, obviously, the New York lifestyle. He notes his propensity for leaving finished eras behind. “I talked about it [the C...
+#: paragraph:7,sentence:36
+msgid "Besides leaving academia behind, Bill also cut ties with most of his friends and, obviously, the New York lifestyle."
+msgstr ""
+
+#. Paragraph 7: Besides leaving academia behind, Bill also cut ties with most of his friends and, obviously, the New York lifestyle. He notes his propensity for leaving finished eras behind. “I talked about it [the C...
+#: paragraph:7,sentence:37
+msgid "He notes his propensity for leaving finished eras behind. “I talked about it [the Course] when it was necessary and then I would leave."
+msgstr ""
+
+#. Paragraph 7: Besides leaving academia behind, Bill also cut ties with most of his friends and, obviously, the New York lifestyle. He notes his propensity for leaving finished eras behind. “I talked about it [the C...
+#: paragraph:7,sentence:38
+msgid "Probably a lot of my life has been that way."
+msgstr ""
+
+#. Paragraph 7: Besides leaving academia behind, Bill also cut ties with most of his friends and, obviously, the New York lifestyle. He notes his propensity for leaving finished eras behind. “I talked about it [the C...
+#: paragraph:7,sentence:39
+msgid "I do whatever I think is necessary at the time and then I withdraw from it all.”[107] In characteristic fashion, he abandoned his life, his career, the person he had been, like a suit of clothes left hanging in the closet."
+msgstr ""
+
+#. Paragraph 7: Besides leaving academia behind, Bill also cut ties with most of his friends and, obviously, the New York lifestyle. He notes his propensity for leaving finished eras behind. “I talked about it [the C...
+#: paragraph:7,sentence:40
+msgid "That time was over."
+msgstr ""
+
+#. Paragraph 8: ACIM states: “Fear not that you will be abruptly lifted up and hurled into reality. Time is kind, and if you use it on behalf of reality, it will keep gentle pace with you in your transition. The urge...
+#: paragraph:8,sentence:41
+msgid "ACIM states: “Fear not that you will be abruptly lifted up and hurled into reality."
+msgstr ""
+
+#. Paragraph 8: ACIM states: “Fear not that you will be abruptly lifted up and hurled into reality. Time is kind, and if you use it on behalf of reality, it will keep gentle pace with you in your transition. The urge...
+#: paragraph:8,sentence:42
+msgid "Time is kind, and if you use it on behalf of reality, it will keep gentle pace with you in your transition."
+msgstr ""
+
+#. Paragraph 8: ACIM states: “Fear not that you will be abruptly lifted up and hurled into reality. Time is kind, and if you use it on behalf of reality, it will keep gentle pace with you in your transition. The urge...
+#: paragraph:8,sentence:43
+msgid "The urgency is only in dislodging your mind from its fixed position here.”[108] I think Bill often felt that, indeed, he had been picked up and hurled into California by some volition not his own."
+msgstr ""
+
+#. Paragraph 8: ACIM states: “Fear not that you will be abruptly lifted up and hurled into reality. Time is kind, and if you use it on behalf of reality, it will keep gentle pace with you in your transition. The urge...
+#: paragraph:8,sentence:44
+msgid "Leaving New York was wrenching, even though he was following his excellent guidance in making the choice, the right and inevitable one for him."
+msgstr ""
+
+#. Paragraph 8: ACIM states: “Fear not that you will be abruptly lifted up and hurled into reality. Time is kind, and if you use it on behalf of reality, it will keep gentle pace with you in your transition. The urge...
+#: paragraph:8,sentence:45
+msgid "New York had been the center of Bill’s world even during his early days in Washington, D. C. , when he frequently traveled there on weekends."
+msgstr ""
+
+#. Paragraph 9: As a sophisticated easterner, he did not fit the casual California stereotype, but he traded his daily coat and tie for jeans and a sweater and prepared to enter this new phase of his life, even if so...
+#: paragraph:9,sentence:46
+msgid "As a sophisticated easterner, he did not fit the casual California stereotype, but he traded his daily coat and tie for jeans and a sweater and prepared to enter this new phase of his life, even if somewhat reluctantly at first."
+msgstr ""
+
+#. Paragraph 9: As a sophisticated easterner, he did not fit the casual California stereotype, but he traded his daily coat and tie for jeans and a sweater and prepared to enter this new phase of his life, even if so...
+#: paragraph:9,sentence:47
+msgid "As with the end of any life chapter, there was a sense of loss and some grief at the prospect of leaving New York, but predictably, he found cause for warm good humor regarding his new home, often joking about the California lifestyle."
+msgstr ""
+
+#. Paragraph 10: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a friend of Judy’s, devoted Course student, and editor of a popular magazine, Psychic—wanted to publish an article about ACIM. Bill and...
+#: paragraph:10,sentence:48
+msgid "During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a friend of Judy’s, devoted Course student, and editor of a popular magazine, Psychic—wanted to publish an article about ACIM."
+msgstr ""
+
+#. Paragraph 10: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a friend of Judy’s, devoted Course student, and editor of a popular magazine, Psychic—wanted to publish an article about ACIM. Bill and...
+#: paragraph:10,sentence:49
+msgid "Bill and Helen felt it would be misleading to have it appear in a publication with that name, so at Bill’s suggestion it was renamed New Realities."
+msgstr ""
+
+#. Paragraph 10: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a friend of Judy’s, devoted Course student, and editor of a popular magazine, Psychic—wanted to publish an article about ACIM. Bill and...
+#: paragraph:10,sentence:50
+msgid "The article appeared in April 1977, and the response was overwhelming and widespread."
+msgstr ""
+
+#. Paragraph 10: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a friend of Judy’s, devoted Course student, and editor of a popular magazine, Psychic—wanted to publish an article about ACIM. Bill and...
+#: paragraph:10,sentence:51
+msgid "What remained of the first five thousand sets of the Course, printed a year earlier with Reed Erickson’s generous donation, quickly sold out, requiring an immediate second printing."
+msgstr ""
+
+#. Paragraph 10: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a friend of Judy’s, devoted Course student, and editor of a popular magazine, Psychic—wanted to publish an article about ACIM. Bill and...
+#: paragraph:10,sentence:52
+msgid "Thousands of letters and inquiries flooded in, indicating ACIM’s immense impact on those first readers."
+msgstr ""
+
+#. Paragraph 10: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a friend of Judy’s, devoted Course student, and editor of a popular magazine, Psychic—wanted to publish an article about ACIM. Bill and...
+#: paragraph:10,sentence:53
+msgid "With the word out far and wide, Bill, for better or worse, would never again enjoy anonymity regarding his role in birthing the Course."
+msgstr ""
+
+#. Paragraph 11: In the spring of 1978, a friend gave our family a subscription to New Realities magazine and the inaugural issue featuring A Course In Miracles arrived soon after. As for many, it was my introduction ...
+#: paragraph:11,sentence:54
+msgid "In the spring of 1978, a friend gave our family a subscription to New Realities magazine and the inaugural issue featuring A Course In Miracles arrived soon after."
+msgstr ""
+
+#. Paragraph 11: In the spring of 1978, a friend gave our family a subscription to New Realities magazine and the inaugural issue featuring A Course In Miracles arrived soon after. As for many, it was my introduction ...
+#: paragraph:11,sentence:55
+msgid "As for many, it was my introduction to the Course."
+msgstr ""
+
+#. Paragraph 11: In the spring of 1978, a friend gave our family a subscription to New Realities magazine and the inaugural issue featuring A Course In Miracles arrived soon after. As for many, it was my introduction ...
+#: paragraph:11,sentence:56
+msgid "For many years, I had been looking for answers to only vaguely defined questions, reading endlessly, gradually getting in touch with feelings, looking more honestly at my motivations."
+msgstr ""
+
+#. Paragraph 11: In the spring of 1978, a friend gave our family a subscription to New Realities magazine and the inaugural issue featuring A Course In Miracles arrived soon after. As for many, it was my introduction ...
+#: paragraph:11,sentence:57
+msgid "I was fascinated with this article, and when I read the Introduction to the text, something in me responded."
+msgstr ""
+
+#. Paragraph 11: In the spring of 1978, a friend gave our family a subscription to New Realities magazine and the inaugural issue featuring A Course In Miracles arrived soon after. As for many, it was my introduction ...
+#: paragraph:11,sentence:58
+msgid "I could feel the power, the truth, and life coming through the words."
+msgstr ""
+
+#. Paragraph 11: In the spring of 1978, a friend gave our family a subscription to New Realities magazine and the inaugural issue featuring A Course In Miracles arrived soon after. As for many, it was my introduction ...
+#: paragraph:11,sentence:59
+msgid "I ordered the books, and when I finally held the newly delivered, unopened package, I knew without question that this was my way home."
+msgstr ""
+
+#. Paragraph 11: In the spring of 1978, a friend gave our family a subscription to New Realities magazine and the inaugural issue featuring A Course In Miracles arrived soon after. As for many, it was my introduction ...
+#: paragraph:11,sentence:60
+msgid "I had no clue about the enormity of the shift that was bound to take place; I only knew that my search was over."
+msgstr ""
+
+#. Paragraph 12: I often tell students that “one’s life has a life of its own” and Bill’s was no exception, nor was mine. During the year Bill was closing the doors on New York, I was devouring the Course as the most ...
+#: paragraph:12,sentence:61
+msgid "I often tell students that “one’s life has a life of its own” and Bill’s was no exception, nor was mine."
+msgstr ""
+
+#. Paragraph 12: I often tell students that “one’s life has a life of its own” and Bill’s was no exception, nor was mine. During the year Bill was closing the doors on New York, I was devouring the Course as the most ...
+#: paragraph:12,sentence:62
+msgid "During the year Bill was closing the doors on New York, I was devouring the Course as the most amazing work I had ever encountered."
+msgstr ""
+
+#. Paragraph 12: I often tell students that “one’s life has a life of its own” and Bill’s was no exception, nor was mine. During the year Bill was closing the doors on New York, I was devouring the Course as the most ...
+#: paragraph:12,sentence:63
+msgid "It was literally irresistible."
+msgstr ""
+
+#. Paragraph 12: I often tell students that “one’s life has a life of its own” and Bill’s was no exception, nor was mine. During the year Bill was closing the doors on New York, I was devouring the Course as the most ...
+#: paragraph:12,sentence:64
+msgid "Second in importance only to raising my children, it became the most all-encompassing element in my life."
+msgstr ""
+
+#. Paragraph 12: I often tell students that “one’s life has a life of its own” and Bill’s was no exception, nor was mine. During the year Bill was closing the doors on New York, I was devouring the Course as the most ...
+#: paragraph:12,sentence:65
+msgid "In May 1978, on the last of Bill’s several cross-country trips to finalize his move from New York to Tiburon, our paths crossed in Denver, Colorado, my home at that time."
+msgstr ""
+
+#. Paragraph 12: I often tell students that “one’s life has a life of its own” and Bill’s was no exception, nor was mine. During the year Bill was closing the doors on New York, I was devouring the Course as the most ...
+#: paragraph:12,sentence:66
+msgid "My life would never be the same again."
+msgstr ""
+
+#. Paragraph 13: [1]A Course In Miracles Text, 586–587. [2] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” 3:49, Foundation for Inner Peace Archives, Tiburon, CA (cited hereinafter as FIPA).
+#: paragraph:13,sentence:67
+msgid "[1]A Course In Miracles Text, 586–587. [2] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” 3:49, Foundation for Inner Peace Archives, Tiburon, CA (cited hereinafter as FIPA)."
+msgstr ""
+
+#. Paragraph 14: [3] William W. Whitson, “William Newton Thetford and the Central Intelligence Agency,” manuscript, FIPA, 28. [4] This phrase is a shortened version of the complete sentence from the Introduction to AC...
+#: paragraph:14,sentence:68
+msgid "[3] William W. Whitson, “William Newton Thetford and the Central Intelligence Agency,” manuscript, FIPA, 28. [4] This phrase is a shortened version of the complete sentence from the Introduction to ACIM: “It does aim, however, at removing the blocks to the awareness of love’s presence, which is your natural inheritance.”"
+msgstr ""
+
+#. Paragraph 15: [5]William N. Thetford, “I Live Again,” personal essay written in 1938 as a class assignment in high school. Foundation for Inner Peace, Tiburon, CA, 6–14. [6]A Course In Miracles Workbook, Lesson 136...
+#: paragraph:15,sentence:69
+msgid "[5]William N. Thetford, “I Live Again,” personal essay written in 1938 as a class assignment in high school."
+msgstr ""
+
+#. Paragraph 15: [5]William N. Thetford, “I Live Again,” personal essay written in 1938 as a class assignment in high school. Foundation for Inner Peace, Tiburon, CA, 6–14. [6]A Course In Miracles Workbook, Lesson 136...
+#: paragraph:15,sentence:70
+msgid "Foundation for Inner Peace, Tiburon, CA, 6–14. [6]A Course In Miracles Workbook, Lesson 136, 258."
+msgstr ""
+
+#. Paragraph 16: [7] Thetford, “I Live Again,” 15–16. [8] Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 24:3, FIPA.
+#: paragraph:16,sentence:71
+msgid "[7] Thetford, “I Live Again,” 15–16. [8] Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 16: [7] Thetford, “I Live Again,” 15–16. [8] Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 24:3, FIPA.
+#: paragraph:16,sentence:72
+msgid "James Bolen, 24:3, FIPA."
+msgstr ""
+
+#. Paragraph 17: [9] Thetford, “I Live Again,” 20–21. [10]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 11:4, FIPA.
+#: paragraph:17,sentence:73
+msgid "[9] Thetford, “I Live Again,” 20–21. [10]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 17: [9] Thetford, “I Live Again,” 20–21. [10]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 11:4, FIPA.
+#: paragraph:17,sentence:74
+msgid "James Bolen, 11:4, FIPA."
+msgstr ""
+
+#. Paragraph 18: [11] Robert Skutch, Journey Without Distance: The Story Behind A Course In Miracles (Berkeley, CA: Celestial Arts, 1984), 3–4. [12] Gardner Murphy, Personality: A Biosocial Approach to Origins and Str...
+#: paragraph:18,sentence:75
+msgid "[11] Robert Skutch, Journey Without Distance: The Story Behind A Course In Miracles (Berkeley, CA: Celestial Arts, 1984), 3–4. [12] Gardner Murphy, Personality: A Biosocial Approach to Origins and Structure (New York: Harper and Brothers, 1947), Foreword."
+msgstr ""
+
+#. Paragraph 19: [13] Ibid., 919. [14]David Keirsey, Please Understand Me, II (Del Mar, CA: Prometheus Nemesis Books, 1998), 26.
+#: paragraph:19,sentence:76
+msgid "[13] Ibid., 919. [14]David Keirsey, Please Understand Me, II (Del Mar, CA: Prometheus Nemesis Books, 1998), 26."
+msgstr ""
+
+#. Paragraph 20: [15] Ibid., 118. [16] Ibid., 123–124.
+#: paragraph:20,sentence:77
+msgid "[15] Ibid., 118. [16] Ibid., 123–124."
+msgstr ""
+
+#. Paragraph 21: [17] Ibid., 144. [18]A Course In Miracles Workbook, Lesson 135, 255.
+#: paragraph:21,sentence:78
+msgid "[17] Ibid., 144. [18]A Course In Miracles Workbook, Lesson 135, 255."
+msgstr ""
+
+#. Paragraph 22: [19]A Course In Miracles Text, 172. [20]A Course In Miracles Workbook, Lesson 158, 298.
+#: paragraph:22,sentence:79
+msgid "[19]A Course In Miracles Text, 172. [20]A Course In Miracles Workbook, Lesson 158, 298."
+msgstr ""
+
+#. Paragraph 23: [21] Jack and Layle Luckett, email message to author, August 2007. [22] William W. Whitson, “William Newton Thetford and the Central Intelligence Agency,” manuscript, FIPA, 3–4.
+#: paragraph:23,sentence:80
+msgid "[21] Jack and Layle Luckett, email message to author, August 2007. [22] William W. Whitson, “William Newton Thetford and the Central Intelligence Agency,” manuscript, FIPA, 3–4."
+msgstr ""
+
+#. Paragraph 24: [23] Alice Stephens telephone interview by author, March 2007. [24] Whitson, “Thetford and the CIA,” 19.
+#: paragraph:24,sentence:81
+msgid "[23] Alice Stephens telephone interview by author, March 2007. [24] Whitson, “Thetford and the CIA,” 19."
+msgstr ""
+
+#. Paragraph 25: [25] David Goodrich telephone interview by author, February 2008. [26] Internet site www.pasf.org [27]A Course In Miracles Text, 656.
+#: paragraph:25,sentence:82
+msgid "[25] David Goodrich telephone interview by author, February 2008. [26] Internet site www.pasf.org [27]A Course In Miracles Text, 656."
+msgstr ""
+
+#. Paragraph 26: [28] Ibid., 659. [29] Whitson, “Thetford and the CIA,” 11.
+#: paragraph:26,sentence:83
+msgid "[28] Ibid., 659. [29] Whitson, “Thetford and the CIA,” 11."
+msgstr ""
+
+#. Paragraph 27: [30] David Keirsey, Please Understand Me, II (Del Mar, CA: Prometheus Nemesis Books, 1998), 130. [31] Goodrich interview, February 2008.
+#: paragraph:27,sentence:84
+msgid "[30] David Keirsey, Please Understand Me, II (Del Mar, CA: Prometheus Nemesis Books, 1998), 130. [31] Goodrich interview, February 2008."
+msgstr ""
+
+#. Paragraph 28: [32] David Keirsey, Please Understand Me, II, 121. [33] Goodrich interview, February 2008.
+#: paragraph:28,sentence:85
+msgid "[32] David Keirsey, Please Understand Me, II, 121. [33] Goodrich interview, February 2008."
+msgstr ""
+
+#. Paragraph 29: [34] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:9, FIPA. [35]Personews, an in-house publication of the Institute for Living, Hartford, CT, March 1956, 10.
+#: paragraph:29,sentence:86
+msgid "[34] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:9, FIPA. [35]Personews, an in-house publication of the Institute for Living, Hartford, CT, March 1956, 10."
+msgstr ""
+
+#. Paragraph 30: [36] Thetford: Life Story, 4:10, FIPA. [37] Ibid., 12.
+#: paragraph:30,sentence:87
+msgid "[36] Thetford: Life Story, 4:10, FIPA. [37] Ibid., 12."
+msgstr ""
+
+#. Paragraph 31: [38]Neal Vahle, A Course In Miracles: The Lives of Helen Schucman & William Thetford (San Francisco: Open View Press, 2009), 60. [39] Helen Schucman: Autobiography, in “Origins of A Course In Miracles...
+#: paragraph:31,sentence:88
+msgid "[38]Neal Vahle, A Course In Miracles: The Lives of Helen Schucman & William Thetford (San Francisco: Open View Press, 2009), 60. [39] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” 3:27–28, FIPA."
+msgstr ""
+
+#. Paragraph 32: [40] Ibid., 28. [41] Ibid., 29.
+#: paragraph:32,sentence:89
+msgid "[40] Ibid., 28. [41] Ibid., 29."
+msgstr ""
+
+#. Paragraph 33: [42] Dorothy Ulmann interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 8:4, FIPA. [43]A Course In Miracles Text, 18.
+#: paragraph:33,sentence:90
+msgid "[42] Dorothy Ulmann interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 33: [42] Dorothy Ulmann interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 8:4, FIPA. [43]A Course In Miracles Text, 18.
+#: paragraph:33,sentence:91
+msgid "James Bolen, 8:4, FIPA. [43]A Course In Miracles Text, 18."
+msgstr ""
+
+#. Paragraph 34: [44] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:29, FIPA. [45]The Story of A Course In Miracles, DVD, Tiburon, CA, Foundation for Inner Peace, 1987.
+#: paragraph:34,sentence:92
+msgid "[44] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:29, FIPA. [45]The Story of A Course In Miracles, DVD, Tiburon, CA, Foundation for Inner Peace, 1987."
+msgstr ""
+
+#. Paragraph 35: [46] Charles Lehman interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 9:2, FIPA. [47] Calvin Hatcher interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed...
+#: paragraph:35,sentence:93
+msgid "[46] Charles Lehman interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 35: [46] Charles Lehman interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 9:2, FIPA. [47] Calvin Hatcher interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed...
+#: paragraph:35,sentence:94
+msgid "James Bolen, 9:2, FIPA. [47] Calvin Hatcher interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 35: [46] Charles Lehman interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 9:2, FIPA. [47] Calvin Hatcher interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed...
+#: paragraph:35,sentence:95
+msgid "James Bolen, 7:11, FIPA."
+msgstr ""
+
+#. Paragraph 36: [48]A Course In Miracles Text, 354–355. [49] 11. Ibid., 223.
+#: paragraph:36,sentence:96
+msgid "[48]A Course In Miracles Text, 354–355. [49] 11."
+msgstr ""
+
+#. Paragraph 36: [48]A Course In Miracles Text, 354–355. [49] 11. Ibid., 223.
+#: paragraph:36,sentence:97
+msgid "Ibid., 223."
+msgstr ""
+
+#. Paragraph 37: [50] Ibid., 22. [51] Schucman: Autobiography, 3:30, FIPA.
+#: paragraph:37,sentence:98
+msgid "[50] Ibid., 22. [51] Schucman: Autobiography, 3:30, FIPA."
+msgstr ""
+
+#. Paragraph 38: [52] Ibid., 31. [54] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” 3:35, FIPA.
+#: paragraph:38,sentence:99
+msgid "[52] Ibid., 31. [54] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” 3:35, FIPA."
+msgstr ""
+
+#. Paragraph 39: [55] Introduction by Tamara Cohen, in “Origins of A Course In Miracles,” 1:2, FIPA. [56] Schucman: Autobiography, 3:37, FIPA.
+#: paragraph:39,sentence:100
+msgid "[55] Introduction by Tamara Cohen, in “Origins of A Course In Miracles,” 1:2, FIPA. [56] Schucman: Autobiography, 3:37, FIPA."
+msgstr ""
+
+#. Paragraph 40: [57] Ibid., 46. [58] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:18, FIPA.
+#: paragraph:40,sentence:101
+msgid "[57] Ibid., 46. [58] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:18, FIPA."
+msgstr ""
+
+#. Paragraph 41: [59] Schucman: Autobiography, 3:50, FIPA. [60] Ibid., 51.
+#: paragraph:41,sentence:102
+msgid "[59] Schucman: Autobiography, 3:50, FIPA. [60] Ibid., 51."
+msgstr ""
+
+#. Paragraph 42: [61] Thetford: Life Story, 4:21, FIPA. [62] Schucman: Autobiography, 3:52, FIPA.
+#: paragraph:42,sentence:103
+msgid "[61] Thetford: Life Story, 4:21, FIPA. [62] Schucman: Autobiography, 3:52, FIPA."
+msgstr ""
+
+#. Paragraph 43: [63] Thetford: Life Story, 4:58, FIPA. [64]A Course In Miracles Manual for Teachers, 58.
+#: paragraph:43,sentence:104
+msgid "[63] Thetford: Life Story, 4:58, FIPA. [64]A Course In Miracles Manual for Teachers, 58."
+msgstr ""
+
+#. Paragraph 44: [65] Ibid., 87. [66] Kenneth Wapnick, “The History of the Manuscripts of A Course In Miracles,” manuscript, Foundation for A Course In Miracles, 9–10.
+#: paragraph:44,sentence:105
+msgid "[65] Ibid., 87. [66] Kenneth Wapnick, “The History of the Manuscripts of A Course In Miracles,” manuscript, Foundation for A Course In Miracles, 9–10."
+msgstr ""
+
+#. Paragraph 45: [67]A Course In Miracles Manual for Teachers, 60–61. [68] Transcription of Thetford personal reading, Paul Solomon, Spring 1976.
+#: paragraph:45,sentence:106
+msgid "[67]A Course In Miracles Manual for Teachers, 60–61. [68] Transcription of Thetford personal reading, Paul Solomon, Spring 1976."
+msgstr ""
+
+#. Paragraph 46: [72] Jaison Kayn telephone interview by author, February 2007. [73] Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1980.
+#: paragraph:46,sentence:107
+msgid "[72] Jaison Kayn telephone interview by author, February 2007. [73] Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1980."
+msgstr ""
+
+#. Paragraph 47: [74] William Whitson interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 21:3–4, FIPA. [75] Kenneth Wapnick telephone interview by author, February 2009.
+#: paragraph:47,sentence:108
+msgid "[74] William Whitson interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 47: [74] William Whitson interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 21:3–4, FIPA. [75] Kenneth Wapnick telephone interview by author, February 2009.
+#: paragraph:47,sentence:109
+msgid "James Bolen, 21:3–4, FIPA. [75] Kenneth Wapnick telephone interview by author, February 2009."
+msgstr ""
+
+#. Paragraph 48: [76]A Course In Miracles Text, 587–588. [77]The American Heritage Dictionary of the English Language, Fifth edition, s.v. “urtext.” [78] Urtext, 98 (second).  On Dec. 10, 1965, Bill began to renumber ...
+#: paragraph:48,sentence:110
+msgid "[76]A Course In Miracles Text, 587–588. [77]The American Heritage Dictionary of the English Language, Fifth edition, s.v. “urtext.” [78] Urtext, 98 (second)"
+msgstr ""
+
+#. Paragraph 48: [76]A Course In Miracles Text, 587–588. [77]The American Heritage Dictionary of the English Language, Fifth edition, s.v. “urtext.” [78] Urtext, 98 (second).  On Dec. 10, 1965, Bill began to renumber ...
+#: paragraph:48,sentence:111
+msgid "On Dec. 10, 1965, Bill began to renumber the pages of his typed notes to date; therefore, page references for the Urtext will be followed by “first” or “second” to denote the set of pages referred to"
+msgstr ""
+
+#. Paragraph 48: [76]A Course In Miracles Text, 587–588. [77]The American Heritage Dictionary of the English Language, Fifth edition, s.v. “urtext.” [78] Urtext, 98 (second).  On Dec. 10, 1965, Bill began to renumber ...
+#: paragraph:48,sentence:112
+msgid "Because there is an on-going controversy concerning the Urtext itself, here included is an excerpt from Kenneth Wapnick’s manuscript, “The History of the Manuscripts of A Course In Miracles”: “Under false pretenses, the notebooks [Helen’s] and the Urtext were taken from the Library of Congress and copied, a violation of federal law"
+msgstr ""
+
+#. Paragraph 48: [76]A Course In Miracles Text, 587–588. [77]The American Heritage Dictionary of the English Language, Fifth edition, s.v. “urtext.” [78] Urtext, 98 (second).  On Dec. 10, 1965, Bill began to renumber ...
+#: paragraph:48,sentence:113
+msgid "We talked to legal authorities at the Library, who were outraged. . ."
+msgstr ""
+
+#. Paragraph 48: [76]A Course In Miracles Text, 587–588. [77]The American Heritage Dictionary of the English Language, Fifth edition, s.v. “urtext.” [78] Urtext, 98 (second).  On Dec. 10, 1965, Bill began to renumber ...
+#: paragraph:48,sentence:114
+msgid "The people who were now in possession of the illegally obtained material—the notebooks, Urtext, and Hugh Lynn Cayce version—had it scanned or retyped and have made it available on the Internet and elsewhere for purchase.”"
+msgstr ""
+
+#. Paragraph 49: [79] Thetford: Life Story, 4:28, FIPA. [80] Ibid., 29.
+#: paragraph:49,sentence:115
+msgid "[79] Thetford: Life Story, 4:28, FIPA. [80] Ibid., 29."
+msgstr ""
+
+#. Paragraph 50: [81] Judith Skutch Whitson interview by author, January 2008. [82] Thetford: Life Story, 4:30, FIPA.
+#: paragraph:50,sentence:116
+msgid "[81] Judith Skutch Whitson interview by author, January 2008. [82] Thetford: Life Story, 4:30, FIPA."
+msgstr ""
+
+#. Paragraph 51: [84] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:39, FIPA. [85] Kenneth Wapnick telephone interview by author, February 2009.
+#: paragraph:51,sentence:117
+msgid "[84] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:39, FIPA. [85] Kenneth Wapnick telephone interview by author, February 2009."
+msgstr ""
+
+#. Paragraph 52: [86] Thetford: Life Story, 4:40, FIPA. [87] Wapnick interview, February 2009.
+#: paragraph:52,sentence:118
+msgid "[86] Thetford: Life Story, 4:40, FIPA. [87] Wapnick interview, February 2009."
+msgstr ""
+
+#. Paragraph 53: [89] Kenneth Wapnick, Absence From Felicity (Roscoe, NY: Foundation for A Course In Miracles, 1991). [90] Wapnick interview, February 2009.
+#: paragraph:53,sentence:119
+msgid "[89] Kenneth Wapnick, Absence From Felicity (Roscoe, NY: Foundation for A Course In Miracles, 1991). [90] Wapnick interview, February 2009."
+msgstr ""
+
+#. Paragraph 54: [91] The Hugh Lynn Cayce version is the text partially edited by Helen and Bill and given to Cayce as a gift for his help and support with their project. [92] Judith Skutch Whitson, email message to a...
+#: paragraph:54,sentence:120
+msgid "[91] The Hugh Lynn Cayce version is the text partially edited by Helen and Bill and given to Cayce as a gift for his help and support with their project. [92] Judith Skutch Whitson, email message to author, December 2008."
+msgstr ""
+
+#. Paragraph 55: [93] Thetford: Life Story, 4:40, FIPA. [94] Robert Skutch, Journey Without Distance: The Story Behind A Course In Miracles (Berkeley, CA: Celestial Arts, 1984), 88.
+#: paragraph:55,sentence:121
+msgid "[93] Thetford: Life Story, 4:40, FIPA. [94] Robert Skutch, Journey Without Distance: The Story Behind A Course In Miracles (Berkeley, CA: Celestial Arts, 1984), 88."
+msgstr ""
+
+#. Paragraph 56: [95] This cave is the one Helen saw in her vision that preceded the scribing of ACIM. [96] Skutch, Journey Without Distance, 88.
+#: paragraph:56,sentence:122
+msgid "[95] This cave is the one Helen saw in her vision that preceded the scribing of ACIM. [96] Skutch, Journey Without Distance, 88."
+msgstr ""
+
+#. Paragraph 57: [97] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:46, FIPA. [98] Wapnick telephone interview by author, February 2009.
+#: paragraph:57,sentence:123
+msgid "[97] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:46, FIPA. [98] Wapnick telephone interview by author, February 2009."
+msgstr ""
+
+#. Paragraph 58: [99] Judith Skutch Whitson telephone interview by author, February 2008. [100] Judith Skutch Whitson interview, January 2008.
+#: paragraph:58,sentence:124
+msgid "[99] Judith Skutch Whitson telephone interview by author, February 2008. [100] Judith Skutch Whitson interview, January 2008."
+msgstr ""
+
+#. Paragraph 59: [101] William Congreve, The Mourning Bride,1697. Incorrectly attributed to Shakespeare, the full quote is “Heaven has no rage like love to hatred turned/ Nor hell a fury like a woman scorned.” [102] J...
+#: paragraph:59,sentence:125
+msgid "[101] William Congreve, The Mourning Bride,1697."
+msgstr ""
+
+#. Paragraph 59: [101] William Congreve, The Mourning Bride,1697. Incorrectly attributed to Shakespeare, the full quote is “Heaven has no rage like love to hatred turned/ Nor hell a fury like a woman scorned.” [102] J...
+#: paragraph:59,sentence:126
+msgid "Incorrectly attributed to Shakespeare, the full quote is “Heaven has no rage like love to hatred turned/ Nor hell a fury like a woman scorned.” [102] Judith Skutch Whitson interview, January 2008."
+msgstr ""
+
+#. Paragraph 60: [103] Thetford: Life Story, 4:50, FIPA. [104]A Course In Miracles Text, 530.
+#: paragraph:60,sentence:127
+msgid "[103] Thetford: Life Story, 4:50, FIPA. [104]A Course In Miracles Text, 530."
+msgstr ""
+
+#. Paragraph 61: [105]A Course In Miracles Text, 295. [106] Author’s transcription of Thetford Memorial Service, William Whitson, July 1988.
+#: paragraph:61,sentence:128
+msgid "[105]A Course In Miracles Text, 295. [106] Author’s transcription of Thetford Memorial Service, William Whitson, July 1988."
+msgstr ""
+
+#. Paragraph 62: [107] Thetford: Life Story, 4:33, FIPA. [108]A Course In Miracles Text, 346.
+#: paragraph:62,sentence:129
+msgid "[107] Thetford: Life Story, 4:33, FIPA. [108]A Course In Miracles Text, 346."
+msgstr ""
+

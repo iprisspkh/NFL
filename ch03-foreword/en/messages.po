@@ -1,0 +1,169 @@
+# Chapter 3: Foreword
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: Many of you will pick up this book because you know Bill Thetford by reputation or as a co-scribe of A Course In Miracles. Others may find it simply because you are meant to do so. Because of her clos...
+#: paragraph:1,sentence:1
+msgid "Many of you will pick up this book because you know Bill Thetford by reputation or as a co-scribe of A Course In Miracles."
+msgstr ""
+
+#. Paragraph 1: Many of you will pick up this book because you know Bill Thetford by reputation or as a co-scribe of A Course In Miracles. Others may find it simply because you are meant to do so. Because of her clos...
+#: paragraph:1,sentence:2
+msgid "Others may find it simply because you are meant to do so."
+msgstr ""
+
+#. Paragraph 1: Many of you will pick up this book because you know Bill Thetford by reputation or as a co-scribe of A Course In Miracles. Others may find it simply because you are meant to do so. Because of her clos...
+#: paragraph:1,sentence:3
+msgid "Because of her close personal relationship with Bill during his years in California, and her clear and eloquent voice, we know of no better person to offer insight into Bill’s life than our good friend Carol Howe."
+msgstr ""
+
+#. Paragraph 2: My journey (Jerry) with Bill and Carol began in 1978 when she first visited Tiburon in the fall of that year. I was still practicing psychiatry and Bill was new in town. I could tell after the first t...
+#: paragraph:2,sentence:4
+msgid "My journey (Jerry) with Bill and Carol began in 1978 when she first visited Tiburon in the fall of that year."
+msgstr ""
+
+#. Paragraph 2: My journey (Jerry) with Bill and Carol began in 1978 when she first visited Tiburon in the fall of that year. I was still practicing psychiatry and Bill was new in town. I could tell after the first t...
+#: paragraph:2,sentence:5
+msgid "I was still practicing psychiatry and Bill was new in town."
+msgstr ""
+
+#. Paragraph 2: My journey (Jerry) with Bill and Carol began in 1978 when she first visited Tiburon in the fall of that year. I was still practicing psychiatry and Bill was new in town. I could tell after the first t...
+#: paragraph:2,sentence:6
+msgid "I could tell after the first time all of us were together that he was impressed with her."
+msgstr ""
+
+#. Paragraph 2: My journey (Jerry) with Bill and Carol began in 1978 when she first visited Tiburon in the fall of that year. I was still practicing psychiatry and Bill was new in town. I could tell after the first t...
+#: paragraph:2,sentence:7
+msgid "I was not surprised when he started visiting her in Denver and know that being there was a kind of escape for him."
+msgstr ""
+
+#. Paragraph 2: My journey (Jerry) with Bill and Carol began in 1978 when she first visited Tiburon in the fall of that year. I was still practicing psychiatry and Bill was new in town. I could tell after the first t...
+#: paragraph:2,sentence:8
+msgid "I (Diane) met Carol in 1982 when she was in Tiburon and also recognized that she and Bill had a unique relationship."
+msgstr ""
+
+#. Paragraph 2: My journey (Jerry) with Bill and Carol began in 1978 when she first visited Tiburon in the fall of that year. I was still practicing psychiatry and Bill was new in town. I could tell after the first t...
+#: paragraph:2,sentence:9
+msgid "Little did any of us know at that time all the ways our lives would be intertwined over the years or just where our work would take us."
+msgstr ""
+
+#. Paragraph 3: This book is not simply a biography, but a body of work that integrates the facts of Bill’s life with Course teachings and the personal reflections of more than thirty friends in a way that creates a ...
+#: paragraph:3,sentence:10
+msgid "This book is not simply a biography, but a body of work that integrates the facts of Bill’s life with Course teachings and the personal reflections of more than thirty friends in a way that creates a unique and meaningful experience for the reader."
+msgstr ""
+
+#. Paragraph 3: This book is not simply a biography, but a body of work that integrates the facts of Bill’s life with Course teachings and the personal reflections of more than thirty friends in a way that creates a ...
+#: paragraph:3,sentence:11
+msgid "Bill was a man of opposites and contradictions who did not fall neatly into categories."
+msgstr ""
+
+#. Paragraph 3: This book is not simply a biography, but a body of work that integrates the facts of Bill’s life with Course teachings and the personal reflections of more than thirty friends in a way that creates a ...
+#: paragraph:3,sentence:12
+msgid "He was also a very private person and in reading Carol’s account of his life, we discovered many things about him that we did not know despite our close friendship and all the years we spent together."
+msgstr ""
+
+#. Paragraph 3: This book is not simply a biography, but a body of work that integrates the facts of Bill’s life with Course teachings and the personal reflections of more than thirty friends in a way that creates a ...
+#: paragraph:3,sentence:13
+msgid "That was a heart-warming experience for us."
+msgstr ""
+
+#. Paragraph 3: This book is not simply a biography, but a body of work that integrates the facts of Bill’s life with Course teachings and the personal reflections of more than thirty friends in a way that creates a ...
+#: paragraph:3,sentence:14
+msgid "As those of us who were there in the beginning of ACIM history continue to age, there is a sense of urgency to put our experiences and insights on paper so that others may learn from them."
+msgstr ""
+
+#. Paragraph 3: This book is not simply a biography, but a body of work that integrates the facts of Bill’s life with Course teachings and the personal reflections of more than thirty friends in a way that creates a ...
+#: paragraph:3,sentence:15
+msgid "We are grateful Carol has chosen to do so in regard to Bill’s life."
+msgstr ""
+
+#. Paragraph 4: After reading this book, we found it hard to imagine incorporating so many details about Bill into one document. Carol has accurately expressed the impressions and impact that Bill had on the many of ...
+#: paragraph:4,sentence:16
+msgid "After reading this book, we found it hard to imagine incorporating so many details about Bill into one document."
+msgstr ""
+
+#. Paragraph 4: After reading this book, we found it hard to imagine incorporating so many details about Bill into one document. Carol has accurately expressed the impressions and impact that Bill had on the many of ...
+#: paragraph:4,sentence:17
+msgid "Carol has accurately expressed the impressions and impact that Bill had on the many of us who loved and appreciated him so deeply."
+msgstr ""
+
+#. Paragraph 4: After reading this book, we found it hard to imagine incorporating so many details about Bill into one document. Carol has accurately expressed the impressions and impact that Bill had on the many of ...
+#: paragraph:4,sentence:18
+msgid "In many ways, it is a love story about Bill and his many friends, from comfortable close associates to casual acquaintances, whose insights and experiences with him are included throughout."
+msgstr ""
+
+#. Paragraph 4: After reading this book, we found it hard to imagine incorporating so many details about Bill into one document. Carol has accurately expressed the impressions and impact that Bill had on the many of ...
+#: paragraph:4,sentence:19
+msgid "It’s also a love story about Bill and the Course and, finally, about Bill and God."
+msgstr ""
+
+#. Paragraph 5: The offering of this book about Bill’s transformation is a gift for those who choose peace of mind. Many of us feel a need to own our thoughts and attitudes, heal our split minds, and thereby heal the...
+#: paragraph:5,sentence:20
+msgid "The offering of this book about Bill’s transformation is a gift for those who choose peace of mind."
+msgstr ""
+
+#. Paragraph 5: The offering of this book about Bill’s transformation is a gift for those who choose peace of mind. Many of us feel a need to own our thoughts and attitudes, heal our split minds, and thereby heal the...
+#: paragraph:5,sentence:21
+msgid "Many of us feel a need to own our thoughts and attitudes, heal our split minds, and thereby heal the world we see."
+msgstr ""
+
+#. Paragraph 5: The offering of this book about Bill’s transformation is a gift for those who choose peace of mind. Many of us feel a need to own our thoughts and attitudes, heal our split minds, and thereby heal the...
+#: paragraph:5,sentence:22
+msgid "We take an important step in our journey when we become aware that it’s only our own thoughts that hurt us and offer forgiveness instead."
+msgstr ""
+
+#. Paragraph 5: The offering of this book about Bill’s transformation is a gift for those who choose peace of mind. Many of us feel a need to own our thoughts and attitudes, heal our split minds, and thereby heal the...
+#: paragraph:5,sentence:23
+msgid "Bill’s story is one of giant steps taken through willingness to forgive."
+msgstr ""
+
+#. Paragraph 5: The offering of this book about Bill’s transformation is a gift for those who choose peace of mind. Many of us feel a need to own our thoughts and attitudes, heal our split minds, and thereby heal the...
+#: paragraph:5,sentence:24
+msgid "Bill was a partner in the original transcription of A Course In Miracles and a true practitioner of its teachings."
+msgstr ""
+
+#. Paragraph 5: The offering of this book about Bill’s transformation is a gift for those who choose peace of mind. Many of us feel a need to own our thoughts and attitudes, heal our split minds, and thereby heal the...
+#: paragraph:5,sentence:25
+msgid "One of his favorite phrases was “celestial amnesia” and he suggested we all practice forgetting everything unloving about our past."
+msgstr ""
+
+#. Paragraph 5: The offering of this book about Bill’s transformation is a gift for those who choose peace of mind. Many of us feel a need to own our thoughts and attitudes, heal our split minds, and thereby heal the...
+#: paragraph:5,sentence:26
+msgid "His continual practice of forgiveness, his kind presence, and wonderful sense of humor all led to his ultimate release."
+msgstr ""
+
+#. Paragraph 6: Carol’s love for Bill and the Course shines deeply in every line she has written here. With this book, she brings a balanced perspective about his life so others can have a better sense of what motiva...
+#: paragraph:6,sentence:27
+msgid "Carol’s love for Bill and the Course shines deeply in every line she has written here."
+msgstr ""
+
+#. Paragraph 6: Carol’s love for Bill and the Course shines deeply in every line she has written here. With this book, she brings a balanced perspective about his life so others can have a better sense of what motiva...
+#: paragraph:6,sentence:28
+msgid "With this book, she brings a balanced perspective about his life so others can have a better sense of what motivated him."
+msgstr ""
+
+#. Paragraph 6: Carol’s love for Bill and the Course shines deeply in every line she has written here. With this book, she brings a balanced perspective about his life so others can have a better sense of what motiva...
+#: paragraph:6,sentence:29
+msgid "It is a window into his heart and soul, a gift of love she has created for us all."
+msgstr ""
+
+#. Paragraph 6: Carol’s love for Bill and the Course shines deeply in every line she has written here. With this book, she brings a balanced perspective about his life so others can have a better sense of what motiva...
+#: paragraph:6,sentence:30
+msgid "We feel certain that Bill is blessing her with his wit and smiles wherever she goes, with every Course workshop she teaches, and with every word she has written within this book."
+msgstr ""
+
+#. Paragraph 6: Carol’s love for Bill and the Course shines deeply in every line she has written here. With this book, she brings a balanced perspective about his life so others can have a better sense of what motiva...
+#: paragraph:6,sentence:31
+msgid "We are grateful that you, the reader, have chosen to share in this love as well."
+msgstr ""
+
+#. Paragraph 7: With boundless love and peace, Jerry Jampolsky, M.D. and Diane Cirincione, Ph.D.
+#: paragraph:7,sentence:32
+msgid "With boundless love and peace, Jerry Jampolsky, M. D. and Diane Cirincione, Ph.D."
+msgstr ""
+

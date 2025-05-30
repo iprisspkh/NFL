@@ -1,0 +1,429 @@
+# Chapter 34: Chapter 24
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: On the last weekend Bill and Jo spent together, he had declared his intention to take more risks, expand his reach, and be ever more true to himself. The time for wearing a mask was over. My favorite ...
+#: paragraph:1,sentence:1
+msgid "On the last weekend Bill and Jo spent together, he had declared his intention to take more risks, expand his reach, and be ever more true to himself."
+msgstr ""
+
+#. Paragraph 1: On the last weekend Bill and Jo spent together, he had declared his intention to take more risks, expand his reach, and be ever more true to himself. The time for wearing a mask was over. My favorite ...
+#: paragraph:1,sentence:2
+msgid "The time for wearing a mask was over."
+msgstr ""
+
+#. Paragraph 1: On the last weekend Bill and Jo spent together, he had declared his intention to take more risks, expand his reach, and be ever more true to himself. The time for wearing a mask was over. My favorite ...
+#: paragraph:1,sentence:3
+msgid "My favorite mantra is, “When all else fails, tell the truth,” and Bill now adopted this fully."
+msgstr ""
+
+#. Paragraph 1: On the last weekend Bill and Jo spent together, he had declared his intention to take more risks, expand his reach, and be ever more true to himself. The time for wearing a mask was over. My favorite ...
+#: paragraph:1,sentence:4
+msgid "We have been conditioned to do everything else but that, having learned our manipulating and negotiating skills at a very early age."
+msgstr ""
+
+#. Paragraph 1: On the last weekend Bill and Jo spent together, he had declared his intention to take more risks, expand his reach, and be ever more true to himself. The time for wearing a mask was over. My favorite ...
+#: paragraph:1,sentence:5
+msgid "As with all of us, Bill’s imprisonment began in childhood; with each grievance he collected, another imaginary bar was installed, creating the subjective experience of an unshared, lonely prison."
+msgstr ""
+
+#. Paragraph 1: On the last weekend Bill and Jo spent together, he had declared his intention to take more risks, expand his reach, and be ever more true to himself. The time for wearing a mask was over. My favorite ...
+#: paragraph:1,sentence:6
+msgid "But with each choice to change his mind, a bar vanished, and he felt more powerful, integrated, secure, confident, and able to access his inborn wisdom."
+msgstr ""
+
+#. Paragraph 1: On the last weekend Bill and Jo spent together, he had declared his intention to take more risks, expand his reach, and be ever more true to himself. The time for wearing a mask was over. My favorite ...
+#: paragraph:1,sentence:7
+msgid "He was in charge of the prison doors and could use his talents to gain his freedom."
+msgstr ""
+
+#. Paragraph 2: Abilities must be developed before you can use them. This is not true of anything that God created, but it is the kindest solution possible for what you made. In an impossible situation, you can devel...
+#: paragraph:2,sentence:8
+msgid "Abilities must be developed before you can use them"
+msgstr ""
+
+#. Paragraph 2: Abilities must be developed before you can use them. This is not true of anything that God created, but it is the kindest solution possible for what you made. In an impossible situation, you can devel...
+#: paragraph:2,sentence:9
+msgid "This is not true of anything that God created, but it is the kindest solution possible for what you made"
+msgstr ""
+
+#. Paragraph 2: Abilities must be developed before you can use them. This is not true of anything that God created, but it is the kindest solution possible for what you made. In an impossible situation, you can devel...
+#: paragraph:2,sentence:10
+msgid "In an impossible situation, you can develop your abilities to the point where they can get you out of it"
+msgstr ""
+
+#. Paragraph 2: Abilities must be developed before you can use them. This is not true of anything that God created, but it is the kindest solution possible for what you made. In an impossible situation, you can devel...
+#: paragraph:2,sentence:11
+msgid "You have a Guide to how to develop them, but you have no commander except yourself"
+msgstr ""
+
+#. Paragraph 2: Abilities must be developed before you can use them. This is not true of anything that God created, but it is the kindest solution possible for what you made. In an impossible situation, you can devel...
+#: paragraph:2,sentence:12
+msgid "This leaves you in charge of the Kingdom, with both a Guide to find it and a means to keep it"
+msgstr ""
+
+#. Paragraph 2: Abilities must be developed before you can use them. This is not true of anything that God created, but it is the kindest solution possible for what you made. In an impossible situation, you can devel...
+#: paragraph:2,sentence:13
+msgid "You have a model to follow who will strengthen your command, and never detract from it in any way"
+msgstr ""
+
+#. Paragraph 2: Abilities must be developed before you can use them. This is not true of anything that God created, but it is the kindest solution possible for what you made. In an impossible situation, you can devel...
+#: paragraph:2,sentence:14
+msgid "You therefore retain the central place in your imagined enslavement, which in itself demonstrates that you are not enslaved.[1]"
+msgstr ""
+
+#. Paragraph 3: Bill was always forthright about needing help with wanting to forgive. Lukewarm to the idea at first, he developed a zeal for leaving no grievance unaddressed as the years passed and his understanding...
+#: paragraph:3,sentence:15
+msgid "Bill was always forthright about needing help with wanting to forgive"
+msgstr ""
+
+#. Paragraph 3: Bill was always forthright about needing help with wanting to forgive. Lukewarm to the idea at first, he developed a zeal for leaving no grievance unaddressed as the years passed and his understanding...
+#: paragraph:3,sentence:16
+msgid "Lukewarm to the idea at first, he developed a zeal for leaving no grievance unaddressed as the years passed and his understanding grew"
+msgstr ""
+
+#. Paragraph 3: Bill was always forthright about needing help with wanting to forgive. Lukewarm to the idea at first, he developed a zeal for leaving no grievance unaddressed as the years passed and his understanding...
+#: paragraph:3,sentence:17
+msgid "When he recognized that his own ego thoughts enslaved him, his final biggest “risk” was deciding to let them all go"
+msgstr ""
+
+#. Paragraph 3: Bill was always forthright about needing help with wanting to forgive. Lukewarm to the idea at first, he developed a zeal for leaving no grievance unaddressed as the years passed and his understanding...
+#: paragraph:3,sentence:18
+msgid "He often said that his major prayer was “Help!” or the expanded version, “Help me do this!” It was no more specific than that, regarding either the subject or object of his prayer"
+msgstr ""
+
+#. Paragraph 3: Bill was always forthright about needing help with wanting to forgive. Lukewarm to the idea at first, he developed a zeal for leaving no grievance unaddressed as the years passed and his understanding...
+#: paragraph:3,sentence:19
+msgid "The Lucketts said that occasionally, while they shared a home with Bill, they could hear him earnestly praying, “Help me do this!” His deepest desire was to completely forgive everyone and everything"
+msgstr ""
+
+#. Paragraph 3: Bill was always forthright about needing help with wanting to forgive. Lukewarm to the idea at first, he developed a zeal for leaving no grievance unaddressed as the years passed and his understanding...
+#: paragraph:3,sentence:20
+msgid "In her book, You Are That, the American teacher Gangaji describes what we set in motion with the simple prayer, “Help”:"
+msgstr ""
+
+#. Paragraph 4: Help is here. You are never separate from help. Anytime you ask for help, help presents itself. It is beautifully humbling to ask for help. It is good to give up your idea of independence. Just say “P...
+#: paragraph:4,sentence:21
+msgid "Help is here"
+msgstr ""
+
+#. Paragraph 4: Help is here. You are never separate from help. Anytime you ask for help, help presents itself. It is beautifully humbling to ask for help. It is good to give up your idea of independence. Just say “P...
+#: paragraph:4,sentence:22
+msgid "You are never separate from help"
+msgstr ""
+
+#. Paragraph 4: Help is here. You are never separate from help. Anytime you ask for help, help presents itself. It is beautifully humbling to ask for help. It is good to give up your idea of independence. Just say “P...
+#: paragraph:4,sentence:23
+msgid "Anytime you ask for help, help presents itself"
+msgstr ""
+
+#. Paragraph 4: Help is here. You are never separate from help. Anytime you ask for help, help presents itself. It is beautifully humbling to ask for help. It is good to give up your idea of independence. Just say “P...
+#: paragraph:4,sentence:24
+msgid "It is beautifully humbling to ask for help"
+msgstr ""
+
+#. Paragraph 4: Help is here. You are never separate from help. Anytime you ask for help, help presents itself. It is beautifully humbling to ask for help. It is good to give up your idea of independence. Just say “P...
+#: paragraph:4,sentence:25
+msgid "It is good to give up your idea of independence"
+msgstr ""
+
+#. Paragraph 4: Help is here. You are never separate from help. Anytime you ask for help, help presents itself. It is beautifully humbling to ask for help. It is good to give up your idea of independence. Just say “P...
+#: paragraph:4,sentence:26
+msgid "Just say “Please help,” and you will see instantly that every enlightened being in every realm, known and unknown, from all the dimensions, charted and uncharted, is immediately supporting, helping, reminding, pushing, pulling, embracing, holding, shaking or doing whatever is needed"
+msgstr ""
+
+#. Paragraph 4: Help is here. You are never separate from help. Anytime you ask for help, help presents itself. It is beautifully humbling to ask for help. It is good to give up your idea of independence. Just say “P...
+#: paragraph:4,sentence:27
+msgid "Your plea for help cuts through all past arrogance"
+msgstr ""
+
+#. Paragraph 4: Help is here. You are never separate from help. Anytime you ask for help, help presents itself. It is beautifully humbling to ask for help. It is good to give up your idea of independence. Just say “P...
+#: paragraph:4,sentence:28
+msgid "You are helped immediately because you are calling to the truth of yourself.[2]"
+msgstr ""
+
+#. Paragraph 5: A Course In Miracles echoes this: Everyone here has entered darkness, yet no one has entered it alone. . . . For he has come with Heaven’s Help within him, ready to lead him out of darkness into light...
+#: paragraph:5,sentence:29
+msgid "A Course In Miracles echoes this: Everyone here has entered darkness, yet no one has entered it alone. . ."
+msgstr ""
+
+#. Paragraph 5: A Course In Miracles echoes this: Everyone here has entered darkness, yet no one has entered it alone. . . . For he has come with Heaven’s Help within him, ready to lead him out of darkness into light...
+#: paragraph:5,sentence:30
+msgid "For he has come with Heaven’s Help within him, ready to lead him out of darkness into light at any time"
+msgstr ""
+
+#. Paragraph 5: A Course In Miracles echoes this: Everyone here has entered darkness, yet no one has entered it alone. . . . For he has come with Heaven’s Help within him, ready to lead him out of darkness into light...
+#: paragraph:5,sentence:31
+msgid "The time he chooses can be any time, for help is there, awaiting but his choice"
+msgstr ""
+
+#. Paragraph 5: A Course In Miracles echoes this: Everyone here has entered darkness, yet no one has entered it alone. . . . For he has come with Heaven’s Help within him, ready to lead him out of darkness into light...
+#: paragraph:5,sentence:32
+msgid "And when he chooses to avail himself of what is given him, then will he see each situation that he thought before was means to justify his anger turned to an event which justifies his love"
+msgstr ""
+
+#. Paragraph 5: A Course In Miracles echoes this: Everyone here has entered darkness, yet no one has entered it alone. . . . For he has come with Heaven’s Help within him, ready to lead him out of darkness into light...
+#: paragraph:5,sentence:33
+msgid "He will hear plainly that the calls to war he heard before are really calls to peace.[3]"
+msgstr ""
+
+#. Paragraph 6: Asking for help turns out to be the best insurance policy around! In February 1988, Bill experienced some bronchial difficulty, which required postponing a planned trip to Tiburon. For several years, ...
+#: paragraph:6,sentence:34
+msgid "Asking for help turns out to be the best insurance policy around"
+msgstr ""
+
+#. Paragraph 6: Asking for help turns out to be the best insurance policy around! In February 1988, Bill experienced some bronchial difficulty, which required postponing a planned trip to Tiburon. For several years, ...
+#: paragraph:6,sentence:35
+msgid "In February 1988, Bill experienced some bronchial difficulty, which required postponing a planned trip to Tiburon"
+msgstr ""
+
+#. Paragraph 6: Asking for help turns out to be the best insurance policy around! In February 1988, Bill experienced some bronchial difficulty, which required postponing a planned trip to Tiburon. For several years, ...
+#: paragraph:6,sentence:36
+msgid "For several years, he had had occasional incidents of atrial fibrillation, an arrhythmia of the heart not uncommon in older people but more dangerous for him, as his heart had been compromised by the rheumatic fever he developed as a child"
+msgstr ""
+
+#. Paragraph 6: Asking for help turns out to be the best insurance policy around! In February 1988, Bill experienced some bronchial difficulty, which required postponing a planned trip to Tiburon. For several years, ...
+#: paragraph:6,sentence:37
+msgid "Throughout his adult life he had irregular heartbeat episodes that he basically ignored; he was very casual about body-related issues except for the carotid artery blockage in 1981, which demanded attention and, ultimately, two surgeries"
+msgstr ""
+
+#. Paragraph 6: Asking for help turns out to be the best insurance policy around! In February 1988, Bill experienced some bronchial difficulty, which required postponing a planned trip to Tiburon. For several years, ...
+#: paragraph:6,sentence:38
+msgid "Jack noted Bill’s flu-like symptoms and, aware of his chronic heart condition, asked if his affairs were in order and/or if he would like help with his will or other related paperwork"
+msgstr ""
+
+#. Paragraph 6: Asking for help turns out to be the best insurance policy around! In February 1988, Bill experienced some bronchial difficulty, which required postponing a planned trip to Tiburon. For several years, ...
+#: paragraph:6,sentence:39
+msgid "Bill thanked him and laughed, reassuring him, “Don’t worry, it’s all done and, by the way, when my time comes, I’m going to Judy"
+msgstr ""
+
+#. Paragraph 6: Asking for help turns out to be the best insurance policy around! In February 1988, Bill experienced some bronchial difficulty, which required postponing a planned trip to Tiburon. For several years, ...
+#: paragraph:6,sentence:40
+msgid "Judy’s in charge and will know what to do.” Jack commented about his health:"
+msgstr ""
+
+#. Paragraph 7: After his near fatal heart attack in 1981, Bill was always aware that the angel of death was on his left shoulder. He had constant heart fibrillations. We took him to the emergency room at Scripps Hos...
+#: paragraph:7,sentence:41
+msgid "After his near fatal heart attack in 1981, Bill was always aware that the angel of death was on his left shoulder"
+msgstr ""
+
+#. Paragraph 7: After his near fatal heart attack in 1981, Bill was always aware that the angel of death was on his left shoulder. He had constant heart fibrillations. We took him to the emergency room at Scripps Hos...
+#: paragraph:7,sentence:42
+msgid "He had constant heart fibrillations"
+msgstr ""
+
+#. Paragraph 7: After his near fatal heart attack in 1981, Bill was always aware that the angel of death was on his left shoulder. He had constant heart fibrillations. We took him to the emergency room at Scripps Hos...
+#: paragraph:7,sentence:43
+msgid "We took him to the emergency room at Scripps Hospital more than once for fibrillations"
+msgstr ""
+
+#. Paragraph 7: After his near fatal heart attack in 1981, Bill was always aware that the angel of death was on his left shoulder. He had constant heart fibrillations. We took him to the emergency room at Scripps Hos...
+#: paragraph:7,sentence:44
+msgid "He was having some signs that his work was done"
+msgstr ""
+
+#. Paragraph 7: After his near fatal heart attack in 1981, Bill was always aware that the angel of death was on his left shoulder. He had constant heart fibrillations. We took him to the emergency room at Scripps Hos...
+#: paragraph:7,sentence:45
+msgid "He did not make a big thing of this publicly, but he knew his life was in danger at all times"
+msgstr ""
+
+#. Paragraph 7: After his near fatal heart attack in 1981, Bill was always aware that the angel of death was on his left shoulder. He had constant heart fibrillations. We took him to the emergency room at Scripps Hos...
+#: paragraph:7,sentence:46
+msgid "This was one reason he asked Layle and me to live with him; he wanted others around if help was needed"
+msgstr ""
+
+#. Paragraph 7: After his near fatal heart attack in 1981, Bill was always aware that the angel of death was on his left shoulder. He had constant heart fibrillations. We took him to the emergency room at Scripps Hos...
+#: paragraph:7,sentence:47
+msgid "He strove to live fully and experience all he could before he left"
+msgstr ""
+
+#. Paragraph 7: After his near fatal heart attack in 1981, Bill was always aware that the angel of death was on his left shoulder. He had constant heart fibrillations. We took him to the emergency room at Scripps Hos...
+#: paragraph:7,sentence:48
+msgid "He was very brave.[4]"
+msgstr ""
+
+#. Paragraph 8: Although many were completely surprised at Bill’s passing, others were apparently prescient close to the end. Driving around a bend in the road (in April, his next-to-last trip to Tiburon), Diane Ciri...
+#: paragraph:8,sentence:49
+msgid "Although many were completely surprised at Bill’s passing, others were apparently prescient close to the end."
+msgstr ""
+
+#. Paragraph 8: Although many were completely surprised at Bill’s passing, others were apparently prescient close to the end. Driving around a bend in the road (in April, his next-to-last trip to Tiburon), Diane Ciri...
+#: paragraph:8,sentence:50
+msgid "Driving around a bend in the road (in April, his next-to-last trip to Tiburon), Diane Cirincione was surprised to see Bill standing there."
+msgstr ""
+
+#. Paragraph 8: Although many were completely surprised at Bill’s passing, others were apparently prescient close to the end. Driving around a bend in the road (in April, his next-to-last trip to Tiburon), Diane Ciri...
+#: paragraph:8,sentence:51
+msgid "He smiled, she stopped the car and got out to visit with him."
+msgstr ""
+
+#. Paragraph 9: When I first saw him, I had this strange feeling—it was so wonderful to see him there, but in a very special way. As I got in the car at the end of our conversation, he leaned through the window and g...
+#: paragraph:9,sentence:52
+msgid "When I first saw him, I had this strange feeling—it was so wonderful to see him there, but in a very special way"
+msgstr ""
+
+#. Paragraph 9: When I first saw him, I had this strange feeling—it was so wonderful to see him there, but in a very special way. As I got in the car at the end of our conversation, he leaned through the window and g...
+#: paragraph:9,sentence:53
+msgid "As I got in the car at the end of our conversation, he leaned through the window and gave me another hug"
+msgstr ""
+
+#. Paragraph 9: When I first saw him, I had this strange feeling—it was so wonderful to see him there, but in a very special way. As I got in the car at the end of our conversation, he leaned through the window and g...
+#: paragraph:9,sentence:54
+msgid "I pulled away slowly, looking in the mirror as he stood there watching the car"
+msgstr ""
+
+#. Paragraph 9: When I first saw him, I had this strange feeling—it was so wonderful to see him there, but in a very special way. As I got in the car at the end of our conversation, he leaned through the window and g...
+#: paragraph:9,sentence:55
+msgid "I was amazed to find myself thinking, very consciously, “If this is the last time I ever see Bill, that will be okay.” I felt so good, totally fulfilled, and when I heard that he had died, that picture of him looking at me through the window, accompanied by that strange thought, immediately flashed through my mind.[5]"
+msgstr ""
+
+#. Paragraph 10: Pat Hopkins also had a very telling dream three weeks before Bill’s passing. Excerpts cited from that dream reveal the magnitude of Bill’s transformation and the universal availability of that informa...
+#: paragraph:10,sentence:56
+msgid "Pat Hopkins also had a very telling dream three weeks before Bill’s passing."
+msgstr ""
+
+#. Paragraph 10: Pat Hopkins also had a very telling dream three weeks before Bill’s passing. Excerpts cited from that dream reveal the magnitude of Bill’s transformation and the universal availability of that informa...
+#: paragraph:10,sentence:57
+msgid "Excerpts cited from that dream reveal the magnitude of Bill’s transformation and the universal availability of that information in the one mind we all share."
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:58
+msgid "In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:59
+msgid "For whatever reason, our tickets were split and Bill was sitting two or three rows in front of me; Calvin and Judy were in my row and farther down the line was Frances [Vaughan]"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:60
+msgid "About the time people would be reading their program notes, some ladies came through; if you were at a ballgame you would say they were hotdog and beer hawkers"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:61
+msgid "But these were very straight, ethereal-looking, ballerina-type ladies and they were handing out chocolate sundaes, for which Bill had a particular fondness"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:62
+msgid "Not only were there chocolate sundaes, but those coffee-crunch things you could put on top, which he also loved"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:63
+msgid "I thought this was very strange, but they were very good and I noticed that he was eating his"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:64
+msgid "About the time you would expect the overture to begin, Bill stood up from his chair, turned around to face us, and said, “I have come full circle in my life"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:65
+msgid "All the things that I didn’t understand, all the things I was afraid to say, I now want to share with you.” He proceeded to give the most exquisite, simple, eloquent speech that moved absolutely everybody"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:66
+msgid "Knowing how he hated to speak in public and the anxiety it caused him, the relaxation with which he delivered this truth of his life was an incredible thing to behold"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:67
+msgid "When he was finished, Frances, Judy, Calvin, and I looked at each other and said we thought we knew Bill, but this was a totally new dimension of this person that we all loved so much"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:68
+msgid "Nobody applauded but when he finished, everybody stood up with tears running down their cheeks"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:69
+msgid "The house was filled and people started to gather in small clumps or groups and began to tell each other the truth of their lives with the same utter defenselessness, vulnerability, and trust that he had exhibited when he stood and talked with us"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:70
+msgid "I saw Bill beaming down on absolutely everyone at what he had set in motion"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:71
+msgid "That was the end of the dream"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:72
+msgid "The next morning when I awakened, I was in a joyful state"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:73
+msgid "I knew that Bill had come to something in his life that was totally freeing, absolutely new, and the achievement of a lifetime"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:74
+msgid "Naturally, my ego got involved and wondered if it was my own projection, so I waited eagerly for his next visit to share the dream with him, to see for myself whether or not it was true"
+msgstr ""
+
+#. Paragraph 11: In the dream, his friend, Calvin Hatcher, the only other administrator at Columbia who knew at the time what he and Helen were up to, had taken Bill and me to an opera in New York City. For whatever r...
+#: paragraph:11,sentence:75
+msgid "As we now know, it was a dream but it was also true.[6]"
+msgstr ""
+
+#. Paragraph 12: Hugh noted that, although he never talked to him about this specifically, he thought Bill understood that the greatest thing we can do for the world is to awaken individually. He and Gayle strongly fe...
+#: paragraph:12,sentence:76
+msgid "Hugh noted that, although he never talked to him about this specifically, he thought Bill understood that the greatest thing we can do for the world is to awaken individually"
+msgstr ""
+
+#. Paragraph 12: Hugh noted that, although he never talked to him about this specifically, he thought Bill understood that the greatest thing we can do for the world is to awaken individually. He and Gayle strongly fe...
+#: paragraph:12,sentence:77
+msgid "He and Gayle strongly felt he did awaken by the end of his earthly life, and accomplished it in a relatively short period of time"
+msgstr ""
+
+#. Paragraph 12: Hugh noted that, although he never talked to him about this specifically, he thought Bill understood that the greatest thing we can do for the world is to awaken individually. He and Gayle strongly fe...
+#: paragraph:12,sentence:78
+msgid "He observed:"
+msgstr ""
+
+#. Paragraph 13: At the end of his life, Bill was going around telling everybody not to take this Course so seriously, not that one doesn’t revere or appreciate it, just don’t make it into such a rigid, deadly thing. ...
+#: paragraph:13,sentence:79
+msgid "At the end of his life, Bill was going around telling everybody not to take this Course so seriously, not that one doesn’t revere or appreciate it, just don’t make it into such a rigid, deadly thing"
+msgstr ""
+
+#. Paragraph 13: At the end of his life, Bill was going around telling everybody not to take this Course so seriously, not that one doesn’t revere or appreciate it, just don’t make it into such a rigid, deadly thing. ...
+#: paragraph:13,sentence:80
+msgid "He still had his little soap operas with extensive travel plans on the drawing board, other relationship and living arrangement offers on the table, and then there was the real Bill"
+msgstr ""
+
+#. Paragraph 13: At the end of his life, Bill was going around telling everybody not to take this Course so seriously, not that one doesn’t revere or appreciate it, just don’t make it into such a rigid, deadly thing. ...
+#: paragraph:13,sentence:81
+msgid "Toward the end, he got into that wonderful state of mind where he could awaken; you could see it all so clearly"
+msgstr ""
+
+#. Paragraph 13: At the end of his life, Bill was going around telling everybody not to take this Course so seriously, not that one doesn’t revere or appreciate it, just don’t make it into such a rigid, deadly thing. ...
+#: paragraph:13,sentence:82
+msgid "He was smart enough not to get involved back in the world, a perfect time for him to leave.[7]"
+msgstr ""
+
+#. Paragraph 14: After he passed, I asked Gayle what confirmed for her that he really had awakened. She answered, “A great burst of joy came to me during his memorial service.”[8]
+#: paragraph:14,sentence:83
+msgid "After he passed, I asked Gayle what confirmed for her that he really had awakened"
+msgstr ""
+
+#. Paragraph 14: After he passed, I asked Gayle what confirmed for her that he really had awakened. She answered, “A great burst of joy came to me during his memorial service.”[8]
+#: paragraph:14,sentence:84
+msgid "She answered, “A great burst of joy came to me during his memorial service.”[8]"
+msgstr ""
+

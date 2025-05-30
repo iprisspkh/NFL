@@ -1,0 +1,1414 @@
+# Chapter 32: Chapter 23
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: In October 1986, Bill moved permanently to La Jolla. He had released much in Tiburon and done a marvelous job, as Frances Vaughan stated earlier, of learning to “take up no space,” inserting virtually...
+#: paragraph:1,sentence:1
+msgid "In October 1986, Bill moved permanently to La Jolla"
+msgstr ""
+
+#. Paragraph 1: In October 1986, Bill moved permanently to La Jolla. He had released much in Tiburon and done a marvelous job, as Frances Vaughan stated earlier, of learning to “take up no space,” inserting virtually...
+#: paragraph:1,sentence:2
+msgid "He had released much in Tiburon and done a marvelous job, as Frances Vaughan stated earlier, of learning to “take up no space,” inserting virtually no “personality noise.” However, not wanting to be egocentric can sometimes be a cover for emotional repression; he retained some old inhibitions and defense patterns when it came to self-expression"
+msgstr ""
+
+#. Paragraph 1: In October 1986, Bill moved permanently to La Jolla. He had released much in Tiburon and done a marvelous job, as Frances Vaughan stated earlier, of learning to “take up no space,” inserting virtually...
+#: paragraph:1,sentence:3
+msgid "La Jolla was about sorting this out so he could more easily express his loving, gracious energy without reservation"
+msgstr ""
+
+#. Paragraph 1: In October 1986, Bill moved permanently to La Jolla. He had released much in Tiburon and done a marvelous job, as Frances Vaughan stated earlier, of learning to “take up no space,” inserting virtually...
+#: paragraph:1,sentence:4
+msgid "He knew, as did those close to him, that the healing uniquely possible through his friends in southern California would be the major focus of the rest of his life"
+msgstr ""
+
+#. Paragraph 1: In October 1986, Bill moved permanently to La Jolla. He had released much in Tiburon and done a marvelous job, as Frances Vaughan stated earlier, of learning to “take up no space,” inserting virtually...
+#: paragraph:1,sentence:5
+msgid "Forgiveness was still “job one.”"
+msgstr ""
+
+#. Paragraph 2: Bill’s companions—better called playmates—for “letting go on the fast track” were his close friends, Jack and Layle Luckett, whom he had been visiting since the early 1980s. They met in Tiburon in 197...
+#: paragraph:2,sentence:6
+msgid "Bill’s companions—better called playmates—for “letting go on the fast track” were his close friends, Jack and Layle Luckett, whom he had been visiting since the early 1980s."
+msgstr ""
+
+#. Paragraph 2: Bill’s companions—better called playmates—for “letting go on the fast track” were his close friends, Jack and Layle Luckett, whom he had been visiting since the early 1980s. They met in Tiburon in 197...
+#: paragraph:2,sentence:7
+msgid "They met in Tiburon in 1978, when Jack was director of the Center for Attitudinal Healing."
+msgstr ""
+
+#. Paragraph 2: Bill’s companions—better called playmates—for “letting go on the fast track” were his close friends, Jack and Layle Luckett, whom he had been visiting since the early 1980s. They met in Tiburon in 197...
+#: paragraph:2,sentence:8
+msgid "After a short while, the couple felt drawn to the San Diego area and relocated there."
+msgstr ""
+
+#. Paragraph 2: Bill’s companions—better called playmates—for “letting go on the fast track” were his close friends, Jack and Layle Luckett, whom he had been visiting since the early 1980s. They met in Tiburon in 197...
+#: paragraph:2,sentence:9
+msgid "The Lucketts served as Bill’s gateway to the joyous part of himself, because they were certifiably the most lighthearted of his companions."
+msgstr ""
+
+#. Paragraph 2: Bill’s companions—better called playmates—for “letting go on the fast track” were his close friends, Jack and Layle Luckett, whom he had been visiting since the early 1980s. They met in Tiburon in 197...
+#: paragraph:2,sentence:10
+msgid "The label applied to them was “wild and carefree,” and almost literally arm in arm, the three of them traveled the last part of Bill’s path together."
+msgstr ""
+
+#. Paragraph 3: Wild and carefree? Here was a couple with unlikely credentials for being Bill’s playmates. When they met Bill, Layle was teaching MBA students in San Francisco and working on her Ph.D.; Jack was a ret...
+#: paragraph:3,sentence:11
+msgid "Wild and carefree?"
+msgstr ""
+
+#. Paragraph 3: Wild and carefree? Here was a couple with unlikely credentials for being Bill’s playmates. When they met Bill, Layle was teaching MBA students in San Francisco and working on her Ph.D.; Jack was a ret...
+#: paragraph:3,sentence:12
+msgid "Here was a couple with unlikely credentials for being Bill’s playmates?"
+msgstr ""
+
+#. Paragraph 3: Wild and carefree? Here was a couple with unlikely credentials for being Bill’s playmates. When they met Bill, Layle was teaching MBA students in San Francisco and working on her Ph.D.; Jack was a ret...
+#: paragraph:3,sentence:13
+msgid "When they met Bill, Layle was teaching MBA students in San Francisco and working on her Ph.D. ; Jack was a retired Marine colonel, also retired from careers as a criminal lawyer and assistant district attorney in Los Angeles?"
+msgstr ""
+
+#. Paragraph 3: Wild and carefree? Here was a couple with unlikely credentials for being Bill’s playmates. When they met Bill, Layle was teaching MBA students in San Francisco and working on her Ph.D.; Jack was a ret...
+#: paragraph:3,sentence:14
+msgid "They were devoted ACIM students and loved music and the theater?"
+msgstr ""
+
+#. Paragraph 3: Wild and carefree? Here was a couple with unlikely credentials for being Bill’s playmates. When they met Bill, Layle was teaching MBA students in San Francisco and working on her Ph.D.; Jack was a ret...
+#: paragraph:3,sentence:15
+msgid "Who could be more suited to assist Bill move from an academic/intellectual orientation to its opposite end of the spectrum than ones who had already done so themselves?"
+msgstr ""
+
+#. Paragraph 4: If San Diego was as far from New York as one can get in this country, so was life under the Lucketts’ tutelage. They were the perfect catalysts for Bill in tying up loose ends, moving toward greater o...
+#: paragraph:4,sentence:16
+msgid "If San Diego was as far from New York as one can get in this country, so was life under the Lucketts’ tutelage."
+msgstr ""
+
+#. Paragraph 4: If San Diego was as far from New York as one can get in this country, so was life under the Lucketts’ tutelage. They were the perfect catalysts for Bill in tying up loose ends, moving toward greater o...
+#: paragraph:4,sentence:17
+msgid "They were the perfect catalysts for Bill in tying up loose ends, moving toward greater openness and freedom, and releasing what yet weighed him down."
+msgstr ""
+
+#. Paragraph 4: If San Diego was as far from New York as one can get in this country, so was life under the Lucketts’ tutelage. They were the perfect catalysts for Bill in tying up loose ends, moving toward greater o...
+#: paragraph:4,sentence:18
+msgid "He relaxed and enjoyed life in La Jolla, loved the lighter atmosphere and just being a regular member of the “Garden,” the Lucketts’ ACIM group."
+msgstr ""
+
+#. Paragraph 4: If San Diego was as far from New York as one can get in this country, so was life under the Lucketts’ tutelage. They were the perfect catalysts for Bill in tying up loose ends, moving toward greater o...
+#: paragraph:4,sentence:19
+msgid "A local friend found a condo for him, and Jules and Carlagaye moved his possessions and set things up there."
+msgstr ""
+
+#. Paragraph 4: If San Diego was as far from New York as one can get in this country, so was life under the Lucketts’ tutelage. They were the perfect catalysts for Bill in tying up loose ends, moving toward greater o...
+#: paragraph:4,sentence:20
+msgid "His friends carefully watched his comings and goings to La Jolla, weighing in with observations about what would be his last and final move, and unanimously approving it, as if anyone else’s opinion mattered."
+msgstr ""
+
+#. Paragraph 4: If San Diego was as far from New York as one can get in this country, so was life under the Lucketts’ tutelage. They were the perfect catalysts for Bill in tying up loose ends, moving toward greater o...
+#: paragraph:4,sentence:21
+msgid "Bill was following his famous right-on intuition."
+msgstr ""
+
+#. Paragraph 5: Pat’s observation echoed those opinions: What I did feel was that he was reliving the childhood he hadn’t been able to have. I thought that was terrific—doing such goofy and uncharacteristic things th...
+#: paragraph:5,sentence:22
+msgid "Pat’s observation echoed those opinions: What I did feel was that he was reliving the childhood he hadn’t been able to have"
+msgstr ""
+
+#. Paragraph 5: Pat’s observation echoed those opinions: What I did feel was that he was reliving the childhood he hadn’t been able to have. I thought that was terrific—doing such goofy and uncharacteristic things th...
+#: paragraph:5,sentence:23
+msgid "I thought that was terrific—doing such goofy and uncharacteristic things that he wouldn’t have been able to do in the Bay area because of inhibition and projections, too many roles"
+msgstr ""
+
+#. Paragraph 5: Pat’s observation echoed those opinions: What I did feel was that he was reliving the childhood he hadn’t been able to have. I thought that was terrific—doing such goofy and uncharacteristic things th...
+#: paragraph:5,sentence:24
+msgid "The Lucketts were such a wild and carefree couple; they were fabulous for him"
+msgstr ""
+
+#. Paragraph 5: Pat’s observation echoed those opinions: What I did feel was that he was reliving the childhood he hadn’t been able to have. I thought that was terrific—doing such goofy and uncharacteristic things th...
+#: paragraph:5,sentence:25
+msgid "I think his homosexuality had much more spaciousness there, going to places where I think he felt in the company of his own.[16]"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:26
+msgid "The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:27
+msgid "Jack commented: We always had a strong gay contingent in our groups and we took Bill to many ACIM/gay meetings"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:28
+msgid "We also observed him with his own gay friends"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:29
+msgid "As you know, Bill possessed a quiet but intense magnetism that impressed and attracted women as well as men"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:30
+msgid "He was uniformly cordial and warm to men, women, straight, or gay"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:31
+msgid "He was not at ease with children or loudmouths"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:32
+msgid "He was a celebrity in the gay male community, because of what he had accomplished in life"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:33
+msgid "He did not try to impress or boast regardless of who he was introduced to"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:34
+msgid "That was part of his unique charm"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:35
+msgid "When we were with Bill and a male friend on a date, going to the theatre, the circus, or dinner, he was always very attentive and super concerned that his escort was treated well and had a good time"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:36
+msgid "Bill had many gay friends but few, what we would call today, close relationships"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:37
+msgid "His past lovers as well as casual friends were loyal and respectful right to the end"
+msgstr ""
+
+#. Paragraph 6: The “company of his own” referred not only to the myriad new friends and acquaintances from dozens of ACIM groups, but to the gay community there and its much more open atmosphere. Jack commented: We ...
+#: paragraph:6,sentence:38
+msgid "How lucky we all were to share part of the life of a real avatar.[17]"
+msgstr ""
+
+#. Paragraph 7: Because it is unusual, a number of others also mentioned that Bill remained friends with and was revered by past lovers and intimate associates. It’s almost as if he lived parallel lives—his straight ...
+#: paragraph:7,sentence:39
+msgid "Because it is unusual, a number of others also mentioned that Bill remained friends with and was revered by past lovers and intimate associates."
+msgstr ""
+
+#. Paragraph 7: Because it is unusual, a number of others also mentioned that Bill remained friends with and was revered by past lovers and intimate associates. It’s almost as if he lived parallel lives—his straight ...
+#: paragraph:7,sentence:40
+msgid "It’s almost as if he lived parallel lives—his straight life and his gay one—with very little overlap."
+msgstr ""
+
+#. Paragraph 7: Because it is unusual, a number of others also mentioned that Bill remained friends with and was revered by past lovers and intimate associates. It’s almost as if he lived parallel lives—his straight ...
+#: paragraph:7,sentence:41
+msgid "He was known to have a dozen or so gay friends in La Jolla with whom he spent more time, but no one knows any names or details."
+msgstr ""
+
+#. Paragraph 7: Because it is unusual, a number of others also mentioned that Bill remained friends with and was revered by past lovers and intimate associates. It’s almost as if he lived parallel lives—his straight ...
+#: paragraph:7,sentence:42
+msgid "Judy remembers that he never hid his homosexuality from any of her family nor from Helen’s, but publicly he was very discreet."
+msgstr ""
+
+#. Paragraph 8: Long before Bill moved to La Jolla permanently, he attended ACIM groups there, both the Lucketts’ and several others. At first, Bill didn’t actively share, but gradually he joined in. Even though he h...
+#: paragraph:8,sentence:43
+msgid "Long before Bill moved to La Jolla permanently, he attended ACIM groups there, both the Lucketts’ and several others."
+msgstr ""
+
+#. Paragraph 8: Long before Bill moved to La Jolla permanently, he attended ACIM groups there, both the Lucketts’ and several others. At first, Bill didn’t actively share, but gradually he joined in. Even though he h...
+#: paragraph:8,sentence:44
+msgid "At first, Bill didn’t actively share, but gradually he joined in."
+msgstr ""
+
+#. Paragraph 8: Long before Bill moved to La Jolla permanently, he attended ACIM groups there, both the Lucketts’ and several others. At first, Bill didn’t actively share, but gradually he joined in. Even though he h...
+#: paragraph:8,sentence:45
+msgid "Even though he had been mostly an observer in many activities throughout his life, here he really started to play and participate, and he got such a kick out of it."
+msgstr ""
+
+#. Paragraph 8: Long before Bill moved to La Jolla permanently, he attended ACIM groups there, both the Lucketts’ and several others. At first, Bill didn’t actively share, but gradually he joined in. Even though he h...
+#: paragraph:8,sentence:46
+msgid "Some members of the Garden group were dancers, and they finally persuaded him to join in the dancing."
+msgstr ""
+
+#. Paragraph 8: Long before Bill moved to La Jolla permanently, he attended ACIM groups there, both the Lucketts’ and several others. At first, Bill didn’t actively share, but gradually he joined in. Even though he h...
+#: paragraph:8,sentence:47
+msgid "He had danced some in his youth but not often as an adult, and then only under very private circumstances with very close friends."
+msgstr ""
+
+#. Paragraph 9: Jack forbade attendees to ask Bill anything about the scribing the Course, as that trapped him in his past, but they could ask him anything about his current life. Treating him like anyone else was a ...
+#: paragraph:9,sentence:48
+msgid "Jack forbade attendees to ask Bill anything about the scribing the Course, as that trapped him in his past, but they could ask him anything about his current life"
+msgstr ""
+
+#. Paragraph 9: Jack forbade attendees to ask Bill anything about the scribing the Course, as that trapped him in his past, but they could ask him anything about his current life. Treating him like anyone else was a ...
+#: paragraph:9,sentence:49
+msgid "Treating him like anyone else was a stretch for everyone; however, when Jack set those limits, Bill relaxed and became increasingly available and confident"
+msgstr ""
+
+#. Paragraph 9: Jack forbade attendees to ask Bill anything about the scribing the Course, as that trapped him in his past, but they could ask him anything about his current life. Treating him like anyone else was a ...
+#: paragraph:9,sentence:50
+msgid "In addition to dancers, there were a number of singers in the group and that encouraged him to experiment both with reading and later singing Course selections"
+msgstr ""
+
+#. Paragraph 9: Jack forbade attendees to ask Bill anything about the scribing the Course, as that trapped him in his past, but they could ask him anything about his current life. Treating him like anyone else was a ...
+#: paragraph:9,sentence:51
+msgid "According to Jack,"
+msgstr ""
+
+#. Paragraph 10: When he started reading the Course in the first person, everyone else was freed up to do it. He started singing the Course and that just broke a dam; it was a very big moment. He really joined the gro...
+#: paragraph:10,sentence:52
+msgid "When he started reading the Course in the first person, everyone else was freed up to do it"
+msgstr ""
+
+#. Paragraph 10: When he started reading the Course in the first person, everyone else was freed up to do it. He started singing the Course and that just broke a dam; it was a very big moment. He really joined the gro...
+#: paragraph:10,sentence:53
+msgid "He started singing the Course and that just broke a dam; it was a very big moment"
+msgstr ""
+
+#. Paragraph 10: When he started reading the Course in the first person, everyone else was freed up to do it. He started singing the Course and that just broke a dam; it was a very big moment. He really joined the gro...
+#: paragraph:10,sentence:54
+msgid "He really joined the group"
+msgstr ""
+
+#. Paragraph 10: When he started reading the Course in the first person, everyone else was freed up to do it. He started singing the Course and that just broke a dam; it was a very big moment. He really joined the gro...
+#: paragraph:10,sentence:55
+msgid "People realized they could just walk up and hug him"
+msgstr ""
+
+#. Paragraph 10: When he started reading the Course in the first person, everyone else was freed up to do it. He started singing the Course and that just broke a dam; it was a very big moment. He really joined the gro...
+#: paragraph:10,sentence:56
+msgid "He was no longer just a quiet figure that had all the authority"
+msgstr ""
+
+#. Paragraph 10: When he started reading the Course in the first person, everyone else was freed up to do it. He started singing the Course and that just broke a dam; it was a very big moment. He really joined the gro...
+#: paragraph:10,sentence:57
+msgid "He was Billy, nobody special, a member of the group"
+msgstr ""
+
+#. Paragraph 10: When he started reading the Course in the first person, everyone else was freed up to do it. He started singing the Course and that just broke a dam; it was a very big moment. He really joined the gro...
+#: paragraph:10,sentence:58
+msgid "He still had the authority, but it was more accessible; he was just one of us and that is what he wanted"
+msgstr ""
+
+#. Paragraph 10: When he started reading the Course in the first person, everyone else was freed up to do it. He started singing the Course and that just broke a dam; it was a very big moment. He really joined the gro...
+#: paragraph:10,sentence:59
+msgid "He did not want to be above or below, in front of or behind"
+msgstr ""
+
+#. Paragraph 10: When he started reading the Course in the first person, everyone else was freed up to do it. He started singing the Course and that just broke a dam; it was a very big moment. He really joined the gro...
+#: paragraph:10,sentence:60
+msgid "It was, I think, a major healing"
+msgstr ""
+
+#. Paragraph 10: When he started reading the Course in the first person, everyone else was freed up to do it. He started singing the Course and that just broke a dam; it was a very big moment. He really joined the gro...
+#: paragraph:10,sentence:61
+msgid "There was a very playful little kid in there, one who hadn’t played, and this part of him had a chance to come out in a safe space.[18]"
+msgstr ""
+
+#. Paragraph 11: Bill learned more about how to express his perspectives on everything; for him, all subjects offered something lovely. Friends in Tiburon and beyond, who kept a watchful eye, noticed his gradual but s...
+#: paragraph:11,sentence:62
+msgid "Bill learned more about how to express his perspectives on everything; for him, all subjects offered something lovely."
+msgstr ""
+
+#. Paragraph 11: Bill learned more about how to express his perspectives on everything; for him, all subjects offered something lovely. Friends in Tiburon and beyond, who kept a watchful eye, noticed his gradual but s...
+#: paragraph:11,sentence:63
+msgid "Friends in Tiburon and beyond, who kept a watchful eye, noticed his gradual but steady unburdening."
+msgstr ""
+
+#. Paragraph 11: Bill learned more about how to express his perspectives on everything; for him, all subjects offered something lovely. Friends in Tiburon and beyond, who kept a watchful eye, noticed his gradual but s...
+#: paragraph:11,sentence:64
+msgid "What a treat for those who participated in Bill’s unfolding."
+msgstr ""
+
+#. Paragraph 11: Bill learned more about how to express his perspectives on everything; for him, all subjects offered something lovely. Friends in Tiburon and beyond, who kept a watchful eye, noticed his gradual but s...
+#: paragraph:11,sentence:65
+msgid "One fortunate Garden participant, Jim Jeffries, remembered Bill’s generosity, recounting that on one occasion Bill unexpectedly pressed something into his hand as the meeting concluded and said, “The Holy Spirit directed me to give this to you.” When Jim got in his car, he looked and there was a fifty-dollar bill."
+msgstr ""
+
+#. Paragraph 11: Bill learned more about how to express his perspectives on everything; for him, all subjects offered something lovely. Friends in Tiburon and beyond, who kept a watchful eye, noticed his gradual but s...
+#: paragraph:11,sentence:66
+msgid "From then on, Jim called him “Fifty-Dollar Bill,” delighting him with the pun."
+msgstr ""
+
+#. Paragraph 12: Sometimes disagreements arose about what a passage meant and Bill would not join those debates. Jack remembers, “So as a being of pure love, which is really what he was, . . . he did not feel that he ...
+#: paragraph:12,sentence:67
+msgid "Sometimes disagreements arose about what a passage meant and Bill would not join those debates"
+msgstr ""
+
+#. Paragraph 12: Sometimes disagreements arose about what a passage meant and Bill would not join those debates. Jack remembers, “So as a being of pure love, which is really what he was, . . . he did not feel that he ...
+#: paragraph:12,sentence:68
+msgid "Jack remembers, “So as a being of pure love, which is really what he was, . . . he did not feel that he had to tell other people how, because he knew they needed to do it in their own way and not to rely on others"
+msgstr ""
+
+#. Paragraph 12: Sometimes disagreements arose about what a passage meant and Bill would not join those debates. Jack remembers, “So as a being of pure love, which is really what he was, . . . he did not feel that he ...
+#: paragraph:12,sentence:69
+msgid "He never took on the teacher/guru role, but was always in a supportive role"
+msgstr ""
+
+#. Paragraph 12: Sometimes disagreements arose about what a passage meant and Bill would not join those debates. Jack remembers, “So as a being of pure love, which is really what he was, . . . he did not feel that he ...
+#: paragraph:12,sentence:70
+msgid "He supported everyone . . . and he was never threatening—never, never, never.”[19]"
+msgstr ""
+
+#. Paragraph 13: One particular incident about Bill’s giving advice, however, has literally traveled around the world. I have heard this story retold in a number of ways, and it has also returned to Jack and Layle in ...
+#: paragraph:13,sentence:71
+msgid "One particular incident about Bill’s giving advice, however, has literally traveled around the world."
+msgstr ""
+
+#. Paragraph 13: One particular incident about Bill’s giving advice, however, has literally traveled around the world. I have heard this story retold in a number of ways, and it has also returned to Jack and Layle in ...
+#: paragraph:13,sentence:72
+msgid "I have heard this story retold in a number of ways, and it has also returned to Jack and Layle in somewhat altered form."
+msgstr ""
+
+#. Paragraph 13: One particular incident about Bill’s giving advice, however, has literally traveled around the world. I have heard this story retold in a number of ways, and it has also returned to Jack and Layle in ...
+#: paragraph:13,sentence:73
+msgid "Here is the actual eyewitness account."
+msgstr ""
+
+#. Paragraph 14: We had a friend, Wayne Germaine, a very sweet person, who moderated a small ACIM beginner’s group—maybe a half dozen people—at his home on Tuesday nights. Bill would go to that meeting, I think to sup...
+#: paragraph:14,sentence:74
+msgid "We had a friend, Wayne Germaine, a very sweet person, who moderated a small ACIM beginner’s group—maybe a half dozen people—at his home on Tuesday nights"
+msgstr ""
+
+#. Paragraph 14: We had a friend, Wayne Germaine, a very sweet person, who moderated a small ACIM beginner’s group—maybe a half dozen people—at his home on Tuesday nights. Bill would go to that meeting, I think to sup...
+#: paragraph:14,sentence:75
+msgid "Bill would go to that meeting, I think to support Wayne, although, oddly enough, there were many meetings he wouldn’t touch with a ten-foot pole"
+msgstr ""
+
+#. Paragraph 14: We had a friend, Wayne Germaine, a very sweet person, who moderated a small ACIM beginner’s group—maybe a half dozen people—at his home on Tuesday nights. Bill would go to that meeting, I think to sup...
+#: paragraph:14,sentence:76
+msgid "He wouldn’t moderate, wouldn’t say a word"
+msgstr ""
+
+#. Paragraph 14: We had a friend, Wayne Germaine, a very sweet person, who moderated a small ACIM beginner’s group—maybe a half dozen people—at his home on Tuesday nights. Bill would go to that meeting, I think to sup...
+#: paragraph:14,sentence:77
+msgid "Wayne told Bill, in a conversation away from the meeting and in a totally different social context, “I don’t know how to handle this situation"
+msgstr ""
+
+#. Paragraph 14: We had a friend, Wayne Germaine, a very sweet person, who moderated a small ACIM beginner’s group—maybe a half dozen people—at his home on Tuesday nights. Bill would go to that meeting, I think to sup...
+#: paragraph:14,sentence:78
+msgid "It’s come up two or three times and it’s baffling me. [This incident occurred at one of the few meetings Bill had missed.] Somebody will say something about the Course and then someone will say something that’s the opposite, and then they will start arguing and I’m not supposed to correct my brother"
+msgstr ""
+
+#. Paragraph 14: We had a friend, Wayne Germaine, a very sweet person, who moderated a small ACIM beginner’s group—maybe a half dozen people—at his home on Tuesday nights. Bill would go to that meeting, I think to sup...
+#: paragraph:14,sentence:79
+msgid "I don’t want to have fights in my group, but I don’t know how to handle these aggressive people who are arguing about the meaning of the Course.” Bill simply looked at him and said, “Tell them to tear out the page"
+msgstr ""
+
+#. Paragraph 14: We had a friend, Wayne Germaine, a very sweet person, who moderated a small ACIM beginner’s group—maybe a half dozen people—at his home on Tuesday nights. Bill would go to that meeting, I think to sup...
+#: paragraph:14,sentence:80
+msgid "There is nothing in this world worth arguing over.”[20]"
+msgstr ""
+
+#. Paragraph 15: Quite a statement from a man who had argued with Helen so vehemently for so many years! Layle continued, We started laughing when this issue came up because we knew one of the guys [provoking the argu...
+#: paragraph:15,sentence:81
+msgid "Quite a statement from a man who had argued with Helen so vehemently for so many years"
+msgstr ""
+
+#. Paragraph 15: Quite a statement from a man who had argued with Helen so vehemently for so many years! Layle continued, We started laughing when this issue came up because we knew one of the guys [provoking the argu...
+#: paragraph:15,sentence:82
+msgid "Layle continued, We started laughing when this issue came up because we knew one of the guys [provoking the argument]"
+msgstr ""
+
+#. Paragraph 15: Quite a statement from a man who had argued with Helen so vehemently for so many years! Layle continued, We started laughing when this issue came up because we knew one of the guys [provoking the argu...
+#: paragraph:15,sentence:83
+msgid "We didn’t know the new person, but the other one was a regular in our group, a person who was extremely adamant about his position and how something had to be done"
+msgstr ""
+
+#. Paragraph 15: Quite a statement from a man who had argued with Helen so vehemently for so many years! Layle continued, We started laughing when this issue came up because we knew one of the guys [provoking the argu...
+#: paragraph:15,sentence:84
+msgid "Bill and Jack and I knew him very well, and Bill was howling because he knew this guy would get into an argument with somebody instantly"
+msgstr ""
+
+#. Paragraph 15: Quite a statement from a man who had argued with Helen so vehemently for so many years! Layle continued, We started laughing when this issue came up because we knew one of the guys [provoking the argu...
+#: paragraph:15,sentence:85
+msgid "This was after maybe six years of our facilitating meetings every day, so we knew how to cope with this, but it caught Wayne unaware"
+msgstr ""
+
+#. Paragraph 15: Quite a statement from a man who had argued with Helen so vehemently for so many years! Layle continued, We started laughing when this issue came up because we knew one of the guys [provoking the argu...
+#: paragraph:15,sentence:86
+msgid "It was Wayne’s sweetness to admit, in the first place, that he just couldn’t cope with the argument, and Bill’s answer was absolutely priceless"
+msgstr ""
+
+#. Paragraph 15: Quite a statement from a man who had argued with Helen so vehemently for so many years! Layle continued, We started laughing when this issue came up because we knew one of the guys [provoking the argu...
+#: paragraph:15,sentence:87
+msgid "It came out so quickly with no forethought whatsoever.[21]"
+msgstr ""
+
+#. Paragraph 16: This story has captured people’s imagination, as this King Solomon-type wisdom was so typical of Bill. His message was to follow the Course, don’t put it on a pedestal, and don’t deify it or make it a...
+#: paragraph:16,sentence:88
+msgid "This story has captured people’s imagination, as this King Solomon-type wisdom was so typical of Bill."
+msgstr ""
+
+#. Paragraph 16: This story has captured people’s imagination, as this King Solomon-type wisdom was so typical of Bill. His message was to follow the Course, don’t put it on a pedestal, and don’t deify it or make it a...
+#: paragraph:16,sentence:89
+msgid "His message was to follow the Course, don’t put it on a pedestal, and don’t deify it or make it a holy text."
+msgstr ""
+
+#. Paragraph 16: This story has captured people’s imagination, as this King Solomon-type wisdom was so typical of Bill. His message was to follow the Course, don’t put it on a pedestal, and don’t deify it or make it a...
+#: paragraph:16,sentence:90
+msgid "He did not rigidly worship the literal meaning of ACIM, although he understood it profoundly."
+msgstr ""
+
+#. Paragraph 16: This story has captured people’s imagination, as this King Solomon-type wisdom was so typical of Bill. His message was to follow the Course, don’t put it on a pedestal, and don’t deify it or make it a...
+#: paragraph:16,sentence:91
+msgid "Speaking of the worshipping issue, Jack recalls a time when a short person used the text for a footstool."
+msgstr ""
+
+#. Paragraph 16: This story has captured people’s imagination, as this King Solomon-type wisdom was so typical of Bill. His message was to follow the Course, don’t put it on a pedestal, and don’t deify it or make it a...
+#: paragraph:16,sentence:92
+msgid "Some visiting students of another ACIM teacher were distressed at what they considered a lack of respect for the sacred book."
+msgstr ""
+
+#. Paragraph 16: This story has captured people’s imagination, as this King Solomon-type wisdom was so typical of Bill. His message was to follow the Course, don’t put it on a pedestal, and don’t deify it or make it a...
+#: paragraph:16,sentence:93
+msgid "All teachers have their own style, which is perfect for their students, but the style in La Jolla’s Garden group was definitely not to worship the Course, but to steadily practice its teachings."
+msgstr ""
+
+#. Paragraph 17: A rumor circulated during Bill’s early time in La Jolla that reinforced the Lucketts’ “wild and carefree” reputation; it held that he attended nude ACIM meetings at their home. This was an exaggeratio...
+#: paragraph:17,sentence:94
+msgid "A rumor circulated during Bill’s early time in La Jolla that reinforced the Lucketts’ “wild and carefree” reputation; it held that he attended nude ACIM meetings at their home"
+msgstr ""
+
+#. Paragraph 17: A rumor circulated during Bill’s early time in La Jolla that reinforced the Lucketts’ “wild and carefree” reputation; it held that he attended nude ACIM meetings at their home. This was an exaggeratio...
+#: paragraph:17,sentence:95
+msgid "This was an exaggeration as there never were nude meetings in the Garden groups, so named because they took place in the enclosed back patio of the Lucketts’ beach cottage, which was made of concrete and often very warm"
+msgstr ""
+
+#. Paragraph 17: A rumor circulated during Bill’s early time in La Jolla that reinforced the Lucketts’ “wild and carefree” reputation; it held that he attended nude ACIM meetings at their home. This was an exaggeratio...
+#: paragraph:17,sentence:96
+msgid "Jack recounts,"
+msgstr ""
+
+#. Paragraph 18: We were right across the street from the beach, so many students swam before or after the meetings and wore bathing suits during our two- to three-hour meetings. They were sunbathing. A major issue ar...
+#: paragraph:18,sentence:97
+msgid "We were right across the street from the beach, so many students swam before or after the meetings and wore bathing suits during our two- to three-hour meetings."
+msgstr ""
+
+#. Paragraph 18: We were right across the street from the beach, so many students swam before or after the meetings and wore bathing suits during our two- to three-hour meetings. They were sunbathing. A major issue ar...
+#: paragraph:18,sentence:98
+msgid "They were sunbathing."
+msgstr ""
+
+#. Paragraph 18: We were right across the street from the beach, so many students swam before or after the meetings and wore bathing suits during our two- to three-hour meetings. They were sunbathing. A major issue ar...
+#: paragraph:18,sentence:99
+msgid "A major issue arose when a couple of the younger women wanted to remove their bra tops to get an even suntan."
+msgstr ""
+
+#. Paragraph 18: We were right across the street from the beach, so many students swam before or after the meetings and wore bathing suits during our two- to three-hour meetings. They were sunbathing. A major issue ar...
+#: paragraph:18,sentence:100
+msgid "Older members objected because it would be undignified."
+msgstr ""
+
+#. Paragraph 18: We were right across the street from the beach, so many students swam before or after the meetings and wore bathing suits during our two- to three-hour meetings. They were sunbathing. A major issue ar...
+#: paragraph:18,sentence:101
+msgid "I stopped the action, we held hands in a circle, asking the Holy Spirit to guide us, and after fifteen minutes of meditation, addressed the issue specifically in ACIM terms."
+msgstr ""
+
+#. Paragraph 18: We were right across the street from the beach, so many students swam before or after the meetings and wore bathing suits during our two- to three-hour meetings. They were sunbathing. A major issue ar...
+#: paragraph:18,sentence:102
+msgid "We had a great discussion covering ego, judgment, fear, true vision, equal treatment of both sexes, and our true nature."
+msgstr ""
+
+#. Paragraph 18: We were right across the street from the beach, so many students swam before or after the meetings and wore bathing suits during our two- to three-hour meetings. They were sunbathing. A major issue ar...
+#: paragraph:18,sentence:103
+msgid "At the end of that discussion, a young lady said, “If ‘I am not a body."
+msgstr ""
+
+#. Paragraph 18: We were right across the street from the beach, so many students swam before or after the meetings and wore bathing suits during our two- to three-hour meetings. They were sunbathing. A major issue ar...
+#: paragraph:18,sentence:104
+msgid "I am free’ [one of the workbook lessons], what can a mere strip of cloth mean to me?” We then took a vote and decided that if, in the privacy of our meetings, any woman wished to be topless like the men, she could, but it was not required."
+msgstr ""
+
+#. Paragraph 18: We were right across the street from the beach, so many students swam before or after the meetings and wore bathing suits during our two- to three-hour meetings. They were sunbathing. A major issue ar...
+#: paragraph:18,sentence:105
+msgid "This went on for a while—some did, some didn’t—it actually wasn’t a big deal."
+msgstr ""
+
+#. Paragraph 19: Some of the 60,000 attendees that came to teach us [the Course states that we are all teachers to one another] were lawyers, doctors, ordained ministers, Catholic priests and nuns, La Jolla matrons, u...
+#: paragraph:19,sentence:106
+msgid "Some of the 60,000 attendees that came to teach us [the Course states that we are all teachers to one another] were lawyers, doctors, ordained ministers, Catholic priests and nuns, La Jolla matrons, university professors, nurses, teachers, businessmen, airline pilots, military—both active duty and retired—the luminaries of ACIM except for Helen, working people and retired ones, people living in their cars, and patients sent by psychologists"
+msgstr ""
+
+#. Paragraph 19: Some of the 60,000 attendees that came to teach us [the Course states that we are all teachers to one another] were lawyers, doctors, ordained ministers, Catholic priests and nuns, La Jolla matrons, u...
+#: paragraph:19,sentence:107
+msgid "Out of this stimulating mix, no one ever questioned the early days’ practice of some girls going topless"
+msgstr ""
+
+#. Paragraph 19: Some of the 60,000 attendees that came to teach us [the Course states that we are all teachers to one another] were lawyers, doctors, ordained ministers, Catholic priests and nuns, La Jolla matrons, u...
+#: paragraph:19,sentence:108
+msgid "In the 2,160 consecutive meetings with thousands of participants, not allowing smoking was a much larger issue.[22]"
+msgstr ""
+
+#. Paragraph 20: Although the truth is not as exotic as the fiction about the Garden groups, the meetings certainly were a vast leap from his days at Columbia and a marvelous opportunity to be part of the Course’s inf...
+#: paragraph:20,sentence:109
+msgid "Although the truth is not as exotic as the fiction about the Garden groups, the meetings certainly were a vast leap from his days at Columbia and a marvelous opportunity to be part of the Course’s influence as it spread across the country and throughout the world"
+msgstr ""
+
+#. Paragraph 20: Although the truth is not as exotic as the fiction about the Garden groups, the meetings certainly were a vast leap from his days at Columbia and a marvelous opportunity to be part of the Course’s inf...
+#: paragraph:20,sentence:110
+msgid "In addition, Bill attended a number of other ACIM groups in the area and made a host of new friends in the process"
+msgstr ""
+
+#. Paragraph 20: Although the truth is not as exotic as the fiction about the Garden groups, the meetings certainly were a vast leap from his days at Columbia and a marvelous opportunity to be part of the Course’s inf...
+#: paragraph:20,sentence:111
+msgid "He was presented with other opportunities for friendly outreach beyond the Course community"
+msgstr ""
+
+#. Paragraph 20: Although the truth is not as exotic as the fiction about the Garden groups, the meetings certainly were a vast leap from his days at Columbia and a marvelous opportunity to be part of the Course’s inf...
+#: paragraph:20,sentence:112
+msgid "How could it be otherwise with Jack and Layle as guides"
+msgstr ""
+
+#. Paragraph 20: Although the truth is not as exotic as the fiction about the Garden groups, the meetings certainly were a vast leap from his days at Columbia and a marvelous opportunity to be part of the Course’s inf...
+#: paragraph:20,sentence:113
+msgid "They took him everywhere"
+msgstr ""
+
+#. Paragraph 20: Although the truth is not as exotic as the fiction about the Garden groups, the meetings certainly were a vast leap from his days at Columbia and a marvelous opportunity to be part of the Course’s inf...
+#: paragraph:20,sentence:114
+msgid "Almost every night they went to restaurants, movies, dinners, and entertainment of every conceivable kind"
+msgstr ""
+
+#. Paragraph 20: Although the truth is not as exotic as the fiction about the Garden groups, the meetings certainly were a vast leap from his days at Columbia and a marvelous opportunity to be part of the Course’s inf...
+#: paragraph:20,sentence:115
+msgid "Jack commented on his preferences:"
+msgstr ""
+
+#. Paragraph 21: Bill loved films; he preferred foreign and art films and also liked drama, historical pieces, and adult comedies. Under no circumstances would he attend sci-fi, action, war, western, or vampire flicks...
+#: paragraph:21,sentence:116
+msgid "Bill loved films; he preferred foreign and art films and also liked drama, historical pieces, and adult comedies."
+msgstr ""
+
+#. Paragraph 21: Bill loved films; he preferred foreign and art films and also liked drama, historical pieces, and adult comedies. Under no circumstances would he attend sci-fi, action, war, western, or vampire flicks...
+#: paragraph:21,sentence:117
+msgid "Under no circumstances would he attend sci-fi, action, war, western, or vampire flicks, or stupid comedies."
+msgstr ""
+
+#. Paragraph 21: Bill loved films; he preferred foreign and art films and also liked drama, historical pieces, and adult comedies. Under no circumstances would he attend sci-fi, action, war, western, or vampire flicks...
+#: paragraph:21,sentence:118
+msgid "His favorite movie was Amadeus, which he viewed several times."
+msgstr ""
+
+#. Paragraph 21: Bill loved films; he preferred foreign and art films and also liked drama, historical pieces, and adult comedies. Under no circumstances would he attend sci-fi, action, war, western, or vampire flicks...
+#: paragraph:21,sentence:119
+msgid "We had season tickets to most live-theater houses."
+msgstr ""
+
+#. Paragraph 21: Bill loved films; he preferred foreign and art films and also liked drama, historical pieces, and adult comedies. Under no circumstances would he attend sci-fi, action, war, western, or vampire flicks...
+#: paragraph:21,sentence:120
+msgid "Bill liked the theater but had hard and fast rules about going."
+msgstr ""
+
+#. Paragraph 21: Bill loved films; he preferred foreign and art films and also liked drama, historical pieces, and adult comedies. Under no circumstances would he attend sci-fi, action, war, western, or vampire flicks...
+#: paragraph:21,sentence:121
+msgid "He insisted on an aisle seat and the play had to have an intermission (he opined that having no intermission meant the play was no good and everyone would leave if given a chance)."
+msgstr ""
+
+#. Paragraph 21: Bill loved films; he preferred foreign and art films and also liked drama, historical pieces, and adult comedies. Under no circumstances would he attend sci-fi, action, war, western, or vampire flicks...
+#: paragraph:21,sentence:122
+msgid "In addition to opera and classical concerts, Bill also loved the circus, ice shows, and jazz concerts."
+msgstr ""
+
+#. Paragraph 21: Bill loved films; he preferred foreign and art films and also liked drama, historical pieces, and adult comedies. Under no circumstances would he attend sci-fi, action, war, western, or vampire flicks...
+#: paragraph:21,sentence:123
+msgid "We all had annual tickets to Sea World and often attended their night spectacles."
+msgstr ""
+
+#. Paragraph 22: As you know, Bill was very well read. During our time together he read the New York Times front to back, but he was done with his book and magazine reading. We lived very close to the La Jolla library...
+#: paragraph:22,sentence:124
+msgid "As you know, Bill was very well read"
+msgstr ""
+
+#. Paragraph 22: As you know, Bill was very well read. During our time together he read the New York Times front to back, but he was done with his book and magazine reading. We lived very close to the La Jolla library...
+#: paragraph:22,sentence:125
+msgid "During our time together he read the New York Times front to back, but he was done with his book and magazine reading"
+msgstr ""
+
+#. Paragraph 22: As you know, Bill was very well read. During our time together he read the New York Times front to back, but he was done with his book and magazine reading. We lived very close to the La Jolla library...
+#: paragraph:22,sentence:126
+msgid "We lived very close to the La Jolla library (Layle and I always had books out) and had several excellent bookstores nearby, but Bill wasn’t interested"
+msgstr ""
+
+#. Paragraph 22: As you know, Bill was very well read. During our time together he read the New York Times front to back, but he was done with his book and magazine reading. We lived very close to the La Jolla library...
+#: paragraph:22,sentence:127
+msgid "He read the Course daily, usually with me, and that was it.[23]"
+msgstr ""
+
+#. Paragraph 23: They soon realized that Bill was not used to interacting with others in a restaurant, despite all his years of eating out. (Regarding food preferences, Bill would eat anything; no special diets for hi...
+#: paragraph:23,sentence:128
+msgid "They soon realized that Bill was not used to interacting with others in a restaurant, despite all his years of eating out. (Regarding food preferences, Bill would eat anything; no special diets for him."
+msgstr ""
+
+#. Paragraph 23: They soon realized that Bill was not used to interacting with others in a restaurant, despite all his years of eating out. (Regarding food preferences, Bill would eat anything; no special diets for hi...
+#: paragraph:23,sentence:129
+msgid "His colleagues at Columbia said he routinely ordered cake and ice cream for lunch!) Layle tended to engage with the wait staff, and following her lead, Bill started talking with them more and thoroughly enjoyed becoming acquainted with them."
+msgstr ""
+
+#. Paragraph 23: They soon realized that Bill was not used to interacting with others in a restaurant, despite all his years of eating out. (Regarding food preferences, Bill would eat anything; no special diets for hi...
+#: paragraph:23,sentence:130
+msgid "At his favorite places, the staff began to call him by name, and he would chat away with them."
+msgstr ""
+
+#. Paragraph 23: They soon realized that Bill was not used to interacting with others in a restaurant, despite all his years of eating out. (Regarding food preferences, Bill would eat anything; no special diets for hi...
+#: paragraph:23,sentence:131
+msgid "Pretty soon word went out that he was available for socializing and that the best venue for this was to invite him to breakfast."
+msgstr ""
+
+#. Paragraph 23: They soon realized that Bill was not used to interacting with others in a restaurant, despite all his years of eating out. (Regarding food preferences, Bill would eat anything; no special diets for hi...
+#: paragraph:23,sentence:132
+msgid "I can personally attest to his greater participation, because my husband and I went many places with him on our last visit to La Jolla, and he was well known at all the restaurants we visited."
+msgstr ""
+
+#. Paragraph 24: To continue broadening his range of experience, the Lucketts took Bill to a nightclub, where he had never been before. For most of his life, he might have felt that was somehow beneath him and not nec...
+#: paragraph:24,sentence:133
+msgid "To continue broadening his range of experience, the Lucketts took Bill to a nightclub, where he had never been before"
+msgstr ""
+
+#. Paragraph 24: To continue broadening his range of experience, the Lucketts took Bill to a nightclub, where he had never been before. For most of his life, he might have felt that was somehow beneath him and not nec...
+#: paragraph:24,sentence:134
+msgid "For most of his life, he might have felt that was somehow beneath him and not necessary for his growth, but by the mid 1980s he was up for anything"
+msgstr ""
+
+#. Paragraph 24: To continue broadening his range of experience, the Lucketts took Bill to a nightclub, where he had never been before. For most of his life, he might have felt that was somehow beneath him and not nec...
+#: paragraph:24,sentence:135
+msgid "They also took him to improv places with stand-up comedians"
+msgstr ""
+
+#. Paragraph 24: To continue broadening his range of experience, the Lucketts took Bill to a nightclub, where he had never been before. For most of his life, he might have felt that was somehow beneath him and not nec...
+#: paragraph:24,sentence:136
+msgid "Jack remembers one occasion:"
+msgstr ""
+
+#. Paragraph 25: So here we were sitting in this Improv, talking about ACIM, and the girl who had seated us said that she had been in the Course. Two other waitresses came over and one of them was part-time in Hare Kr...
+#: paragraph:25,sentence:137
+msgid "So here we were sitting in this Improv, talking about ACIM, and the girl who had seated us said that she had been in the Course"
+msgstr ""
+
+#. Paragraph 25: So here we were sitting in this Improv, talking about ACIM, and the girl who had seated us said that she had been in the Course. Two other waitresses came over and one of them was part-time in Hare Kr...
+#: paragraph:25,sentence:138
+msgid "Two other waitresses came over and one of them was part-time in Hare Krishna, while the other was a born-again Christian. . ."
+msgstr ""
+
+#. Paragraph 25: So here we were sitting in this Improv, talking about ACIM, and the girl who had seated us said that she had been in the Course. Two other waitresses came over and one of them was part-time in Hare Kr...
+#: paragraph:25,sentence:139
+msgid "Layle was pinning these tiny hearts on people"
+msgstr ""
+
+#. Paragraph 25: So here we were sitting in this Improv, talking about ACIM, and the girl who had seated us said that she had been in the Course. Two other waitresses came over and one of them was part-time in Hare Kr...
+#: paragraph:25,sentence:140
+msgid "We all came together and I had everyone hold hands"
+msgstr ""
+
+#. Paragraph 25: So here we were sitting in this Improv, talking about ACIM, and the girl who had seated us said that she had been in the Course. Two other waitresses came over and one of them was part-time in Hare Kr...
+#: paragraph:25,sentence:141
+msgid "This is a nightclub, mind you"
+msgstr ""
+
+#. Paragraph 25: So here we were sitting in this Improv, talking about ACIM, and the girl who had seated us said that she had been in the Course. Two other waitresses came over and one of them was part-time in Hare Kr...
+#: paragraph:25,sentence:142
+msgid "We all said a prayer, asking that everybody who was going to be on the stage that night would provide healing for everyone in the audience, that they would heal something in us that we didn’t understand or had rejected"
+msgstr ""
+
+#. Paragraph 25: So here we were sitting in this Improv, talking about ACIM, and the girl who had seated us said that she had been in the Course. Two other waitresses came over and one of them was part-time in Hare Kr...
+#: paragraph:25,sentence:143
+msgid "And they all joined in, very willingly"
+msgstr ""
+
+#. Paragraph 25: So here we were sitting in this Improv, talking about ACIM, and the girl who had seated us said that she had been in the Course. Two other waitresses came over and one of them was part-time in Hare Kr...
+#: paragraph:25,sentence:144
+msgid "It was not inappropriate at all, and Bill said, “You know, one of the things I have learned from being with you, Jack, is that the spiritual movement is happening everywhere if you take it with you, if you let the light shine.”[24]"
+msgstr ""
+
+#. Paragraph 26: They also took him to a late-night version of the Rocky Horror Picture Show, where devotees come dressed as the characters. Knowing the lines, they stood down in front acting out the parts and the ent...
+#: paragraph:26,sentence:145
+msgid "They also took him to a late-night version of the Rocky Horror Picture Show, where devotees come dressed as the characters"
+msgstr ""
+
+#. Paragraph 26: They also took him to a late-night version of the Rocky Horror Picture Show, where devotees come dressed as the characters. Knowing the lines, they stood down in front acting out the parts and the ent...
+#: paragraph:26,sentence:146
+msgid "Knowing the lines, they stood down in front acting out the parts and the entire audience spoke the words as the movie unfolded"
+msgstr ""
+
+#. Paragraph 26: They also took him to a late-night version of the Rocky Horror Picture Show, where devotees come dressed as the characters. Knowing the lines, they stood down in front acting out the parts and the ent...
+#: paragraph:26,sentence:147
+msgid "Some might call the diehard participants outcasts, certainly not the kind of folks Bill would have encountered in his sophisticated New York or northern California worlds, but here was a place where they could fully join and participate"
+msgstr ""
+
+#. Paragraph 26: They also took him to a late-night version of the Rocky Horror Picture Show, where devotees come dressed as the characters. Knowing the lines, they stood down in front acting out the parts and the ent...
+#: paragraph:26,sentence:148
+msgid "Bill was fascinated; remember he was unused to participating and Layle said they all felt like fifteen again"
+msgstr ""
+
+#. Paragraph 26: They also took him to a late-night version of the Rocky Horror Picture Show, where devotees come dressed as the characters. Knowing the lines, they stood down in front acting out the parts and the ent...
+#: paragraph:26,sentence:149
+msgid "Bill just laughed and laughed, having one of the best times of his life"
+msgstr ""
+
+#. Paragraph 26: They also took him to a late-night version of the Rocky Horror Picture Show, where devotees come dressed as the characters. Knowing the lines, they stood down in front acting out the parts and the ent...
+#: paragraph:26,sentence:150
+msgid "Jack observed,"
+msgstr ""
+
+#. Paragraph 27: He had a marvelously developed sense of humor and the quality I’m certain all masters have, of not being pretentious and of being able to see the beauty in all forms of life. He could see the kids joi...
+#: paragraph:27,sentence:151
+msgid "He had a marvelously developed sense of humor and the quality I’m certain all masters have, of not being pretentious and of being able to see the beauty in all forms of life"
+msgstr ""
+
+#. Paragraph 27: He had a marvelously developed sense of humor and the quality I’m certain all masters have, of not being pretentious and of being able to see the beauty in all forms of life. He could see the kids joi...
+#: paragraph:27,sentence:152
+msgid "He could see the kids joining"
+msgstr ""
+
+#. Paragraph 27: He had a marvelously developed sense of humor and the quality I’m certain all masters have, of not being pretentious and of being able to see the beauty in all forms of life. He could see the kids joi...
+#: paragraph:27,sentence:153
+msgid "He could see them in costume, letting the other sides of themselves come out"
+msgstr ""
+
+#. Paragraph 27: He had a marvelously developed sense of humor and the quality I’m certain all masters have, of not being pretentious and of being able to see the beauty in all forms of life. He could see the kids joi...
+#: paragraph:27,sentence:154
+msgid "He could see all of us laughing together at the silliness of the whole thing"
+msgstr ""
+
+#. Paragraph 27: He had a marvelously developed sense of humor and the quality I’m certain all masters have, of not being pretentious and of being able to see the beauty in all forms of life. He could see the kids joi...
+#: paragraph:27,sentence:155
+msgid "He caught it"
+msgstr ""
+
+#. Paragraph 27: He had a marvelously developed sense of humor and the quality I’m certain all masters have, of not being pretentious and of being able to see the beauty in all forms of life. He could see the kids joi...
+#: paragraph:27,sentence:156
+msgid "Some people are full of religiosity and they fully approve of everything that seems to fall within their scope of standards, but are certain that anything that falls outside that scope has some evil attached to it"
+msgstr ""
+
+#. Paragraph 27: He had a marvelously developed sense of humor and the quality I’m certain all masters have, of not being pretentious and of being able to see the beauty in all forms of life. He could see the kids joi...
+#: paragraph:27,sentence:157
+msgid "That was not Bill’s way"
+msgstr ""
+
+#. Paragraph 27: He had a marvelously developed sense of humor and the quality I’m certain all masters have, of not being pretentious and of being able to see the beauty in all forms of life. He could see the kids joi...
+#: paragraph:27,sentence:158
+msgid "His way was to be like Jesus, as I understand Jesus"
+msgstr ""
+
+#. Paragraph 27: He had a marvelously developed sense of humor and the quality I’m certain all masters have, of not being pretentious and of being able to see the beauty in all forms of life. He could see the kids joi...
+#: paragraph:27,sentence:159
+msgid "He saw the beauty in all aspects of humanity.[25]"
+msgstr ""
+
+#. Paragraph 28: Another sign of his freedom was when we went to see an ACIM “gardener” [a participant in the ACIM Garden group] in a home-grown play. It turned out to be held in the back room of a biker bar with the ...
+#: paragraph:28,sentence:160
+msgid "Another sign of his freedom was when we went to see an ACIM “gardener” [a participant in the ACIM Garden group] in a home-grown play"
+msgstr ""
+
+#. Paragraph 28: Another sign of his freedom was when we went to see an ACIM “gardener” [a participant in the ACIM Garden group] in a home-grown play. It turned out to be held in the back room of a biker bar with the ...
+#: paragraph:28,sentence:161
+msgid "It turned out to be held in the back room of a biker bar with the toughest-looking guys you can imagine"
+msgstr ""
+
+#. Paragraph 28: Another sign of his freedom was when we went to see an ACIM “gardener” [a participant in the ACIM Garden group] in a home-grown play. It turned out to be held in the back room of a biker bar with the ...
+#: paragraph:28,sentence:162
+msgid "Billy just walked through smiling and waving to everyone as if this were his usual routine"
+msgstr ""
+
+#. Paragraph 28: Another sign of his freedom was when we went to see an ACIM “gardener” [a participant in the ACIM Garden group] in a home-grown play. It turned out to be held in the back room of a biker bar with the ...
+#: paragraph:28,sentence:163
+msgid "Also, around Bill’s birthday in 1988, a handsome young sailor came to the Garden"
+msgstr ""
+
+#. Paragraph 28: Another sign of his freedom was when we went to see an ACIM “gardener” [a participant in the ACIM Garden group] in a home-grown play. It turned out to be held in the back room of a biker bar with the ...
+#: paragraph:28,sentence:164
+msgid "They struck up an instant relationship, one so close that Billy actually acceded to driving up to Los Angeles with this guy in his red Jeep just for lunch"
+msgstr ""
+
+#. Paragraph 28: Another sign of his freedom was when we went to see an ACIM “gardener” [a participant in the ACIM Garden group] in a home-grown play. It turned out to be held in the back room of a biker bar with the ...
+#: paragraph:28,sentence:165
+msgid "Can you imagine him so loose"
+msgstr ""
+
+#. Paragraph 28: Another sign of his freedom was when we went to see an ACIM “gardener” [a participant in the ACIM Garden group] in a home-grown play. It turned out to be held in the back room of a biker bar with the ...
+#: paragraph:28,sentence:166
+msgid "This was a big deal; he wanted everyone to see him riding around in a Jeep.[26]"
+msgstr ""
+
+#. Paragraph 29: And the loosening continued. Late one night as the three of them were returning from the theater, Bill, out of the blue, started to sing parodies about the Course, changing the lyrics of the first lin...
+#: paragraph:29,sentence:167
+msgid "And the loosening continued"
+msgstr ""
+
+#. Paragraph 29: And the loosening continued. Late one night as the three of them were returning from the theater, Bill, out of the blue, started to sing parodies about the Course, changing the lyrics of the first lin...
+#: paragraph:29,sentence:168
+msgid "Late one night as the three of them were returning from the theater, Bill, out of the blue, started to sing parodies about the Course, changing the lyrics of the first lines of well-known songs"
+msgstr ""
+
+#. Paragraph 29: And the loosening continued. Late one night as the three of them were returning from the theater, Bill, out of the blue, started to sing parodies about the Course, changing the lyrics of the first lin...
+#: paragraph:29,sentence:169
+msgid "Jack also knew a lot of music, so he chimed in immediately with the next line"
+msgstr ""
+
+#. Paragraph 29: And the loosening continued. Late one night as the three of them were returning from the theater, Bill, out of the blue, started to sing parodies about the Course, changing the lyrics of the first lin...
+#: paragraph:29,sentence:170
+msgid "They alternated singing these lines from songs, creating an abbreviated, funny version of the Course history"
+msgstr ""
+
+#. Paragraph 29: And the loosening continued. Late one night as the three of them were returning from the theater, Bill, out of the blue, started to sing parodies about the Course, changing the lyrics of the first lin...
+#: paragraph:29,sentence:171
+msgid "For fifteen minutes, they invented hilarious new words, feeding off each other’s creativity"
+msgstr ""
+
+#. Paragraph 29: And the loosening continued. Late one night as the three of them were returning from the theater, Bill, out of the blue, started to sing parodies about the Course, changing the lyrics of the first lin...
+#: paragraph:29,sentence:172
+msgid "Jack said Bill got so tickled and laughed so hard, it was just wonderful, another great release for him"
+msgstr ""
+
+#. Paragraph 29: And the loosening continued. Late one night as the three of them were returning from the theater, Bill, out of the blue, started to sing parodies about the Course, changing the lyrics of the first lin...
+#: paragraph:29,sentence:173
+msgid "Bill had made up some musical parodies with Helen in New York, but this was the expanded version and yet another marker of his disappearing barriers and inhibitions"
+msgstr ""
+
+#. Paragraph 29: And the loosening continued. Late one night as the three of them were returning from the theater, Bill, out of the blue, started to sing parodies about the Course, changing the lyrics of the first lin...
+#: paragraph:29,sentence:174
+msgid "Jack referred to his time in LaJolla as “an out-reaching, people-oriented, heart-opening experiential phase"
+msgstr ""
+
+#. Paragraph 29: And the loosening continued. Late one night as the three of them were returning from the theater, Bill, out of the blue, started to sing parodies about the Course, changing the lyrics of the first lin...
+#: paragraph:29,sentence:175
+msgid "To his credit he participted with verve and charm.”[27]"
+msgstr ""
+
+#. Paragraph 30: My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987. For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him ...
+#: paragraph:30,sentence:176
+msgid "My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987."
+msgstr ""
+
+#. Paragraph 30: My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987. For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him ...
+#: paragraph:30,sentence:177
+msgid "For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him in his new “natural habitat.” We went to some of his favorite haunts, spent much time at his home, walked through the nearby park, and accompanied him to the first public viewing of the video, The Story of A Course In Miracles; it was scheduled, “by coincidence” for its premiere one evening while we were there."
+msgstr ""
+
+#. Paragraph 30: My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987. For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him ...
+#: paragraph:30,sentence:178
+msgid "He was a bit nervous about everyone else watching him on film while he, too, watched but it seemed a relatively minor issue."
+msgstr ""
+
+#. Paragraph 30: My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987. For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him ...
+#: paragraph:30,sentence:179
+msgid "This video documents the history of A Course In Miracles with Bill’s firsthand narration and skillful use of pictures of Helen, including excerpts read from her diaries."
+msgstr ""
+
+#. Paragraph 30: My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987. For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him ...
+#: paragraph:30,sentence:180
+msgid "It was an unexpected treat for Bob and me to observe Bill watching himself on screen."
+msgstr ""
+
+#. Paragraph 30: My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987. For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him ...
+#: paragraph:30,sentence:181
+msgid "Afterward, he asked for feedback about several aspects of the production, and we assured him that both the video and his presentation were right on."
+msgstr ""
+
+#. Paragraph 30: My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987. For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him ...
+#: paragraph:30,sentence:182
+msgid "It was a delight to be with him as he jumped another hurdle about being publicly noticed."
+msgstr ""
+
+#. Paragraph 30: My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987. For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him ...
+#: paragraph:30,sentence:183
+msgid "I thought he had grown so much and was more casual, relaxed, and open than ever before."
+msgstr ""
+
+#. Paragraph 30: My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987. For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him ...
+#: paragraph:30,sentence:184
+msgid "He was more expressive generally and seemed very happy."
+msgstr ""
+
+#. Paragraph 30: My husband Bob and I saw Bill for the last time on a visit to La Jolla in April 1987. For several nonstop days, we attended ACIM Garden meetings with him, a daily routine, and it was great seeing him ...
+#: paragraph:30,sentence:185
+msgid "In the year following our visit, we spoke periodically on the phone, and I was deeply satisfied to know that all was right with his world and getting better all the time."
+msgstr ""
+
+#. Paragraph 31: Our last time together in La Jolla 1987 In April 1988, when asked how he would like to celebrate his upcoming sixty-fifth birthday, Bill replied that he wanted absolutely nothing, no party; he was sti...
+#: paragraph:31,sentence:186
+msgid "Our last time together in La Jolla 1987 In April 1988, when asked how he would like to celebrate his upcoming sixty-fifth birthday, Bill replied that he wanted absolutely nothing, no party; he was still a little shy about people focusing attention on him."
+msgstr ""
+
+#. Paragraph 31: Our last time together in La Jolla 1987 In April 1988, when asked how he would like to celebrate his upcoming sixty-fifth birthday, Bill replied that he wanted absolutely nothing, no party; he was sti...
+#: paragraph:31,sentence:187
+msgid "The Garden group paid no attention and had one anyway."
+msgstr ""
+
+#. Paragraph 31: Our last time together in La Jolla 1987 In April 1988, when asked how he would like to celebrate his upcoming sixty-fifth birthday, Bill replied that he wanted absolutely nothing, no party; he was sti...
+#: paragraph:31,sentence:188
+msgid "On short notice, word of this momentous birthday celebration spread, and around seventy people bearing covered dishes and cakes decorated all sorts of ways—several sporting the ACIM cover—showed up to honor him."
+msgstr ""
+
+#. Paragraph 32: He received meaningful gifts from the Foundation for Inner Peace. Judy Whitson had assembled sections from all the foreign translations then in progress and put them in a black thesis binder identical...
+#: paragraph:32,sentence:189
+msgid "He received meaningful gifts from the Foundation for Inner Peace."
+msgstr ""
+
+#. Paragraph 32: He received meaningful gifts from the Foundation for Inner Peace. Judy Whitson had assembled sections from all the foreign translations then in progress and put them in a black thesis binder identical...
+#: paragraph:32,sentence:190
+msgid "Judy Whitson had assembled sections from all the foreign translations then in progress and put them in a black thesis binder identical to those that held the early typescripts of ACIM."
+msgstr ""
+
+#. Paragraph 32: He received meaningful gifts from the Foundation for Inner Peace. Judy Whitson had assembled sections from all the foreign translations then in progress and put them in a black thesis binder identical...
+#: paragraph:32,sentence:191
+msgid "In addition, Judy created a large scrapbook filled with cards, greetings, and photos from his friends."
+msgstr ""
+
+#. Paragraph 32: He received meaningful gifts from the Foundation for Inner Peace. Judy Whitson had assembled sections from all the foreign translations then in progress and put them in a black thesis binder identical...
+#: paragraph:32,sentence:192
+msgid "These displays of affection meant so much to him, and he was touched and thrilled by the scrapbook, also a bit embarrassed and overwhelmed (rather than “underwhelmed” as he liked to joke)."
+msgstr ""
+
+#. Paragraph 33: Someone suggested that Bill circle the garden and allow each person to express gratitude for his presence and for bringing ACIM into being. Jack reminisced, Well, there is no way he would have allowed...
+#: paragraph:33,sentence:193
+msgid "Someone suggested that Bill circle the garden and allow each person to express gratitude for his presence and for bringing ACIM into being"
+msgstr ""
+
+#. Paragraph 33: Someone suggested that Bill circle the garden and allow each person to express gratitude for his presence and for bringing ACIM into being. Jack reminisced, Well, there is no way he would have allowed...
+#: paragraph:33,sentence:194
+msgid "Jack reminisced, Well, there is no way he would have allowed it before that day, because he would have disappeared"
+msgstr ""
+
+#. Paragraph 33: Someone suggested that Bill circle the garden and allow each person to express gratitude for his presence and for bringing ACIM into being. Jack reminisced, Well, there is no way he would have allowed...
+#: paragraph:33,sentence:195
+msgid "He would not have put up with it"
+msgstr ""
+
+#. Paragraph 33: Someone suggested that Bill circle the garden and allow each person to express gratitude for his presence and for bringing ACIM into being. Jack reminisced, Well, there is no way he would have allowed...
+#: paragraph:33,sentence:196
+msgid "So the first person really poured out his heart, “Billy, thank you for this and this and this.” Billy reached over and just melted him in a hug that lasted for at least a minute, just pulled him into him . . . and held him silently"
+msgstr ""
+
+#. Paragraph 33: Someone suggested that Bill circle the garden and allow each person to express gratitude for his presence and for bringing ACIM into being. Jack reminisced, Well, there is no way he would have allowed...
+#: paragraph:33,sentence:197
+msgid "Then he went to the next person, and we spent the day doing this, each person acknowledging him fully"
+msgstr ""
+
+#. Paragraph 33: Someone suggested that Bill circle the garden and allow each person to express gratitude for his presence and for bringing ACIM into being. Jack reminisced, Well, there is no way he would have allowed...
+#: paragraph:33,sentence:198
+msgid "He put up with it, and he gave a one-minute, or longer, hug to everyone.[28]"
+msgstr ""
+
+#. Paragraph 34: When it was Jack’s turn, he joked with him as was their custom, and put a large crown of blown-up balloons on Bill’s head, calling him the “crown prince” of A Course In Miracles. Remarkably, he surren...
+#: paragraph:34,sentence:199
+msgid "When it was Jack’s turn, he joked with him as was their custom, and put a large crown of blown-up balloons on Bill’s head, calling him the “crown prince” of A Course In Miracles."
+msgstr ""
+
+#. Paragraph 34: When it was Jack’s turn, he joked with him as was their custom, and put a large crown of blown-up balloons on Bill’s head, calling him the “crown prince” of A Course In Miracles. Remarkably, he surren...
+#: paragraph:34,sentence:200
+msgid "Remarkably, he surrendered to it."
+msgstr ""
+
+#. Paragraph 35: And so he could accept this rather foolish and bizarre-looking crown, and he laughed, smiled, and said again, “I’m too old not to be flexible,” and that was his great lesson. And always the great puns...
+#: paragraph:35,sentence:201
+msgid "And so he could accept this rather foolish and bizarre-looking crown, and he laughed, smiled, and said again, “I’m too old not to be flexible,” and that was his great lesson"
+msgstr ""
+
+#. Paragraph 35: And so he could accept this rather foolish and bizarre-looking crown, and he laughed, smiled, and said again, “I’m too old not to be flexible,” and that was his great lesson. And always the great puns...
+#: paragraph:35,sentence:202
+msgid "And always the great punster, he often said later, I am, “flexi-Bill.” [That name derived from a song written by Libby McGuire entitled, “Flexi-Billy-T. ”] . ."
+msgstr ""
+
+#. Paragraph 35: And so he could accept this rather foolish and bizarre-looking crown, and he laughed, smiled, and said again, “I’m too old not to be flexible,” and that was his great lesson. And always the great puns...
+#: paragraph:35,sentence:203
+msgid "And he later confided that he had had the fullest experience of love, beyond anything he had ever allowed himself with anybody on this planet"
+msgstr ""
+
+#. Paragraph 35: And so he could accept this rather foolish and bizarre-looking crown, and he laughed, smiled, and said again, “I’m too old not to be flexible,” and that was his great lesson. And always the great puns...
+#: paragraph:35,sentence:204
+msgid "He felt completely loved"
+msgstr ""
+
+#. Paragraph 35: And so he could accept this rather foolish and bizarre-looking crown, and he laughed, smiled, and said again, “I’m too old not to be flexible,” and that was his great lesson. And always the great puns...
+#: paragraph:35,sentence:205
+msgid "He would not have accepted that before this time in his life"
+msgstr ""
+
+#. Paragraph 35: And so he could accept this rather foolish and bizarre-looking crown, and he laughed, smiled, and said again, “I’m too old not to be flexible,” and that was his great lesson. And always the great puns...
+#: paragraph:35,sentence:206
+msgid "He would not have understood it, . . . but he finally got it.[29]"
+msgstr ""
+
+#. Paragraph 36: 65th birthday with gift of ACIM translations from Foundation for Inner Peace 1988 In response to Bill’s joyful pronouncement about his flexibility, Whit Whitson wrote, I believe he was saying that he ...
+#: paragraph:36,sentence:207
+msgid "65th birthday with gift of ACIM translations from Foundation for Inner Peace 1988 In response to Bill’s joyful pronouncement about his flexibility, Whit Whitson wrote, I believe he was saying that he had finally torn down the psychological boundaries by which he had defined himself for a lifetime"
+msgstr ""
+
+#. Paragraph 36: 65th birthday with gift of ACIM translations from Foundation for Inner Peace 1988 In response to Bill’s joyful pronouncement about his flexibility, Whit Whitson wrote, I believe he was saying that he ...
+#: paragraph:36,sentence:208
+msgid "In so doing, he had forgiven himself for all the judgments with which he had imprisoned his closest friends and colleagues in his own perceptions"
+msgstr ""
+
+#. Paragraph 36: 65th birthday with gift of ACIM translations from Foundation for Inner Peace 1988 In response to Bill’s joyful pronouncement about his flexibility, Whit Whitson wrote, I believe he was saying that he ...
+#: paragraph:36,sentence:209
+msgid "It was as if he had finally liberated himself from the crises of his long journey of self-definition"
+msgstr ""
+
+#. Paragraph 36: 65th birthday with gift of ACIM translations from Foundation for Inner Peace 1988 In response to Bill’s joyful pronouncement about his flexibility, Whit Whitson wrote, I believe he was saying that he ...
+#: paragraph:36,sentence:210
+msgid "Finally, he was free.[30]"
+msgstr ""
+
+#. Paragraph 37: When I asked Jack about Bill’s evolution once he moved to La Jolla, he replied: As far as I could see, Bill had full spiritual depth the day I met him and that did not change. His social skills, his r...
+#: paragraph:37,sentence:211
+msgid "When I asked Jack about Bill’s evolution once he moved to La Jolla, he replied: As far as I could see, Bill had full spiritual depth the day I met him and that did not change"
+msgstr ""
+
+#. Paragraph 37: When I asked Jack about Bill’s evolution once he moved to La Jolla, he replied: As far as I could see, Bill had full spiritual depth the day I met him and that did not change. His social skills, his r...
+#: paragraph:37,sentence:212
+msgid "His social skills, his relaxing, his ease with others changed considerably, even dramatically, after he moved to San Diego, becoming part and parcel of the wild group we had down there"
+msgstr ""
+
+#. Paragraph 37: When I asked Jack about Bill’s evolution once he moved to La Jolla, he replied: As far as I could see, Bill had full spiritual depth the day I met him and that did not change. His social skills, his r...
+#: paragraph:37,sentence:213
+msgid "He really felt at home"
+msgstr ""
+
+#. Paragraph 37: When I asked Jack about Bill’s evolution once he moved to La Jolla, he replied: As far as I could see, Bill had full spiritual depth the day I met him and that did not change. His social skills, his r...
+#: paragraph:37,sentence:214
+msgid "When he was up in the Bay area, they called him Dr. Bill"
+msgstr ""
+
+#. Paragraph 37: When I asked Jack about Bill’s evolution once he moved to La Jolla, he replied: As far as I could see, Bill had full spiritual depth the day I met him and that did not change. His social skills, his r...
+#: paragraph:37,sentence:215
+msgid "Who the hell wants to be a Dr. Bill, anyway"
+msgstr ""
+
+#. Paragraph 37: When I asked Jack about Bill’s evolution once he moved to La Jolla, he replied: As far as I could see, Bill had full spiritual depth the day I met him and that did not change. His social skills, his r...
+#: paragraph:37,sentence:216
+msgid "We stopped that right away"
+msgstr ""
+
+#. Paragraph 37: When I asked Jack about Bill’s evolution once he moved to La Jolla, he replied: As far as I could see, Bill had full spiritual depth the day I met him and that did not change. His social skills, his r...
+#: paragraph:37,sentence:217
+msgid "He was just Bill [or Billy] and a member of the group.[31]"
+msgstr ""
+
+#. Paragraph 38: Secondly, Bill, the human, took the Course, turned his life around, and became the humble, modest, perfect, enlightened teacher of the Course by his conduct, by his being, and by his grace, gentleness...
+#: paragraph:38,sentence:218
+msgid "Secondly, Bill, the human, took the Course, turned his life around, and became the humble, modest, perfect, enlightened teacher of the Course by his conduct, by his being, and by his grace, gentleness, and love"
+msgstr ""
+
+#. Paragraph 38: Secondly, Bill, the human, took the Course, turned his life around, and became the humble, modest, perfect, enlightened teacher of the Course by his conduct, by his being, and by his grace, gentleness...
+#: paragraph:38,sentence:219
+msgid "Even if he had never helped bring us the Course, and I had just met this man, I would still honor his most beautiful life"
+msgstr ""
+
+#. Paragraph 38: Secondly, Bill, the human, took the Course, turned his life around, and became the humble, modest, perfect, enlightened teacher of the Course by his conduct, by his being, and by his grace, gentleness...
+#: paragraph:38,sentence:220
+msgid "And he’s still operating because his energies are still with us, surrounding us.[32]"
+msgstr ""
+
+#. Paragraph 39: While basking in the glow of his newfound freedom and finally allowing himself to be fully loved, remnants of his past tugged at him. In March 1988, out of the blue, Bill contacted his old friend Jo, ...
+#: paragraph:39,sentence:221
+msgid "While basking in the glow of his newfound freedom and finally allowing himself to be fully loved, remnants of his past tugged at him"
+msgstr ""
+
+#. Paragraph 39: While basking in the glow of his newfound freedom and finally allowing himself to be fully loved, remnants of his past tugged at him. In March 1988, out of the blue, Bill contacted his old friend Jo, ...
+#: paragraph:39,sentence:222
+msgid "In March 1988, out of the blue, Bill contacted his old friend Jo, his girlfriend from college days, to wish her happy birthday and to invite her out for a birthday dinner"
+msgstr ""
+
+#. Paragraph 39: While basking in the glow of his newfound freedom and finally allowing himself to be fully loved, remnants of his past tugged at him. In March 1988, out of the blue, Bill contacted his old friend Jo, ...
+#: paragraph:39,sentence:223
+msgid "She was recently widowed and they rekindled their old friendship"
+msgstr ""
+
+#. Paragraph 39: While basking in the glow of his newfound freedom and finally allowing himself to be fully loved, remnants of his past tugged at him. In March 1988, out of the blue, Bill contacted his old friend Jo, ...
+#: paragraph:39,sentence:224
+msgid "They had met only twice since college, once in the late 1970s when Bill was in San Diego, her home at that time, and once when she was in Tiburon about four years later"
+msgstr ""
+
+#. Paragraph 39: While basking in the glow of his newfound freedom and finally allowing himself to be fully loved, remnants of his past tugged at him. In March 1988, out of the blue, Bill contacted his old friend Jo, ...
+#: paragraph:39,sentence:225
+msgid "According to Jo, they had a truly marvelous time and got together several times during the following three months"
+msgstr ""
+
+#. Paragraph 39: While basking in the glow of his newfound freedom and finally allowing himself to be fully loved, remnants of his past tugged at him. In March 1988, out of the blue, Bill contacted his old friend Jo, ...
+#: paragraph:39,sentence:226
+msgid "In midsummer, with an extended business trip to New Zealand coming up, Jo had to make arrangements for her rental property out in the desert while she was gone; she invited Bill to drive out with her and he happily accepted"
+msgstr ""
+
+#. Paragraph 39: While basking in the glow of his newfound freedom and finally allowing himself to be fully loved, remnants of his past tugged at him. In March 1988, out of the blue, Bill contacted his old friend Jo, ...
+#: paragraph:39,sentence:227
+msgid "Jo reminisced about all the fun they had had together as pals, before Bill gave her his fraternity pin:"
+msgstr ""
+
+#. Paragraph 40: We used to sit on the bench at his piano, which he could play beautifully. He could sing beautifully, too. . . . We used to sing things like Danny Boy and The Desert Song. So it was funny some fifty y...
+#: paragraph:40,sentence:228
+msgid "We used to sit on the bench at his piano, which he could play beautifully."
+msgstr ""
+
+#. Paragraph 40: We used to sit on the bench at his piano, which he could play beautifully. He could sing beautifully, too. . . . We used to sing things like Danny Boy and The Desert Song. So it was funny some fifty y...
+#: paragraph:40,sentence:229
+msgid "He could sing beautifully, too. . .."
+msgstr ""
+
+#. Paragraph 40: We used to sit on the bench at his piano, which he could play beautifully. He could sing beautifully, too. . . . We used to sing things like Danny Boy and The Desert Song. So it was funny some fifty y...
+#: paragraph:40,sentence:230
+msgid "We used to sing things like Danny Boy and The Desert Song."
+msgstr ""
+
+#. Paragraph 40: We used to sit on the bench at his piano, which he could play beautifully. He could sing beautifully, too. . . . We used to sing things like Danny Boy and The Desert Song. So it was funny some fifty y...
+#: paragraph:40,sentence:231
+msgid "So it was funny some fifty years later when we were driving up to the desert and he broke out in this song and we sang together."
+msgstr ""
+
+#. Paragraph 40: We used to sit on the bench at his piano, which he could play beautifully. He could sing beautifully, too. . . . We used to sing things like Danny Boy and The Desert Song. So it was funny some fifty y...
+#: paragraph:40,sentence:232
+msgid "It was really neat, just like old times, . . . a delightful weekend."
+msgstr ""
+
+#. Paragraph 40: We used to sit on the bench at his piano, which he could play beautifully. He could sing beautifully, too. . . . We used to sing things like Danny Boy and The Desert Song. So it was funny some fifty y...
+#: paragraph:40,sentence:233
+msgid "There was nothing [romantic] between us, yet he seemed so much at home."
+msgstr ""
+
+#. Paragraph 40: We used to sit on the bench at his piano, which he could play beautifully. He could sing beautifully, too. . . . We used to sing things like Danny Boy and The Desert Song. So it was funny some fifty y...
+#: paragraph:40,sentence:234
+msgid "It was like he was really at peace with himself. . .."
+msgstr ""
+
+#. Paragraph 40: We used to sit on the bench at his piano, which he could play beautifully. He could sing beautifully, too. . . . We used to sing things like Danny Boy and The Desert Song. So it was funny some fifty y...
+#: paragraph:40,sentence:235
+msgid "So we agreed we were just really great old friends, and I realized at that time, that’s it."
+msgstr ""
+
+#. Paragraph 40: We used to sit on the bench at his piano, which he could play beautifully. He could sing beautifully, too. . . . We used to sing things like Danny Boy and The Desert Song. So it was funny some fifty y...
+#: paragraph:40,sentence:236
+msgid "It was kind of interesting because on that trip he gave me a copy of his book, Choose Once Again, and I think there’s a message there."
+msgstr ""
+
+#. Paragraph 40: We used to sit on the bench at his piano, which he could play beautifully. He could sing beautifully, too. . . . We used to sing things like Danny Boy and The Desert Song. So it was funny some fifty y...
+#: paragraph:40,sentence:237
+msgid "Like I had to choose once again, somebody, but not him."
+msgstr ""
+
+#. Paragraph 41: But I have to say that even though I’d known Bill since kindergarten, he was still somewhat of an enigma to me. Yet he really opened up to me, more than ever before, that last time we were together in...
+#: paragraph:41,sentence:238
+msgid "But I have to say that even though I’d known Bill since kindergarten, he was still somewhat of an enigma to me."
+msgstr ""
+
+#. Paragraph 41: But I have to say that even though I’d known Bill since kindergarten, he was still somewhat of an enigma to me. Yet he really opened up to me, more than ever before, that last time we were together in...
+#: paragraph:41,sentence:239
+msgid "Yet he really opened up to me, more than ever before, that last time we were together in the desert."
+msgstr ""
+
+#. Paragraph 41: But I have to say that even though I’d known Bill since kindergarten, he was still somewhat of an enigma to me. Yet he really opened up to me, more than ever before, that last time we were together in...
+#: paragraph:41,sentence:240
+msgid "We were closer than ever before as just good friends."
+msgstr ""
+
+#. Paragraph 42: The one thing that was interesting, too, and he was almost secretive about this, is that he said, “I’m really going to be more of a risk taker,” although he didn’t explain what that meant. . . . “I’ve...
+#: paragraph:42,sentence:241
+msgid "The one thing that was interesting, too, and he was almost secretive about this, is that he said, “I’m really going to be more of a risk taker,” although he didn’t explain what that meant. . . . “I’ve got a lot of plans and I’ve made up my mind."
+msgstr ""
+
+#. Paragraph 42: The one thing that was interesting, too, and he was almost secretive about this, is that he said, “I’m really going to be more of a risk taker,” although he didn’t explain what that meant. . . . “I’ve...
+#: paragraph:42,sentence:242
+msgid "I think I’ve protected myself too much all my life; I’m going to be more of a risk taker.” That last week he was so relaxed and confident."
+msgstr ""
+
+#. Paragraph 42: The one thing that was interesting, too, and he was almost secretive about this, is that he said, “I’m really going to be more of a risk taker,” although he didn’t explain what that meant. . . . “I’ve...
+#: paragraph:42,sentence:243
+msgid "It was like, “I’ve finally arrived and I really have it all together now.” I was really looking forward to seeing him again."
+msgstr ""
+
+#. Paragraph 43: When we parted [two days later], he told me he was going to try to get to New Zealand while I was there, since I was going to be there a whole year. I said, “Great, as soon as I get there and find out...
+#: paragraph:43,sentence:244
+msgid "When we parted [two days later], he told me he was going to try to get to New Zealand while I was there, since I was going to be there a whole year"
+msgstr ""
+
+#. Paragraph 43: When we parted [two days later], he told me he was going to try to get to New Zealand while I was there, since I was going to be there a whole year. I said, “Great, as soon as I get there and find out...
+#: paragraph:43,sentence:245
+msgid "I said, “Great, as soon as I get there and find out what my address is I’ll write you.” [Soon after], I left for New Zealand and he left for San Francisco that same day.[33]"
+msgstr ""
+
+#. Paragraph 44: Jo indicated they each knew, though didn’t say, that this was really the last good-bye. By all accounts from many witnesses, by the end of his earthly life Bill had become playful, participating, flex...
+#: paragraph:44,sentence:246
+msgid "Jo indicated they each knew, though didn’t say, that this was really the last good-bye"
+msgstr ""
+
+#. Paragraph 44: Jo indicated they each knew, though didn’t say, that this was really the last good-bye. By all accounts from many witnesses, by the end of his earthly life Bill had become playful, participating, flex...
+#: paragraph:44,sentence:247
+msgid "By all accounts from many witnesses, by the end of his earthly life Bill had become playful, participating, flexible, light, joyous, and free—aware of his true identity"
+msgstr ""
+
+#. Paragraph 44: Jo indicated they each knew, though didn’t say, that this was really the last good-bye. By all accounts from many witnesses, by the end of his earthly life Bill had become playful, participating, flex...
+#: paragraph:44,sentence:248
+msgid "Many people had served him throughout his life as he owned his shadow side, and ownership allowed his fears to fade away"
+msgstr ""
+
+#. Paragraph 44: Jo indicated they each knew, though didn’t say, that this was really the last good-bye. By all accounts from many witnesses, by the end of his earthly life Bill had become playful, participating, flex...
+#: paragraph:44,sentence:249
+msgid "Much of his humor stemmed from recognizing fear’s lack of substance and the absurdity of taking ourselves so seriously. “This is the way salvation works"
+msgstr ""
+
+#. Paragraph 44: Jo indicated they each knew, though didn’t say, that this was really the last good-bye. By all accounts from many witnesses, by the end of his earthly life Bill had become playful, participating, flex...
+#: paragraph:44,sentence:250
+msgid "As you step back, the light in you steps forward and encompasses the world"
+msgstr ""
+
+#. Paragraph 44: Jo indicated they each knew, though didn’t say, that this was really the last good-bye. By all accounts from many witnesses, by the end of his earthly life Bill had become playful, participating, flex...
+#: paragraph:44,sentence:251
+msgid "It heralds not the end of sin in punishment and death"
+msgstr ""
+
+#. Paragraph 44: Jo indicated they each knew, though didn’t say, that this was really the last good-bye. By all accounts from many witnesses, by the end of his earthly life Bill had become playful, participating, flex...
+#: paragraph:44,sentence:252
+msgid "In lightness and in laughter is sin gone, because its quaint absurdity is seen"
+msgstr ""
+
+#. Paragraph 44: Jo indicated they each knew, though didn’t say, that this was really the last good-bye. By all accounts from many witnesses, by the end of his earthly life Bill had become playful, participating, flex...
+#: paragraph:44,sentence:253
+msgid "It is a foolish thought, a silly dream, not frightening, ridiculous perhaps, but who would waste an instant in approach to God Himself for such a senseless whim?”[34]"
+msgstr ""
+
+#. Paragraph 45: At long last, Bill became aware that he no longer needed to escape from anyone or anything, but could simply set aside any upset as a nightmare without appeal. He chose not to be imprisoned. In all wa...
+#: paragraph:45,sentence:254
+msgid "At long last, Bill became aware that he no longer needed to escape from anyone or anything, but could simply set aside any upset as a nightmare without appeal."
+msgstr ""
+
+#. Paragraph 45: At long last, Bill became aware that he no longer needed to escape from anyone or anything, but could simply set aside any upset as a nightmare without appeal. He chose not to be imprisoned. In all wa...
+#: paragraph:45,sentence:255
+msgid "He chose not to be imprisoned."
+msgstr ""
+
+#. Paragraph 45: At long last, Bill became aware that he no longer needed to escape from anyone or anything, but could simply set aside any upset as a nightmare without appeal. He chose not to be imprisoned. In all wa...
+#: paragraph:45,sentence:256
+msgid "In all ways, large and small, his loving presence eclipsed his fearful, self-serving thoughts."
+msgstr ""
+
+#. Paragraph 45: At long last, Bill became aware that he no longer needed to escape from anyone or anything, but could simply set aside any upset as a nightmare without appeal. He chose not to be imprisoned. In all wa...
+#: paragraph:45,sentence:257
+msgid "He reached the point where there was little more for him to say, because knowing was so deeply embedded in his psyche."
+msgstr ""
+
+#. Paragraph 45: At long last, Bill became aware that he no longer needed to escape from anyone or anything, but could simply set aside any upset as a nightmare without appeal. He chose not to be imprisoned. In all wa...
+#: paragraph:45,sentence:258
+msgid "He had allowed grievances and old habit patterns to be dissolved, and now experienced the truth of his being."
+msgstr ""
+
+#. Paragraph 45: At long last, Bill became aware that he no longer needed to escape from anyone or anything, but could simply set aside any upset as a nightmare without appeal. He chose not to be imprisoned. In all wa...
+#: paragraph:45,sentence:259
+msgid "Talk would only trivialize it."
+msgstr ""
+
+#. Paragraph 45: At long last, Bill became aware that he no longer needed to escape from anyone or anything, but could simply set aside any upset as a nightmare without appeal. He chose not to be imprisoned. In all wa...
+#: paragraph:45,sentence:260
+msgid "In adopting the goal of a better way to live, he instantly found himself on a path with no exit point, leading straight to the heart of love itself."
+msgstr ""
+
+#. Paragraph 45: At long last, Bill became aware that he no longer needed to escape from anyone or anything, but could simply set aside any upset as a nightmare without appeal. He chose not to be imprisoned. In all wa...
+#: paragraph:45,sentence:261
+msgid "What he had admired in Mother Teresa, he had become."
+msgstr ""
+
+#. Paragraph 46: Now, many years later, with so many sharing their unique perspectives of him, no more hiding is possible. The enigmatic, secretive, and compartmentalized Bill finally stands revealed for all to see. [...
+#: paragraph:46,sentence:262
+msgid "Now, many years later, with so many sharing their unique perspectives of him, no more hiding is possible."
+msgstr ""
+
+#. Paragraph 46: Now, many years later, with so many sharing their unique perspectives of him, no more hiding is possible. The enigmatic, secretive, and compartmentalized Bill finally stands revealed for all to see. [...
+#: paragraph:46,sentence:263
+msgid "The enigmatic, secretive, and compartmentalized Bill finally stands revealed for all to see. [1]Patricia Hopkins interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 46: Now, many years later, with so many sharing their unique perspectives of him, no more hiding is possible. The enigmatic, secretive, and compartmentalized Bill finally stands revealed for all to see. [...
+#: paragraph:46,sentence:264
+msgid "James Bolen, 20:2–3, FIPA, Tiburon, CA."
+msgstr ""
+
+#. Paragraph 47: [2]William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:52, FIPA. [3]Hopkins interview, 20:6,4, FIPA.
+#: paragraph:47,sentence:265
+msgid "[2]William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:52, FIPA. [3]Hopkins interview, 20:6,4, FIPA."
+msgstr ""
+
+#. Paragraph 48: [4]A Course In Miracles Text, Introduction. [5]Bob Howe interview with author, March 2007.
+#: paragraph:48,sentence:266
+msgid "[4]A Course In Miracles Text, Introduction. [5]Bob Howe interview with author, March 2007."
+msgstr ""
+
+#. Paragraph 49: [6]Pat Hopkins telephone interview with author, December 2007. [7]Jaison Kayn telephone interview with author, February 2007.
+#: paragraph:49,sentence:267
+msgid "[6]Pat Hopkins telephone interview with author, December 2007. [7]Jaison Kayn telephone interview with author, February 2007."
+msgstr ""
+
+#. Paragraph 50: [8]Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 16:4, FIPA. [9]Sherry Ruth Anderson & Patricia Hopkins, The Feminine Face of God (New York: Bantam...
+#: paragraph:50,sentence:268
+msgid "[8]Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 50: [8]Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 16:4, FIPA. [9]Sherry Ruth Anderson & Patricia Hopkins, The Feminine Face of God (New York: Bantam...
+#: paragraph:50,sentence:269
+msgid "James Bolen, 16:4, FIPA. [9]Sherry Ruth Anderson & Patricia Hopkins, The Feminine Face of God (New York: Bantam Books, 1991)."
+msgstr ""
+
+#. Paragraph 51: [10]Rosenthal interview, 16:4, FIPA. [11]Hopkins interview, 20:9, FIPA.
+#: paragraph:51,sentence:270
+msgid "[10]Rosenthal interview, 16:4, FIPA. [11]Hopkins interview, 20:9, FIPA."
+msgstr ""
+
+#. Paragraph 52: [12]Pat Hopkins interview, December 2007. [13]Hugh and Gayle Prather, interview with author, October 1993.
+#: paragraph:52,sentence:271
+msgid "[12]Pat Hopkins interview, December 2007. [13]Hugh and Gayle Prather, interview with author, October 1993."
+msgstr ""
+
+#. Paragraph 53: [16]Pat Hopkins, telephone interview with author, December 2007. [17]Jack and Layle Luckett, email message to author, January 2008.
+#: paragraph:53,sentence:272
+msgid "[16]Pat Hopkins, telephone interview with author, December 2007. [17]Jack and Layle Luckett, email message to author, January 2008."
+msgstr ""
+
+#. Paragraph 54: [18]Jack and Layle Luckett telephone interview with author, December 2007. [20]Luckett interview, March 2008.
+#: paragraph:54,sentence:273
+msgid "[18]Jack and Layle Luckett telephone interview with author, December 2007. [20]Luckett interview, March 2008."
+msgstr ""
+
+#. Paragraph 55: [22]Luckett email, January 2009. [23]Jack and Layle Luckett, email message to author, September 2009.
+#: paragraph:55,sentence:274
+msgid "[22]Luckett email, January 2009. [23]Jack and Layle Luckett, email message to author, September 2009."
+msgstr ""
+
+#. Paragraph 56: [24]Luckett interview, December 2007. [26]Luckett email, January 2009.
+#: paragraph:56,sentence:275
+msgid "[24]Luckett interview, December 2007. [26]Luckett email, January 2009."
+msgstr ""
+
+#. Paragraph 57: [27]Luckett email, September 2009. [28]Luckett interview, December 2007.
+#: paragraph:57,sentence:276
+msgid "[27]Luckett email, September 2009. [28]Luckett interview, December 2007."
+msgstr ""
+
+#. Paragraph 58: [30]William Whitson interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 21:11, FIPA, Tiburon, CA. [31]Luckett interview, September 2007.
+#: paragraph:58,sentence:277
+msgid "[30]William Whitson interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 58: [30]William Whitson interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 21:11, FIPA, Tiburon, CA. [31]Luckett interview, September 2007.
+#: paragraph:58,sentence:278
+msgid "James Bolen, 21:11, FIPA, Tiburon, CA. [31]Luckett interview, September 2007."
+msgstr ""
+
+#. Paragraph 59: [32]Luckett interview, December 2007. [33]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 11:7, FIPA.
+#: paragraph:59,sentence:279
+msgid "[32]Luckett interview, December 2007. [33]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 59: [32]Luckett interview, December 2007. [33]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 11:7, FIPA.
+#: paragraph:59,sentence:280
+msgid "James Bolen, 11:7, FIPA."
+msgstr ""
+
+#. Paragraph 60: [34]A Course In Miracles Workbook, Lesson 156, 294–295.
+#: paragraph:60,sentence:281
+msgid "[34]A Course In Miracles Workbook, Lesson 156, 294–295."
+msgstr ""
+

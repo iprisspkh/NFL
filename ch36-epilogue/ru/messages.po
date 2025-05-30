@@ -1,0 +1,249 @@
+# Chapter 36: Epilogue
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:1
+msgid "While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:2
+msgid "Only if we are the same does his story have meaning for us."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:3
+msgid "If we change just a few details, we recognize our own journey in his and can see that his answers are also ours."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:4
+msgid "It is true that Bill possessed talents and assets that many of us don’t have, making many facets of his life easier than for most."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:5
+msgid "However, those assets of privilege were paired with challenges that would have broken the spirits of many."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:6
+msgid "He was an amazing human being, but he was human."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:7
+msgid "As I am sure he would earnestly want to convey, the traits he cultivated, the ones that led him home, are well within everyone’s reach: a daily, steadfast determination to let go of conflict—the ego’s sustenance—and willingness to make peace of mind the primary goal for each encounter."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:8
+msgid "We need his human example to see that we’re not asked to sacrifice in practicing forgiveness."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:9
+msgid "His life demonstrates that it is worth it."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:10
+msgid "We do need to relinquish our defenses, attachments, and valueless investments, though not necessarily our worldly possessions if they aid with our gifts of service."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:11
+msgid "We cherish our grievances rather than each other, as if they were precious heirlooms, but we can change our minds."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:12
+msgid "If Bill had a profound mission, so do we."
+msgstr ""
+
+#. Paragraph 1: While in this world, Bill finally wanted only to be ordinary and to find sameness with everyone. Only if we are the same does his story have meaning for us. If we change just a few details, we recogni...
+#: paragraph:1,sentence:13
+msgid "As he liberated his light, presence, and joy, so will we."
+msgstr ""
+
+#. Paragraph 2: After Bill’s passing, Pat Hopkins took on the administrative duties, sorting out and determining the final disposition of his possessions. He lived a simple, uncomplicated life, so after all archival ...
+#: paragraph:2,sentence:14
+msgid "After Bill’s passing, Pat Hopkins took on the administrative duties, sorting out and determining the final disposition of his possessions."
+msgstr ""
+
+#. Paragraph 2: After Bill’s passing, Pat Hopkins took on the administrative duties, sorting out and determining the final disposition of his possessions. He lived a simple, uncomplicated life, so after all archival ...
+#: paragraph:2,sentence:15
+msgid "He lived a simple, uncomplicated life, so after all archival material—personal correspondence and other written material, pictures, and books—was safely in the Foundation’s keeping and his clothes and household goods disposed of, not much was left."
+msgstr ""
+
+#. Paragraph 2: After Bill’s passing, Pat Hopkins took on the administrative duties, sorting out and determining the final disposition of his possessions. He lived a simple, uncomplicated life, so after all archival ...
+#: paragraph:2,sentence:16
+msgid "Pat asked each of Bill’s close friends what we wanted as a keepsake."
+msgstr ""
+
+#. Paragraph 2: After Bill’s passing, Pat Hopkins took on the administrative duties, sorting out and determining the final disposition of his possessions. He lived a simple, uncomplicated life, so after all archival ...
+#: paragraph:2,sentence:17
+msgid "He always had a single crystal hanging from the window or sliding glass door of his bedroom wherever he lived, and that was my choice."
+msgstr ""
+
+#. Paragraph 2: After Bill’s passing, Pat Hopkins took on the administrative duties, sorting out and determining the final disposition of his possessions. He lived a simple, uncomplicated life, so after all archival ...
+#: paragraph:2,sentence:18
+msgid "I love the sparkling clarity of beautiful crystal and glass, and it is the perfect reminder of the light he brought and still brings to the world."
+msgstr ""
+
+#. Paragraph 3: Without defenses, you become a light which Heaven gratefully acknowledges to be its own. And it will lead you on in ways appointed for your happiness according to the ancient plan, begun when time was...
+#: paragraph:3,sentence:19
+msgid "Without defenses, you become a light which Heaven gratefully acknowledges to be its own"
+msgstr ""
+
+#. Paragraph 3: Without defenses, you become a light which Heaven gratefully acknowledges to be its own. And it will lead you on in ways appointed for your happiness according to the ancient plan, begun when time was...
+#: paragraph:3,sentence:20
+msgid "And it will lead you on in ways appointed for your happiness according to the ancient plan, begun when time was born"
+msgstr ""
+
+#. Paragraph 3: Without defenses, you become a light which Heaven gratefully acknowledges to be its own. And it will lead you on in ways appointed for your happiness according to the ancient plan, begun when time was...
+#: paragraph:3,sentence:21
+msgid "Your followers will join their light with yours, and it will be increased until the world is lighted up with joy"
+msgstr ""
+
+#. Paragraph 3: Without defenses, you become a light which Heaven gratefully acknowledges to be its own. And it will lead you on in ways appointed for your happiness according to the ancient plan, begun when time was...
+#: paragraph:3,sentence:22
+msgid "And gladly will our brothers lay aside their cumbersome defenses, which availed them nothing and could only terrify.[1]"
+msgstr ""
+
+#. Paragraph 4: The Epilogue from the workbook reminds us that A Course In Miracles is a beginning, not an end. It invites everyone to renew the promises of the ancient plan and lay aside all that hurts and confounds...
+#: paragraph:4,sentence:23
+msgid "The Epilogue from the workbook reminds us that A Course In Miracles is a beginning, not an end"
+msgstr ""
+
+#. Paragraph 4: The Epilogue from the workbook reminds us that A Course In Miracles is a beginning, not an end. It invites everyone to renew the promises of the ancient plan and lay aside all that hurts and confounds...
+#: paragraph:4,sentence:24
+msgid "It invites everyone to renew the promises of the ancient plan and lay aside all that hurts and confounds us"
+msgstr ""
+
+#. Paragraph 4: The Epilogue from the workbook reminds us that A Course In Miracles is a beginning, not an end. It invites everyone to renew the promises of the ancient plan and lay aside all that hurts and confounds...
+#: paragraph:4,sentence:25
+msgid "At Bill’s memorial service, Roger Walsh’s concluding remarks conveyed that spirit of growing brotherhood, which is humankind’s birthright,"
+msgstr ""
+
+#. Paragraph 5: And finally, Bill gave us the priceless gift of each other, this community of practitioners gathered here together and around the world trying to embody, to incarnate this material, to remember that w...
+#: paragraph:5,sentence:26
+msgid "And finally, Bill gave us the priceless gift of each other, this community of practitioners gathered here together and around the world trying to embody, to incarnate this material, to remember that we are one in love and that in your brother you but see yourself, that it is impossible to overestimate the worth of your brother"
+msgstr ""
+
+#. Paragraph 5: And finally, Bill gave us the priceless gift of each other, this community of practitioners gathered here together and around the world trying to embody, to incarnate this material, to remember that w...
+#: paragraph:5,sentence:27
+msgid "How could we possibly overestimate the worth of Bill"
+msgstr ""
+
+#. Paragraph 5: And finally, Bill gave us the priceless gift of each other, this community of practitioners gathered here together and around the world trying to embody, to incarnate this material, to remember that w...
+#: paragraph:5,sentence:28
+msgid "Truly, we’ve been blessed by him.[2]"
+msgstr ""
+
+#. Paragraph 6: And in contrapuntal response, one can almost hear Bill’s voice read from the text, In joyous welcome is my hand outstretched to every brother who would join with me in reaching past temptation, and wh...
+#: paragraph:6,sentence:29
+msgid "And in contrapuntal response, one can almost hear Bill’s voice read from the text, In joyous welcome is my hand outstretched to every brother who would join with me in reaching past temptation, and who looks with fixed determination toward the light that shines beyond in perfect constancy. . ."
+msgstr ""
+
+#. Paragraph 6: And in contrapuntal response, one can almost hear Bill’s voice read from the text, In joyous welcome is my hand outstretched to every brother who would join with me in reaching past temptation, and wh...
+#: paragraph:6,sentence:30
+msgid "I give You thanks for what my brothers are"
+msgstr ""
+
+#. Paragraph 6: And in contrapuntal response, one can almost hear Bill’s voice read from the text, In joyous welcome is my hand outstretched to every brother who would join with me in reaching past temptation, and wh...
+#: paragraph:6,sentence:31
+msgid "And as each one elects to join with me, the song of thanks from earth to Heaven grows from tiny scattered threads of melody to one inclusive chorus from a world redeemed from hell, and giving thanks to You.[3]"
+msgstr ""
+
+#. Paragraph 7: And now, I invite you to take a brother’s or sister’s hand, find the song in your heart, and step forward to join “Bill’s chorus.” The best of this musical comedy of life is yet to come, and never aga...
+#: paragraph:7,sentence:32
+msgid "And now, I invite you to take a brother’s or sister’s hand, find the song in your heart, and step forward to join “Bill’s chorus.” The best of this musical comedy of life is yet to come, and never again will we forget to laugh."
+msgstr ""
+
+#. Paragraph 8: [1]A Course In Miracles Workbook, Lesson 135, 255. [2]Author’s transcription of Thetford Memorial Service, Roger Walsh, July 1988.
+#: paragraph:8,sentence:33
+msgid "[1]A Course In Miracles Workbook, Lesson 135, 255. [2]Author’s transcription of Thetford Memorial Service, Roger Walsh, July 1988."
+msgstr ""
+
+#. Paragraph 9: [3]3. A Course In Miracles Text, 668. The profound effect the Course has already had in its first four decades is incalculable, starting with those who birthed it. It has entered into manifestation no...
+#: paragraph:9,sentence:34
+msgid "[3]3."
+msgstr ""
+
+#. Paragraph 9: [3]3. A Course In Miracles Text, 668. The profound effect the Course has already had in its first four decades is incalculable, starting with those who birthed it. It has entered into manifestation no...
+#: paragraph:9,sentence:35
+msgid "A Course In Miracles Text, 668."
+msgstr ""
+
+#. Paragraph 9: [3]3. A Course In Miracles Text, 668. The profound effect the Course has already had in its first four decades is incalculable, starting with those who birthed it. It has entered into manifestation no...
+#: paragraph:9,sentence:36
+msgid "The profound effect the Course has already had in its first four decades is incalculable, starting with those who birthed it."
+msgstr ""
+
+#. Paragraph 9: [3]3. A Course In Miracles Text, 668. The profound effect the Course has already had in its first four decades is incalculable, starting with those who birthed it. It has entered into manifestation no...
+#: paragraph:9,sentence:37
+msgid "It has entered into manifestation not just because Helen and Bill wanted to find a better way, but through willingness and desire on the part of human consciousness to come of age."
+msgstr ""
+
+#. Paragraph 9: [3]3. A Course In Miracles Text, 668. The profound effect the Course has already had in its first four decades is incalculable, starting with those who birthed it. It has entered into manifestation no...
+#: paragraph:9,sentence:38
+msgid "It manifested in accordance with the deepest urgings of our common mind to move through the fog of egocentricity into the clear and wordless experience of unity."
+msgstr ""
+
+#. Paragraph 10: Bill and I spoke about the Course’s longevity shortly before his passing. We agreed it would doubtless reach many more people before its zenith and that we simply couldn’t imagine its ongoing influenc...
+#: paragraph:10,sentence:39
+msgid "Bill and I spoke about the Course’s longevity shortly before his passing."
+msgstr ""
+
+#. Paragraph 10: Bill and I spoke about the Course’s longevity shortly before his passing. We agreed it would doubtless reach many more people before its zenith and that we simply couldn’t imagine its ongoing influenc...
+#: paragraph:10,sentence:40
+msgid "We agreed it would doubtless reach many more people before its zenith and that we simply couldn’t imagine its ongoing influence."
+msgstr ""
+
+#. Paragraph 10: Bill and I spoke about the Course’s longevity shortly before his passing. We agreed it would doubtless reach many more people before its zenith and that we simply couldn’t imagine its ongoing influenc...
+#: paragraph:10,sentence:41
+msgid "Both of us believed that those who had encountered the Course up to that point (in 1988) were the pathfinders, psychological pioneers who had volunteered to challenge the old precepts on which most of human experience has been based."
+msgstr ""
+
+#. Paragraph 10: Bill and I spoke about the Course’s longevity shortly before his passing. We agreed it would doubtless reach many more people before its zenith and that we simply couldn’t imagine its ongoing influenc...
+#: paragraph:10,sentence:42
+msgid "In every era, various seers and masters have comprehended the hypnotized state of the human condition and offered Truth as its remedy, but this modern group of pioneers represents a grassroots movement."
+msgstr ""
+
+#. Paragraph 10: Bill and I spoke about the Course’s longevity shortly before his passing. We agreed it would doubtless reach many more people before its zenith and that we simply couldn’t imagine its ongoing influenc...
+#: paragraph:10,sentence:43
+msgid "These are “ordinary people” questioning the status quo and claiming their right to be free of psychological bondage."
+msgstr ""
+
+#. Paragraph 11: In time, I believe ACIM will be recognized as one of the foundational writings of this century, if not this millennium, a standard against which other writings are measured. Perhaps it won’t be known ...
+#: paragraph:11,sentence:44
+msgid "In time, I believe ACIM will be recognized as one of the foundational writings of this century, if not this millennium, a standard against which other writings are measured"
+msgstr ""
+
+#. Paragraph 11: In time, I believe ACIM will be recognized as one of the foundational writings of this century, if not this millennium, a standard against which other writings are measured. Perhaps it won’t be known ...
+#: paragraph:11,sentence:45
+msgid "Perhaps it won’t be known in the form of the blue book we recognize, but through variations that countless numbers can comprehend and embrace"
+msgstr ""
+
+#. Paragraph 11: In time, I believe ACIM will be recognized as one of the foundational writings of this century, if not this millennium, a standard against which other writings are measured. Perhaps it won’t be known ...
+#: paragraph:11,sentence:46
+msgid "Its future lies in the people who are changed by it now as it informs their lives and work, resulting in the inevitable expansion of collective consciousness"
+msgstr ""
+
+#. Paragraph 11: In time, I believe ACIM will be recognized as one of the foundational writings of this century, if not this millennium, a standard against which other writings are measured. Perhaps it won’t be known ...
+#: paragraph:11,sentence:47
+msgid "There will always be a recognizable response to mankind’s growing desire to be whole and at peace, and as the last sentence of the workbook states, “His Love surrounds you, and of this be sure; that I will never leave you comfortless.”[1]"
+msgstr ""
+
+#. Paragraph 12: [1]A Course In Miracles Workbook, Epilogue, 488.
+#: paragraph:12,sentence:48
+msgid "[1]A Course In Miracles Workbook, Epilogue, 488."
+msgstr ""
+

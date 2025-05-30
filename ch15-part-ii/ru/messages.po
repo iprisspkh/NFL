@@ -1,0 +1,14 @@
+# Chapter 15: Part II
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: The early Tiburon years
+#: paragraph:1,sentence:1
+msgid "The early Tiburon years"
+msgstr ""
+

@@ -1,0 +1,729 @@
+# Chapter 35: Chapter 25
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: As the daily ACIM transcription process stretched into months, then years, Bill and Helen had mused about whether it would ever end, and if so, how they might know that. At first, they thought it woul...
+#: paragraph:1,sentence:1
+msgid "As the daily ACIM transcription process stretched into months, then years, Bill and Helen had mused about whether it would ever end, and if so, how they might know that."
+msgstr ""
+
+#. Paragraph 1: As the daily ACIM transcription process stretched into months, then years, Bill and Helen had mused about whether it would ever end, and if so, how they might know that. At first, they thought it woul...
+#: paragraph:1,sentence:2
+msgid "At first, they thought it would be only a few pages long, but as it continued to unfold, it became clear it was a much longer work."
+msgstr ""
+
+#. Paragraph 1: As the daily ACIM transcription process stretched into months, then years, Bill and Helen had mused about whether it would ever end, and if so, how they might know that. At first, they thought it woul...
+#: paragraph:1,sentence:3
+msgid "Now, four decades later, we can say offhandedly, “Oh yes, the Course consists of a text, a workbook, and teacher’s manual,” but they had no way of knowing that early on."
+msgstr ""
+
+#. Paragraph 1: As the daily ACIM transcription process stretched into months, then years, Bill and Helen had mused about whether it would ever end, and if so, how they might know that. At first, they thought it woul...
+#: paragraph:1,sentence:4
+msgid "When they inquired, the inner Voice told them they would recognize the end of dictation (of the text) when they heard the word Amen."
+msgstr ""
+
+#. Paragraph 1: As the daily ACIM transcription process stretched into months, then years, Bill and Helen had mused about whether it would ever end, and if so, how they might know that. At first, they thought it woul...
+#: paragraph:1,sentence:5
+msgid "I am consistently moved to tears, imagining that October morning in 1968, when Helen slowly read the words, “And now we say Amen,” the first sentence in the final paragraph of the text."
+msgstr ""
+
+#. Paragraph 2: And as for Bill, now we say Amen. Those who knew and loved him during the California chapter of his life watched his steady transformation unfold—sometimes barely perceptible, sometimes in sudden leap...
+#: paragraph:2,sentence:6
+msgid "And as for Bill, now we say Amen."
+msgstr ""
+
+#. Paragraph 2: And as for Bill, now we say Amen. Those who knew and loved him during the California chapter of his life watched his steady transformation unfold—sometimes barely perceptible, sometimes in sudden leap...
+#: paragraph:2,sentence:7
+msgid "Those who knew and loved him during the California chapter of his life watched his steady transformation unfold—sometimes barely perceptible, sometimes in sudden leaps, occasionally with some discomfort, but always modestly—as his initial small willingness to practice forgiveness grew into a serious commitment."
+msgstr ""
+
+#. Paragraph 2: And as for Bill, now we say Amen. Those who knew and loved him during the California chapter of his life watched his steady transformation unfold—sometimes barely perceptible, sometimes in sudden leap...
+#: paragraph:2,sentence:8
+msgid "Once he made that commitment to practice complete forgiveness, he never really wavered."
+msgstr ""
+
+#. Paragraph 2: And as for Bill, now we say Amen. Those who knew and loved him during the California chapter of his life watched his steady transformation unfold—sometimes barely perceptible, sometimes in sudden leap...
+#: paragraph:2,sentence:9
+msgid "Everyone noticed the steady dissolution of his ego, that process markedly accelerating after he moved to La Jolla."
+msgstr ""
+
+#. Paragraph 2: And as for Bill, now we say Amen. Those who knew and loved him during the California chapter of his life watched his steady transformation unfold—sometimes barely perceptible, sometimes in sudden leap...
+#: paragraph:2,sentence:10
+msgid "His prayers for help, indeed, were granted, and one day Bill simply woke up, walked out of “prison,” and declared his own independence on July 4, 1988."
+msgstr ""
+
+#. Paragraph 2: And as for Bill, now we say Amen. Those who knew and loved him during the California chapter of his life watched his steady transformation unfold—sometimes barely perceptible, sometimes in sudden leap...
+#: paragraph:2,sentence:11
+msgid "No one who knew him believed the date was a coincidence; in retrospect, everyone laughed about it, affirming the perfection of his last few days."
+msgstr ""
+
+#. Paragraph 2: And as for Bill, now we say Amen. Those who knew and loved him during the California chapter of his life watched his steady transformation unfold—sometimes barely perceptible, sometimes in sudden leap...
+#: paragraph:2,sentence:12
+msgid "Bill, who so loved to play with words, was playing with dates."
+msgstr ""
+
+#. Paragraph 2: And as for Bill, now we say Amen. Those who knew and loved him during the California chapter of his life watched his steady transformation unfold—sometimes barely perceptible, sometimes in sudden leap...
+#: paragraph:2,sentence:13
+msgid "In the end, all grievances were healed and “flexi-Bill” was free."
+msgstr ""
+
+#. Paragraph 3: For what would be his final visit to Tiburon, Bill planned to arrive on July 3rd to join the holiday festivities at the Whitson household. Just before leaving, he and Catherine Prescott discussed gett...
+#: paragraph:3,sentence:14
+msgid "For what would be his final visit to Tiburon, Bill planned to arrive on July 3rd to join the holiday festivities at the Whitson household."
+msgstr ""
+
+#. Paragraph 3: For what would be his final visit to Tiburon, Bill planned to arrive on July 3rd to join the holiday festivities at the Whitson household. Just before leaving, he and Catherine Prescott discussed gett...
+#: paragraph:3,sentence:15
+msgid "Just before leaving, he and Catherine Prescott discussed getting together, as was their custom on his occasional trips up from La Jolla."
+msgstr ""
+
+#. Paragraph 3: For what would be his final visit to Tiburon, Bill planned to arrive on July 3rd to join the holiday festivities at the Whitson household. Just before leaving, he and Catherine Prescott discussed gett...
+#: paragraph:3,sentence:16
+msgid "With uncharacteristic fervor, Bill insisted that they have dinner with Jerry the night of the third."
+msgstr ""
+
+#. Paragraph 3: For what would be his final visit to Tiburon, Bill planned to arrive on July 3rd to join the holiday festivities at the Whitson household. Just before leaving, he and Catherine Prescott discussed gett...
+#: paragraph:3,sentence:17
+msgid "Since she planned to leave for Hawaii the next day, she responded, “No, it’s not worth it, Bill; I’ll see you when I get back.” In retrospect, she found it amazing that he kept saying, “No, no, I have to see you before you go!” She agreed to dinner, somewhat reluctantly, because she had an early morning departure and many last-minute chores still to do."
+msgstr ""
+
+#. Paragraph 4: Jerry picked Bill up at the San Francisco airport the morning of July 3, and on the drive north to Tiburon, they found themselves ensnarled in a huge traffic jam. The drive usually takes about an hour...
+#: paragraph:4,sentence:18
+msgid "Jerry picked Bill up at the San Francisco airport the morning of July 3, and on the drive north to Tiburon, they found themselves ensnarled in a huge traffic jam"
+msgstr ""
+
+#. Paragraph 4: Jerry picked Bill up at the San Francisco airport the morning of July 3, and on the drive north to Tiburon, they found themselves ensnarled in a huge traffic jam. The drive usually takes about an hour...
+#: paragraph:4,sentence:19
+msgid "The drive usually takes about an hour but on this day it was closer to three and a half hours, which Jerry later recalled as a real blessing"
+msgstr ""
+
+#. Paragraph 4: Jerry picked Bill up at the San Francisco airport the morning of July 3, and on the drive north to Tiburon, they found themselves ensnarled in a huge traffic jam. The drive usually takes about an hour...
+#: paragraph:4,sentence:20
+msgid "Spending that much time with Bill was such a treat for him. “Bill was in a very playful, joyful mood, very light"
+msgstr ""
+
+#. Paragraph 4: Jerry picked Bill up at the San Francisco airport the morning of July 3, and on the drive north to Tiburon, they found themselves ensnarled in a huge traffic jam. The drive usually takes about an hour...
+#: paragraph:4,sentence:21
+msgid "I never saw him so exuberant; his humor was amazing"
+msgstr ""
+
+#. Paragraph 4: Jerry picked Bill up at the San Francisco airport the morning of July 3, and on the drive north to Tiburon, they found themselves ensnarled in a huge traffic jam. The drive usually takes about an hour...
+#: paragraph:4,sentence:22
+msgid "He was walking very lightly and kind of playing"
+msgstr ""
+
+#. Paragraph 4: Jerry picked Bill up at the San Francisco airport the morning of July 3, and on the drive north to Tiburon, they found themselves ensnarled in a huge traffic jam. The drive usually takes about an hour...
+#: paragraph:4,sentence:23
+msgid "You know how he liked to play on words"
+msgstr ""
+
+#. Paragraph 4: Jerry picked Bill up at the San Francisco airport the morning of July 3, and on the drive north to Tiburon, they found themselves ensnarled in a huge traffic jam. The drive usually takes about an hour...
+#: paragraph:4,sentence:24
+msgid "I was really happy to see him lighter, not taking life seriously"
+msgstr ""
+
+#. Paragraph 4: Jerry picked Bill up at the San Francisco airport the morning of July 3, and on the drive north to Tiburon, they found themselves ensnarled in a huge traffic jam. The drive usually takes about an hour...
+#: paragraph:4,sentence:25
+msgid "I absolutely remember telling him how wonderful it was to see his joy and what a great decision it had been to go down there [to La Jolla].”[9]"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:26
+msgid "Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:27
+msgid "I was expecting him for the weekend, as it was the Fourth of July, and I had invited thirty-six people to greet him and have an outdoor meal on the deck with fireworks and all"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:28
+msgid "Jerry picked him up at the airport to bring him to our house for lunch, which I had ready about 12:30, expecting them by 1:00 p.m"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:29
+msgid "It passed, then 1:30, 2:00; they weren’t there and I was getting a little miffed"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:30
+msgid "This was before cell phones"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:31
+msgid "Finally, around 3:00 they walked in and what I saw was so unexpected"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:32
+msgid "Jerry looked kind of sheepish and Bill was smiling as if he were onstage"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:33
+msgid "He was lifting up his arms in the air with grace—I never thought of Bill as a graceful person—and doing a little jig as he walked in the door"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:34
+msgid "Then he kissed me and said, “You won’t believe what happened, you won’t believe what happened!” I said, “What?” still a little miffed"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:35
+msgid "He said, “We had terrible, terrible traffic and Jerry didn’t get angry once!” I looked at Jerry and he sort of shrugged, smiling his little embarrassed smile because that remark meant that he usually did get annoyed at traffic"
+msgstr ""
+
+#. Paragraph 5: Judy Whitson recounts, as if it were yesterday, the sequence of events that unfolded in Bill’s astonishing final days: The whole story of his last two days was all one piece. I was expecting him for t...
+#: paragraph:5,sentence:36
+msgid "But Bill felt something had happened and was commenting on the difference, “We had such a wonderful talk, a really wonderful connection.” He was very much aware that it was different with Jerry, and oh, my goodness, he was dancing, literally dancing into our house![10]"
+msgstr ""
+
+#. Paragraph 6: The Course states unequivocally that as we change our thoughts, their outer counterparts—the details of our daily lives, including others’ behavior—will change automatically. Since Bill had clearly ma...
+#: paragraph:6,sentence:37
+msgid "The Course states unequivocally that as we change our thoughts, their outer counterparts—the details of our daily lives, including others’ behavior—will change automatically"
+msgstr ""
+
+#. Paragraph 6: The Course states unequivocally that as we change our thoughts, their outer counterparts—the details of our daily lives, including others’ behavior—will change automatically. Since Bill had clearly ma...
+#: paragraph:6,sentence:38
+msgid "Since Bill had clearly made a major shift in his thinking, he naturally saw things differently, experiencing everyone around him—in this case Jerry—as more loving, open, and intensely satisfying"
+msgstr ""
+
+#. Paragraph 6: The Course states unequivocally that as we change our thoughts, their outer counterparts—the details of our daily lives, including others’ behavior—will change automatically. Since Bill had clearly ma...
+#: paragraph:6,sentence:39
+msgid "Of course, such healing is mutual—the ultimate win/win situation"
+msgstr ""
+
+#. Paragraph 6: The Course states unequivocally that as we change our thoughts, their outer counterparts—the details of our daily lives, including others’ behavior—will change automatically. Since Bill had clearly ma...
+#: paragraph:6,sentence:40
+msgid "Jerry and Bill made their arrangements for the evening and Jerry left"
+msgstr ""
+
+#. Paragraph 6: The Course states unequivocally that as we change our thoughts, their outer counterparts—the details of our daily lives, including others’ behavior—will change automatically. Since Bill had clearly ma...
+#: paragraph:6,sentence:41
+msgid "Judy continued,"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:42
+msgid "Bill was still “tripping the light fantastic” all around the living room, though there was no music playing"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:43
+msgid "I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I asked if he would like to sit down to have lunch and he replied, “Alright,” but he was blithe, that is the only word I can think of"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:44
+msgid "It was a very different Bill"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:45
+msgid "He was just happy, but the happiness was not “good mood” happiness, rather a joy that was radiating through the body"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:46
+msgid "His spirit was transcendent"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:47
+msgid "Watching him as I served him lunch (there was the watcher part and the doer part of me), the watcher thought something strange was going on here"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:48
+msgid "I wondered if he was on something, thinking some medication had him stoned"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:49
+msgid "I asked him what he was taking these days and he laughed, saying, “No, no, I’m just feeling so good, so free, so complete!” When I asked if he meant “relationship complete,” he answered that he was"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:50
+msgid "So, playing the role of the sister, I started quizzing him about them, beginning with Ken"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:51
+msgid "Bill said he had spoken with Ken a few months before, telling him that anything he had ever held against him was his own misperception and how terribly sorry he was"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:52
+msgid "He was honest with Ken about the times he had resented him, his judgments about him, and his resistance to being friends with him"
+msgstr ""
+
+#. Paragraph 7: Bill was still “tripping the light fantastic” all around the living room, though there was no music playing. I asked what he was doing and he answered, “Oh, I feel so flexible, I feel so flexible!” I ...
+#: paragraph:7,sentence:53
+msgid "He said the grievances were all gone, absolutely gone in his mind, that he didn’t see him that way anymore and asked for forgiveness.[11]"
+msgstr ""
+
+#. Paragraph 8: The conversation with Ken took place, to be precise, in February on Ken’s birthday. Jack Luckett confirmed the circumstances from his own perspective, as he had overheard Bill’s side of the phone call...
+#: paragraph:8,sentence:54
+msgid "The conversation with Ken took place, to be precise, in February on Ken’s birthday."
+msgstr ""
+
+#. Paragraph 8: The conversation with Ken took place, to be precise, in February on Ken’s birthday. Jack Luckett confirmed the circumstances from his own perspective, as he had overheard Bill’s side of the phone call...
+#: paragraph:8,sentence:55
+msgid "Jack Luckett confirmed the circumstances from his own perspective, as he had overheard Bill’s side of the phone call."
+msgstr ""
+
+#. Paragraph 9: Bill normally got up earlier than I did, and he would have clippings from the newspaper set out on the coffee table for us to talk about when I joined him. On this day, as every morning, Layle was out...
+#: paragraph:9,sentence:56
+msgid "Bill normally got up earlier than I did, and he would have clippings from the newspaper set out on the coffee table for us to talk about when I joined him"
+msgstr ""
+
+#. Paragraph 9: Bill normally got up earlier than I did, and he would have clippings from the newspaper set out on the coffee table for us to talk about when I joined him. On this day, as every morning, Layle was out...
+#: paragraph:9,sentence:57
+msgid "On this day, as every morning, Layle was out doing her yoga and Bill and I were drinking coffee, chatting about those articles"
+msgstr ""
+
+#. Paragraph 9: Bill normally got up earlier than I did, and he would have clippings from the newspaper set out on the coffee table for us to talk about when I joined him. On this day, as every morning, Layle was out...
+#: paragraph:9,sentence:58
+msgid "Unexpectedly, he got up in the middle of a discussion, dialed the phone, and spoke to Ken, among other things wishing him a happy birthday"
+msgstr ""
+
+#. Paragraph 9: Bill normally got up earlier than I did, and he would have clippings from the newspaper set out on the coffee table for us to talk about when I joined him. On this day, as every morning, Layle was out...
+#: paragraph:9,sentence:59
+msgid "When he hung up I told him I was listening to the tone of his voice and that it was so clear to me he had totally forgiven Ken"
+msgstr ""
+
+#. Paragraph 9: Bill normally got up earlier than I did, and he would have clippings from the newspaper set out on the coffee table for us to talk about when I joined him. On this day, as every morning, Layle was out...
+#: paragraph:9,sentence:60
+msgid "He answered that it was, indeed, true.[12]"
+msgstr ""
+
+#. Paragraph 10: Ken corroborated the story. He said the conversation was a short one, but Bill was very warm and sincere and that it felt genuine to him. He didn’t remember the exact words, but Bill did apologize, sa...
+#: paragraph:10,sentence:61
+msgid "Ken corroborated the story."
+msgstr ""
+
+#. Paragraph 10: Ken corroborated the story. He said the conversation was a short one, but Bill was very warm and sincere and that it felt genuine to him. He didn’t remember the exact words, but Bill did apologize, sa...
+#: paragraph:10,sentence:62
+msgid "He said the conversation was a short one, but Bill was very warm and sincere and that it felt genuine to him."
+msgstr ""
+
+#. Paragraph 10: Ken corroborated the story. He said the conversation was a short one, but Bill was very warm and sincere and that it felt genuine to him. He didn’t remember the exact words, but Bill did apologize, sa...
+#: paragraph:10,sentence:63
+msgid "He didn’t remember the exact words, but Bill did apologize, saying something like he had no right to judge or know what Ken should be doing or might do, that anything he did was fine with him."
+msgstr ""
+
+#. Paragraph 10: Ken corroborated the story. He said the conversation was a short one, but Bill was very warm and sincere and that it felt genuine to him. He didn’t remember the exact words, but Bill did apologize, sa...
+#: paragraph:10,sentence:64
+msgid "A month or so after the call, Ken spoke with him again, asking Bill to attend the grand opening in August of the retreat center in Roscoe, New York, which he and his wife Gloria were starting."
+msgstr ""
+
+#. Paragraph 10: Ken corroborated the story. He said the conversation was a short one, but Bill was very warm and sincere and that it felt genuine to him. He didn’t remember the exact words, but Bill did apologize, sa...
+#: paragraph:10,sentence:65
+msgid "Bill agreed to join them there."
+msgstr ""
+
+#. Paragraph 11: Judy continued questioning Bill about his relationships: Then I went through a list of about eight people where I knew the relationships had been sticky ones and with every one of them he was beaming....
+#: paragraph:11,sentence:66
+msgid "Judy continued questioning Bill about his relationships: Then I went through a list of about eight people where I knew the relationships had been sticky ones and with every one of them he was beaming."
+msgstr ""
+
+#. Paragraph 11: Judy continued questioning Bill about his relationships: Then I went through a list of about eight people where I knew the relationships had been sticky ones and with every one of them he was beaming....
+#: paragraph:11,sentence:67
+msgid "I got to the one I thought might be extremely embarrassing, asking about Jo, his first girlfriend."
+msgstr ""
+
+#. Paragraph 11: Judy continued questioning Bill about his relationships: Then I went through a list of about eight people where I knew the relationships had been sticky ones and with every one of them he was beaming....
+#: paragraph:11,sentence:68
+msgid "He knew what I meant and said they had gone away together two weekends before to her condo out in the desert [near San Diego]."
+msgstr ""
+
+#. Paragraph 11: Judy continued questioning Bill about his relationships: Then I went through a list of about eight people where I knew the relationships had been sticky ones and with every one of them he was beaming....
+#: paragraph:11,sentence:69
+msgid "When I inquired, he said he had finally told her and it was clear, although they discussed his visiting her in New Zealand once she got settled."
+msgstr ""
+
+#. Paragraph 11: Judy continued questioning Bill about his relationships: Then I went through a list of about eight people where I knew the relationships had been sticky ones and with every one of them he was beaming....
+#: paragraph:11,sentence:70
+msgid "Bill and I never actually discussed the fact that he was homosexual."
+msgstr ""
+
+#. Paragraph 11: Judy continued questioning Bill about his relationships: Then I went through a list of about eight people where I knew the relationships had been sticky ones and with every one of them he was beaming....
+#: paragraph:11,sentence:71
+msgid "It wasn’t as if I didn’t know, we just didn’t discuss it."
+msgstr ""
+
+#. Paragraph 12: Then I asked him about Helen, because that was the big one. “Funny you should ask that,” he answered, “because the other night I had a dream where I saw her as the priestess [representing an important...
+#: paragraph:12,sentence:72
+msgid "Then I asked him about Helen, because that was the big one. “Funny you should ask that,” he answered, “because the other night I had a dream where I saw her as the priestess [representing an important aspect of Helen’s nonphysical function, one she had many dreams and visions about]"
+msgstr ""
+
+#. Paragraph 12: Then I asked him about Helen, because that was the big one. “Funny you should ask that,” he answered, “because the other night I had a dream where I saw her as the priestess [representing an important...
+#: paragraph:12,sentence:73
+msgid "She was holding out her hands to me and glowing, with such a sweet smile on her face.” It seemed that, indeed, there was nothing left undone, so I gave him a hug, saying, “Well, you are free, you’ve done your homework.” He smiled, just a big grin, and said, “Yes, I have!”[13]"
+msgstr ""
+
+#. Paragraph 13: As planned, Jerry came for Bill later that evening, then they collected Catherine to join them for dinner. “Bill was so happy and excited,” she recounted. “He played out this romantic thing with me ev...
+#: paragraph:13,sentence:74
+msgid "As planned, Jerry came for Bill later that evening, then they collected Catherine to join them for dinner. “Bill was so happy and excited,” she recounted. “He played out this romantic thing with me even though there was nothing to it."
+msgstr ""
+
+#. Paragraph 13: As planned, Jerry came for Bill later that evening, then they collected Catherine to join them for dinner. “Bill was so happy and excited,” she recounted. “He played out this romantic thing with me ev...
+#: paragraph:13,sentence:75
+msgid "I was his ‘girlfriend,’ but not really."
+msgstr ""
+
+#. Paragraph 13: As planned, Jerry came for Bill later that evening, then they collected Catherine to join them for dinner. “Bill was so happy and excited,” she recounted. “He played out this romantic thing with me ev...
+#: paragraph:13,sentence:76
+msgid "Nothing ever happened, but I think he liked to play this knight in shining armor and be kind of chivalrous.”[14] She said he was ebullient and joyful as he danced around; his dancing apparently hadn’t stopped when he left the Whitsons’ home."
+msgstr ""
+
+#. Paragraph 14: The trio ordered fish, and when it arrived already filleted, Catherine said, “I looked down at it and had a feeling, a psychic hit, right then that something was going to happen because it looked like...
+#: paragraph:14,sentence:77
+msgid "The trio ordered fish, and when it arrived already filleted, Catherine said, “I looked down at it and had a feeling, a psychic hit, right then that something was going to happen because it looked like a dead body!”[15] Often throughout the meal Bill would hug her, saying, “Well, there must have been some reason I was supposed to see you tonight, right"
+msgstr ""
+
+#. Paragraph 14: The trio ordered fish, and when it arrived already filleted, Catherine said, “I looked down at it and had a feeling, a psychic hit, right then that something was going to happen because it looked like...
+#: paragraph:14,sentence:78
+msgid "It had to be tonight.”[16]"
+msgstr ""
+
+#. Paragraph 15: Meanwhile, Catherine noted, I had this fish and a feeling in the pit in my stomach, but never did I think it was related to Bill, never. His energy, his frequency, was vibrating at such an incredibly ...
+#: paragraph:15,sentence:79
+msgid "Meanwhile, Catherine noted, I had this fish and a feeling in the pit in my stomach, but never did I think it was related to Bill, never"
+msgstr ""
+
+#. Paragraph 15: Meanwhile, Catherine noted, I had this fish and a feeling in the pit in my stomach, but never did I think it was related to Bill, never. His energy, his frequency, was vibrating at such an incredibly ...
+#: paragraph:15,sentence:80
+msgid "His energy, his frequency, was vibrating at such an incredibly high rate he swept me into it, like going up in a hot-air balloon"
+msgstr ""
+
+#. Paragraph 15: Meanwhile, Catherine noted, I had this fish and a feeling in the pit in my stomach, but never did I think it was related to Bill, never. His energy, his frequency, was vibrating at such an incredibly ...
+#: paragraph:15,sentence:81
+msgid "He was saying all the way home from the restaurant, “There’s no baggage; I’m cleaned out, in and out; I’m complete with everyone.” On arriving home, while Jerry waited in the car, he kissed me, danced around in the street, and the last thing he said was, “See, there had to be a reason that I saw you tonight"
+msgstr ""
+
+#. Paragraph 15: Meanwhile, Catherine noted, I had this fish and a feeling in the pit in my stomach, but never did I think it was related to Bill, never. His energy, his frequency, was vibrating at such an incredibly ...
+#: paragraph:15,sentence:82
+msgid "Tonight’s the night.” But I had this clutching feeling, and the tape playing on my stereo when I walked in was called “Walk and Talk Like Angels.”[17]"
+msgstr ""
+
+#. Paragraph 16: While Catherine pondered her strange feelings, Jerry returned Bill to the Whitsons,’ where the three of them talked a bit about the evening, and then, still playful and elated, Bill retired to bed. Wh...
+#: paragraph:16,sentence:83
+msgid "While Catherine pondered her strange feelings, Jerry returned Bill to the Whitsons,’ where the three of them talked a bit about the evening, and then, still playful and elated, Bill retired to bed."
+msgstr ""
+
+#. Paragraph 16: While Catherine pondered her strange feelings, Jerry returned Bill to the Whitsons,’ where the three of them talked a bit about the evening, and then, still playful and elated, Bill retired to bed. Wh...
+#: paragraph:16,sentence:84
+msgid "Whit corroborated Judy’s accounting of the day, “On that last night he was very light, literally dancing around, and I’d never seen him do that."
+msgstr ""
+
+#. Paragraph 16: While Catherine pondered her strange feelings, Jerry returned Bill to the Whitsons,’ where the three of them talked a bit about the evening, and then, still playful and elated, Bill retired to bed. Wh...
+#: paragraph:16,sentence:85
+msgid "He was very joyful, up on tiptoes as if he were going to lift off.”[18] He noted, as did everyone else who saw him those last couple of days, that a substantive shift had occurred."
+msgstr ""
+
+#. Paragraph 16: While Catherine pondered her strange feelings, Jerry returned Bill to the Whitsons,’ where the three of them talked a bit about the evening, and then, still playful and elated, Bill retired to bed. Wh...
+#: paragraph:16,sentence:86
+msgid "Bill seemed to have cut loose all the anchors—professional ones related to his scientific persona, as well as his personal ones, the struggles and disappointments."
+msgstr ""
+
+#. Paragraph 17: The next morning, while serving Bill breakfast, Judy commented about its being the Fourth of July, and he said, “Yes, it’s my independence day!” She asked if he still felt free, and he reiterated, “Ye...
+#: paragraph:17,sentence:87
+msgid "The next morning, while serving Bill breakfast, Judy commented about its being the Fourth of July, and he said, “Yes, it’s my independence day!” She asked if he still felt free, and he reiterated, “Yes, I’m so flexible!” He and Whit had talked about the meaning of flexible as a term from the PAS—flexibility not of the body but of the personality"
+msgstr ""
+
+#. Paragraph 17: The next morning, while serving Bill breakfast, Judy commented about its being the Fourth of July, and he said, “Yes, it’s my independence day!” She asked if he still felt free, and he reiterated, “Ye...
+#: paragraph:17,sentence:88
+msgid "He had gone from being restricted, reserved, and inflexible to expansive, flowing, and inclusive"
+msgstr ""
+
+#. Paragraph 17: The next morning, while serving Bill breakfast, Judy commented about its being the Fourth of July, and he said, “Yes, it’s my independence day!” She asked if he still felt free, and he reiterated, “Ye...
+#: paragraph:17,sentence:89
+msgid "He also offered his private conviction to Whit that the PAS was still the most powerful and advanced psychological tool for describing human behavior and that only a few people really understood it"
+msgstr ""
+
+#. Paragraph 17: The next morning, while serving Bill breakfast, Judy commented about its being the Fourth of July, and he said, “Yes, it’s my independence day!” She asked if he still felt free, and he reiterated, “Ye...
+#: paragraph:17,sentence:90
+msgid "Judy’s chronicle continues:"
+msgstr ""
+
+#. Paragraph 18: Bill knew I was having a large group over for the holiday; the tables were all set up and I had a refrigerator full of food. After breakfast I decided, however, that I had to go to the market and get ...
+#: paragraph:18,sentence:91
+msgid "Bill knew I was having a large group over for the holiday; the tables were all set up and I had a refrigerator full of food."
+msgstr ""
+
+#. Paragraph 18: Bill knew I was having a large group over for the holiday; the tables were all set up and I had a refrigerator full of food. After breakfast I decided, however, that I had to go to the market and get ...
+#: paragraph:18,sentence:92
+msgid "After breakfast I decided, however, that I had to go to the market and get some more chicken."
+msgstr ""
+
+#. Paragraph 18: Bill knew I was having a large group over for the holiday; the tables were all set up and I had a refrigerator full of food. After breakfast I decided, however, that I had to go to the market and get ...
+#: paragraph:18,sentence:93
+msgid "Bill insisted I already had enough, but I said, “Yes, but I’m a Jewish mother and have to have extra.” He then announced that he was going for a walk [as was his daily custom], would meet me at the supermarket, and then drive home with me."
+msgstr ""
+
+#. Paragraph 18: Bill knew I was having a large group over for the holiday; the tables were all set up and I had a refrigerator full of food. After breakfast I decided, however, that I had to go to the market and get ...
+#: paragraph:18,sentence:94
+msgid "Since I didn’t really have time to shop, needing to tend to the barbecue and other last-minute details, I must have responded with a funny look."
+msgstr ""
+
+#. Paragraph 18: Bill knew I was having a large group over for the holiday; the tables were all set up and I had a refrigerator full of food. After breakfast I decided, however, that I had to go to the market and get ...
+#: paragraph:18,sentence:95
+msgid "He apparently noticed that because he said, “Don’t worry, dear."
+msgstr ""
+
+#. Paragraph 18: Bill knew I was having a large group over for the holiday; the tables were all set up and I had a refrigerator full of food. After breakfast I decided, however, that I had to go to the market and get ...
+#: paragraph:18,sentence:96
+msgid "If I’m not there when you’re ready to leave, go home without me.” I put my arms around him, hugged him really tight, and said, “Bill, I’m never going home without you!” thinking only from the Course frame of reference of our returning Home together."
+msgstr ""
+
+#. Paragraph 18: Bill knew I was having a large group over for the holiday; the tables were all set up and I had a refrigerator full of food. After breakfast I decided, however, that I had to go to the market and get ...
+#: paragraph:18,sentence:97
+msgid "He seemed perfectly fine, and I didn’t connect his comment with any feeling of foreboding, certainly nothing like death."
+msgstr ""
+
+#. Paragraph 18: Bill knew I was having a large group over for the holiday; the tables were all set up and I had a refrigerator full of food. After breakfast I decided, however, that I had to go to the market and get ...
+#: paragraph:18,sentence:98
+msgid "He just patted me on the head."
+msgstr ""
+
+#. Paragraph 19: Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet. And there was Bill, lying on the gro...
+#: paragraph:19,sentence:99
+msgid "Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet"
+msgstr ""
+
+#. Paragraph 19: Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet. And there was Bill, lying on the gro...
+#: paragraph:19,sentence:100
+msgid "And there was Bill, lying on the ground, the paramedics already there"
+msgstr ""
+
+#. Paragraph 19: Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet. And there was Bill, lying on the gro...
+#: paragraph:19,sentence:101
+msgid "My next-door neighbor, a surgeon—God bless him—had been clipping his bushes in the front yard"
+msgstr ""
+
+#. Paragraph 19: Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet. And there was Bill, lying on the gro...
+#: paragraph:19,sentence:102
+msgid "He saw Bill go down, ran to his car maybe three yards away, grabbed his medical kit, called the paramedics, and in seconds was by his side"
+msgstr ""
+
+#. Paragraph 19: Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet. And there was Bill, lying on the gro...
+#: paragraph:19,sentence:103
+msgid "The whole idea of Bill dying right then and there—my mind raced thinking about his being alone, all that one thinks when something like that happens"
+msgstr ""
+
+#. Paragraph 19: Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet. And there was Bill, lying on the gro...
+#: paragraph:19,sentence:104
+msgid "If I had come out three minutes earlier, could I have saved him"
+msgstr ""
+
+#. Paragraph 19: Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet. And there was Bill, lying on the gro...
+#: paragraph:19,sentence:105
+msgid "But the doctor was in total control, and I’ll never forget his kindness"
+msgstr ""
+
+#. Paragraph 19: Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet. And there was Bill, lying on the gro...
+#: paragraph:19,sentence:106
+msgid "He wanted to know what medicines he might have been on, so I ran to the house, brought out his shaving kit, and he started going through it while still holding Bill"
+msgstr ""
+
+#. Paragraph 19: Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet. And there was Bill, lying on the gro...
+#: paragraph:19,sentence:107
+msgid "The paramedics wanted to give him oxygen, but the doctor said he was already gone, dead before his head hit the road"
+msgstr ""
+
+#. Paragraph 19: Bill walked out the door to take his stroll while I went downstairs, collected my shopping list, and maybe five minutes later, got in the car and drove a few feet. And there was Bill, lying on the gro...
+#: paragraph:19,sentence:108
+msgid "There was considerable blood because he hit the ground so hard, but the doctor thought the cause of death was his heart “blowing out.” That, of course, is not a medical term, but it did describe the situation.[19]"
+msgstr ""
+
+#. Paragraph 20: The autopsy later confirmed that part of Bill’s heart had, indeed, exploded and that he had left suddenly and painlessly. Whit and I accompanied Bill’s body to the hospital, where he was placed in a r...
+#: paragraph:20,sentence:109
+msgid "The autopsy later confirmed that part of Bill’s heart had, indeed, exploded and that he had left suddenly and painlessly."
+msgstr ""
+
+#. Paragraph 20: The autopsy later confirmed that part of Bill’s heart had, indeed, exploded and that he had left suddenly and painlessly. Whit and I accompanied Bill’s body to the hospital, where he was placed in a r...
+#: paragraph:20,sentence:110
+msgid "Whit and I accompanied Bill’s body to the hospital, where he was placed in a room to be checked over."
+msgstr ""
+
+#. Paragraph 20: The autopsy later confirmed that part of Bill’s heart had, indeed, exploded and that he had left suddenly and painlessly. Whit and I accompanied Bill’s body to the hospital, where he was placed in a r...
+#: paragraph:20,sentence:111
+msgid "I called Jerry, Roger and Frances, and after they arrived, we all stayed in the room with him for about an hour just saying good-bye, reciting some of our favorite quotes from the Course, touching and petting and loving him."
+msgstr ""
+
+#. Paragraph 20: The autopsy later confirmed that part of Bill’s heart had, indeed, exploded and that he had left suddenly and painlessly. Whit and I accompanied Bill’s body to the hospital, where he was placed in a r...
+#: paragraph:20,sentence:112
+msgid "The only picture I carry in my mind is one of love, his face showing total peace, as he lay on that table."
+msgstr ""
+
+#. Paragraph 20: The autopsy later confirmed that part of Bill’s heart had, indeed, exploded and that he had left suddenly and painlessly. Whit and I accompanied Bill’s body to the hospital, where he was placed in a r...
+#: paragraph:20,sentence:113
+msgid "After all, it was Bill’s independence day."
+msgstr ""
+
+#. Paragraph 21: On the way back, I had to go by to tell my mom, who lived a few minutes away. She loved Bill, and they were very, very close. Of course, she had to know. “Does this mean we aren’t going to have his pa...
+#: paragraph:21,sentence:114
+msgid "On the way back, I had to go by to tell my mom, who lived a few minutes away"
+msgstr ""
+
+#. Paragraph 21: On the way back, I had to go by to tell my mom, who lived a few minutes away. She loved Bill, and they were very, very close. Of course, she had to know. “Does this mean we aren’t going to have his pa...
+#: paragraph:21,sentence:115
+msgid "She loved Bill, and they were very, very close"
+msgstr ""
+
+#. Paragraph 21: On the way back, I had to go by to tell my mom, who lived a few minutes away. She loved Bill, and they were very, very close. Of course, she had to know. “Does this mean we aren’t going to have his pa...
+#: paragraph:21,sentence:116
+msgid "Of course, she had to know. “Does this mean we aren’t going to have his party?” she inquired"
+msgstr ""
+
+#. Paragraph 21: On the way back, I had to go by to tell my mom, who lived a few minutes away. She loved Bill, and they were very, very close. Of course, she had to know. “Does this mean we aren’t going to have his pa...
+#: paragraph:21,sentence:117
+msgid "We looked at each other and only then did I realize people would be at our house in an hour"
+msgstr ""
+
+#. Paragraph 21: On the way back, I had to go by to tell my mom, who lived a few minutes away. She loved Bill, and they were very, very close. Of course, she had to know. “Does this mean we aren’t going to have his pa...
+#: paragraph:21,sentence:118
+msgid "Some lived far away and there was no way to stop them from coming, so we agreed we would celebrate Bill, as that’s what he would have wanted"
+msgstr ""
+
+#. Paragraph 21: On the way back, I had to go by to tell my mom, who lived a few minutes away. She loved Bill, and they were very, very close. Of course, she had to know. “Does this mean we aren’t going to have his pa...
+#: paragraph:21,sentence:119
+msgid "As they arrived, I told each guest about his sudden passing, and of course, all were tremendously saddened"
+msgstr ""
+
+#. Paragraph 21: On the way back, I had to go by to tell my mom, who lived a few minutes away. She loved Bill, and they were very, very close. Of course, she had to know. “Does this mean we aren’t going to have his pa...
+#: paragraph:21,sentence:120
+msgid "But we did, indeed, celebrate Bill"
+msgstr ""
+
+#. Paragraph 21: On the way back, I had to go by to tell my mom, who lived a few minutes away. She loved Bill, and they were very, very close. Of course, she had to know. “Does this mean we aren’t going to have his pa...
+#: paragraph:21,sentence:121
+msgid "After dinner, with ringside seats from the deck of our house, we watched those remarkable Fourth of July fireworks, especially gorgeous that night all over San Francisco, no fog or anything"
+msgstr ""
+
+#. Paragraph 21: On the way back, I had to go by to tell my mom, who lived a few minutes away. She loved Bill, and they were very, very close. Of course, she had to know. “Does this mean we aren’t going to have his pa...
+#: paragraph:21,sentence:122
+msgid "And all I could think of was Bill going out in a blaze of glory![20]"
+msgstr ""
+
+#. Paragraph 22: Despite their surprise and grief, many were so amused that Bill left on the Fourth of July—so like him to take even his own dying process lightheartedly. Some might have found Bill’s friends a curious...
+#: paragraph:22,sentence:123
+msgid "Despite their surprise and grief, many were so amused that Bill left on the Fourth of July—so like him to take even his own dying process lightheartedly."
+msgstr ""
+
+#. Paragraph 22: Despite their surprise and grief, many were so amused that Bill left on the Fourth of July—so like him to take even his own dying process lightheartedly. Some might have found Bill’s friends a curious...
+#: paragraph:22,sentence:124
+msgid "Some might have found Bill’s friends a curious lot, as amid the shock of his sudden death, one could hear expressions of elation and delight; “Oh, my God, he did it."
+msgstr ""
+
+#. Paragraph 22: Despite their surprise and grief, many were so amused that Bill left on the Fourth of July—so like him to take even his own dying process lightheartedly. Some might have found Bill’s friends a curious...
+#: paragraph:22,sentence:125
+msgid "He did it."
+msgstr ""
+
+#. Paragraph 22: Despite their surprise and grief, many were so amused that Bill left on the Fourth of July—so like him to take even his own dying process lightheartedly. Some might have found Bill’s friends a curious...
+#: paragraph:22,sentence:126
+msgid "He’s the first person to finish the Course, really finish the Course!”—not unlike adoring fans cheering their star quarterback over the goal line."
+msgstr ""
+
+#. Paragraph 23: Bill’s memorial service was held outdoors on July 8, 1988, at the Congregational Church in Tiburon. “Panis Angelicus,” one of his favorite pieces, commenced the program. Then followed a passage from a...
+#: paragraph:23,sentence:127
+msgid "Bill’s memorial service was held outdoors on July 8, 1988, at the Congregational Church in Tiburon. “Panis Angelicus,” one of his favorite pieces, commenced the program."
+msgstr ""
+
+#. Paragraph 23: Bill’s memorial service was held outdoors on July 8, 1988, at the Congregational Church in Tiburon. “Panis Angelicus,” one of his favorite pieces, commenced the program. Then followed a passage from a...
+#: paragraph:23,sentence:128
+msgid "Then followed a passage from a tape Bill had created a short while before, perhaps not consciously aware it would be used as his last good-bye."
+msgstr ""
+
+#. Paragraph 23: Bill’s memorial service was held outdoors on July 8, 1988, at the Congregational Church in Tiburon. “Panis Angelicus,” one of his favorite pieces, commenced the program. Then followed a passage from a...
+#: paragraph:23,sentence:129
+msgid "Listening to his beautiful voice, everyone was deeply moved by his final blessing."
+msgstr ""
+
+#. Paragraph 23: Bill’s memorial service was held outdoors on July 8, 1988, at the Congregational Church in Tiburon. “Panis Angelicus,” one of his favorite pieces, commenced the program. Then followed a passage from a...
+#: paragraph:23,sentence:130
+msgid "Tammy, Judy’s daughter, chose to be at the crematorium rather than at the church so he would not be “alone”; she later confirmed that his body was cremated at the exact moment his taped reading was played."
+msgstr ""
+
+#. Paragraph 23: Bill’s memorial service was held outdoors on July 8, 1988, at the Congregational Church in Tiburon. “Panis Angelicus,” one of his favorite pieces, commenced the program. Then followed a passage from a...
+#: paragraph:23,sentence:131
+msgid "An intuitive, tuned-in young woman, she testified that she and Bill “watched” the service remotely and that he was laughing the whole time."
+msgstr ""
+
+#. Paragraph 24: Thus ends the earthly sojourn of Bill Thetford. The calling card found in his wallet had only Bill Thetford printed on it. Just plain Bill. He asked for the Course; he received it and used it, willing...
+#: paragraph:24,sentence:132
+msgid "Thus ends the earthly sojourn of Bill Thetford."
+msgstr ""
+
+#. Paragraph 24: Thus ends the earthly sojourn of Bill Thetford. The calling card found in his wallet had only Bill Thetford printed on it. Just plain Bill. He asked for the Course; he received it and used it, willing...
+#: paragraph:24,sentence:133
+msgid "The calling card found in his wallet had only Bill Thetford printed on it."
+msgstr ""
+
+#. Paragraph 24: Thus ends the earthly sojourn of Bill Thetford. The calling card found in his wallet had only Bill Thetford printed on it. Just plain Bill. He asked for the Course; he received it and used it, willing...
+#: paragraph:24,sentence:134
+msgid "Just plain Bill."
+msgstr ""
+
+#. Paragraph 24: Thus ends the earthly sojourn of Bill Thetford. The calling card found in his wallet had only Bill Thetford printed on it. Just plain Bill. He asked for the Course; he received it and used it, willing...
+#: paragraph:24,sentence:135
+msgid "He asked for the Course; he received it and used it, willingly stripping himself of his persona, psychological armoring, prestige, unhelpful habits, and presumptions."
+msgstr ""
+
+#. Paragraph 24: Thus ends the earthly sojourn of Bill Thetford. The calling card found in his wallet had only Bill Thetford printed on it. Just plain Bill. He asked for the Course; he received it and used it, willing...
+#: paragraph:24,sentence:136
+msgid "Throughout the process, he danced, laughed and struggled, joked, despaired and supported, loved, feared and prayed, and steadily forgave his way to the end, soaring to a glorious finale worthy of the grandest of operas he so adored."
+msgstr ""
+
+#. Paragraph 24: Thus ends the earthly sojourn of Bill Thetford. The calling card found in his wallet had only Bill Thetford printed on it. Just plain Bill. He asked for the Course; he received it and used it, willing...
+#: paragraph:24,sentence:137
+msgid "And memories of Bill have settled with everlasting comfort into the hearts of all who knew, loved, and were touched by this most gracious friend."
+msgstr ""
+
+#. Paragraph 25: [1]A Course In Miracles Text, 102. [2]Gangaji, You Are That (Boulder, CO: Sounds True, 2007), 105.
+#: paragraph:25,sentence:138
+msgid "[1]A Course In Miracles Text, 102. [2]Gangaji, You Are That (Boulder, CO: Sounds True, 2007), 105."
+msgstr ""
+
+#. Paragraph 26: [3]A Course In Miracles Text, 524–525. [4]Jack and Layle Luckett, email message to author, October 2007.
+#: paragraph:26,sentence:139
+msgid "[3]A Course In Miracles Text, 524–525. [4]Jack and Layle Luckett, email message to author, October 2007."
+msgstr ""
+
+#. Paragraph 27: [5]Diane Cirincione telephone interview by author, July 2007. [6]Author’s transcription of Thetford Memorial Service, Pat Hopkins, July 1988.
+#: paragraph:27,sentence:140
+msgid "[5]Diane Cirincione telephone interview by author, July 2007. [6]Author’s transcription of Thetford Memorial Service, Pat Hopkins, July 1988."
+msgstr ""
+
+#. Paragraph 28: [7]Hugh and Gayle Prather interview by author, October 1993. [9]Jerry Jampolsky telephone interview by author, July 2007.
+#: paragraph:28,sentence:141
+msgid "[7]Hugh and Gayle Prather interview by author, October 1993. [9]Jerry Jampolsky telephone interview by author, July 2007."
+msgstr ""
+
+#. Paragraph 29: [10]Judith Skutch Whitson telephone interview by author, January 2008. [12]Jack and Layle Luckett telephone interview by author, March 2008.
+#: paragraph:29,sentence:142
+msgid "[10]Judith Skutch Whitson telephone interview by author, January 2008. [12]Jack and Layle Luckett telephone interview by author, March 2008."
+msgstr ""
+
+#. Paragraph 30: [13]Judith Skutch Whitson interview, January 2008. [14]Catherine Prescott telephone interview by author, August 2008.
+#: paragraph:30,sentence:143
+msgid "[13]Judith Skutch Whitson interview, January 2008. [14]Catherine Prescott telephone interview by author, August 2008."
+msgstr ""
+
+#. Paragraph 31: [18]William Whitson telephone interview by author, February 2008. [19]Judith Skutch Whitson interview, January 2008.
+#: paragraph:31,sentence:144
+msgid "[18]William Whitson telephone interview by author, February 2008. [19]Judith Skutch Whitson interview, January 2008."
+msgstr ""
+

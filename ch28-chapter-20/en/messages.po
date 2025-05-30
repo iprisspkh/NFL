@@ -1,0 +1,479 @@
+# Chapter 28: Chapter 20
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: Another defining characteristic that Bill possessed was a simple, uncomplicated wisdom that was anything but simple-minded or elementary—quite the opposite. And, with the dwindling instances of ego in...
+#: paragraph:1,sentence:1
+msgid "Another defining characteristic that Bill possessed was a simple, uncomplicated wisdom that was anything but simple-minded or elementary—quite the opposite"
+msgstr ""
+
+#. Paragraph 1: Another defining characteristic that Bill possessed was a simple, uncomplicated wisdom that was anything but simple-minded or elementary—quite the opposite. And, with the dwindling instances of ego in...
+#: paragraph:1,sentence:2
+msgid "And, with the dwindling instances of ego involvement mentioned earlier, Bill was the poster child for genuine humility, intellectual and otherwise"
+msgstr ""
+
+#. Paragraph 1: Another defining characteristic that Bill possessed was a simple, uncomplicated wisdom that was anything but simple-minded or elementary—quite the opposite. And, with the dwindling instances of ego in...
+#: paragraph:1,sentence:3
+msgid "Frances Vaughan referred to his being “wonderfully nothing special.”"
+msgstr ""
+
+#. Paragraph 2: He was a very important mentor to me. One thing about Bill that not everyone saw was his incredible knowledge and understanding of psychology, philosophy, and comparative religions. He was extraordina...
+#: paragraph:2,sentence:4
+msgid "He was a very important mentor to me"
+msgstr ""
+
+#. Paragraph 2: He was a very important mentor to me. One thing about Bill that not everyone saw was his incredible knowledge and understanding of psychology, philosophy, and comparative religions. He was extraordina...
+#: paragraph:2,sentence:5
+msgid "One thing about Bill that not everyone saw was his incredible knowledge and understanding of psychology, philosophy, and comparative religions"
+msgstr ""
+
+#. Paragraph 2: He was a very important mentor to me. One thing about Bill that not everyone saw was his incredible knowledge and understanding of psychology, philosophy, and comparative religions. He was extraordina...
+#: paragraph:2,sentence:6
+msgid "He was extraordinarily erudite and well read"
+msgstr ""
+
+#. Paragraph 2: He was a very important mentor to me. One thing about Bill that not everyone saw was his incredible knowledge and understanding of psychology, philosophy, and comparative religions. He was extraordina...
+#: paragraph:2,sentence:7
+msgid "He never flaunted his intellectual brilliance, yet he really had a profound, universal understanding of human beings and the way we grow and change.[89]"
+msgstr ""
+
+#. Paragraph 3: A friend from Florida said, “I loved his careful, clear mind, so precise but so well buffered with kindliness, and I can easily appreciate how you would be drawn together in friendship.” Another unusu...
+#: paragraph:3,sentence:8
+msgid "A friend from Florida said, “I loved his careful, clear mind, so precise but so well buffered with kindliness, and I can easily appreciate how you would be drawn together in friendship.” Another unusual and compelling trait was his willingness to grant wisdom where he found it."
+msgstr ""
+
+#. Paragraph 3: A friend from Florida said, “I loved his careful, clear mind, so precise but so well buffered with kindliness, and I can easily appreciate how you would be drawn together in friendship.” Another unusu...
+#: paragraph:3,sentence:9
+msgid "He was always very happy to give everybody credit for their capabilities, regardless of their “official” credentials."
+msgstr ""
+
+#. Paragraph 4: Jaison Kayn spoke for so many when he noted: He was more than just a dear friend who was there to listen; it was his very simple and direct wisdom. I was comforted by the knowingness that he had. It’s...
+#: paragraph:4,sentence:10
+msgid "Jaison Kayn spoke for so many when he noted: He was more than just a dear friend who was there to listen; it was his very simple and direct wisdom"
+msgstr ""
+
+#. Paragraph 4: Jaison Kayn spoke for so many when he noted: He was more than just a dear friend who was there to listen; it was his very simple and direct wisdom. I was comforted by the knowingness that he had. It’s...
+#: paragraph:4,sentence:11
+msgid "I was comforted by the knowingness that he had"
+msgstr ""
+
+#. Paragraph 4: Jaison Kayn spoke for so many when he noted: He was more than just a dear friend who was there to listen; it was his very simple and direct wisdom. I was comforted by the knowingness that he had. It’s...
+#: paragraph:4,sentence:12
+msgid "It’s nice to know someone who was that clear and alive and personally caring of me"
+msgstr ""
+
+#. Paragraph 4: Jaison Kayn spoke for so many when he noted: He was more than just a dear friend who was there to listen; it was his very simple and direct wisdom. I was comforted by the knowingness that he had. It’s...
+#: paragraph:4,sentence:13
+msgid "One time we were actually in your backyard and he was enjoying Shanna [Jaison’s dog] and he just looked at me and said, “Well, isn’t she your alter ego?” Bill didn’t wear his knowledge at all, but if you asked him something, he would give the clearest, brief summary of anything—the Vedanta, the Urantia book, or whatever"
+msgstr ""
+
+#. Paragraph 4: Jaison Kayn spoke for so many when he noted: He was more than just a dear friend who was there to listen; it was his very simple and direct wisdom. I was comforted by the knowingness that he had. It’s...
+#: paragraph:4,sentence:14
+msgid "This guy was a library, not only of knowledge, but a library of very precise understanding"
+msgstr ""
+
+#. Paragraph 4: Jaison Kayn spoke for so many when he noted: He was more than just a dear friend who was there to listen; it was his very simple and direct wisdom. I was comforted by the knowingness that he had. It’s...
+#: paragraph:4,sentence:15
+msgid "He was so tuned in without the outward appearance of it, almost as if he were surprised that it came out.[90]"
+msgstr ""
+
+#. Paragraph 5: Sometimes that wisdom could be very direct and short. One of Judy’s favorite stories is about a time when she was utterly furious with Jerry and caught in the grip of her own anger. Not to put too fin...
+#: paragraph:5,sentence:16
+msgid "Sometimes that wisdom could be very direct and short."
+msgstr ""
+
+#. Paragraph 5: Sometimes that wisdom could be very direct and short. One of Judy’s favorite stories is about a time when she was utterly furious with Jerry and caught in the grip of her own anger. Not to put too fin...
+#: paragraph:5,sentence:17
+msgid "One of Judy’s favorite stories is about a time when she was utterly furious with Jerry and caught in the grip of her own anger."
+msgstr ""
+
+#. Paragraph 5: Sometimes that wisdom could be very direct and short. One of Judy’s favorite stories is about a time when she was utterly furious with Jerry and caught in the grip of her own anger. Not to put too fin...
+#: paragraph:5,sentence:18
+msgid "Not to put too fine a point on it, she was having a fit."
+msgstr ""
+
+#. Paragraph 5: Sometimes that wisdom could be very direct and short. One of Judy’s favorite stories is about a time when she was utterly furious with Jerry and caught in the grip of her own anger. Not to put too fin...
+#: paragraph:5,sentence:19
+msgid "She called Bill and ranted to him about Jerry’s various shortcomings."
+msgstr ""
+
+#. Paragraph 5: Sometimes that wisdom could be very direct and short. One of Judy’s favorite stories is about a time when she was utterly furious with Jerry and caught in the grip of her own anger. Not to put too fin...
+#: paragraph:5,sentence:20
+msgid "Bill’s calm response was, “Are you willing to see your brother sinless?” She shouted that no, she was not."
+msgstr ""
+
+#. Paragraph 5: Sometimes that wisdom could be very direct and short. One of Judy’s favorite stories is about a time when she was utterly furious with Jerry and caught in the grip of her own anger. Not to put too fin...
+#: paragraph:5,sentence:21
+msgid "He said to her, “When you’re ready to do just that, you will feel much better,” and hung up."
+msgstr ""
+
+#. Paragraph 6: Pat Hopkins recalls, “Also, while he had a brilliant mind and a naturally elegant way of speaking, he never clobbered you over the head with his knowledge or the power of his intellect. He was truly t...
+#: paragraph:6,sentence:22
+msgid "Pat Hopkins recalls, “Also, while he had a brilliant mind and a naturally elegant way of speaking, he never clobbered you over the head with his knowledge or the power of his intellect"
+msgstr ""
+
+#. Paragraph 6: Pat Hopkins recalls, “Also, while he had a brilliant mind and a naturally elegant way of speaking, he never clobbered you over the head with his knowledge or the power of his intellect. He was truly t...
+#: paragraph:6,sentence:23
+msgid "He was truly the most modest, gentle man I’ve ever known.”[91] Another example of Bill’s confirming wisdom was this response to Bob Beale:"
+msgstr ""
+
+#. Paragraph 7: One early morning while we were on that trip to Santa Fe, I jogged around the national cemetery there for about forty-five minutes or so, and after returning, we were all having breakfast and I said, ...
+#: paragraph:7,sentence:24
+msgid "One early morning while we were on that trip to Santa Fe, I jogged around the national cemetery there for about forty-five minutes or so, and after returning, we were all having breakfast and I said, “You know Bill, when I was in that cemetery I got a sense that a number of the spirits of those people buried there were around"
+msgstr ""
+
+#. Paragraph 7: One early morning while we were on that trip to Santa Fe, I jogged around the national cemetery there for about forty-five minutes or so, and after returning, we were all having breakfast and I said, ...
+#: paragraph:7,sentence:25
+msgid "And it seemed like they were talking to me so I just decided to have a conversation with them"
+msgstr ""
+
+#. Paragraph 7: One early morning while we were on that trip to Santa Fe, I jogged around the national cemetery there for about forty-five minutes or so, and after returning, we were all having breakfast and I said, ...
+#: paragraph:7,sentence:26
+msgid "I told him Sergeant So-and-So said this and Captain Jones said that, calling them by name.” I remember Bill saying, “Well, of course, that’s what happens.” He didn’t elaborate on things, just giving such amazing confirmation.[92]"
+msgstr ""
+
+#. Paragraph 8: That quiet, behind-the-scenes brilliance manifested in other ways. Whit Whitson noted, When we were at parties or elsewhere, Bill and I would see someone come in and watch their body language to try t...
+#: paragraph:8,sentence:27
+msgid "That quiet, behind-the-scenes brilliance manifested in other ways"
+msgstr ""
+
+#. Paragraph 8: That quiet, behind-the-scenes brilliance manifested in other ways. Whit Whitson noted, When we were at parties or elsewhere, Bill and I would see someone come in and watch their body language to try t...
+#: paragraph:8,sentence:28
+msgid "Whit Whitson noted, When we were at parties or elsewhere, Bill and I would see someone come in and watch their body language to try to fit that personality into the PAS, not dissecting the person but playing with the basic structure of the PAS as applied to that person"
+msgstr ""
+
+#. Paragraph 8: That quiet, behind-the-scenes brilliance manifested in other ways. Whit Whitson noted, When we were at parties or elsewhere, Bill and I would see someone come in and watch their body language to try t...
+#: paragraph:8,sentence:29
+msgid "Then we would embellish it"
+msgstr ""
+
+#. Paragraph 8: That quiet, behind-the-scenes brilliance manifested in other ways. Whit Whitson noted, When we were at parties or elsewhere, Bill and I would see someone come in and watch their body language to try t...
+#: paragraph:8,sentence:30
+msgid "It was as if we had found the basic Christmas tree and then decided what kind of baubles would be hung on that kind of Christmas tree [in terms of fine-tuning the exact details of that particular personality type, after noting the basic personality components]"
+msgstr ""
+
+#. Paragraph 8: That quiet, behind-the-scenes brilliance manifested in other ways. Whit Whitson noted, When we were at parties or elsewhere, Bill and I would see someone come in and watch their body language to try t...
+#: paragraph:8,sentence:31
+msgid "Bill knew so much more about it than I did that I would sit there fascinated"
+msgstr ""
+
+#. Paragraph 8: That quiet, behind-the-scenes brilliance manifested in other ways. Whit Whitson noted, When we were at parties or elsewhere, Bill and I would see someone come in and watch their body language to try t...
+#: paragraph:8,sentence:32
+msgid "He enjoyed that kind of intellectual discourse because at the level of analyzing the ego, he was the best.[93]"
+msgstr ""
+
+#. Paragraph 9: Whit also commented that Bill possessed a talent for evaluation that was almost psychic and always empathetic. However, that particular demonstration of his talent remained private, shared only with W...
+#: paragraph:9,sentence:33
+msgid "Whit also commented that Bill possessed a talent for evaluation that was almost psychic and always empathetic."
+msgstr ""
+
+#. Paragraph 9: Whit also commented that Bill possessed a talent for evaluation that was almost psychic and always empathetic. However, that particular demonstration of his talent remained private, shared only with W...
+#: paragraph:9,sentence:34
+msgid "However, that particular demonstration of his talent remained private, shared only with Whit in Tiburon, who could appreciate Bill’s ability from his own experience with the PAS."
+msgstr ""
+
+#. Paragraph 10: Hugh Prather noted, Another thing that was very interesting to me about Bill’s life was that he never used ACIM to his benefit, where all the rest of us have. To one degree or another, we’ve made mone...
+#: paragraph:10,sentence:35
+msgid "Hugh Prather noted, Another thing that was very interesting to me about Bill’s life was that he never used ACIM to his benefit, where all the rest of us have"
+msgstr ""
+
+#. Paragraph 10: Hugh Prather noted, Another thing that was very interesting to me about Bill’s life was that he never used ACIM to his benefit, where all the rest of us have. To one degree or another, we’ve made mone...
+#: paragraph:10,sentence:36
+msgid "To one degree or another, we’ve made money off the Course; we’ve increased our reputations with it"
+msgstr ""
+
+#. Paragraph 10: Hugh Prather noted, Another thing that was very interesting to me about Bill’s life was that he never used ACIM to his benefit, where all the rest of us have. To one degree or another, we’ve made mone...
+#: paragraph:10,sentence:37
+msgid "I don’t think there’s anything wrong with that, but it was just remarkable that Bill never once used the Course to enhance himself or put money in his pocket in any way, nor did he have any interest in doing that"
+msgstr ""
+
+#. Paragraph 10: Hugh Prather noted, Another thing that was very interesting to me about Bill’s life was that he never used ACIM to his benefit, where all the rest of us have. To one degree or another, we’ve made mone...
+#: paragraph:10,sentence:38
+msgid "In fact, he had great reluctance.[94]"
+msgstr ""
+
+#. Paragraph 11: Roger Walsh commented on his first impression of Bill: The one that immediately comes up is that he was so shy. It took me a while to appreciate that it was an extraordinary degree of humility. He was...
+#: paragraph:11,sentence:39
+msgid "Roger Walsh commented on his first impression of Bill: The one that immediately comes up is that he was so shy"
+msgstr ""
+
+#. Paragraph 11: Roger Walsh commented on his first impression of Bill: The one that immediately comes up is that he was so shy. It took me a while to appreciate that it was an extraordinary degree of humility. He was...
+#: paragraph:11,sentence:40
+msgid "It took me a while to appreciate that it was an extraordinary degree of humility"
+msgstr ""
+
+#. Paragraph 11: Roger Walsh commented on his first impression of Bill: The one that immediately comes up is that he was so shy. It took me a while to appreciate that it was an extraordinary degree of humility. He was...
+#: paragraph:11,sentence:41
+msgid "He was unduly self-deprecating but I came to appreciate that that was just a very genuine and deep form of humility"
+msgstr ""
+
+#. Paragraph 11: Roger Walsh commented on his first impression of Bill: The one that immediately comes up is that he was so shy. It took me a while to appreciate that it was an extraordinary degree of humility. He was...
+#: paragraph:11,sentence:42
+msgid "When I first saw the Course, I opened it up and saw those words “God” and “Holy Spirit” and said, “No thanks.” One time, Bill and Jerry were making a presentation on ACIM at the American Psychiatric Conference in San Francisco"
+msgstr ""
+
+#. Paragraph 11: Roger Walsh commented on his first impression of Bill: The one that immediately comes up is that he was so shy. It took me a while to appreciate that it was an extraordinary degree of humility. He was...
+#: paragraph:11,sentence:43
+msgid "I remember going to the gathering afterwards and meeting Bill there and literally having the thought, “Well, if this guy’s into it, I’m interested.” . ."
+msgstr ""
+
+#. Paragraph 11: Roger Walsh commented on his first impression of Bill: The one that immediately comes up is that he was so shy. It took me a while to appreciate that it was an extraordinary degree of humility. He was...
+#: paragraph:11,sentence:44
+msgid "He served the purpose of opening doors for me in the sense that I came from a very hard-core scientific, materialist, reductionist, anti-spiritual background and he was someone who I could not pretend to be brighter than, and yet who himself had come around to appreciate this material, so I appreciated it"
+msgstr ""
+
+#. Paragraph 11: Roger Walsh commented on his first impression of Bill: The one that immediately comes up is that he was so shy. It took me a while to appreciate that it was an extraordinary degree of humility. He was...
+#: paragraph:11,sentence:45
+msgid "Here was someone with a very impressive intellect who was impressed by it"
+msgstr ""
+
+#. Paragraph 11: Roger Walsh commented on his first impression of Bill: The one that immediately comes up is that he was so shy. It took me a while to appreciate that it was an extraordinary degree of humility. He was...
+#: paragraph:11,sentence:46
+msgid "It’s one thing when people who may not be so analytically or critically inclined get into something but another, indeed, with someone whose credentials are impeccable, whose intellectual and skeptical faculties are good.[95]"
+msgstr ""
+
+#. Paragraph 12: At Bill’s memorial service, Roger additionally commented on the deep impact of Bill’s choice to leave no legacy. Although so many devote enormous amounts of time to creating a legacy and identifying t...
+#: paragraph:12,sentence:47
+msgid "At Bill’s memorial service, Roger additionally commented on the deep impact of Bill’s choice to leave no legacy."
+msgstr ""
+
+#. Paragraph 12: At Bill’s memorial service, Roger additionally commented on the deep impact of Bill’s choice to leave no legacy. Although so many devote enormous amounts of time to creating a legacy and identifying t...
+#: paragraph:12,sentence:48
+msgid "Although so many devote enormous amounts of time to creating a legacy and identifying their lives with it, Bill’s intention was to leave no personal footprint but simply to be ordinary."
+msgstr ""
+
+#. Paragraph 13: Bill’s life was a model of the opposite. He had already created a legacy, one of priceless worth, and worked very hard to make sure he was not identified with it. Bill could have symbolized many thing...
+#: paragraph:13,sentence:49
+msgid "Bill’s life was a model of the opposite"
+msgstr ""
+
+#. Paragraph 13: Bill’s life was a model of the opposite. He had already created a legacy, one of priceless worth, and worked very hard to make sure he was not identified with it. Bill could have symbolized many thing...
+#: paragraph:13,sentence:50
+msgid "He had already created a legacy, one of priceless worth, and worked very hard to make sure he was not identified with it"
+msgstr ""
+
+#. Paragraph 13: Bill’s life was a model of the opposite. He had already created a legacy, one of priceless worth, and worked very hard to make sure he was not identified with it. Bill could have symbolized many thing...
+#: paragraph:13,sentence:51
+msgid "Bill could have symbolized many things—an extraordinarily successful psychologist or a really successful person of the world, or a spiritual symbol as someone who was the source and creator of this most important spiritual text"
+msgstr ""
+
+#. Paragraph 13: Bill’s life was a model of the opposite. He had already created a legacy, one of priceless worth, and worked very hard to make sure he was not identified with it. Bill could have symbolized many thing...
+#: paragraph:13,sentence:52
+msgid "He didn’t do any of the things I would assume to be part of making an important spiritual contribution—lecturing, writing books or papers on ACIM, appearing on TV, giving interviews"
+msgstr ""
+
+#. Paragraph 13: Bill’s life was a model of the opposite. He had already created a legacy, one of priceless worth, and worked very hard to make sure he was not identified with it. Bill could have symbolized many thing...
+#: paragraph:13,sentence:53
+msgid "He stayed home most of the time, studied the Course, and tried to make his relationships whole, humbly and unpretentiously practicing the material"
+msgstr ""
+
+#. Paragraph 13: Bill’s life was a model of the opposite. He had already created a legacy, one of priceless worth, and worked very hard to make sure he was not identified with it. Bill could have symbolized many thing...
+#: paragraph:13,sentence:54
+msgid "That, I find, is just an extraordinary example.[96]"
+msgstr ""
+
+#. Paragraph 14: One aspect of Bill’s wisdom was his willingness to acknowledge what he didn’t know, despite all the knowledge he possessed. If you believe you should already know it all and must not reveal that you d...
+#: paragraph:14,sentence:55
+msgid "One aspect of Bill’s wisdom was his willingness to acknowledge what he didn’t know, despite all the knowledge he possessed"
+msgstr ""
+
+#. Paragraph 14: One aspect of Bill’s wisdom was his willingness to acknowledge what he didn’t know, despite all the knowledge he possessed. If you believe you should already know it all and must not reveal that you d...
+#: paragraph:14,sentence:56
+msgid "If you believe you should already know it all and must not reveal that you don’t, protecting your image as an accomplished self becomes job one—a terrible trap"
+msgstr ""
+
+#. Paragraph 14: One aspect of Bill’s wisdom was his willingness to acknowledge what he didn’t know, despite all the knowledge he possessed. If you believe you should already know it all and must not reveal that you d...
+#: paragraph:14,sentence:57
+msgid "In contrast, Jaison Kayn noted,"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:58
+msgid "Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:59
+msgid "And he never tried to pretend that wasn’t so"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:60
+msgid "The feeling he conveyed was that he was in this soup like all the rest of us, and enjoyed being with us"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:61
+msgid "I also had the sense that he liked being included [in our Denver group] because in a certain way he was shy and naive about some things"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:62
+msgid "I expected someone who was the authority, but he was very open about his confusions and doubts"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:63
+msgid "Everybody assumed he knew everything, but he was just another guy trying to figure life out"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:64
+msgid "Sometimes he was the opposite of the guy with all the answers and would get that look in his eyes like, “I haven’t got a clue, don’t ask me.” He would defer as much as possible, put everybody else in the middle of things and have them speak because he didn’t want to be the center of attention"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:65
+msgid "He didn’t want to be the big cheese at all, but when he spoke, everyone listened"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:66
+msgid "He did not like having that much responsibility, but he accepted it as if he knew his gems were seeds that he needed to scatter"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:67
+msgid "He also knew he was giving more than information or wisdom; he was giving support and encouragement, an act of love that would help people believe in the message and do their inner work"
+msgstr ""
+
+#. Paragraph 15: Bill, clearly being human at the time, had all his normal human stuff to deal with too, just like the rest of us. And he never tried to pretend that wasn’t so. The feeling he conveyed was that he was ...
+#: paragraph:15,sentence:68
+msgid "When he spoke, there was no preaching; it was all about practice.[97]"
+msgstr ""
+
+#. Paragraph 16: Catherine Prescott remembered, He seemed very egoless to me, I will say that. I’m sure he had one, but he was so humble himself. Probably the worst [in terms of the ego revealing itself] was in those ...
+#: paragraph:16,sentence:69
+msgid "Catherine Prescott remembered, He seemed very egoless to me, I will say that"
+msgstr ""
+
+#. Paragraph 16: Catherine Prescott remembered, He seemed very egoless to me, I will say that. I’m sure he had one, but he was so humble himself. Probably the worst [in terms of the ego revealing itself] was in those ...
+#: paragraph:16,sentence:70
+msgid "I’m sure he had one, but he was so humble himself"
+msgstr ""
+
+#. Paragraph 16: Catherine Prescott remembered, He seemed very egoless to me, I will say that. I’m sure he had one, but he was so humble himself. Probably the worst [in terms of the ego revealing itself] was in those ...
+#: paragraph:16,sentence:71
+msgid "Probably the worst [in terms of the ego revealing itself] was in those sessions where he got in touch with the angry side of himself"
+msgstr ""
+
+#. Paragraph 16: Catherine Prescott remembered, He seemed very egoless to me, I will say that. I’m sure he had one, but he was so humble himself. Probably the worst [in terms of the ego revealing itself] was in those ...
+#: paragraph:16,sentence:72
+msgid "He would blow up and then feel remorseful and disgusted with himself"
+msgstr ""
+
+#. Paragraph 16: Catherine Prescott remembered, He seemed very egoless to me, I will say that. I’m sure he had one, but he was so humble himself. Probably the worst [in terms of the ego revealing itself] was in those ...
+#: paragraph:16,sentence:73
+msgid "I think he was finishing up some work with Helen, and of course, we talked about all that nonstop"
+msgstr ""
+
+#. Paragraph 16: Catherine Prescott remembered, He seemed very egoless to me, I will say that. I’m sure he had one, but he was so humble himself. Probably the worst [in terms of the ego revealing itself] was in those ...
+#: paragraph:16,sentence:74
+msgid "He always reflected back, wondering if he was a good or a bad person.[98]"
+msgstr ""
+
+#. Paragraph 17: Many of us had conversations with Bill about who the intended recipients of the Course’s teachings were to be. Hugh Prather said, I remember one of the things he brought up right from the beginning wa...
+#: paragraph:17,sentence:75
+msgid "Many of us had conversations with Bill about who the intended recipients of the Course’s teachings were to be"
+msgstr ""
+
+#. Paragraph 17: Many of us had conversations with Bill about who the intended recipients of the Course’s teachings were to be. Hugh Prather said, I remember one of the things he brought up right from the beginning wa...
+#: paragraph:17,sentence:76
+msgid "Hugh Prather said, I remember one of the things he brought up right from the beginning was his confusion over why ACIM was so popular"
+msgstr ""
+
+#. Paragraph 17: Many of us had conversations with Bill about who the intended recipients of the Course’s teachings were to be. Hugh Prather said, I remember one of the things he brought up right from the beginning wa...
+#: paragraph:17,sentence:77
+msgid "I think he interpreted the guidance he and Helen received as meaning this was for them and maybe a few others and that wasn’t the way it was turning out"
+msgstr ""
+
+#. Paragraph 17: Many of us had conversations with Bill about who the intended recipients of the Course’s teachings were to be. Hugh Prather said, I remember one of the things he brought up right from the beginning wa...
+#: paragraph:17,sentence:78
+msgid "Even then, it was obvious that it had, in a sense, taken off"
+msgstr ""
+
+#. Paragraph 17: Many of us had conversations with Bill about who the intended recipients of the Course’s teachings were to be. Hugh Prather said, I remember one of the things he brought up right from the beginning wa...
+#: paragraph:17,sentence:79
+msgid "I remember his telling me that Helen’s guidance was that the Course was only for about two hundred people, so he thought there was some sort of conflict here"
+msgstr ""
+
+#. Paragraph 17: Many of us had conversations with Bill about who the intended recipients of the Course’s teachings were to be. Hugh Prather said, I remember one of the things he brought up right from the beginning wa...
+#: paragraph:17,sentence:80
+msgid "It was as if it seemed obvious to everyone else that it was for everyone"
+msgstr ""
+
+#. Paragraph 17: Many of us had conversations with Bill about who the intended recipients of the Course’s teachings were to be. Hugh Prather said, I remember one of the things he brought up right from the beginning wa...
+#: paragraph:17,sentence:81
+msgid "He didn’t have any proprietary sense about this; I didn’t pick up that he was in any way resentful, simply amazed and perplexed as to why this had happened"
+msgstr ""
+
+#. Paragraph 17: Many of us had conversations with Bill about who the intended recipients of the Course’s teachings were to be. Hugh Prather said, I remember one of the things he brought up right from the beginning wa...
+#: paragraph:17,sentence:82
+msgid "That was a deep concern to him [early on], but it left him in the latter part of his life.[99]"
+msgstr ""
+
+#. Paragraph 18: Perhaps Helen was right. Maybe, comparatively speaking, only a few people in the world really want to dedicate themselves to letting go of all grievances, totally accepting all aspects of their lives ...
+#: paragraph:18,sentence:83
+msgid "Perhaps Helen was right!"
+msgstr ""
+
+#. Paragraph 18: Perhaps Helen was right. Maybe, comparatively speaking, only a few people in the world really want to dedicate themselves to letting go of all grievances, totally accepting all aspects of their lives ...
+#: paragraph:18,sentence:84
+msgid "Maybe, comparatively speaking, only a few people in the world really want to dedicate themselves to letting go of all grievances, totally accepting all aspects of their lives without reservation, and living without resistance!"
+msgstr ""
+
+#. Paragraph 18: Perhaps Helen was right. Maybe, comparatively speaking, only a few people in the world really want to dedicate themselves to letting go of all grievances, totally accepting all aspects of their lives ...
+#: paragraph:18,sentence:85
+msgid "The other millions of ACIM students, either directly or through its surrogates, are proceeding in their own perfect and helpful way toward accepting the single goal of peace of mind, moving from understanding what the Course says to applying its principles in more and more situations!"
+msgstr ""
+
+#. Paragraph 18: Perhaps Helen was right. Maybe, comparatively speaking, only a few people in the world really want to dedicate themselves to letting go of all grievances, totally accepting all aspects of their lives ...
+#: paragraph:18,sentence:86
+msgid "Therefore, it is both for a few and for everyone!"
+msgstr ""
+
+#. Paragraph 18: Perhaps Helen was right. Maybe, comparatively speaking, only a few people in the world really want to dedicate themselves to letting go of all grievances, totally accepting all aspects of their lives ...
+#: paragraph:18,sentence:87
+msgid "How unusual and reassuring when everyone is right!"
+msgstr ""
+
+#. Paragraph 19: Personally, I knew only a couple of people who were uncomfortable in Bill’s presence. One woman didn’t actively dislike him; she just thought he was socially inept and somewhat dull and boring. When I...
+#: paragraph:19,sentence:88
+msgid "Personally, I knew only a couple of people who were uncomfortable in Bill’s presence."
+msgstr ""
+
+#. Paragraph 19: Personally, I knew only a couple of people who were uncomfortable in Bill’s presence. One woman didn’t actively dislike him; she just thought he was socially inept and somewhat dull and boring. When I...
+#: paragraph:19,sentence:89
+msgid "One woman didn’t actively dislike him; she just thought he was socially inept and somewhat dull and boring."
+msgstr ""
+
+#. Paragraph 19: Personally, I knew only a couple of people who were uncomfortable in Bill’s presence. One woman didn’t actively dislike him; she just thought he was socially inept and somewhat dull and boring. When I...
+#: paragraph:19,sentence:90
+msgid "When I discussed this with a friend, he said, “I think she saw in Bill the very things that I saw, but had a different label for it."
+msgstr ""
+
+#. Paragraph 19: Personally, I knew only a couple of people who were uncomfortable in Bill’s presence. One woman didn’t actively dislike him; she just thought he was socially inept and somewhat dull and boring. When I...
+#: paragraph:19,sentence:91
+msgid "I saw that he knew how to handle himself, was obviously socially skilled so that he could participate, but he wasn’t completely comfortable with it."
+msgstr ""
+
+#. Paragraph 19: Personally, I knew only a couple of people who were uncomfortable in Bill’s presence. One woman didn’t actively dislike him; she just thought he was socially inept and somewhat dull and boring. When I...
+#: paragraph:19,sentence:92
+msgid "He just did the best he could."
+msgstr ""
+
+#. Paragraph 19: Personally, I knew only a couple of people who were uncomfortable in Bill’s presence. One woman didn’t actively dislike him; she just thought he was socially inept and somewhat dull and boring. When I...
+#: paragraph:19,sentence:93
+msgid "He did prefer to be quiet, but to me, that wasn’t boring, that was fabulous!”[100] His attempts to let go of ego, not call attention to himself, and practice forgiveness in every possible way paid off."
+msgstr ""
+
+#. Paragraph 19: Personally, I knew only a couple of people who were uncomfortable in Bill’s presence. One woman didn’t actively dislike him; she just thought he was socially inept and somewhat dull and boring. When I...
+#: paragraph:19,sentence:94
+msgid "He was just “ordinary Bill” in the end, but the most extraordinary person most of us ever knew."
+msgstr ""
+

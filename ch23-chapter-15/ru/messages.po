@@ -1,0 +1,979 @@
+# Chapter 23: Chapter 15
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: There is no doubt Bill’s external life history is fascinating, but more important, it ultimately provides éntree to his inner experience. Bill was highly regarded, widely known, and included in assort...
+#: paragraph:1,sentence:1
+msgid "There is no doubt Bill’s external life history is fascinating, but more important, it ultimately provides éntree to his inner experience"
+msgstr ""
+
+#. Paragraph 1: There is no doubt Bill’s external life history is fascinating, but more important, it ultimately provides éntree to his inner experience. Bill was highly regarded, widely known, and included in assort...
+#: paragraph:1,sentence:2
+msgid "Bill was highly regarded, widely known, and included in assorted “Who’s Who” lists of the academic world"
+msgstr ""
+
+#. Paragraph 1: There is no doubt Bill’s external life history is fascinating, but more important, it ultimately provides éntree to his inner experience. Bill was highly regarded, widely known, and included in assort...
+#: paragraph:1,sentence:3
+msgid "As should be obvious by now, he was brilliant, erudite, painstakingly meticulous, sophisticated, dignified, and a great lover of music and theater"
+msgstr ""
+
+#. Paragraph 1: There is no doubt Bill’s external life history is fascinating, but more important, it ultimately provides éntree to his inner experience. Bill was highly regarded, widely known, and included in assort...
+#: paragraph:1,sentence:4
+msgid "Those persons interviewed for this book added their assessments—gracious, courtly, a real gentleman, compassionate and encouraging, an impeccable man"
+msgstr ""
+
+#. Paragraph 1: There is no doubt Bill’s external life history is fascinating, but more important, it ultimately provides éntree to his inner experience. Bill was highly regarded, widely known, and included in assort...
+#: paragraph:1,sentence:5
+msgid "He was also reserved, nonconfrontational, and rarely emotionally expressive"
+msgstr ""
+
+#. Paragraph 1: There is no doubt Bill’s external life history is fascinating, but more important, it ultimately provides éntree to his inner experience. Bill was highly regarded, widely known, and included in assort...
+#: paragraph:1,sentence:6
+msgid "Catherine Prescott, a good friend, observed:"
+msgstr ""
+
+#. Paragraph 2: Bill was an old-fashioned, almost Victorian transplant into this century. He had very formal, perfect manners and protocol. I saw him in a lot of different environments and he never lost that really c...
+#: paragraph:2,sentence:7
+msgid "Bill was an old-fashioned, almost Victorian transplant into this century"
+msgstr ""
+
+#. Paragraph 2: Bill was an old-fashioned, almost Victorian transplant into this century. He had very formal, perfect manners and protocol. I saw him in a lot of different environments and he never lost that really c...
+#: paragraph:2,sentence:8
+msgid "He had very formal, perfect manners and protocol"
+msgstr ""
+
+#. Paragraph 2: Bill was an old-fashioned, almost Victorian transplant into this century. He had very formal, perfect manners and protocol. I saw him in a lot of different environments and he never lost that really c...
+#: paragraph:2,sentence:9
+msgid "I saw him in a lot of different environments and he never lost that really charming and debonair quality"
+msgstr ""
+
+#. Paragraph 2: Bill was an old-fashioned, almost Victorian transplant into this century. He had very formal, perfect manners and protocol. I saw him in a lot of different environments and he never lost that really c...
+#: paragraph:2,sentence:10
+msgid "In many ways he was a real chameleon"
+msgstr ""
+
+#. Paragraph 2: Bill was an old-fashioned, almost Victorian transplant into this century. He had very formal, perfect manners and protocol. I saw him in a lot of different environments and he never lost that really c...
+#: paragraph:2,sentence:11
+msgid "I think he was many things to many people.[1]"
+msgstr ""
+
+#. Paragraph 3: He could be ultrawitty and was a universally acknowledged master of the pun, even a double pun. And because he was so smart and sophisticated, his ability to be funny was on the leading edge of the be...
+#: paragraph:3,sentence:12
+msgid "He could be ultrawitty and was a universally acknowledged master of the pun, even a double pun."
+msgstr ""
+
+#. Paragraph 3: He could be ultrawitty and was a universally acknowledged master of the pun, even a double pun. And because he was so smart and sophisticated, his ability to be funny was on the leading edge of the be...
+#: paragraph:3,sentence:13
+msgid "And because he was so smart and sophisticated, his ability to be funny was on the leading edge of the bell curve."
+msgstr ""
+
+#. Paragraph 3: He could be ultrawitty and was a universally acknowledged master of the pun, even a double pun. And because he was so smart and sophisticated, his ability to be funny was on the leading edge of the be...
+#: paragraph:3,sentence:14
+msgid "As with many, his humor could also be a defense, a way of deflecting a subject that got too close for comfort, a distraction from his own pain."
+msgstr ""
+
+#. Paragraph 3: He could be ultrawitty and was a universally acknowledged master of the pun, even a double pun. And because he was so smart and sophisticated, his ability to be funny was on the leading edge of the be...
+#: paragraph:3,sentence:15
+msgid "He was courageous, having steadfastly continued with ACIM’s secret unfolding in the face of potential disgrace and loss of employment."
+msgstr ""
+
+#. Paragraph 4: Bill was also private, shy, deliberately compartmentalized, and secretive, often keeping various relationships separate from other friends and colleagues. His ability to compartmentalize was ideal for...
+#: paragraph:4,sentence:16
+msgid "Bill was also private, shy, deliberately compartmentalized, and secretive, often keeping various relationships separate from other friends and colleagues"
+msgstr ""
+
+#. Paragraph 4: Bill was also private, shy, deliberately compartmentalized, and secretive, often keeping various relationships separate from other friends and colleagues. His ability to compartmentalize was ideal for...
+#: paragraph:4,sentence:17
+msgid "His ability to compartmentalize was ideal for someone who had worked for the CIA and held diverse positions at Columbia, especially for a gay man, given that our society was much less tolerant several decades ago"
+msgstr ""
+
+#. Paragraph 4: Bill was also private, shy, deliberately compartmentalized, and secretive, often keeping various relationships separate from other friends and colleagues. His ability to compartmentalize was ideal for...
+#: paragraph:4,sentence:18
+msgid "Incidentally, Bill would not have discussed his sexual preference even if he had been heterosexual, considering that déclasse and none of anyone’s business"
+msgstr ""
+
+#. Paragraph 4: Bill was also private, shy, deliberately compartmentalized, and secretive, often keeping various relationships separate from other friends and colleagues. His ability to compartmentalize was ideal for...
+#: paragraph:4,sentence:19
+msgid "He used to joke, “Keep your life a muddle and no one will ever know what’s going on.” In his reading in 1980, Leroy Zemke described a characteristic of the indigo blue color in Bill’s aura:"
+msgstr ""
+
+#. Paragraph 5: This color also indicates that you can be very secretive, that you have a way of sharing what you feel you can share, but if you choose not to share, no living person will every draw it out of you, pe...
+#: paragraph:5,sentence:20
+msgid "This color also indicates that you can be very secretive, that you have a way of sharing what you feel you can share, but if you choose not to share, no living person will every draw it out of you, period"
+msgstr ""
+
+#. Paragraph 5: This color also indicates that you can be very secretive, that you have a way of sharing what you feel you can share, but if you choose not to share, no living person will every draw it out of you, pe...
+#: paragraph:5,sentence:21
+msgid "That color indicates nobody gets through and that is between you and God. . ."
+msgstr ""
+
+#. Paragraph 5: This color also indicates that you can be very secretive, that you have a way of sharing what you feel you can share, but if you choose not to share, no living person will every draw it out of you, pe...
+#: paragraph:5,sentence:22
+msgid "You are not about to open yourself to the place where you’re almost going to be put on an operating table, to be taken apart piece by piece"
+msgstr ""
+
+#. Paragraph 5: This color also indicates that you can be very secretive, that you have a way of sharing what you feel you can share, but if you choose not to share, no living person will every draw it out of you, pe...
+#: paragraph:5,sentence:23
+msgid "This color represents your not wanting to share yourself with the world, or even with close or intimate friends.[2]"
+msgstr ""
+
+#. Paragraph 6: Although it sounds contradictory, he was also very open, authentic, warm, friendly, casual, unassuming, gentle, kind, and as a friend mentioned earlier, intensely sincere. He operated from a deep sens...
+#: paragraph:6,sentence:24
+msgid "Although it sounds contradictory, he was also very open, authentic, warm, friendly, casual, unassuming, gentle, kind, and as a friend mentioned earlier, intensely sincere."
+msgstr ""
+
+#. Paragraph 6: Although it sounds contradictory, he was also very open, authentic, warm, friendly, casual, unassuming, gentle, kind, and as a friend mentioned earlier, intensely sincere. He operated from a deep sens...
+#: paragraph:6,sentence:25
+msgid "He operated from a deep sense of integrity, which partially accounts for the instantaneous sense of safety almost everyone felt around him."
+msgstr ""
+
+#. Paragraph 7: Regarding his challenges, Bill could be depressed, ungrounded, restless, and argumentative; he required routine in order to function effectively in many areas of life. He could also display an edge wh...
+#: paragraph:7,sentence:26
+msgid "Regarding his challenges, Bill could be depressed, ungrounded, restless, and argumentative; he required routine in order to function effectively in many areas of life."
+msgstr ""
+
+#. Paragraph 7: Regarding his challenges, Bill could be depressed, ungrounded, restless, and argumentative; he required routine in order to function effectively in many areas of life. He could also display an edge wh...
+#: paragraph:7,sentence:27
+msgid "He could also display an edge when his passive aggressive nature was aroused and was perfectly capable of analyzing another’s ego, seeing what was inconsistent or unworkable."
+msgstr ""
+
+#. Paragraph 7: Regarding his challenges, Bill could be depressed, ungrounded, restless, and argumentative; he required routine in order to function effectively in many areas of life. He could also display an edge wh...
+#: paragraph:7,sentence:28
+msgid "In the presence of loud or pushy people, whom he found distressing, he would “back up” emotionally."
+msgstr ""
+
+#. Paragraph 7: Regarding his challenges, Bill could be depressed, ungrounded, restless, and argumentative; he required routine in order to function effectively in many areas of life. He could also display an edge wh...
+#: paragraph:7,sentence:29
+msgid "When upset, he could be uptight and not at all funny."
+msgstr ""
+
+#. Paragraph 7: Regarding his challenges, Bill could be depressed, ungrounded, restless, and argumentative; he required routine in order to function effectively in many areas of life. He could also display an edge wh...
+#: paragraph:7,sentence:30
+msgid "Not knowing much about the world outside academia, he tended to observe life rather than fully participate in it."
+msgstr ""
+
+#. Paragraph 7: Regarding his challenges, Bill could be depressed, ungrounded, restless, and argumentative; he required routine in order to function effectively in many areas of life. He could also display an edge wh...
+#: paragraph:7,sentence:31
+msgid "For the most part, I never personally experienced his “down” side, but to complete the picture, others’ experiences and observations deserve inclusion."
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:32
+msgid "Almost everyone was disarmed by Bill’s transparency, which was profoundly effective"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:33
+msgid "One might ask how this squares with being secretive, but the answer is easy"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:34
+msgid "He felt the need for privacy at the human level and to keep secret his thoughts and actions, but he couldn’t hide his energetic presence"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:35
+msgid "The unalterable truth of him, his loving reality, was always apparent"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:36
+msgid "As part of his inclination to secrecy, he rarely expressed a strong personal opinion or commented on political issues or current events"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:37
+msgid "I never heard anyone attempt a political or other controversial conversation with him"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:38
+msgid "Jack Luckett shared his thoughts about Bill’s sense of patriotism: “He knew he was lucky to be born a white American male but he wasn’t sure about the gay part"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:39
+msgid "We used to go to 4th of July celebrations in La Jolla, and when well done, he found them moving"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:40
+msgid "I think sometimes he found my gung-ho Marine commitment amusing, but he admired it as well.”[3] His wife Layle added, “You knew Billy very well and know he was not passionate about much except opera and Mozart"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:41
+msgid "I’d call him ‘neutral’ regarding patriotism"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:42
+msgid "Certainly he was not a flag-waving, ‘America first’ kind of a guy, but he appreciated being born here"
+msgstr ""
+
+#. Paragraph 8: Almost everyone was disarmed by Bill’s transparency, which was profoundly effective. One might ask how this squares with being secretive, but the answer is easy. He felt the need for privacy at the hu...
+#: paragraph:8,sentence:43
+msgid "Maybe he was too removed from human ‘life-in-time [and space]’ to concern himself with feeling superior over his choice of birthplaces.”[4] Jack concluded, “Bill was as complex as a Chinese puzzle but had a strong desire just to be normal.”[5]"
+msgstr ""
+
+#. Paragraph 9: A Course In Miracles states that what we perceive in others is up to us; we can see them through eyes of love or fear and our “perception is a choice and not a fact.”[6] That said, it is fascinating t...
+#: paragraph:9,sentence:44
+msgid "A Course In Miracles states that what we perceive in others is up to us; we can see them through eyes of love or fear and our “perception is a choice and not a fact.”[6] That said, it is fascinating to note that almost everyone I interviewed described their experience with Bill in nearly identical terms—repeatedly emphasizing a few signature traits."
+msgstr ""
+
+#. Paragraph 9: A Course In Miracles states that what we perceive in others is up to us; we can see them through eyes of love or fear and our “perception is a choice and not a fact.”[6] That said, it is fascinating t...
+#: paragraph:9,sentence:45
+msgid "These comments, for the most part, were offered by those who knew him in his post-Columbia years, and thus after he had been strongly influenced by the Course for more than a decade."
+msgstr ""
+
+#. Paragraph 9: A Course In Miracles states that what we perceive in others is up to us; we can see them through eyes of love or fear and our “perception is a choice and not a fact.”[6] That said, it is fascinating t...
+#: paragraph:9,sentence:46
+msgid "ACIM was working on him even while he was working on it."
+msgstr ""
+
+#. Paragraph 10: What does it mean that the Course was “working” on him? Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class. The point is not to learn how to get on...
+#: paragraph:10,sentence:47
+msgid "What does it mean that the Course was “working” on him."
+msgstr ""
+
+#. Paragraph 10: What does it mean that the Course was “working” on him? Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class. The point is not to learn how to get on...
+#: paragraph:10,sentence:48
+msgid "Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class."
+msgstr ""
+
+#. Paragraph 10: What does it mean that the Course was “working” on him? Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class. The point is not to learn how to get on...
+#: paragraph:10,sentence:49
+msgid "The point is not to learn how to get one’s way or acquire facts or strategies more effectively, but to unlearn our early programming."
+msgstr ""
+
+#. Paragraph 10: What does it mean that the Course was “working” on him? Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class. The point is not to learn how to get on...
+#: paragraph:10,sentence:50
+msgid "Some persons have labeled ACIM a mind-training course—indeed, it is and thank goodness for that."
+msgstr ""
+
+#. Paragraph 10: What does it mean that the Course was “working” on him? Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class. The point is not to learn how to get on...
+#: paragraph:10,sentence:51
+msgid "From birth, our minds are trained to believe in separation, self-absorption, and lack, not only through our families but through all our societal encounters—educational, political, religious, and through the media."
+msgstr ""
+
+#. Paragraph 10: What does it mean that the Course was “working” on him? Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class. The point is not to learn how to get on...
+#: paragraph:10,sentence:52
+msgid "That training—unhelpful and inaccurate but not necessarily deliberate—to regard ourselves as smaller and less deserving or important than we really are, must change if we hope to experience any peace of mind."
+msgstr ""
+
+#. Paragraph 10: What does it mean that the Course was “working” on him? Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class. The point is not to learn how to get on...
+#: paragraph:10,sentence:53
+msgid "The consistent practice of Course principles drives long-standing, limiting beliefs from our original mind training into conscious awareness, so we can decide whether to be bound by them or not."
+msgstr ""
+
+#. Paragraph 10: What does it mean that the Course was “working” on him? Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class. The point is not to learn how to get on...
+#: paragraph:10,sentence:54
+msgid "It’s as if we have all been born and raised in a cult, with the ego as the tyrannical leader, requiring absolute allegiance."
+msgstr ""
+
+#. Paragraph 10: What does it mean that the Course was “working” on him? Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class. The point is not to learn how to get on...
+#: paragraph:10,sentence:55
+msgid "Since we know of no other way of being, we presume this is the only way to live."
+msgstr ""
+
+#. Paragraph 10: What does it mean that the Course was “working” on him? Bill knew very well that one doesn’t “take the Course,” as one might take an algebra or chemistry class. The point is not to learn how to get on...
+#: paragraph:10,sentence:56
+msgid "ACIM acts as a “deprogrammer” for our ego-directed brainwashing."
+msgstr ""
+
+#. Paragraph 11: Socrates famously declared that the unexamined life is not worth living. In modern parlance, if we refuse to look at the mental/emotional conditioning we originally learned for survival, we become lik...
+#: paragraph:11,sentence:57
+msgid "Socrates famously declared that the unexamined life is not worth living"
+msgstr ""
+
+#. Paragraph 11: Socrates famously declared that the unexamined life is not worth living. In modern parlance, if we refuse to look at the mental/emotional conditioning we originally learned for survival, we become lik...
+#: paragraph:11,sentence:58
+msgid "In modern parlance, if we refuse to look at the mental/emotional conditioning we originally learned for survival, we become like reactive robots unable to make appropriate choices, basing our lives on an irrelevant past rather than living in the here and now"
+msgstr ""
+
+#. Paragraph 11: Socrates famously declared that the unexamined life is not worth living. In modern parlance, if we refuse to look at the mental/emotional conditioning we originally learned for survival, we become lik...
+#: paragraph:11,sentence:59
+msgid "A Course In Miracles is a spiritual technology, celestial cleanser for the soul, cleaning our vision so we can know surely and directly we are safe, loved, and valuable—now and always"
+msgstr ""
+
+#. Paragraph 11: Socrates famously declared that the unexamined life is not worth living. In modern parlance, if we refuse to look at the mental/emotional conditioning we originally learned for survival, we become lik...
+#: paragraph:11,sentence:60
+msgid "The introduction to the workbook states:"
+msgstr ""
+
+#. Paragraph 12: The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. . . . This will require no effort on your part. The exercises t...
+#: paragraph:12,sentence:61
+msgid "The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. . .."
+msgstr ""
+
+#. Paragraph 12: The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. . . . This will require no effort on your part. The exercises t...
+#: paragraph:12,sentence:62
+msgid "This will require no effort on your part."
+msgstr ""
+
+#. Paragraph 12: The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. . . . This will require no effort on your part. The exercises t...
+#: paragraph:12,sentence:63
+msgid "The exercises themselves meet the conditions necessary for this kind of transfer."
+msgstr ""
+
+#. Paragraph 13: Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are directed to d...
+#: paragraph:13,sentence:64
+msgid "Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling."
+msgstr ""
+
+#. Paragraph 13: Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are directed to d...
+#: paragraph:13,sentence:65
+msgid "This does not matter."
+msgstr ""
+
+#. Paragraph 13: Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are directed to d...
+#: paragraph:13,sentence:66
+msgid "You are merely asked to apply the ideas as you are directed to do."
+msgstr ""
+
+#. Paragraph 13: Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are directed to d...
+#: paragraph:13,sentence:67
+msgid "You are not asked to judge them at all."
+msgstr ""
+
+#. Paragraph 13: Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are directed to d...
+#: paragraph:13,sentence:68
+msgid "You are asked only to use them."
+msgstr ""
+
+#. Paragraph 13: Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are directed to d...
+#: paragraph:13,sentence:69
+msgid "It is their use that will give them meaning to you, and will show you that they are true."
+msgstr ""
+
+#. Paragraph 14: Remember only this; you need not believe the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively resist. None of this will matter, or decrease their effi...
+#: paragraph:14,sentence:70
+msgid "Remember only this; you need not believe the ideas, you need not accept them, and you need not even welcome them"
+msgstr ""
+
+#. Paragraph 14: Remember only this; you need not believe the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively resist. None of this will matter, or decrease their effi...
+#: paragraph:14,sentence:71
+msgid "Some of them you may actively resist"
+msgstr ""
+
+#. Paragraph 14: Remember only this; you need not believe the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively resist. None of this will matter, or decrease their effi...
+#: paragraph:14,sentence:72
+msgid "None of this will matter, or decrease their efficacy"
+msgstr ""
+
+#. Paragraph 14: Remember only this; you need not believe the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively resist. None of this will matter, or decrease their effi...
+#: paragraph:14,sentence:73
+msgid "But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them"
+msgstr ""
+
+#. Paragraph 14: Remember only this; you need not believe the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively resist. None of this will matter, or decrease their effi...
+#: paragraph:14,sentence:74
+msgid "Nothing more than that is required.[7]"
+msgstr ""
+
+#. Paragraph 15: Notice there’s not a word about carefully learning anything, only daily practicing in the face of one’s disbelief. And practice Bill did, but what was he practicing? The last section of the text, “Cho...
+#: paragraph:15,sentence:75
+msgid "Notice there’s not a word about carefully learning anything, only daily practicing in the face of one’s disbelief."
+msgstr ""
+
+#. Paragraph 15: Notice there’s not a word about carefully learning anything, only daily practicing in the face of one’s disbelief. And practice Bill did, but what was he practicing? The last section of the text, “Cho...
+#: paragraph:15,sentence:76
+msgid "And practice Bill did, but what was he practicing."
+msgstr ""
+
+#. Paragraph 15: Notice there’s not a word about carefully learning anything, only daily practicing in the face of one’s disbelief. And practice Bill did, but what was he practicing? The last section of the text, “Cho...
+#: paragraph:15,sentence:77
+msgid "The last section of the text, “Choose Once Again,” was one of his favorites and he took it to heart. “Trials are but lessons that you failed to learn presented once again, so where you made a faulty choice before you now can make a better one, and thus escape all pain that what you chose before has brought to you.”[8] He was determined to notice the times when he lost his peace—times that threatened his self-image or when things weren’t unfolding as he thought they should."
+msgstr ""
+
+#. Paragraph 15: Notice there’s not a word about carefully learning anything, only daily practicing in the face of one’s disbelief. And practice Bill did, but what was he practicing? The last section of the text, “Cho...
+#: paragraph:15,sentence:78
+msgid "As swiftly as possible he would choose to let them go, realizing he was the author of his own distress."
+msgstr ""
+
+#. Paragraph 15: Notice there’s not a word about carefully learning anything, only daily practicing in the face of one’s disbelief. And practice Bill did, but what was he practicing? The last section of the text, “Cho...
+#: paragraph:15,sentence:79
+msgid "One can almost see his original mind-set being released and these new, yet timeless, values being adopted."
+msgstr ""
+
+#. Paragraph 16: Bill’s inner life can best be explored in three ways: through quotes and illustrations from members of his extended ACIM family who knew him well; through his own words; and through revealing comments...
+#: paragraph:16,sentence:80
+msgid "Bill’s inner life can best be explored in three ways: through quotes and illustrations from members of his extended ACIM family who knew him well; through his own words; and through revealing comments made by the Author of A Course In Miracles."
+msgstr ""
+
+#. Paragraph 16: Bill’s inner life can best be explored in three ways: through quotes and illustrations from members of his extended ACIM family who knew him well; through his own words; and through revealing comments...
+#: paragraph:16,sentence:81
+msgid "My task is to facilitate joining these “voices” to reveal the most comprehensive picture possible of Bill’s inner life."
+msgstr ""
+
+#. Paragraph 16: Bill’s inner life can best be explored in three ways: through quotes and illustrations from members of his extended ACIM family who knew him well; through his own words; and through revealing comments...
+#: paragraph:16,sentence:82
+msgid "The reason for providing an inside view is that his inner life and ours are so alike."
+msgstr ""
+
+#. Paragraph 16: Bill’s inner life can best be explored in three ways: through quotes and illustrations from members of his extended ACIM family who knew him well; through his own words; and through revealing comments...
+#: paragraph:16,sentence:83
+msgid "Even though the externals of our lives may look entirely different, the internal process of release is the same for everyone."
+msgstr ""
+
+#. Paragraph 17: Remember the observation about Bill’s being as complex as a Chinese puzzle? In choosing to release his grievances, quiet his mind, and live defenselessly, Bill allowed the love that was the ground of ...
+#: paragraph:17,sentence:84
+msgid "Remember the observation about Bill’s being as complex as a Chinese puzzle"
+msgstr ""
+
+#. Paragraph 17: Remember the observation about Bill’s being as complex as a Chinese puzzle? In choosing to release his grievances, quiet his mind, and live defenselessly, Bill allowed the love that was the ground of ...
+#: paragraph:17,sentence:85
+msgid "In choosing to release his grievances, quiet his mind, and live defenselessly, Bill allowed the love that was the ground of his being, and of everyone’s, to appear effortlessly"
+msgstr ""
+
+#. Paragraph 17: Remember the observation about Bill’s being as complex as a Chinese puzzle? In choosing to release his grievances, quiet his mind, and live defenselessly, Bill allowed the love that was the ground of ...
+#: paragraph:17,sentence:86
+msgid "He was letting go of the learned “untruth” about himself"
+msgstr ""
+
+#. Paragraph 17: Remember the observation about Bill’s being as complex as a Chinese puzzle? In choosing to release his grievances, quiet his mind, and live defenselessly, Bill allowed the love that was the ground of ...
+#: paragraph:17,sentence:87
+msgid "The word Bill’s friends most often used to describe him was presence"
+msgstr ""
+
+#. Paragraph 17: Remember the observation about Bill’s being as complex as a Chinese puzzle? In choosing to release his grievances, quiet his mind, and live defenselessly, Bill allowed the love that was the ground of ...
+#: paragraph:17,sentence:88
+msgid "Although inadequate, it is the closest available"
+msgstr ""
+
+#. Paragraph 17: Remember the observation about Bill’s being as complex as a Chinese puzzle? In choosing to release his grievances, quiet his mind, and live defenselessly, Bill allowed the love that was the ground of ...
+#: paragraph:17,sentence:89
+msgid "Something happened around him; one felt lighter, more expansive"
+msgstr ""
+
+#. Paragraph 17: Remember the observation about Bill’s being as complex as a Chinese puzzle? In choosing to release his grievances, quiet his mind, and live defenselessly, Bill allowed the love that was the ground of ...
+#: paragraph:17,sentence:90
+msgid "Some expressed it as a calming and radiant quality; others said it was like the room became electrified or filled with an exuberant energy"
+msgstr ""
+
+#. Paragraph 17: Remember the observation about Bill’s being as complex as a Chinese puzzle? In choosing to release his grievances, quiet his mind, and live defenselessly, Bill allowed the love that was the ground of ...
+#: paragraph:17,sentence:91
+msgid "In any case, it was a great influence in people’s lives and left an indelible mark"
+msgstr ""
+
+#. Paragraph 17: Remember the observation about Bill’s being as complex as a Chinese puzzle? In choosing to release his grievances, quiet his mind, and live defenselessly, Bill allowed the love that was the ground of ...
+#: paragraph:17,sentence:92
+msgid "Zemke speaks eloquently about this quality that everyone observed:"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:93
+msgid "You have three shades of rose red [in his aura]"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:94
+msgid "This first shade is a very pale pastel shade"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:95
+msgid "It is the color of divinity incarnate in the form of love"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:96
+msgid "You bring that energy forward through your being"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:97
+msgid "This is the divine essence or divine loving force transmitted into the earth"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:98
+msgid "Then there is another step-up of that color and it is mixed with a lot of white, indicating transformation through love, the capacity to transform people, life circumstances, through love, and this is the mark of a very advanced teacher or soul"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:99
+msgid "Then still another color attached to this rose spectrum is a rose-white, a blend of the two so subtle that it seems more white than rose, and this indicates the connection to the divine that at times is so strong and so clear that there is no way you can translate that information in words"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:100
+msgid "It is simply a transmission that occurs on an energy level of your being and gradually filters into form in whatever way is best"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:101
+msgid "It happens without your doing anything about it consciously and is responsible for the attraction that people feel"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:102
+msgid "Many of the people who experience this with you do not understand what they are experiencing"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:103
+msgid "They just know they want to have it"
+msgstr ""
+
+#. Paragraph 18: You have three shades of rose red [in his aura]. This first shade is a very pale pastel shade. It is the color of divinity incarnate in the form of love. You bring that energy forward through your bei...
+#: paragraph:18,sentence:104
+msgid "They want to be near you, be around you, close to you.[9]"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:105
+msgid "The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:106
+msgid "If presence was a term universally ascribed to Bill, several noteworthy subsets derive from it"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:107
+msgid "A sentence from Dante’s Paradiso succinctly captures so many people’s subjective experience of him: “You are my sire, said I: you give me heart freely to speak my thought: above myself you raise me.”[10] Or a more modern translation: “You give me full courage to speak; you lift me until I am more than myself.”[11] That was Bill, and it most fully articulates his greatest gift, the most noted aspect of his way of being—his unsurpassed capacity to support and accept almost anyone or anything"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:108
+msgid "I say “almost,” because in his last decade there were still a few loose ends of forgiveness not yet handled and some persons could still push his buttons"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:109
+msgid "Offering acceptance has a noticeable, substantive healing effect both on those who give and receive it"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:110
+msgid "It speaks in ways far more compelling than words that we are not judged, that we are completely acceptable as we are and deeply cared for"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:111
+msgid "Within the light of Bill’s acceptance, frantic or mindless thought could settle down, accompanied by a deep sense of relief"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:112
+msgid "Imagine no need to defend, impress, convince, or dominate"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:113
+msgid "People relaxed in his presence"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:114
+msgid "Bill’s acceptance had the instantaneous, profound effect of orienting people to their own innate value, and the expansion was automatic"
+msgstr ""
+
+#. Paragraph 19: The following excerpts from many interviews help identify and explain more fully Bill’s prominent qualities as listed at the beginning of this chapter. If presence was a term universally ascribed to B...
+#: paragraph:19,sentence:115
+msgid "The Course speaks of the healing effect that practicing forgiveness has on others:"
+msgstr ""
+
+#. Paragraph 20: The power of witness is beyond belief because it brings conviction in its wake. . . . Now in the hands made gentle by His touch, the Holy Spirit lays a picture of a different you. It is a picture of a...
+#: paragraph:20,sentence:116
+msgid "The power of witness is beyond belief because it brings conviction in its wake. . ."
+msgstr ""
+
+#. Paragraph 20: The power of witness is beyond belief because it brings conviction in its wake. . . . Now in the hands made gentle by His touch, the Holy Spirit lays a picture of a different you. It is a picture of a...
+#: paragraph:20,sentence:117
+msgid "Now in the hands made gentle by His touch, the Holy Spirit lays a picture of a different you"
+msgstr ""
+
+#. Paragraph 20: The power of witness is beyond belief because it brings conviction in its wake. . . . Now in the hands made gentle by His touch, the Holy Spirit lays a picture of a different you. It is a picture of a...
+#: paragraph:20,sentence:118
+msgid "It is a picture of a body still, for what you really are cannot be seen nor pictured. . ."
+msgstr ""
+
+#. Paragraph 20: The power of witness is beyond belief because it brings conviction in its wake. . . . Now in the hands made gentle by His touch, the Holy Spirit lays a picture of a different you. It is a picture of a...
+#: paragraph:20,sentence:119
+msgid "Show this unto your brother, who will see that every scar is healed, and every tear is wiped away in laughter and in love"
+msgstr ""
+
+#. Paragraph 20: The power of witness is beyond belief because it brings conviction in its wake. . . . Now in the hands made gentle by His touch, the Holy Spirit lays a picture of a different you. It is a picture of a...
+#: paragraph:20,sentence:120
+msgid "And he will look on his forgiveness there, and with healed eyes will look beyond it to the innocence that he beholds in you"
+msgstr ""
+
+#. Paragraph 20: The power of witness is beyond belief because it brings conviction in its wake. . . . Now in the hands made gentle by His touch, the Holy Spirit lays a picture of a different you. It is a picture of a...
+#: paragraph:20,sentence:121
+msgid "Here is the proof that he has never sinned, that nothing which his madness bid him do was ever done, or ever had effects of any kind"
+msgstr ""
+
+#. Paragraph 20: The power of witness is beyond belief because it brings conviction in its wake. . . . Now in the hands made gentle by His touch, the Holy Spirit lays a picture of a different you. It is a picture of a...
+#: paragraph:20,sentence:122
+msgid "That no reproach he laid upon his heart was ever justified, and no attack can ever touch him with the poisoned and relentless sting of fear.[12]"
+msgstr ""
+
+#. Paragraph 21: No wonder people were so drawn to him! It was like being absolved at the confessional, not as a ritual but as an absolute and incontrovertible fact. Many still speak of the magic of being around him a...
+#: paragraph:21,sentence:123
+msgid "No wonder people were so drawn to him"
+msgstr ""
+
+#. Paragraph 21: No wonder people were so drawn to him! It was like being absolved at the confessional, not as a ritual but as an absolute and incontrovertible fact. Many still speak of the magic of being around him a...
+#: paragraph:21,sentence:124
+msgid "It was like being absolved at the confessional, not as a ritual but as an absolute and incontrovertible fact"
+msgstr ""
+
+#. Paragraph 21: No wonder people were so drawn to him! It was like being absolved at the confessional, not as a ritual but as an absolute and incontrovertible fact. Many still speak of the magic of being around him a...
+#: paragraph:21,sentence:125
+msgid "Many still speak of the magic of being around him and the unforgettable experience of being unconditionally loved"
+msgstr ""
+
+#. Paragraph 21: No wonder people were so drawn to him! It was like being absolved at the confessional, not as a ritual but as an absolute and incontrovertible fact. Many still speak of the magic of being around him a...
+#: paragraph:21,sentence:126
+msgid "Praise for him is so consistent that it might tend to sound worshipful, precisely what he would not want. “Fair and balanced” reporting would require my listing as many complaints of Bill as glowing reports, but I would have to manufacture them"
+msgstr ""
+
+#. Paragraph 21: No wonder people were so drawn to him! It was like being absolved at the confessional, not as a ritual but as an absolute and incontrovertible fact. Many still speak of the magic of being around him a...
+#: paragraph:21,sentence:127
+msgid "The representative quotes below, echoed by many others, express the power of his influence:"
+msgstr ""
+
+#. Paragraph 22: Jaison Kayn reflects, “He was comforting in the sense that if there were pretenses, it didn’t matter to him whatsoever. He was also going to stabilize the situation beyond any pretenses, any situation...
+#: paragraph:22,sentence:128
+msgid "Jaison Kayn reflects, “He was comforting in the sense that if there were pretenses, it didn’t matter to him whatsoever"
+msgstr ""
+
+#. Paragraph 22: Jaison Kayn reflects, “He was comforting in the sense that if there were pretenses, it didn’t matter to him whatsoever. He was also going to stabilize the situation beyond any pretenses, any situation...
+#: paragraph:22,sentence:129
+msgid "He was also going to stabilize the situation beyond any pretenses, any situation"
+msgstr ""
+
+#. Paragraph 22: Jaison Kayn reflects, “He was comforting in the sense that if there were pretenses, it didn’t matter to him whatsoever. He was also going to stabilize the situation beyond any pretenses, any situation...
+#: paragraph:22,sentence:130
+msgid "He knew what was true and you could just take that lead from him.”[13] Bruce Gregory, a friend from New York, remembers:"
+msgstr ""
+
+#. Paragraph 23: After a visit with him, I felt so free and at ease. Something about Bill’s expansive, liberating “just be happy, just be loving, don’t worry” quality took by osmosis. That is the answer for all of us,...
+#: paragraph:23,sentence:131
+msgid "After a visit with him, I felt so free and at ease"
+msgstr ""
+
+#. Paragraph 23: After a visit with him, I felt so free and at ease. Something about Bill’s expansive, liberating “just be happy, just be loving, don’t worry” quality took by osmosis. That is the answer for all of us,...
+#: paragraph:23,sentence:132
+msgid "Something about Bill’s expansive, liberating “just be happy, just be loving, don’t worry” quality took by osmosis"
+msgstr ""
+
+#. Paragraph 23: After a visit with him, I felt so free and at ease. Something about Bill’s expansive, liberating “just be happy, just be loving, don’t worry” quality took by osmosis. That is the answer for all of us,...
+#: paragraph:23,sentence:133
+msgid "That is the answer for all of us, so barriers were loosening and crumbling"
+msgstr ""
+
+#. Paragraph 23: After a visit with him, I felt so free and at ease. Something about Bill’s expansive, liberating “just be happy, just be loving, don’t worry” quality took by osmosis. That is the answer for all of us,...
+#: paragraph:23,sentence:134
+msgid "He was able to see more and to love more and when you’re around that, when you’re not highly defended, you have this wonderful sense of loving acceptance as well as encouragement; it just fans the flame of spirit"
+msgstr ""
+
+#. Paragraph 23: After a visit with him, I felt so free and at ease. Something about Bill’s expansive, liberating “just be happy, just be loving, don’t worry” quality took by osmosis. That is the answer for all of us,...
+#: paragraph:23,sentence:135
+msgid "Bill was very, very gifted in that sense"
+msgstr ""
+
+#. Paragraph 23: After a visit with him, I felt so free and at ease. Something about Bill’s expansive, liberating “just be happy, just be loving, don’t worry” quality took by osmosis. That is the answer for all of us,...
+#: paragraph:23,sentence:136
+msgid "He would listen, was compassionate and encouraging like, “Don’t let that bother you, it’s okay, don’t hold onto it.”[14]"
+msgstr ""
+
+#. Paragraph 24: Judith Skutch Whitson comments on that first fateful luncheon with Bill and Helen, “I was quite uncomfortable with Helen, or I should say slightly terrified, because I didn’t know which social skills ...
+#: paragraph:24,sentence:137
+msgid "Judith Skutch Whitson comments on that first fateful luncheon with Bill and Helen, “I was quite uncomfortable with Helen, or I should say slightly terrified, because I didn’t know which social skills to use with her"
+msgstr ""
+
+#. Paragraph 24: Judith Skutch Whitson comments on that first fateful luncheon with Bill and Helen, “I was quite uncomfortable with Helen, or I should say slightly terrified, because I didn’t know which social skills ...
+#: paragraph:24,sentence:138
+msgid "She was an anomaly to me"
+msgstr ""
+
+#. Paragraph 24: Judith Skutch Whitson comments on that first fateful luncheon with Bill and Helen, “I was quite uncomfortable with Helen, or I should say slightly terrified, because I didn’t know which social skills ...
+#: paragraph:24,sentence:139
+msgid "You didn’t know if you were getting through"
+msgstr ""
+
+#. Paragraph 24: Judith Skutch Whitson comments on that first fateful luncheon with Bill and Helen, “I was quite uncomfortable with Helen, or I should say slightly terrified, because I didn’t know which social skills ...
+#: paragraph:24,sentence:140
+msgid "You didn’t know whether you should be open, closed, chatty, quiet—at least I didn’t know"
+msgstr ""
+
+#. Paragraph 24: Judith Skutch Whitson comments on that first fateful luncheon with Bill and Helen, “I was quite uncomfortable with Helen, or I should say slightly terrified, because I didn’t know which social skills ...
+#: paragraph:24,sentence:141
+msgid "But with Bill I was so relaxed because I felt so comfortable with him.”[15]"
+msgstr ""
+
+#. Paragraph 25: Although Bill knew that teaching the Course was not his mission, he fully supported other people’s efforts on behalf of the Course. Hugh Prather noted, He was open to almost any approach. Once at a me...
+#: paragraph:25,sentence:142
+msgid "Although Bill knew that teaching the Course was not his mission, he fully supported other people’s efforts on behalf of the Course."
+msgstr ""
+
+#. Paragraph 25: Although Bill knew that teaching the Course was not his mission, he fully supported other people’s efforts on behalf of the Course. Hugh Prather noted, He was open to almost any approach. Once at a me...
+#: paragraph:25,sentence:143
+msgid "Hugh Prather noted, He was open to almost any approach."
+msgstr ""
+
+#. Paragraph 25: Although Bill knew that teaching the Course was not his mission, he fully supported other people’s efforts on behalf of the Course. Hugh Prather noted, He was open to almost any approach. Once at a me...
+#: paragraph:25,sentence:144
+msgid "Once at a meeting in La Jolla, Bill was just as happy as a Cheshire cat sitting in this absolutely far-out, “woo-woo” California atmosphere."
+msgstr ""
+
+#. Paragraph 25: Although Bill knew that teaching the Course was not his mission, he fully supported other people’s efforts on behalf of the Course. Hugh Prather noted, He was open to almost any approach. Once at a me...
+#: paragraph:25,sentence:145
+msgid "Some people would say things I know he didn’t believe philosophically, yet he was completely accepting of whatever they had to say, their attempts to heal, the songs that they would sing."
+msgstr ""
+
+#. Paragraph 26: Also, I was impressed with his gentleness, his openness—he would talk about anything you wanted to talk about—his lightheartedness, his humor, and of course, he was very intelligent with that sort of ...
+#: paragraph:26,sentence:146
+msgid "Also, I was impressed with his gentleness, his openness—he would talk about anything you wanted to talk about—his lightheartedness, his humor, and of course, he was very intelligent with that sort of eastern sophistication, which being from Texas I’m sometimes intimidated by, but not with him"
+msgstr ""
+
+#. Paragraph 26: Also, I was impressed with his gentleness, his openness—he would talk about anything you wanted to talk about—his lightheartedness, his humor, and of course, he was very intelligent with that sort of ...
+#: paragraph:26,sentence:147
+msgid "It was a relief to find him so open and friendly and accessible"
+msgstr ""
+
+#. Paragraph 26: Also, I was impressed with his gentleness, his openness—he would talk about anything you wanted to talk about—his lightheartedness, his humor, and of course, he was very intelligent with that sort of ...
+#: paragraph:26,sentence:148
+msgid "I just connected with him right from the beginning.[16]"
+msgstr ""
+
+#. Paragraph 27: Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it. I was a...
+#: paragraph:27,sentence:149
+msgid "Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it"
+msgstr ""
+
+#. Paragraph 27: Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it. I was a...
+#: paragraph:27,sentence:150
+msgid "I was a single mother and scared"
+msgstr ""
+
+#. Paragraph 27: Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it. I was a...
+#: paragraph:27,sentence:151
+msgid "I never felt more deeply empowered by another human being; he helped me know in a profound way that I was okay"
+msgstr ""
+
+#. Paragraph 27: Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it. I was a...
+#: paragraph:27,sentence:152
+msgid "I could move toward self-love or self-acceptance because he showed his humanity so much, being willing to be the bumbler"
+msgstr ""
+
+#. Paragraph 27: Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it. I was a...
+#: paragraph:27,sentence:153
+msgid "He put no weight on degrees or fame or anything"
+msgstr ""
+
+#. Paragraph 27: Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it. I was a...
+#: paragraph:27,sentence:154
+msgid "He was not impressed"
+msgstr ""
+
+#. Paragraph 27: Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it. I was a...
+#: paragraph:27,sentence:155
+msgid "That was interesting"
+msgstr ""
+
+#. Paragraph 27: Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it. I was a...
+#: paragraph:27,sentence:156
+msgid "He was also funny and cynical and made comments about everybody, including himself"
+msgstr ""
+
+#. Paragraph 27: Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it. I was a...
+#: paragraph:27,sentence:157
+msgid "He was always self-deprecating and always “we’re just people.” Aside from his funny, really ironic humor, as far as character, he was the actual living proof of unconditional love"
+msgstr ""
+
+#. Paragraph 27: Catherine Prescott remembers, He was so generous with me and my children in the sense of making me feel secure, his kindness when I moved to Marin County was just over the top and I needed it. I was a...
+#: paragraph:27,sentence:158
+msgid "His kindness and tender heart came through everything.[17]"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:159
+msgid "Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spirituality"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:160
+msgid "He gave me encouragement and support, not because he said, “I’m going to encourage and support you,” but our interaction simply gave me permission to be me and find my voice"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:161
+msgid "He did that for a lot of people"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:162
+msgid "He had the ability to validate your being without having to say anything, to help you feel good about yourself—perhaps the greatest gift anyone gives anybody"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:163
+msgid "It’s as if he said, “If anyone needs permission to be themselves, I grant it,” only it wasn’t done at a conscious mind level"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:164
+msgid "It happened automatically around him"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:165
+msgid "If I had an issue, something I wanted to work on, he would say, “Why don’t you do that"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:166
+msgid "Just change it all"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:167
+msgid "Change it in your mind.” I went, “Oh, okay, why don’t I?” He was free and unattached to the whole thing, a very empowering person, not to overuse an old word"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:168
+msgid "I found him to be equally loving to everybody"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:169
+msgid "I think he loved a lot of us, his love was strong and that was very important"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:170
+msgid "I never felt judged by Bill in any way, shape, or form"
+msgstr ""
+
+#. Paragraph 28: Bill finding peace of mind Diane Cirincione, Jerry Jampolsky’s wife, always felt supported with Bill, There was a time when, like so many others, I was consciously exploring the depths of my own spiri...
+#: paragraph:28,sentence:171
+msgid "He had a way of being kind of egalitarian, not elitist at all, and of course, I loved his humor.[18]"
+msgstr ""
+
+#. Paragraph 29: Carlagaye Olson, who became a close friend of Bill’s in the 1980s, fondly recalls, You know, the most important moments with Bill were those personal ones. There is nothing I can condense into some wo...
+#: paragraph:29,sentence:172
+msgid "Carlagaye Olson, who became a close friend of Bill’s in the 1980s, fondly recalls, You know, the most important moments with Bill were those personal ones"
+msgstr ""
+
+#. Paragraph 29: Carlagaye Olson, who became a close friend of Bill’s in the 1980s, fondly recalls, You know, the most important moments with Bill were those personal ones. There is nothing I can condense into some wo...
+#: paragraph:29,sentence:173
+msgid "There is nothing I can condense into some words of wisdom, except to say that he was so incredibly accepting, just that feeling that this was a family and we were unconditional members of that family and there was nothing in him that said, “I pick you and not you.” You know how the Course says our only problem is the feeling of worthlessness"
+msgstr ""
+
+#. Paragraph 29: Carlagaye Olson, who became a close friend of Bill’s in the 1980s, fondly recalls, You know, the most important moments with Bill were those personal ones. There is nothing I can condense into some wo...
+#: paragraph:29,sentence:174
+msgid "Well, just being in the presence of someone you admire a great deal . ."
+msgstr ""
+
+#. Paragraph 29: Carlagaye Olson, who became a close friend of Bill’s in the 1980s, fondly recalls, You know, the most important moments with Bill were those personal ones. There is nothing I can condense into some wo...
+#: paragraph:29,sentence:175
+msgid "I don’t know anybody else who could have provided that experience.[19]"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:176
+msgid "My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:177
+msgid "I just remember what it was like to be around him—that was the key"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:178
+msgid "When he was in the house, you could feel it"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:179
+msgid "You could breathe a sigh of relief like there was a way home"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:180
+msgid "There was something about his presence that was so comforting and reassuring and had nothing to do with what he said"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:181
+msgid "I always felt an endearing sense of calmness"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:182
+msgid "He brought a sense of safety, which is the key point"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:183
+msgid "People will naturally gravitate toward individuals like that because they want that sense of safety and peace and tranquility"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:184
+msgid "It’s an unbelievably powerful feeling"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:185
+msgid "Most people have some hard edges; he seemed to have soft edges with nothing that made you feel rough or constricted or uninviting"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:186
+msgid "When you were near him, everything was a little bit finer, a little more okay, more resolved, none of which quite do justice to what it was like to be around him"
+msgstr ""
+
+#. Paragraph 30: My older son, Greg, recalled from his experience as a young boy, It didn’t matter what he said, or what we did. I just remember what it was like to be around him—that was the key. When he was in the h...
+#: paragraph:30,sentence:187
+msgid "There was something about Bill that was almost angelic.[20]"
+msgstr ""
+
+#. Paragraph 31: LeRoy Zemke made some interesting far-out observations about Bill in the early 1980s. He indicated that he represented a new kind of awakened cosmic teacher, a living example of what’s possible—a guru...
+#: paragraph:31,sentence:188
+msgid "LeRoy Zemke made some interesting far-out observations about Bill in the early 1980s."
+msgstr ""
+
+#. Paragraph 31: LeRoy Zemke made some interesting far-out observations about Bill in the early 1980s. He indicated that he represented a new kind of awakened cosmic teacher, a living example of what’s possible—a guru...
+#: paragraph:31,sentence:189
+msgid "He indicated that he represented a new kind of awakened cosmic teacher, a living example of what’s possible—a guru, but not in the traditional sense of the word."
+msgstr ""
+
+#. Paragraph 31: LeRoy Zemke made some interesting far-out observations about Bill in the early 1980s. He indicated that he represented a new kind of awakened cosmic teacher, a living example of what’s possible—a guru...
+#: paragraph:31,sentence:190
+msgid "As he tuned into Bill, he picked up his awakened heart-center energy, a deeply integrated sense of holiness, almost a saintly quality."
+msgstr ""
+
+#. Paragraph 31: LeRoy Zemke made some interesting far-out observations about Bill in the early 1980s. He indicated that he represented a new kind of awakened cosmic teacher, a living example of what’s possible—a guru...
+#: paragraph:31,sentence:191
+msgid "Bill would have had difficulty accepting any of that, certainly balking at the guru idea, but the final outcome of his life gives credence to those earlier observations."
+msgstr ""
+
+#. Paragraph 32: Frances Vaughan remembers, “He took himself lightly, but he never made light of other people’s concerns. His presence was very even, even during times when he was not well or when he was struggling wi...
+#: paragraph:32,sentence:192
+msgid "Frances Vaughan remembers, “He took himself lightly, but he never made light of other people’s concerns"
+msgstr ""
+
+#. Paragraph 32: Frances Vaughan remembers, “He took himself lightly, but he never made light of other people’s concerns. His presence was very even, even during times when he was not well or when he was struggling wi...
+#: paragraph:32,sentence:193
+msgid "His presence was very even, even during times when he was not well or when he was struggling with some of his own issues"
+msgstr ""
+
+#. Paragraph 32: Frances Vaughan remembers, “He took himself lightly, but he never made light of other people’s concerns. His presence was very even, even during times when he was not well or when he was struggling wi...
+#: paragraph:32,sentence:194
+msgid "He was still able to give others loving attention.”[21]"
+msgstr ""
+

@@ -1,0 +1,284 @@
+# Chapter 5: Introduction
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: And thus are two sons made, and both appear to walk this earth without a meeting place and no encounter. One do you perceive outside yourself, your own beloved son. The other rests within, his Father’...
+#: paragraph:1,sentence:1
+msgid "And thus are two sons made, and both appear to walk this earth without a meeting place and no encounter"
+msgstr ""
+
+#. Paragraph 1: And thus are two sons made, and both appear to walk this earth without a meeting place and no encounter. One do you perceive outside yourself, your own beloved son. The other rests within, his Father’...
+#: paragraph:1,sentence:2
+msgid "One do you perceive outside yourself, your own beloved son"
+msgstr ""
+
+#. Paragraph 1: And thus are two sons made, and both appear to walk this earth without a meeting place and no encounter. One do you perceive outside yourself, your own beloved son. The other rests within, his Father’...
+#: paragraph:1,sentence:3
+msgid "The other rests within, his Father’s Son, within your brother as he is in you"
+msgstr ""
+
+#. Paragraph 1: And thus are two sons made, and both appear to walk this earth without a meeting place and no encounter. One do you perceive outside yourself, your own beloved son. The other rests within, his Father’...
+#: paragraph:1,sentence:4
+msgid "Their difference does not lie in how they look, nor where they go, nor even what they do"
+msgstr ""
+
+#. Paragraph 1: And thus are two sons made, and both appear to walk this earth without a meeting place and no encounter. One do you perceive outside yourself, your own beloved son. The other rests within, his Father’...
+#: paragraph:1,sentence:5
+msgid "They have a different purpose"
+msgstr ""
+
+#. Paragraph 1: And thus are two sons made, and both appear to walk this earth without a meeting place and no encounter. One do you perceive outside yourself, your own beloved son. The other rests within, his Father’...
+#: paragraph:1,sentence:6
+msgid "It is this that joins them to their like, and separates each from all aspects with a different purpose"
+msgstr ""
+
+#. Paragraph 1: And thus are two sons made, and both appear to walk this earth without a meeting place and no encounter. One do you perceive outside yourself, your own beloved son. The other rests within, his Father’...
+#: paragraph:1,sentence:7
+msgid "The Son of God retains his Father’s will"
+msgstr ""
+
+#. Paragraph 1: And thus are two sons made, and both appear to walk this earth without a meeting place and no encounter. One do you perceive outside yourself, your own beloved son. The other rests within, his Father’...
+#: paragraph:1,sentence:8
+msgid "The son of man perceives an alien will and wishes it were so.[1]"
+msgstr ""
+
+#. Paragraph 2: And so begins Bill’s tale, like ours, a double story, a parallel story. On the one hand, “our own beloved son,” the ego mind—the sense of a personal self that presumes it is in charge, alone, and alwa...
+#: paragraph:2,sentence:9
+msgid "And so begins Bill’s tale, like ours, a double story, a parallel story."
+msgstr ""
+
+#. Paragraph 2: And so begins Bill’s tale, like ours, a double story, a parallel story. On the one hand, “our own beloved son,” the ego mind—the sense of a personal self that presumes it is in charge, alone, and alwa...
+#: paragraph:2,sentence:10
+msgid "On the one hand, “our own beloved son,” the ego mind—the sense of a personal self that presumes it is in charge, alone, and always wanting something—develops slowly as we “mature,” striving endlessly for security and recognition."
+msgstr ""
+
+#. Paragraph 2: And so begins Bill’s tale, like ours, a double story, a parallel story. On the one hand, “our own beloved son,” the ego mind—the sense of a personal self that presumes it is in charge, alone, and alwa...
+#: paragraph:2,sentence:11
+msgid "Our initial purpose is to protect and promote this “son,” and Bill certainly did that with complete dedication in his earlier days."
+msgstr ""
+
+#. Paragraph 3: Simultaneously, however, the eternal spiritual presence, the I AM, is always moving deep within the psyche, knocking at the door of awareness to be acknowledged as what we are at the most fundamental ...
+#: paragraph:3,sentence:12
+msgid "Simultaneously, however, the eternal spiritual presence, the I AM, is always moving deep within the psyche, knocking at the door of awareness to be acknowledged as what we are at the most fundamental level."
+msgstr ""
+
+#. Paragraph 3: Simultaneously, however, the eternal spiritual presence, the I AM, is always moving deep within the psyche, knocking at the door of awareness to be acknowledged as what we are at the most fundamental ...
+#: paragraph:3,sentence:13
+msgid "Thus, “divine discontent” or “spiritual deprivation,” to use Mother Teresa’s phrase, becomes more pronounced as our worldly goals and our budding spiritual inclinations begin to clash."
+msgstr ""
+
+#. Paragraph 3: Simultaneously, however, the eternal spiritual presence, the I AM, is always moving deep within the psyche, knocking at the door of awareness to be acknowledged as what we are at the most fundamental ...
+#: paragraph:3,sentence:14
+msgid "Consolidating our lives under the guidance of one thought system rather than two and adopting a single purpose of forgiveness allow the discomfort and uncertainty to diminish and finally disappear."
+msgstr ""
+
+#. Paragraph 3: Simultaneously, however, the eternal spiritual presence, the I AM, is always moving deep within the psyche, knocking at the door of awareness to be acknowledged as what we are at the most fundamental ...
+#: paragraph:3,sentence:15
+msgid "Ultimately we awaken and recognize we are forever our “Father’s Son.” As we shall see, by the end of his life, Bill had accomplished this mission."
+msgstr ""
+
+#. Paragraph 4: Like most people, Bill presumed he was organizing his life according to his personal priorities, but as I assembled the details of his life, it became clear he was being led inexorably, step by step, ...
+#: paragraph:4,sentence:16
+msgid "Like most people, Bill presumed he was organizing his life according to his personal priorities, but as I assembled the details of his life, it became clear he was being led inexorably, step by step, to his own awakening."
+msgstr ""
+
+#. Paragraph 4: Like most people, Bill presumed he was organizing his life according to his personal priorities, but as I assembled the details of his life, it became clear he was being led inexorably, step by step, ...
+#: paragraph:4,sentence:17
+msgid "His personal story, with its trials and triumphs, waxes, wanes, and finally closes, but not before he demonstrates how to lay aside the quest for the “best of both worlds”—that unsatisfactory mix of love and fear—to pursue the single goal of peace of mind."
+msgstr ""
+
+#. Paragraph 4: Like most people, Bill presumed he was organizing his life according to his personal priorities, but as I assembled the details of his life, it became clear he was being led inexorably, step by step, ...
+#: paragraph:4,sentence:18
+msgid "He also makes it clear that you can be “in the world but not of it” and accomplish the only feat that really matters—waking up."
+msgstr ""
+
+#. Paragraph 5: Bill was a shy and private man, and all those who knew him are very clear that he would not and did not seek publicity. Once A Course In Miracles became the centerpiece of his life, he always preferre...
+#: paragraph:5,sentence:19
+msgid "Bill was a shy and private man, and all those who knew him are very clear that he would not and did not seek publicity."
+msgstr ""
+
+#. Paragraph 5: Bill was a shy and private man, and all those who knew him are very clear that he would not and did not seek publicity. Once A Course In Miracles became the centerpiece of his life, he always preferre...
+#: paragraph:5,sentence:20
+msgid "Once A Course In Miracles became the centerpiece of his life, he always preferred to focus on its teachings and not on his personal life."
+msgstr ""
+
+#. Paragraph 5: Bill was a shy and private man, and all those who knew him are very clear that he would not and did not seek publicity. Once A Course In Miracles became the centerpiece of his life, he always preferre...
+#: paragraph:5,sentence:21
+msgid "In any biography about him, he would want the transformation of his personal life to be “exhibit A” of what is possible when one chooses to practice the Course teachings."
+msgstr ""
+
+#. Paragraph 5: Bill was a shy and private man, and all those who knew him are very clear that he would not and did not seek publicity. Once A Course In Miracles became the centerpiece of his life, he always preferre...
+#: paragraph:5,sentence:22
+msgid "Therefore, in order for his life to illustrate some of its major principles in action, this biography provides some details about his “time and space” history."
+msgstr ""
+
+#. Paragraph 5: Bill was a shy and private man, and all those who knew him are very clear that he would not and did not seek publicity. Once A Course In Miracles became the centerpiece of his life, he always preferre...
+#: paragraph:5,sentence:23
+msgid "His life is representative of everyone’s, and the steps he took reveal those we must take, if we would be healed."
+msgstr ""
+
+#. Paragraph 5: Bill was a shy and private man, and all those who knew him are very clear that he would not and did not seek publicity. Once A Course In Miracles became the centerpiece of his life, he always preferre...
+#: paragraph:5,sentence:24
+msgid "This document is less a traditional biography than a guidebook for learning to leave grievances behind, replacing them with grace and peace of mind."
+msgstr ""
+
+#. Paragraph 6: Of all forms of recognition, Bill most objected to being sanctified or put on a pedestal. In the early days, some ACIM teachers were inclined to do just that. He used to laugh about his response to si...
+#: paragraph:6,sentence:25
+msgid "Of all forms of recognition, Bill most objected to being sanctified or put on a pedestal."
+msgstr ""
+
+#. Paragraph 6: Of all forms of recognition, Bill most objected to being sanctified or put on a pedestal. In the early days, some ACIM teachers were inclined to do just that. He used to laugh about his response to si...
+#: paragraph:6,sentence:26
+msgid "In the early days, some ACIM teachers were inclined to do just that."
+msgstr ""
+
+#. Paragraph 6: Of all forms of recognition, Bill most objected to being sanctified or put on a pedestal. In the early days, some ACIM teachers were inclined to do just that. He used to laugh about his response to si...
+#: paragraph:6,sentence:27
+msgid "He used to laugh about his response to situations where he thought he had been unduly elevated, saying, “When they started that, I’d just have to smoke cigarettes and say ‘shit’!” Now, he would want people to know his shortcomings and not evade issues he found challenging."
+msgstr ""
+
+#. Paragraph 6: Of all forms of recognition, Bill most objected to being sanctified or put on a pedestal. In the early days, some ACIM teachers were inclined to do just that. He used to laugh about his response to si...
+#: paragraph:6,sentence:28
+msgid "Although he insisted on seeing himself as ordinary, most of his friends did not."
+msgstr ""
+
+#. Paragraph 6: Of all forms of recognition, Bill most objected to being sanctified or put on a pedestal. In the early days, some ACIM teachers were inclined to do just that. He used to laugh about his response to si...
+#: paragraph:6,sentence:29
+msgid "Therefore, to honor what would certainly be Bill’s request, I present him here as a beloved equal, a dear friend, and unwitting mentor to so many."
+msgstr ""
+
+#. Paragraph 6: Of all forms of recognition, Bill most objected to being sanctified or put on a pedestal. In the early days, some ACIM teachers were inclined to do just that. He used to laugh about his response to si...
+#: paragraph:6,sentence:30
+msgid "One wonders if he ever totally realized how greatly he touched others."
+msgstr ""
+
+#. Paragraph 6: Of all forms of recognition, Bill most objected to being sanctified or put on a pedestal. In the early days, some ACIM teachers were inclined to do just that. He used to laugh about his response to si...
+#: paragraph:6,sentence:31
+msgid "In discussing this gift with him, in true egalitarian fashion he would ask us to apply that same question to our own lives."
+msgstr ""
+
+#. Paragraph 6: Of all forms of recognition, Bill most objected to being sanctified or put on a pedestal. In the early days, some ACIM teachers were inclined to do just that. He used to laugh about his response to si...
+#: paragraph:6,sentence:32
+msgid "And so we should."
+msgstr ""
+
+#. Paragraph 7: It is, of course, unnecessary to know anything about Bill Thetford and Helen Schucman to benefit from the lessons of A Course In Miracles. Some students are unaware of his existence and others may not...
+#: paragraph:7,sentence:33
+msgid "It is, of course, unnecessary to know anything about Bill Thetford and Helen Schucman to benefit from the lessons of A Course In Miracles."
+msgstr ""
+
+#. Paragraph 7: It is, of course, unnecessary to know anything about Bill Thetford and Helen Schucman to benefit from the lessons of A Course In Miracles. Some students are unaware of his existence and others may not...
+#: paragraph:7,sentence:34
+msgid "Some students are unaware of his existence and others may not be particularly interested."
+msgstr ""
+
+#. Paragraph 7: It is, of course, unnecessary to know anything about Bill Thetford and Helen Schucman to benefit from the lessons of A Course In Miracles. Some students are unaware of his existence and others may not...
+#: paragraph:7,sentence:35
+msgid "However, many are curious about the daily life, habits, and interests of the two persons who made available one of the world’s most important psychospiritual works."
+msgstr ""
+
+#. Paragraph 7: It is, of course, unnecessary to know anything about Bill Thetford and Helen Schucman to benefit from the lessons of A Course In Miracles. Some students are unaware of his existence and others may not...
+#: paragraph:7,sentence:36
+msgid "For those who are not curious about the particulars of Bill’s life, there are suggestions throughout this book that can help ease the burdens we often carry and move us toward a happier, more lighthearted experience of life."
+msgstr ""
+
+#. Paragraph 8: One time years ago, when Bill was at my home in Denver, he indicated that he felt we were to do some work together, but at the time neither of us could imagine what that would be. ACIM was still fairl...
+#: paragraph:8,sentence:37
+msgid "One time years ago, when Bill was at my home in Denver, he indicated that he felt we were to do some work together, but at the time neither of us could imagine what that would be"
+msgstr ""
+
+#. Paragraph 8: One time years ago, when Bill was at my home in Denver, he indicated that he felt we were to do some work together, but at the time neither of us could imagine what that would be. ACIM was still fairl...
+#: paragraph:8,sentence:38
+msgid "ACIM was still fairly new, so more writing didn’t seem called for"
+msgstr ""
+
+#. Paragraph 8: One time years ago, when Bill was at my home in Denver, he indicated that he felt we were to do some work together, but at the time neither of us could imagine what that would be. ACIM was still fairl...
+#: paragraph:8,sentence:39
+msgid "With his extreme introversion and my general extroversion, a project suitable to our different modes of being in the world seemed a mystery, so we agreed to wait and see what would happen"
+msgstr ""
+
+#. Paragraph 8: One time years ago, when Bill was at my home in Denver, he indicated that he felt we were to do some work together, but at the time neither of us could imagine what that would be. ACIM was still fairl...
+#: paragraph:8,sentence:40
+msgid "Years later, in the days after Bill’s passing, I felt the mantle being passed to the next generation, so to speak, and that it was imperative for those of us drawn to the Course to increase our dedication to “walking the talk.” I spent a great deal of time contemplating my experiences with him and presumed the obvious, that our “project,” whatever it might be, would still happen even though we were on different sides of the “veil.”"
+msgstr ""
+
+#. Paragraph 9: During his ten years in California, the last chapter of his life, Bill often told the stories of his youth, his career path, and the circumstances surrounding the scribing of the Course, almost always...
+#: paragraph:9,sentence:41
+msgid "During his ten years in California, the last chapter of his life, Bill often told the stories of his youth, his career path, and the circumstances surrounding the scribing of the Course, almost always with a humorous twist."
+msgstr ""
+
+#. Paragraph 9: During his ten years in California, the last chapter of his life, Bill often told the stories of his youth, his career path, and the circumstances surrounding the scribing of the Course, almost always...
+#: paragraph:9,sentence:42
+msgid "He used to say he would probably tell those stories until he was finally comfortable with them, as if telling and retelling them was a sort of soul-liberating confession."
+msgstr ""
+
+#. Paragraph 9: During his ten years in California, the last chapter of his life, Bill often told the stories of his youth, his career path, and the circumstances surrounding the scribing of the Course, almost always...
+#: paragraph:9,sentence:43
+msgid "In particular, he often commented that if we thought studying and practicing the Course was difficult, we should have experienced the complications of scribing it."
+msgstr ""
+
+#. Paragraph 9: During his ten years in California, the last chapter of his life, Bill often told the stories of his youth, his career path, and the circumstances surrounding the scribing of the Course, almost always...
+#: paragraph:9,sentence:44
+msgid "Therefore, we will read his tales from our current vantage point, which allows a more fleshed-out picture of him."
+msgstr ""
+
+#. Paragraph 9: During his ten years in California, the last chapter of his life, Bill often told the stories of his youth, his career path, and the circumstances surrounding the scribing of the Course, almost always...
+#: paragraph:9,sentence:45
+msgid "I have also included firsthand accounts of his impact on those who knew him, the healings that occurred for so many, as well as my own experience of a precious friendship with him."
+msgstr ""
+
+#. Paragraph 10: I have gathered information about Bill before his last ten years from secondhand sources—persons who knew him in his earlier days, archival records, and from Bill’s own writings. In addition to his ma...
+#: paragraph:10,sentence:46
+msgid "I have gathered information about Bill before his last ten years from secondhand sources—persons who knew him in his earlier days, archival records, and from Bill’s own writings."
+msgstr ""
+
+#. Paragraph 10: I have gathered information about Bill before his last ten years from secondhand sources—persons who knew him in his earlier days, archival records, and from Bill’s own writings. In addition to his ma...
+#: paragraph:10,sentence:47
+msgid "In addition to his many academic publications (see Appendix Two), he wrote an autobiographical essay when he was fifteen for a school assignment and an unpublished autobiography, originally created through a series of taped interviews with Frances Vaughan in 1982, now held under copyright by the Foundation for Inner Peace."
+msgstr ""
+
+#. Paragraph 10: I have gathered information about Bill before his last ten years from secondhand sources—persons who knew him in his earlier days, archival records, and from Bill’s own writings. In addition to his ma...
+#: paragraph:10,sentence:48
+msgid "Although he could report what he did and what was important to him, he could not accurately portray his life as others experienced him."
+msgstr ""
+
+#. Paragraph 10: I have gathered information about Bill before his last ten years from secondhand sources—persons who knew him in his earlier days, archival records, and from Bill’s own writings. In addition to his ma...
+#: paragraph:10,sentence:49
+msgid "Therefore, those who interacted with him must say what that was like for us because his legacy is too important not to share."
+msgstr ""
+
+#. Paragraph 11: In addition, as I spoke with old friends who were also some of Bill’s closest companions, we reaped an unexpected dividend. We are coming back together with renewed appreciation for and delight in one...
+#: paragraph:11,sentence:50
+msgid "In addition, as I spoke with old friends who were also some of Bill’s closest companions, we reaped an unexpected dividend."
+msgstr ""
+
+#. Paragraph 11: In addition, as I spoke with old friends who were also some of Bill’s closest companions, we reaped an unexpected dividend. We are coming back together with renewed appreciation for and delight in one...
+#: paragraph:11,sentence:51
+msgid "We are coming back together with renewed appreciation for and delight in one another’s friendship and company—and probably a common wish that we all had used tape recorders back then, not realizing the import of what we were witnessing."
+msgstr ""
+
+#. Paragraph 11: In addition, as I spoke with old friends who were also some of Bill’s closest companions, we reaped an unexpected dividend. We are coming back together with renewed appreciation for and delight in one...
+#: paragraph:11,sentence:52
+msgid "Now with this book, I hope to honor him, not to put him on that pedestal he abhorred or make him “special,” but to allow him to be helpful still to anyone drawn to his presence."
+msgstr ""
+
+#. Paragraph 11: In addition, as I spoke with old friends who were also some of Bill’s closest companions, we reaped an unexpected dividend. We are coming back together with renewed appreciation for and delight in one...
+#: paragraph:11,sentence:53
+msgid "I have to believe Bill, wearing a big smile, is at the heart of this process."
+msgstr ""
+
+#. Paragraph 11: In addition, as I spoke with old friends who were also some of Bill’s closest companions, we reaped an unexpected dividend. We are coming back together with renewed appreciation for and delight in one...
+#: paragraph:11,sentence:54
+msgid "His energy was so present during this writing that I believe this is truly our joint project, offered to you with happy memories and many blessings."
+msgstr ""
+
+#. Paragraph 12: [1]A Course In Miracles Text, 517.
+#: paragraph:12,sentence:55
+msgid "[1]A Course In Miracles Text, 517."
+msgstr ""
+

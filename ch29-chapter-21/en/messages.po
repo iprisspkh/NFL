@@ -1,0 +1,1564 @@
+# Chapter 29: Chapter 21
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: Bill’s ability to turn directly to God manifested, among other ways, in his excellent sense of guidance, his ability to follow his intuition or hunches. The Course clearly states that spiritual direct...
+#: paragraph:1,sentence:1
+msgid "Bill’s ability to turn directly to God manifested, among other ways, in his excellent sense of guidance, his ability to follow his intuition or hunches."
+msgstr ""
+
+#. Paragraph 1: Bill’s ability to turn directly to God manifested, among other ways, in his excellent sense of guidance, his ability to follow his intuition or hunches. The Course clearly states that spiritual direct...
+#: paragraph:1,sentence:2
+msgid "The Course clearly states that spiritual direction is always available and actually leading us, but most don’t believe they have that capability."
+msgstr ""
+
+#. Paragraph 1: Bill’s ability to turn directly to God manifested, among other ways, in his excellent sense of guidance, his ability to follow his intuition or hunches. The Course clearly states that spiritual direct...
+#: paragraph:1,sentence:3
+msgid "ACIM teaches that, “The Holy Spirit’s Voice is as loud as your willingness to listen."
+msgstr ""
+
+#. Paragraph 1: Bill’s ability to turn directly to God manifested, among other ways, in his excellent sense of guidance, his ability to follow his intuition or hunches. The Course clearly states that spiritual direct...
+#: paragraph:1,sentence:4
+msgid "It cannot be louder without violating your freedom of choice, which the Holy Spirit seeks to restore, never to undermine.”[101] Quite simply, we have chosen not to listen and can change our minds whenever we choose."
+msgstr ""
+
+#. Paragraph 1: Bill’s ability to turn directly to God manifested, among other ways, in his excellent sense of guidance, his ability to follow his intuition or hunches. The Course clearly states that spiritual direct...
+#: paragraph:1,sentence:5
+msgid "Bill helped many make that decision."
+msgstr ""
+
+#. Paragraph 2: Bill himself often meditated in order to access his connection with God. When Bill felt things were getting stuck for himself or others, he would recommend doing a Course lesson or meditating. Hugh co...
+#: paragraph:2,sentence:6
+msgid "Bill himself often meditated in order to access his connection with God"
+msgstr ""
+
+#. Paragraph 2: Bill himself often meditated in order to access his connection with God. When Bill felt things were getting stuck for himself or others, he would recommend doing a Course lesson or meditating. Hugh co...
+#: paragraph:2,sentence:7
+msgid "When Bill felt things were getting stuck for himself or others, he would recommend doing a Course lesson or meditating"
+msgstr ""
+
+#. Paragraph 2: Bill himself often meditated in order to access his connection with God. When Bill felt things were getting stuck for himself or others, he would recommend doing a Course lesson or meditating. Hugh co...
+#: paragraph:2,sentence:8
+msgid "Hugh commented on Bill’s meditation process:"
+msgstr ""
+
+#. Paragraph 3: I would peek at how he was meditating. He would pray quite deeply, then open his eyes and sort of look around, and then he would close his eyes and meditate. He would go back and forth in that way. Th...
+#: paragraph:3,sentence:9
+msgid "I would peek at how he was meditating"
+msgstr ""
+
+#. Paragraph 3: I would peek at how he was meditating. He would pray quite deeply, then open his eyes and sort of look around, and then he would close his eyes and meditate. He would go back and forth in that way. Th...
+#: paragraph:3,sentence:10
+msgid "He would pray quite deeply, then open his eyes and sort of look around, and then he would close his eyes and meditate"
+msgstr ""
+
+#. Paragraph 3: I would peek at how he was meditating. He would pray quite deeply, then open his eyes and sort of look around, and then he would close his eyes and meditate. He would go back and forth in that way. Th...
+#: paragraph:3,sentence:11
+msgid "He would go back and forth in that way"
+msgstr ""
+
+#. Paragraph 3: I would peek at how he was meditating. He would pray quite deeply, then open his eyes and sort of look around, and then he would close his eyes and meditate. He would go back and forth in that way. Th...
+#: paragraph:3,sentence:12
+msgid "There are some lessons in the early part of the workbook where you open your eyes and it was interesting to see"
+msgstr ""
+
+#. Paragraph 3: I would peek at how he was meditating. He would pray quite deeply, then open his eyes and sort of look around, and then he would close his eyes and meditate. He would go back and forth in that way. Th...
+#: paragraph:3,sentence:13
+msgid "But I remember being struck right from the beginning at how deeply he could turn to God"
+msgstr ""
+
+#. Paragraph 3: I would peek at how he was meditating. He would pray quite deeply, then open his eyes and sort of look around, and then he would close his eyes and meditate. He would go back and forth in that way. Th...
+#: paragraph:3,sentence:14
+msgid "It’s as if the ego side, or the outward side, of Bill was filled with doubt and laughter and vulnerability with a wonderful, very interesting, appealing personality, but he could click that off, put all that aside, and turn very deeply and directly to God.[102]"
+msgstr ""
+
+#. Paragraph 4: Long before ACIM, Bill had deep faith in something, always knowing things would work out somehow. He had an inner sense of being prompted or led, tapping into omnipresent wisdom, as all of us can when...
+#: paragraph:4,sentence:15
+msgid "Long before ACIM, Bill had deep faith in something, always knowing things would work out somehow."
+msgstr ""
+
+#. Paragraph 4: Long before ACIM, Bill had deep faith in something, always knowing things would work out somehow. He had an inner sense of being prompted or led, tapping into omnipresent wisdom, as all of us can when...
+#: paragraph:4,sentence:16
+msgid "He had an inner sense of being prompted or led, tapping into omnipresent wisdom, as all of us can when we believe it possible; he didn’t quite know how to use that talent, not knowing where it came from."
+msgstr ""
+
+#. Paragraph 4: Long before ACIM, Bill had deep faith in something, always knowing things would work out somehow. He had an inner sense of being prompted or led, tapping into omnipresent wisdom, as all of us can when...
+#: paragraph:4,sentence:17
+msgid "It didn’t seem very scientific or a likely subject for testing or evaluation, so in his younger years he usually ignored it or at least didn’t talk about it."
+msgstr ""
+
+#. Paragraph 4: Long before ACIM, Bill had deep faith in something, always knowing things would work out somehow. He had an inner sense of being prompted or led, tapping into omnipresent wisdom, as all of us can when...
+#: paragraph:4,sentence:18
+msgid "One of the greatest limitations we adopt early on is that only what we apprehend with our senses is legitimate and all else is suspect."
+msgstr ""
+
+#. Paragraph 4: Long before ACIM, Bill had deep faith in something, always knowing things would work out somehow. He had an inner sense of being prompted or led, tapping into omnipresent wisdom, as all of us can when...
+#: paragraph:4,sentence:19
+msgid "Of course, quite the contrary is true."
+msgstr ""
+
+#. Paragraph 5: Bill told many of us this story, one of his favorites, about “things working out” and acknowledged that it had a very profound effect on him (this account taken from a 1984 interview with Bill in New ...
+#: paragraph:5,sentence:20
+msgid "Bill told many of us this story, one of his favorites, about “things working out” and acknowledged that it had a very profound effect on him (this account taken from a 1984 interview with Bill in New Realities magazine):"
+msgstr ""
+
+#. Paragraph 6: On Easter Sunday in 1970 I had agreed to take Jean, an elderly woman artist, down to dinner in Greenwich Village with some other artist friends. It was a very cold, stormy, wintry day with sleet and h...
+#: paragraph:6,sentence:21
+msgid "On Easter Sunday in 1970 I had agreed to take Jean, an elderly woman artist, down to dinner in Greenwich Village with some other artist friends."
+msgstr ""
+
+#. Paragraph 6: On Easter Sunday in 1970 I had agreed to take Jean, an elderly woman artist, down to dinner in Greenwich Village with some other artist friends. It was a very cold, stormy, wintry day with sleet and h...
+#: paragraph:6,sentence:22
+msgid "It was a very cold, stormy, wintry day with sleet and high winds—unusual for that time of year."
+msgstr ""
+
+#. Paragraph 6: On Easter Sunday in 1970 I had agreed to take Jean, an elderly woman artist, down to dinner in Greenwich Village with some other artist friends. It was a very cold, stormy, wintry day with sleet and h...
+#: paragraph:6,sentence:23
+msgid "Being without a car, I realized I was going to have a lot of trouble getting a taxi and so I meditated briefly about what to do."
+msgstr ""
+
+#. Paragraph 6: On Easter Sunday in 1970 I had agreed to take Jean, an elderly woman artist, down to dinner in Greenwich Village with some other artist friends. It was a very cold, stormy, wintry day with sleet and h...
+#: paragraph:6,sentence:24
+msgid "I got a clear message that I was to go to the corner of 78th Street and Fifth Avenue, near where I lived, at exactly 3:15 and the problem would be taken care of."
+msgstr ""
+
+#. Paragraph 6: On Easter Sunday in 1970 I had agreed to take Jean, an elderly woman artist, down to dinner in Greenwich Village with some other artist friends. It was a very cold, stormy, wintry day with sleet and h...
+#: paragraph:6,sentence:25
+msgid "I had enormous resistance to doing this but I put on my stormy weather gear anyway, walked to the corner, and tried to hail a cab."
+msgstr ""
+
+#. Paragraph 6: On Easter Sunday in 1970 I had agreed to take Jean, an elderly woman artist, down to dinner in Greenwich Village with some other artist friends. It was a very cold, stormy, wintry day with sleet and h...
+#: paragraph:6,sentence:26
+msgid "Since I was in competition with all the doormen on Fifth Avenue, it seemed utterly useless."
+msgstr ""
+
+#. Paragraph 7: Then for just a moment I closed my eyes and let go of my troubled thoughts, saying to myself, “Thank you, Father, it’s already done.” And for an instant I truly believed that. When I opened my eyes, a...
+#: paragraph:7,sentence:27
+msgid "Then for just a moment I closed my eyes and let go of my troubled thoughts, saying to myself, “Thank you, Father, it’s already done.” And for an instant I truly believed that."
+msgstr ""
+
+#. Paragraph 7: Then for just a moment I closed my eyes and let go of my troubled thoughts, saying to myself, “Thank you, Father, it’s already done.” And for an instant I truly believed that. When I opened my eyes, a...
+#: paragraph:7,sentence:28
+msgid "When I opened my eyes, a chauffeur-driven limousine had stopped right in front of me at the corner and the driver rolled down his window and asked, “May I help you, sir?” This, as anyone who’s been to New York or lived there knows, was a highly improbable happening."
+msgstr ""
+
+#. Paragraph 8: I was very tempted to ask him why he had stopped for me, and then I realized that this would be an inappropriate question; I was simply to accept this gift. I got in and we drove over to Jean’s and pi...
+#: paragraph:8,sentence:29
+msgid "I was very tempted to ask him why he had stopped for me, and then I realized that this would be an inappropriate question; I was simply to accept this gift!"
+msgstr ""
+
+#. Paragraph 8: I was very tempted to ask him why he had stopped for me, and then I realized that this would be an inappropriate question; I was simply to accept this gift. I got in and we drove over to Jean’s and pi...
+#: paragraph:8,sentence:30
+msgid "I got in and we drove over to Jean’s and picked her up!"
+msgstr ""
+
+#. Paragraph 8: I was very tempted to ask him why he had stopped for me, and then I realized that this would be an inappropriate question; I was simply to accept this gift. I got in and we drove over to Jean’s and pi...
+#: paragraph:8,sentence:31
+msgid "She was absolutely thrilled that I had come to pick her up in a limousine!"
+msgstr ""
+
+#. Paragraph 9: The interesting thing, too, is that I didn’t discuss a fee with the driver. He simply took me without any question and when we arrived at our destination, I asked him how much it was and he said somet...
+#: paragraph:9,sentence:32
+msgid "The interesting thing, too, is that I didn’t discuss a fee with the driver"
+msgstr ""
+
+#. Paragraph 9: The interesting thing, too, is that I didn’t discuss a fee with the driver. He simply took me without any question and when we arrived at our destination, I asked him how much it was and he said somet...
+#: paragraph:9,sentence:33
+msgid "He simply took me without any question and when we arrived at our destination, I asked him how much it was and he said something ridiculous like five dollars"
+msgstr ""
+
+#. Paragraph 9: The interesting thing, too, is that I didn’t discuss a fee with the driver. He simply took me without any question and when we arrived at our destination, I asked him how much it was and he said somet...
+#: paragraph:9,sentence:34
+msgid "I think I gave him several times that amount out of enormous gratitude and relief.[103]"
+msgstr ""
+
+#. Paragraph 10: He recounts another instance of “just knowing”: Louis [Schucman] once told me that one of the profound experiences of his life, that made him believe in the reality of “this Course stuff,” happened a ...
+#: paragraph:10,sentence:35
+msgid "He recounts another instance of “just knowing”: Louis [Schucman] once told me that one of the profound experiences of his life, that made him believe in the reality of “this Course stuff,” happened a number of years ago when he called me one day and said, “I would like to see you privately.” I remember that particular occasion quite well, because of what took place"
+msgstr ""
+
+#. Paragraph 10: He recounts another instance of “just knowing”: Louis [Schucman] once told me that one of the profound experiences of his life, that made him believe in the reality of “this Course stuff,” happened a ...
+#: paragraph:10,sentence:36
+msgid "It just occurred to me that Louis needed at least $1,000"
+msgstr ""
+
+#. Paragraph 10: He recounts another instance of “just knowing”: Louis [Schucman] once told me that one of the profound experiences of his life, that made him believe in the reality of “this Course stuff,” happened a ...
+#: paragraph:10,sentence:37
+msgid "Without any further thought, I wrote a check to have ready for him so that when he arrived he wouldn’t be embarrassed about asking for it"
+msgstr ""
+
+#. Paragraph 10: He recounts another instance of “just knowing”: Louis [Schucman] once told me that one of the profound experiences of his life, that made him believe in the reality of “this Course stuff,” happened a ...
+#: paragraph:10,sentence:38
+msgid "When he got to my office and started telling me about having some temporary difficulties with his business, I said, “I thought maybe you were having some problems, so here it is.” It blew his mind.[104]"
+msgstr ""
+
+#. Paragraph 11: Many people commented that one of Bill’s major gifts was his ability to suspend the ego and let the Voice speak through him, not just when he was reading from the Course but in his normal daily discou...
+#: paragraph:11,sentence:39
+msgid "Many people commented that one of Bill’s major gifts was his ability to suspend the ego and let the Voice speak through him, not just when he was reading from the Course but in his normal daily discourse"
+msgstr ""
+
+#. Paragraph 11: Many people commented that one of Bill’s major gifts was his ability to suspend the ego and let the Voice speak through him, not just when he was reading from the Course but in his normal daily discou...
+#: paragraph:11,sentence:40
+msgid "This does not mean he went into a trance state, but simply that in everyday interactions he was inspired, calmly and naturally, to make just the perfect comments to help someone, often without his knowing that had occurred"
+msgstr ""
+
+#. Paragraph 11: Many people commented that one of Bill’s major gifts was his ability to suspend the ego and let the Voice speak through him, not just when he was reading from the Course but in his normal daily discou...
+#: paragraph:11,sentence:41
+msgid "And this capability was in addition to the inherent healing quality of his physical voice"
+msgstr ""
+
+#. Paragraph 11: Many people commented that one of Bill’s major gifts was his ability to suspend the ego and let the Voice speak through him, not just when he was reading from the Course but in his normal daily discou...
+#: paragraph:11,sentence:42
+msgid "During our Santa Fe trip in the early 1980s, Bob Beale remembered,"
+msgstr ""
+
+#. Paragraph 12: We really had time to just hang out with Bill. I don’t know that Bill was the kind of guy who just hung out, but nevertheless, that’s what we did. I distinctly remember we were all having lunch on the...
+#: paragraph:12,sentence:43
+msgid "We really had time to just hang out with Bill"
+msgstr ""
+
+#. Paragraph 12: We really had time to just hang out with Bill. I don’t know that Bill was the kind of guy who just hung out, but nevertheless, that’s what we did. I distinctly remember we were all having lunch on the...
+#: paragraph:12,sentence:44
+msgid "I don’t know that Bill was the kind of guy who just hung out, but nevertheless, that’s what we did"
+msgstr ""
+
+#. Paragraph 12: We really had time to just hang out with Bill. I don’t know that Bill was the kind of guy who just hung out, but nevertheless, that’s what we did. I distinctly remember we were all having lunch on the...
+#: paragraph:12,sentence:45
+msgid "I distinctly remember we were all having lunch on the patio of a restaurant when Bill turned to me and, not as part of the conversation, said, “Bob, you need to trust your presence and you don’t, you know"
+msgstr ""
+
+#. Paragraph 12: We really had time to just hang out with Bill. I don’t know that Bill was the kind of guy who just hung out, but nevertheless, that’s what we did. I distinctly remember we were all having lunch on the...
+#: paragraph:12,sentence:46
+msgid "And if you’ll just learn to trust your presence, you’ll find that you’ll do what you’re here to do.” At the time it seemed an odd statement but it really resonated with me and I’ve never forgotten it"
+msgstr ""
+
+#. Paragraph 12: We really had time to just hang out with Bill. I don’t know that Bill was the kind of guy who just hung out, but nevertheless, that’s what we did. I distinctly remember we were all having lunch on the...
+#: paragraph:12,sentence:47
+msgid "It was just “trust your presence.” There was something about the simplicity of his comment and his tone of voice, very gentle and loving, that reverberated like a ton of bricks.[105]"
+msgstr ""
+
+#. Paragraph 13: Over the years, Bill would speak of his life adventures, especially those related to guidance, not boasting but with amusement and fascination about the way things worked out. He witnessed unlikely ev...
+#: paragraph:13,sentence:48
+msgid "Over the years, Bill would speak of his life adventures, especially those related to guidance, not boasting but with amusement and fascination about the way things worked out"
+msgstr ""
+
+#. Paragraph 13: Over the years, Bill would speak of his life adventures, especially those related to guidance, not boasting but with amusement and fascination about the way things worked out. He witnessed unlikely ev...
+#: paragraph:13,sentence:49
+msgid "He witnessed unlikely events unfolding and was completely intrigued by them"
+msgstr ""
+
+#. Paragraph 13: Over the years, Bill would speak of his life adventures, especially those related to guidance, not boasting but with amusement and fascination about the way things worked out. He witnessed unlikely ev...
+#: paragraph:13,sentence:50
+msgid "One of his favorite stories was about making financial arrangements to move to Tiburon"
+msgstr ""
+
+#. Paragraph 13: Over the years, Bill would speak of his life adventures, especially those related to guidance, not boasting but with amusement and fascination about the way things worked out. He witnessed unlikely ev...
+#: paragraph:13,sentence:51
+msgid "He was still weighing his options about moving and was reluctant for several reasons"
+msgstr ""
+
+#. Paragraph 13: Over the years, Bill would speak of his life adventures, especially those related to guidance, not boasting but with amusement and fascination about the way things worked out. He witnessed unlikely ev...
+#: paragraph:13,sentence:52
+msgid "He thought to himself, “Well, if I have $10,000, I’ll go,” feeling he needed extra financial assurance"
+msgstr ""
+
+#. Paragraph 13: Over the years, Bill would speak of his life adventures, especially those related to guidance, not boasting but with amusement and fascination about the way things worked out. He witnessed unlikely ev...
+#: paragraph:13,sentence:53
+msgid "Soon he was inwardly prompted to buy some IBM stock options. “I didn’t have the money at all, and no one in his right mind would do anything like this, it was extremely risky"
+msgstr ""
+
+#. Paragraph 13: Over the years, Bill would speak of his life adventures, especially those related to guidance, not boasting but with amusement and fascination about the way things worked out. He witnessed unlikely ev...
+#: paragraph:13,sentence:54
+msgid "But right after I bought them—the same day—the stock began to shoot up"
+msgstr ""
+
+#. Paragraph 13: Over the years, Bill would speak of his life adventures, especially those related to guidance, not boasting but with amusement and fascination about the way things worked out. He witnessed unlikely ev...
+#: paragraph:13,sentence:55
+msgid "I made the $10,000 I needed within twenty-four hours.”[106]"
+msgstr ""
+
+#. Paragraph 14: Despite his eminence as a professor, Bill always considered himself a student and sought wisdom from a wide range of sources, from the “far-out” to the more traditional. He explored anything that coul...
+#: paragraph:14,sentence:56
+msgid "Despite his eminence as a professor, Bill always considered himself a student and sought wisdom from a wide range of sources, from the “far-out” to the more traditional"
+msgstr ""
+
+#. Paragraph 14: Despite his eminence as a professor, Bill always considered himself a student and sought wisdom from a wide range of sources, from the “far-out” to the more traditional. He explored anything that coul...
+#: paragraph:14,sentence:57
+msgid "He explored anything that could be therapeutic or that facilitated self-discovery"
+msgstr ""
+
+#. Paragraph 14: Despite his eminence as a professor, Bill always considered himself a student and sought wisdom from a wide range of sources, from the “far-out” to the more traditional. He explored anything that coul...
+#: paragraph:14,sentence:58
+msgid "In LeRoy Zemke’s personal readings, which Bill found helpful in gaining new perspectives on his unfolding life, he speaks of another aspect of the indigo color in Bill’s aura:"
+msgstr ""
+
+#. Paragraph 15: This is the color of the unknown, the part of you that reaches into the unknown, always seeking to draw in more of what you do not know. It is that dimension that is never satisfied, always yearning f...
+#: paragraph:15,sentence:59
+msgid "This is the color of the unknown, the part of you that reaches into the unknown, always seeking to draw in more of what you do not know"
+msgstr ""
+
+#. Paragraph 15: This is the color of the unknown, the part of you that reaches into the unknown, always seeking to draw in more of what you do not know. It is that dimension that is never satisfied, always yearning f...
+#: paragraph:15,sentence:60
+msgid "It is that dimension that is never satisfied, always yearning for more"
+msgstr ""
+
+#. Paragraph 15: This is the color of the unknown, the part of you that reaches into the unknown, always seeking to draw in more of what you do not know. It is that dimension that is never satisfied, always yearning f...
+#: paragraph:15,sentence:61
+msgid "As its external effect, it causes you to search out unusual things, unusual ideas or to attract them into your life"
+msgstr ""
+
+#. Paragraph 15: This is the color of the unknown, the part of you that reaches into the unknown, always seeking to draw in more of what you do not know. It is that dimension that is never satisfied, always yearning f...
+#: paragraph:15,sentence:62
+msgid "This causes you to draw unusual friends into your life pattern, unusual people from very different walks of life, some of whom are very incongruous with others, but all of whom have very special, almost what might be called spiritual or holy qualities about them.[107]"
+msgstr ""
+
+#. Paragraph 16: Bill had immersed himself in mystical and metaphysical teachings once the Course began, because he felt certain its premises could not be unique and he was correct—universal wisdom is just that and no...
+#: paragraph:16,sentence:63
+msgid "Bill had immersed himself in mystical and metaphysical teachings once the Course began, because he felt certain its premises could not be unique and he was correct—universal wisdom is just that and not the exclusive province of ACIM."
+msgstr ""
+
+#. Paragraph 17: A year or so before he died, Bill and the Lucketts went to see Adele Tinning, the “table tipper.” She was an older woman who lived in a little old house in southern California and was renowned for her...
+#: paragraph:17,sentence:64
+msgid "A year or so before he died, Bill and the Lucketts went to see Adele Tinning, the “table tipper.” She was an older woman who lived in a little old house in southern California and was renowned for her ability to make a huge oak table levitate—to vibrate and tap out answers."
+msgstr ""
+
+#. Paragraph 17: A year or so before he died, Bill and the Lucketts went to see Adele Tinning, the “table tipper.” She was an older woman who lived in a little old house in southern California and was renowned for her...
+#: paragraph:17,sentence:65
+msgid "She asked Bill to identify who was tipping the table as it spelled out a name that was unfamiliar to all present except Bill—it was Helen’s secret name for him. (I cannot find anyone who knows what that name was.) He was astounded and convinced of the validity of Tinning and her methods."
+msgstr ""
+
+#. Paragraph 17: A year or so before he died, Bill and the Lucketts went to see Adele Tinning, the “table tipper.” She was an older woman who lived in a little old house in southern California and was renowned for her...
+#: paragraph:17,sentence:66
+msgid "He then asked Helen a series of questions, via the table, and received answers."
+msgstr ""
+
+#. Paragraph 17: A year or so before he died, Bill and the Lucketts went to see Adele Tinning, the “table tipper.” She was an older woman who lived in a little old house in southern California and was renowned for her...
+#: paragraph:17,sentence:67
+msgid "Clearly, Bill was not shy about privately pursuing the unusual and he loved the unexplainable, the ineffable."
+msgstr ""
+
+#. Paragraph 17: A year or so before he died, Bill and the Lucketts went to see Adele Tinning, the “table tipper.” She was an older woman who lived in a little old house in southern California and was renowned for her...
+#: paragraph:17,sentence:68
+msgid "With his usual play on words, he used to joke about trying to “eff” the ineffable, discover the undiscoverable."
+msgstr ""
+
+#. Paragraph 18: Both Bill and Helen sought answers and reassurance from unlikely sources, meeting with two well-known British psychics and visiting Hugh Lynn Cayce in Virginia, just before the Course began and severa...
+#: paragraph:18,sentence:69
+msgid "Both Bill and Helen sought answers and reassurance from unlikely sources, meeting with two well-known British psychics and visiting Hugh Lynn Cayce in Virginia, just before the Course began and several other times as well"
+msgstr ""
+
+#. Paragraph 18: Both Bill and Helen sought answers and reassurance from unlikely sources, meeting with two well-known British psychics and visiting Hugh Lynn Cayce in Virginia, just before the Course began and severa...
+#: paragraph:18,sentence:70
+msgid "Though Bill was not interested in organized religion, parapsychology and psychic phenomena had long caught his attention"
+msgstr ""
+
+#. Paragraph 18: Both Bill and Helen sought answers and reassurance from unlikely sources, meeting with two well-known British psychics and visiting Hugh Lynn Cayce in Virginia, just before the Course began and severa...
+#: paragraph:18,sentence:71
+msgid "Hugh Lynn had highly recommended the work of Eileen Garrett, the world-famous psychic, and Bill felt a strong intuitive urge to speak with her"
+msgstr ""
+
+#. Paragraph 18: Both Bill and Helen sought answers and reassurance from unlikely sources, meeting with two well-known British psychics and visiting Hugh Lynn Cayce in Virginia, just before the Course began and severa...
+#: paragraph:18,sentence:72
+msgid "He had heard she never went out publicly, but nevertheless, he had a persistent feeling he was supposed to meet her. “I had also heard she was ill most of the time and impossible to meet,” he recounts, “that she spent a great deal of her time in southern France"
+msgstr ""
+
+#. Paragraph 18: Both Bill and Helen sought answers and reassurance from unlikely sources, meeting with two well-known British psychics and visiting Hugh Lynn Cayce in Virginia, just before the Course began and severa...
+#: paragraph:18,sentence:73
+msgid "I thought I would certainly not call her office; it didn’t seem like the thing to do"
+msgstr ""
+
+#. Paragraph 18: Both Bill and Helen sought answers and reassurance from unlikely sources, meeting with two well-known British psychics and visiting Hugh Lynn Cayce in Virginia, just before the Course began and severa...
+#: paragraph:18,sentence:74
+msgid "But there was something in the back of my mind urging me to meet her.”[108]"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:75
+msgid "Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:76
+msgid "When I saw this announcement, I thought, “I must go to this,” even though I never went to ASPR meetings"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:77
+msgid "It seemed strange that I would want to do that, but I thought this was an important occasion"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:78
+msgid "When I walked in for the meeting, I was aware of something different in the atmosphere"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:79
+msgid "A number of people came up to me and talked in a way that suggested that they thought I knew something about psychics or that I had psychic abilities"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:80
+msgid "People seemed to be reading my aura and there was a lot of strange stuff going on that I wasn’t accustomed to"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:81
+msgid "I sat in the back of the hall and during the speaker’s presentation a woman in the front row asked questions"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:82
+msgid "I thought, “That must be Eileen Garrett,” yet I had never seen her"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:83
+msgid "I was just sure that this was who it was. . ."
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:84
+msgid "At the end of the meeting I did something that was very out of character for me"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:85
+msgid "I went up to her, held out my hand to introduce myself, and said, “Mrs. Garrett, my name is Professor Thetford from Columbia and I think it is very important that I talk to you.” She turned around, looked at me with total attention, held my hand for a moment and said, “Yes, you must come"
+msgstr ""
+
+#. Paragraph 19: Sometime in 1968, he received an unexpected announcement from the American Society for Psychical Research about a lecture on mediumship to be given by experts in the field. When I saw this announcemen...
+#: paragraph:19,sentence:86
+msgid "Call and make an appointment.”[109]"
+msgstr ""
+
+#. Paragraph 20: Within a week, to the astonishment of her office staff, Bill had an appointment with the “impossible to meet” Mrs. Garrett and was amazed that it had been so simple. His next hurdle was to induce Hele...
+#: paragraph:20,sentence:87
+msgid "Within a week, to the astonishment of her office staff, Bill had an appointment with the “impossible to meet” Mrs. Garrett and was amazed that it had been so simple"
+msgstr ""
+
+#. Paragraph 20: Within a week, to the astonishment of her office staff, Bill had an appointment with the “impossible to meet” Mrs. Garrett and was amazed that it had been so simple. His next hurdle was to induce Hele...
+#: paragraph:20,sentence:88
+msgid "His next hurdle was to induce Helen to go with him to meet Garrett"
+msgstr ""
+
+#. Paragraph 20: Within a week, to the astonishment of her office staff, Bill had an appointment with the “impossible to meet” Mrs. Garrett and was amazed that it had been so simple. His next hurdle was to induce Hele...
+#: paragraph:20,sentence:89
+msgid "She panicked at the idea of seeing her and discussing dissociated states, but ultimately he succeeded in, as he called it, “dragging her down there [to Garrett’s office].”"
+msgstr ""
+
+#. Paragraph 21: When Bill and Helen met with Mrs. Garrett, she was gracious, charming, calm, and very reassuring to Helen, calling her a “fragile little flower” and indicating that she (Eileen) needed no details abou...
+#: paragraph:21,sentence:90
+msgid "When Bill and Helen met with Mrs. Garrett, she was gracious, charming, calm, and very reassuring to Helen, calling her a “fragile little flower” and indicating that she (Eileen) needed no details about the manuscript they referred to, but that she would publish whatever they had taken down because of its source."
+msgstr ""
+
+#. Paragraph 21: When Bill and Helen met with Mrs. Garrett, she was gracious, charming, calm, and very reassuring to Helen, calling her a “fragile little flower” and indicating that she (Eileen) needed no details abou...
+#: paragraph:21,sentence:91
+msgid "In her mind, there was no question about its authenticity."
+msgstr ""
+
+#. Paragraph 21: When Bill and Helen met with Mrs. Garrett, she was gracious, charming, calm, and very reassuring to Helen, calling her a “fragile little flower” and indicating that she (Eileen) needed no details abou...
+#: paragraph:21,sentence:92
+msgid "Bill said her most important comment was that “if we went in the direction of the Course, if we followed it in our personal lives, we would both be gloriously happy, but if we fought it, we would be sick."
+msgstr ""
+
+#. Paragraph 21: When Bill and Helen met with Mrs. Garrett, she was gracious, charming, calm, and very reassuring to Helen, calling her a “fragile little flower” and indicating that she (Eileen) needed no details abou...
+#: paragraph:21,sentence:93
+msgid "She repeated that."
+msgstr ""
+
+#. Paragraph 21: When Bill and Helen met with Mrs. Garrett, she was gracious, charming, calm, and very reassuring to Helen, calling her a “fragile little flower” and indicating that she (Eileen) needed no details abou...
+#: paragraph:21,sentence:94
+msgid "It was obvious that she saw something about the character of the Course even then in 1968.”[110] Bill believed she was the greatest living psychic, and for her to confirm its legitimacy and to repeatedly emphasize the need to practice it made a strong impression on him."
+msgstr ""
+
+#. Paragraph 21: When Bill and Helen met with Mrs. Garrett, she was gracious, charming, calm, and very reassuring to Helen, calling her a “fragile little flower” and indicating that she (Eileen) needed no details abou...
+#: paragraph:21,sentence:95
+msgid "He was deeply reassured because he and Helen could talk to so few people about their extraordinary project."
+msgstr ""
+
+#. Paragraph 21: When Bill and Helen met with Mrs. Garrett, she was gracious, charming, calm, and very reassuring to Helen, calling her a “fragile little flower” and indicating that she (Eileen) needed no details abou...
+#: paragraph:21,sentence:96
+msgid "In retrospect, their meeting Eileen seems destined, just as was mine with Bill and the process was so similar."
+msgstr ""
+
+#. Paragraph 21: When Bill and Helen met with Mrs. Garrett, she was gracious, charming, calm, and very reassuring to Helen, calling her a “fragile little flower” and indicating that she (Eileen) needed no details abou...
+#: paragraph:21,sentence:97
+msgid "We cannot avoid meeting those who are to be in our lives, no matter how convoluted the process of our coming together may seem."
+msgstr ""
+
+#. Paragraph 22: Another confirming experience for Bill occurred in London and involved the famous English psychic, Ronald Beasley. Beasley read auras, the energy field that we are and emanate. He commented that Bill’...
+#: paragraph:22,sentence:98
+msgid "Another confirming experience for Bill occurred in London and involved the famous English psychic, Ronald Beasley"
+msgstr ""
+
+#. Paragraph 22: Another confirming experience for Bill occurred in London and involved the famous English psychic, Ronald Beasley. Beasley read auras, the energy field that we are and emanate. He commented that Bill’...
+#: paragraph:22,sentence:99
+msgid "Beasley read auras, the energy field that we are and emanate"
+msgstr ""
+
+#. Paragraph 22: Another confirming experience for Bill occurred in London and involved the famous English psychic, Ronald Beasley. Beasley read auras, the energy field that we are and emanate. He commented that Bill’...
+#: paragraph:22,sentence:100
+msgid "He commented that Bill’s and Helen’s auras were remarkably similar, a very unusual situation, and told them personal information he could not have known, which they found most impressive"
+msgstr ""
+
+#. Paragraph 22: Another confirming experience for Bill occurred in London and involved the famous English psychic, Ronald Beasley. Beasley read auras, the energy field that we are and emanate. He commented that Bill’...
+#: paragraph:22,sentence:101
+msgid "Beasley concluded by saying they were wasting their time, “You shouldn’t be involved in the university life; you should be involved in healing.”[111]"
+msgstr ""
+
+#. Paragraph 23: Since the Course was clearly about both healing and teaching, Bill sought more information about unusual healing practices, just as he investigated various mystical traditions. He had watched Kathryn ...
+#: paragraph:23,sentence:102
+msgid "Since the Course was clearly about both healing and teaching, Bill sought more information about unusual healing practices, just as he investigated various mystical traditions"
+msgstr ""
+
+#. Paragraph 23: Since the Course was clearly about both healing and teaching, Bill sought more information about unusual healing practices, just as he investigated various mystical traditions. He had watched Kathryn ...
+#: paragraph:23,sentence:103
+msgid "He had watched Kathryn Kuhlman, a widely known faith healer, on TV and thought she was a bit hysterical but sincere, prompting him to seek her out"
+msgstr ""
+
+#. Paragraph 23: Since the Course was clearly about both healing and teaching, Bill sought more information about unusual healing practices, just as he investigated various mystical traditions. He had watched Kathryn ...
+#: paragraph:23,sentence:104
+msgid "They managed to acquire front-row tickets for one of her events in New York and were captivated at seeing her in action up close"
+msgstr ""
+
+#. Paragraph 23: Since the Course was clearly about both healing and teaching, Bill sought more information about unusual healing practices, just as he investigated various mystical traditions. He had watched Kathryn ...
+#: paragraph:23,sentence:105
+msgid "Bill recounts:"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:106
+msgid "It was a highly charged emotional atmosphere"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:107
+msgid "At the beginning, Kathryn came out on stage and went through a warm-up period"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:108
+msgid "She was really coquettish and, to my mind, inappropriate, especially for her age"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:109
+msgid "She wore a white dress and made little jokes, gradually warming up her audience"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:110
+msgid "This went on for a while, then gradually something began to happen"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:111
+msgid "She became more serious and started talking about the power of spirit"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:112
+msgid "I was aware of the moment when things clicked—changed"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:113
+msgid "She became quite different, another consciousness had taken over"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:114
+msgid "That was presumably what she was waiting for"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:115
+msgid "It takes enormous courage to get up before thousands of people and wait for that to happen"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:116
+msgid "When it happened, there was a feeling of authenticity about it"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:117
+msgid "She was no longer this sort of silly, somewhat hysterical woman, but a power and spirit that somehow came through"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:118
+msgid "When she started calling out healings in various parts of the audience, people would come down and line up"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:119
+msgid "It was amazing; she would just touch people and they would fall over"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:120
+msgid "This went on for hours"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:121
+msgid "Time didn’t seem to make any difference"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:122
+msgid "None of it seemed contrived; it was all quite startling"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:123
+msgid "Some of it may have been suggestion, but I don’t think it was all suggestion"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:124
+msgid "It’s easy to dismiss this kind of thing, but Helen was very moved by it, too"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:125
+msgid "Helen even dropped all of her blasé defensiveness, and I was very touched"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:126
+msgid "We felt a tremendous spiritual power that was generated somehow"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:127
+msgid "Kathryn was acting as a common battery, I guess; she was the focal point of this energy"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:128
+msgid "It was very, very impressive"
+msgstr ""
+
+#. Paragraph 24: It was a highly charged emotional atmosphere. At the beginning, Kathryn came out on stage and went through a warm-up period. She was really coquettish and, to my mind, inappropriate, especially for he...
+#: paragraph:24,sentence:129
+msgid "It went on all day, so by the time we left I felt both exhilarated and drained.[112]"
+msgstr ""
+
+#. Paragraph 25: If Bill sought out-of-the-ordinary experiences, the reverse was also true. Cal Hatcher, Bill’s confidant as the Course was being scribed, recalled an incident. “Father Ben” in this tale was Bill’s gra...
+#: paragraph:25,sentence:130
+msgid "If Bill sought out-of-the-ordinary experiences, the reverse was also true."
+msgstr ""
+
+#. Paragraph 25: If Bill sought out-of-the-ordinary experiences, the reverse was also true. Cal Hatcher, Bill’s confidant as the Course was being scribed, recalled an incident. “Father Ben” in this tale was Bill’s gra...
+#: paragraph:25,sentence:131
+msgid "Cal Hatcher, Bill’s confidant as the Course was being scribed, recalled an incident. “Father Ben” in this tale was Bill’s graduate student who arranged the first meeting between Helen, Bill, and Ken Wapnick."
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:132
+msgid "Ben had come up to Columbia and taken his doctorate under Bill in psychology"
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:133
+msgid "Ben was confessing to Cardinal Cook"
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:134
+msgid "He was a character to me, and would come up there in his long brown robes with his cross swinging on him"
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:135
+msgid "My office was on the first floor at Columbia Presbyterian [Hospital] and sometimes he’d throw little pebbles at the window to get my attention"
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:136
+msgid "One day he came by and was throwing pebbles"
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:137
+msgid "There was a little concrete ledge there and an iron fence all around the office building I was in"
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:138
+msgid "I raised the window and Father Ben was standing out there with these two ladies in habits, nuns"
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:139
+msgid "He said, “I want you to meet a friend of mine.” I invited them to come in to talk. “We don’t have time,” he said, “but this is Mother Teresa and this is sister So-and-So.” Well, I didn’t know who Mother Teresa was, but my assistant, who was Catholic, said to me, “You dim-witted Protestant, you wouldn’t know anything.” So Mother Teresa was there"
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:140
+msgid "She was short, and so was standing up on the concrete ledge with the other sister"
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:141
+msgid "We were just talking back and forth, and they were on their way to see Bill and Helen"
+msgstr ""
+
+#. Paragraph 26: Ben had come up to Columbia and taken his doctorate under Bill in psychology. Ben was confessing to Cardinal Cook. He was a character to me, and would come up there in his long brown robes with his cr...
+#: paragraph:26,sentence:142
+msgid "The famous Mother Teresa from India was on her way to visit Bill and Helen! [113]"
+msgstr ""
+
+#. Paragraph 27: Bill said that while they were transcribing the Course, he had prayed that he might meet a living teacher, someone who embodied these teachings of love. He had been “led” to a book about Mother Teresa...
+#: paragraph:27,sentence:143
+msgid "Bill said that while they were transcribing the Course, he had prayed that he might meet a living teacher, someone who embodied these teachings of love"
+msgstr ""
+
+#. Paragraph 27: Bill said that while they were transcribing the Course, he had prayed that he might meet a living teacher, someone who embodied these teachings of love. He had been “led” to a book about Mother Teresa...
+#: paragraph:27,sentence:144
+msgid "He had been “led” to a book about Mother Teresa, and shortly after, circumstances conspired to facilitate a meeting with her"
+msgstr ""
+
+#. Paragraph 27: Bill said that while they were transcribing the Course, he had prayed that he might meet a living teacher, someone who embodied these teachings of love. He had been “led” to a book about Mother Teresa...
+#: paragraph:27,sentence:145
+msgid "She was then establishing a branch of her order in the South Bronx, the worst of all crime-ridden poverty areas in New York"
+msgstr ""
+
+#. Paragraph 27: Bill said that while they were transcribing the Course, he had prayed that he might meet a living teacher, someone who embodied these teachings of love. He had been “led” to a book about Mother Teresa...
+#: paragraph:27,sentence:146
+msgid "He was invited to meet her there and of that invitation, Bill said,"
+msgstr ""
+
+#. Paragraph 28: Initially, I felt apprehensive about actually having my prayers answered, since I was not sure that I was up to meeting a living saint. However, when this tiny woman graciously met us with palms exten...
+#: paragraph:28,sentence:147
+msgid "Initially, I felt apprehensive about actually having my prayers answered, since I was not sure that I was up to meeting a living saint"
+msgstr ""
+
+#. Paragraph 28: Initially, I felt apprehensive about actually having my prayers answered, since I was not sure that I was up to meeting a living saint. However, when this tiny woman graciously met us with palms exten...
+#: paragraph:28,sentence:148
+msgid "However, when this tiny woman graciously met us with palms extended, I felt an almost instantaneous sense of relief"
+msgstr ""
+
+#. Paragraph 28: Initially, I felt apprehensive about actually having my prayers answered, since I was not sure that I was up to meeting a living saint. However, when this tiny woman graciously met us with palms exten...
+#: paragraph:28,sentence:149
+msgid "It seemed as if I had always known her"
+msgstr ""
+
+#. Paragraph 28: Initially, I felt apprehensive about actually having my prayers answered, since I was not sure that I was up to meeting a living saint. However, when this tiny woman graciously met us with palms exten...
+#: paragraph:28,sentence:150
+msgid "Completely selfless and without pretense, she radiated the joy of total spiritual commitment"
+msgstr ""
+
+#. Paragraph 28: Initially, I felt apprehensive about actually having my prayers answered, since I was not sure that I was up to meeting a living saint. However, when this tiny woman graciously met us with palms exten...
+#: paragraph:28,sentence:151
+msgid "Later, when she turned to me and said, “Doctor, wouldn’t you like to come to India"
+msgstr ""
+
+#. Paragraph 28: Initially, I felt apprehensive about actually having my prayers answered, since I was not sure that I was up to meeting a living saint. However, when this tiny woman graciously met us with palms exten...
+#: paragraph:28,sentence:152
+msgid "There is so much you could do to help the poor,” I felt an almost irresistible impulse to answer, “Yes!” . ."
+msgstr ""
+
+#. Paragraph 28: Initially, I felt apprehensive about actually having my prayers answered, since I was not sure that I was up to meeting a living saint. However, when this tiny woman graciously met us with palms exten...
+#: paragraph:28,sentence:153
+msgid "To me, her life is a demonstration of the importance of total dedication and complete consistency on the spiritual path.[114]"
+msgstr ""
+
+#. Paragraph 29: Later, she came to see Bill and Helen; they visited on more than one occasion. As Tammy Cohen conducted interviews about Bill and the Course et al. in the mid 1990s, several would begin a sentence wit...
+#: paragraph:29,sentence:154
+msgid "Later, she came to see Bill and Helen; they visited on more than one occasion"
+msgstr ""
+
+#. Paragraph 29: Later, she came to see Bill and Helen; they visited on more than one occasion. As Tammy Cohen conducted interviews about Bill and the Course et al. in the mid 1990s, several would begin a sentence wit...
+#: paragraph:29,sentence:155
+msgid "As Tammy Cohen conducted interviews about Bill and the Course et al. in the mid 1990s, several would begin a sentence with, “Bill was no saint, but . . .” and proceed to comment on his gentle ways, his generosity of spirit, or his refusal to indulge in character assassination"
+msgstr ""
+
+#. Paragraph 29: Later, she came to see Bill and Helen; they visited on more than one occasion. As Tammy Cohen conducted interviews about Bill and the Course et al. in the mid 1990s, several would begin a sentence wit...
+#: paragraph:29,sentence:156
+msgid "Those I interviewed or others who knew him in California never included the initial qualifying phrase, but mentioned only his positive traits"
+msgstr ""
+
+#. Paragraph 29: Later, she came to see Bill and Helen; they visited on more than one occasion. As Tammy Cohen conducted interviews about Bill and the Course et al. in the mid 1990s, several would begin a sentence wit...
+#: paragraph:29,sentence:157
+msgid "His westward move proved to be a specific line of demarcation in how most people saw him"
+msgstr ""
+
+#. Paragraph 29: Later, she came to see Bill and Helen; they visited on more than one occasion. As Tammy Cohen conducted interviews about Bill and the Course et al. in the mid 1990s, several would begin a sentence wit...
+#: paragraph:29,sentence:158
+msgid "It also marks that time when, perhaps guided by the several meetings he had with Mother Teresa, he lived more and more that “total dedication and complete consistency.” Years later, Roger Walsh commented,"
+msgstr ""
+
+#. Paragraph 30: There will doubtless be mythologies that try to make a saint out of Bill and perhaps other Course founders. If we mean by “saint” someone who has resolved all their psychological and spiritual difficu...
+#: paragraph:30,sentence:159
+msgid "There will doubtless be mythologies that try to make a saint out of Bill and perhaps other Course founders"
+msgstr ""
+
+#. Paragraph 30: There will doubtless be mythologies that try to make a saint out of Bill and perhaps other Course founders. If we mean by “saint” someone who has resolved all their psychological and spiritual difficu...
+#: paragraph:30,sentence:160
+msgid "If we mean by “saint” someone who has resolved all their psychological and spiritual difficulties, then Bill was certainly no saint and never pretended to be"
+msgstr ""
+
+#. Paragraph 30: There will doubtless be mythologies that try to make a saint out of Bill and perhaps other Course founders. If we mean by “saint” someone who has resolved all their psychological and spiritual difficu...
+#: paragraph:30,sentence:161
+msgid "However, he was someone who worked as hard as possible to have a full spiritual life"
+msgstr ""
+
+#. Paragraph 30: There will doubtless be mythologies that try to make a saint out of Bill and perhaps other Course founders. If we mean by “saint” someone who has resolved all their psychological and spiritual difficu...
+#: paragraph:30,sentence:162
+msgid "Perhaps, in the end, that’s a more realistic view of what a saint is"
+msgstr ""
+
+#. Paragraph 30: There will doubtless be mythologies that try to make a saint out of Bill and perhaps other Course founders. If we mean by “saint” someone who has resolved all their psychological and spiritual difficu...
+#: paragraph:30,sentence:163
+msgid "But labels aside, Bill was clearly a model of sincerity and integrity, and who can even guess how many millions of people his life will touch?[115]"
+msgstr ""
+
+#. Paragraph 31: Bill’s guidance was as clear about saying no as saying yes. Layle Luckett remembers, A great learning for me was in being less directive and less controlling. Bill wasn’t a guy you could control. We u...
+#: paragraph:31,sentence:164
+msgid "Bill’s guidance was as clear about saying no as saying yes"
+msgstr ""
+
+#. Paragraph 31: Bill’s guidance was as clear about saying no as saying yes. Layle Luckett remembers, A great learning for me was in being less directive and less controlling. Bill wasn’t a guy you could control. We u...
+#: paragraph:31,sentence:165
+msgid "Layle Luckett remembers, A great learning for me was in being less directive and less controlling"
+msgstr ""
+
+#. Paragraph 31: Bill’s guidance was as clear about saying no as saying yes. Layle Luckett remembers, A great learning for me was in being less directive and less controlling. Bill wasn’t a guy you could control. We u...
+#: paragraph:31,sentence:166
+msgid "Bill wasn’t a guy you could control"
+msgstr ""
+
+#. Paragraph 31: Bill’s guidance was as clear about saying no as saying yes. Layle Luckett remembers, A great learning for me was in being less directive and less controlling. Bill wasn’t a guy you could control. We u...
+#: paragraph:31,sentence:167
+msgid "We used to go out almost every night"
+msgstr ""
+
+#. Paragraph 31: Bill’s guidance was as clear about saying no as saying yes. Layle Luckett remembers, A great learning for me was in being less directive and less controlling. Bill wasn’t a guy you could control. We u...
+#: paragraph:31,sentence:168
+msgid "He had a very powerful intuition and sometimes he would balk"
+msgstr ""
+
+#. Paragraph 31: Bill’s guidance was as clear about saying no as saying yes. Layle Luckett remembers, A great learning for me was in being less directive and less controlling. Bill wasn’t a guy you could control. We u...
+#: paragraph:31,sentence:169
+msgid "He would open the door and just say no, he wasn’t going"
+msgstr ""
+
+#. Paragraph 31: Bill’s guidance was as clear about saying no as saying yes. Layle Luckett remembers, A great learning for me was in being less directive and less controlling. Bill wasn’t a guy you could control. We u...
+#: paragraph:31,sentence:170
+msgid "We knew not to push"
+msgstr ""
+
+#. Paragraph 31: Bill’s guidance was as clear about saying no as saying yes. Layle Luckett remembers, A great learning for me was in being less directive and less controlling. Bill wasn’t a guy you could control. We u...
+#: paragraph:31,sentence:171
+msgid "For sure, when he said he wouldn’t go, we should have stopped in our tracks, because it would be the worst play you ever saw.[116]"
+msgstr ""
+
+#. Paragraph 32: His close associates knew about his inner inquiry for any decision, large or small. When anyone made a request that he felt was not for him, Bill usually modeled the ideal response, simply saying, “No...
+#: paragraph:32,sentence:172
+msgid "His close associates knew about his inner inquiry for any decision, large or small."
+msgstr ""
+
+#. Paragraph 32: His close associates knew about his inner inquiry for any decision, large or small. When anyone made a request that he felt was not for him, Bill usually modeled the ideal response, simply saying, “No...
+#: paragraph:32,sentence:173
+msgid "When anyone made a request that he felt was not for him, Bill usually modeled the ideal response, simply saying, “No, that doesn’t work for me,” with no need to justify, explain, or make excuses."
+msgstr ""
+
+#. Paragraph 32: His close associates knew about his inner inquiry for any decision, large or small. When anyone made a request that he felt was not for him, Bill usually modeled the ideal response, simply saying, “No...
+#: paragraph:32,sentence:174
+msgid "He made it clear there was nothing personal in refusing, it was simply his guidance."
+msgstr ""
+
+#. Paragraph 33: Another legendary talent was Bill’s ability to get tickets to any event he chose. Stories abound about all the times he showed up at an opera, play, or other special event, and someone would always se...
+#: paragraph:33,sentence:175
+msgid "Another legendary talent was Bill’s ability to get tickets to any event he chose."
+msgstr ""
+
+#. Paragraph 33: Another legendary talent was Bill’s ability to get tickets to any event he chose. Stories abound about all the times he showed up at an opera, play, or other special event, and someone would always se...
+#: paragraph:33,sentence:176
+msgid "Stories abound about all the times he showed up at an opera, play, or other special event, and someone would always sell or give him a ticket(s)."
+msgstr ""
+
+#. Paragraph 33: Another legendary talent was Bill’s ability to get tickets to any event he chose. Stories abound about all the times he showed up at an opera, play, or other special event, and someone would always se...
+#: paragraph:33,sentence:177
+msgid "Almost everyone who knew him well observed this remarkable skill in action—and it was a very specific action."
+msgstr ""
+
+#. Paragraph 33: Another legendary talent was Bill’s ability to get tickets to any event he chose. Stories abound about all the times he showed up at an opera, play, or other special event, and someone would always se...
+#: paragraph:33,sentence:178
+msgid "He never had subscriptions to the Metropolitan Opera while he lived in New York but always attended whatever he wanted."
+msgstr ""
+
+#. Paragraph 33: Another legendary talent was Bill’s ability to get tickets to any event he chose. Stories abound about all the times he showed up at an opera, play, or other special event, and someone would always se...
+#: paragraph:33,sentence:179
+msgid "He was likely to note that at 7:12 p.m. it would be time to go to the box office to get tickets."
+msgstr ""
+
+#. Paragraph 33: Another legendary talent was Bill’s ability to get tickets to any event he chose. Stories abound about all the times he showed up at an opera, play, or other special event, and someone would always se...
+#: paragraph:33,sentence:180
+msgid "He always seemed to have a precise sense about when to go on his ticket-acquiring quest; and he wouldn’t get just any tickets but the ones he preferred."
+msgstr ""
+
+#. Paragraph 33: Another legendary talent was Bill’s ability to get tickets to any event he chose. Stories abound about all the times he showed up at an opera, play, or other special event, and someone would always se...
+#: paragraph:33,sentence:181
+msgid "As with all of us, the more something happens, the more we trust the process and the more frequently it occurs."
+msgstr ""
+
+#. Paragraph 34: Pat Hopkins recalls a special trip to New York with Bill to visit some of his old haunts: The highlight of the trip for both of us, however, was hearing Jessye Norman sing her Metropolitan Opera debut...
+#: paragraph:34,sentence:182
+msgid "Pat Hopkins recalls a special trip to New York with Bill to visit some of his old haunts: The highlight of the trip for both of us, however, was hearing Jessye Norman sing her Metropolitan Opera debut in Berlioz’s Les Troyens."
+msgstr ""
+
+#. Paragraph 34: Pat Hopkins recalls a special trip to New York with Bill to visit some of his old haunts: The highlight of the trip for both of us, however, was hearing Jessye Norman sing her Metropolitan Opera debut...
+#: paragraph:34,sentence:183
+msgid "Bill worked the magic he was famous for among his friends by somehow managing to obtain center-aisle orchestra seats to a sold-out performance."
+msgstr ""
+
+#. Paragraph 34: Pat Hopkins recalls a special trip to New York with Bill to visit some of his old haunts: The highlight of the trip for both of us, however, was hearing Jessye Norman sing her Metropolitan Opera debut...
+#: paragraph:34,sentence:184
+msgid "No matter how popular the event, or how long he waited to purchase the tickets, I never saw Bill fail to get excellent seats for anything he wanted to hear or see, anytime he wanted to go."
+msgstr ""
+
+#. Paragraph 34: Pat Hopkins recalls a special trip to New York with Bill to visit some of his old haunts: The highlight of the trip for both of us, however, was hearing Jessye Norman sing her Metropolitan Opera debut...
+#: paragraph:34,sentence:185
+msgid "It was absolutely amazing."
+msgstr ""
+
+#. Paragraph 34: Pat Hopkins recalls a special trip to New York with Bill to visit some of his old haunts: The highlight of the trip for both of us, however, was hearing Jessye Norman sing her Metropolitan Opera debut...
+#: paragraph:34,sentence:186
+msgid "He used to tell me it was God’s reward for being willing to help bring the Course though."
+msgstr ""
+
+#. Paragraph 34: Pat Hopkins recalls a special trip to New York with Bill to visit some of his old haunts: The highlight of the trip for both of us, however, was hearing Jessye Norman sing her Metropolitan Opera debut...
+#: paragraph:34,sentence:187
+msgid "Even though he always laughed when he said this, I’m not at all sure he was joking."
+msgstr ""
+
+#. Paragraph 35: On that particular occasion, we had been sitting in our hotel room reading the morning newspaper when Bill suddenly said, “I think we should go down to Lincoln Center about 2:30 this afternoon and loo...
+#: paragraph:35,sentence:188
+msgid "On that particular occasion, we had been sitting in our hotel room reading the morning newspaper when Bill suddenly said, “I think we should go down to Lincoln Center about 2:30 this afternoon and look around.” Not a word was said about opera tickets—we already knew there were none available—and Bill was never one to state the obvious"
+msgstr ""
+
+#. Paragraph 35: On that particular occasion, we had been sitting in our hotel room reading the morning newspaper when Bill suddenly said, “I think we should go down to Lincoln Center about 2:30 this afternoon and loo...
+#: paragraph:35,sentence:189
+msgid "So we had some lunch and went down to Lincoln Center a little before two"
+msgstr ""
+
+#. Paragraph 35: On that particular occasion, we had been sitting in our hotel room reading the morning newspaper when Bill suddenly said, “I think we should go down to Lincoln Center about 2:30 this afternoon and loo...
+#: paragraph:35,sentence:190
+msgid "We strolled around looking at the Chagall murals and some photographs and musical scores on display in the opera hall"
+msgstr ""
+
+#. Paragraph 35: On that particular occasion, we had been sitting in our hotel room reading the morning newspaper when Bill suddenly said, “I think we should go down to Lincoln Center about 2:30 this afternoon and loo...
+#: paragraph:35,sentence:191
+msgid "I didn’t even realize Bill was gone until I turned around at one point to say something to him and saw him walking toward me from across the room"
+msgstr ""
+
+#. Paragraph 35: On that particular occasion, we had been sitting in our hotel room reading the morning newspaper when Bill suddenly said, “I think we should go down to Lincoln Center about 2:30 this afternoon and loo...
+#: paragraph:35,sentence:192
+msgid "He had a gleeful expression on his face and I knew that he had done it again"
+msgstr ""
+
+#. Paragraph 35: On that particular occasion, we had been sitting in our hotel room reading the morning newspaper when Bill suddenly said, “I think we should go down to Lincoln Center about 2:30 this afternoon and loo...
+#: paragraph:35,sentence:193
+msgid "Sure enough, in his hand were two center-aisle orchestra tickets for that evening’s performance"
+msgstr ""
+
+#. Paragraph 35: On that particular occasion, we had been sitting in our hotel room reading the morning newspaper when Bill suddenly said, “I think we should go down to Lincoln Center about 2:30 this afternoon and loo...
+#: paragraph:35,sentence:194
+msgid "It was a thrilling performance! . ."
+msgstr ""
+
+#. Paragraph 35: On that particular occasion, we had been sitting in our hotel room reading the morning newspaper when Bill suddenly said, “I think we should go down to Lincoln Center about 2:30 this afternoon and loo...
+#: paragraph:35,sentence:195
+msgid "I remember looking at Bill during a particularly moving aria and realizing we were both in a kind of altered state"
+msgstr ""
+
+#. Paragraph 35: On that particular occasion, we had been sitting in our hotel room reading the morning newspaper when Bill suddenly said, “I think we should go down to Lincoln Center about 2:30 this afternoon and loo...
+#: paragraph:35,sentence:196
+msgid "It was a transcendent, joyful occasion, one I’ll never forget.[117]"
+msgstr ""
+
+#. Paragraph 36: Another example involved Ice Capades tickets. Jack Luckett had bought three tickets sometime in advance of a particular performance, only to find they would be out of town. He gave them to Bill, who t...
+#: paragraph:36,sentence:197
+msgid "Another example involved Ice Capades tickets"
+msgstr ""
+
+#. Paragraph 36: Another example involved Ice Capades tickets. Jack Luckett had bought three tickets sometime in advance of a particular performance, only to find they would be out of town. He gave them to Bill, who t...
+#: paragraph:36,sentence:198
+msgid "Jack Luckett had bought three tickets sometime in advance of a particular performance, only to find they would be out of town"
+msgstr ""
+
+#. Paragraph 36: Another example involved Ice Capades tickets. Jack Luckett had bought three tickets sometime in advance of a particular performance, only to find they would be out of town. He gave them to Bill, who t...
+#: paragraph:36,sentence:199
+msgid "He gave them to Bill, who then invited a couple to go with him"
+msgstr ""
+
+#. Paragraph 36: Another example involved Ice Capades tickets. Jack Luckett had bought three tickets sometime in advance of a particular performance, only to find they would be out of town. He gave them to Bill, who t...
+#: paragraph:36,sentence:200
+msgid "As it turned out, another friend was going to be in town at that time and Bill invited him also"
+msgstr ""
+
+#. Paragraph 36: Another example involved Ice Capades tickets. Jack Luckett had bought three tickets sometime in advance of a particular performance, only to find they would be out of town. He gave them to Bill, who t...
+#: paragraph:36,sentence:201
+msgid "His initial invitee reminded Bill that he had only three tickets, but he reassured him that was no problem, all four would go"
+msgstr ""
+
+#. Paragraph 36: Another example involved Ice Capades tickets. Jack Luckett had bought three tickets sometime in advance of a particular performance, only to find they would be out of town. He gave them to Bill, who t...
+#: paragraph:36,sentence:202
+msgid "Jack recounts:"
+msgstr ""
+
+#. Paragraph 37: They drove to the sports arena with only three tickets. There were thousands of people surrounding this place, and they were walking across the parking lot when a man on a bicycle comes riding toward ...
+#: paragraph:37,sentence:203
+msgid "They drove to the sports arena with only three tickets"
+msgstr ""
+
+#. Paragraph 37: They drove to the sports arena with only three tickets. There were thousands of people surrounding this place, and they were walking across the parking lot when a man on a bicycle comes riding toward ...
+#: paragraph:37,sentence:204
+msgid "There were thousands of people surrounding this place, and they were walking across the parking lot when a man on a bicycle comes riding toward them, riding through all the people, through all the cars and right up to them. . ."
+msgstr ""
+
+#. Paragraph 37: They drove to the sports arena with only three tickets. There were thousands of people surrounding this place, and they were walking across the parking lot when a man on a bicycle comes riding toward ...
+#: paragraph:37,sentence:205
+msgid "Bill said, “Do you have a ticket for me?” And the guy answered, “Yes.” Bill asked him how much it was and the man mentioned an amount"
+msgstr ""
+
+#. Paragraph 37: They drove to the sports arena with only three tickets. There were thousands of people surrounding this place, and they were walking across the parking lot when a man on a bicycle comes riding toward ...
+#: paragraph:37,sentence:206
+msgid "Bill reached into his side coat pocket and pulled out the money and handed it to him—the exact amount"
+msgstr ""
+
+#. Paragraph 37: They drove to the sports arena with only three tickets. There were thousands of people surrounding this place, and they were walking across the parking lot when a man on a bicycle comes riding toward ...
+#: paragraph:37,sentence:207
+msgid "It was not the amount of the ticket, but to the dollar, he had the amount the guy was asking for the ticket"
+msgstr ""
+
+#. Paragraph 37: They drove to the sports arena with only three tickets. There were thousands of people surrounding this place, and they were walking across the parking lot when a man on a bicycle comes riding toward ...
+#: paragraph:37,sentence:208
+msgid "As he handed it to him, he said, “Thank you, I was waiting for this,” put the ticket in his pocket, and they went in"
+msgstr ""
+
+#. Paragraph 37: They drove to the sports arena with only three tickets. There were thousands of people surrounding this place, and they were walking across the parking lot when a man on a bicycle comes riding toward ...
+#: paragraph:37,sentence:209
+msgid "As it turned out, this fourth seat was very close to where they were sitting in that huge sports arena.[118]"
+msgstr ""
+
+#. Paragraph 38: Though it may sound trivial, the same dynamic applied to parking spaces. Ease in finding parking spaces per se is hardly cause for celebration, but the state of mind it reveals is. I was with Bill mor...
+#: paragraph:38,sentence:210
+msgid "Though it may sound trivial, the same dynamic applied to parking spaces"
+msgstr ""
+
+#. Paragraph 38: Though it may sound trivial, the same dynamic applied to parking spaces. Ease in finding parking spaces per se is hardly cause for celebration, but the state of mind it reveals is. I was with Bill mor...
+#: paragraph:38,sentence:211
+msgid "Ease in finding parking spaces per se is hardly cause for celebration, but the state of mind it reveals is"
+msgstr ""
+
+#. Paragraph 38: Though it may sound trivial, the same dynamic applied to parking spaces. Ease in finding parking spaces per se is hardly cause for celebration, but the state of mind it reveals is. I was with Bill mor...
+#: paragraph:38,sentence:212
+msgid "I was with Bill more than once when we needed to find a space in a very crowded area"
+msgstr ""
+
+#. Paragraph 38: Though it may sound trivial, the same dynamic applied to parking spaces. Ease in finding parking spaces per se is hardly cause for celebration, but the state of mind it reveals is. I was with Bill mor...
+#: paragraph:38,sentence:213
+msgid "As we approached, I would suggest we start looking and Bill would say, “No, there’ll be a parking space waiting.” One time near a crowded plaza, a vacant spot appeared right across from our destination—it was as if it was invisible to all the others looking for one"
+msgstr ""
+
+#. Paragraph 38: Though it may sound trivial, the same dynamic applied to parking spaces. Ease in finding parking spaces per se is hardly cause for celebration, but the state of mind it reveals is. I was with Bill mor...
+#: paragraph:38,sentence:214
+msgid "That often occurred for Bill; he was intuitive and open to such things and took great delight in their happening"
+msgstr ""
+
+#. Paragraph 38: Though it may sound trivial, the same dynamic applied to parking spaces. Ease in finding parking spaces per se is hardly cause for celebration, but the state of mind it reveals is. I was with Bill mor...
+#: paragraph:38,sentence:215
+msgid "Although he knew very well that miracles arise from a miraculous state of mind, he wasn’t always there; he wasn’t constant"
+msgstr ""
+
+#. Paragraph 38: Though it may sound trivial, the same dynamic applied to parking spaces. Ease in finding parking spaces per se is hardly cause for celebration, but the state of mind it reveals is. I was with Bill mor...
+#: paragraph:38,sentence:216
+msgid "But when he knew he was “on,” it always worked"
+msgstr ""
+
+#. Paragraph 38: Though it may sound trivial, the same dynamic applied to parking spaces. Ease in finding parking spaces per se is hardly cause for celebration, but the state of mind it reveals is. I was with Bill mor...
+#: paragraph:38,sentence:217
+msgid "Hugh remembers,"
+msgstr ""
+
+#. Paragraph 39: And yet he didn’t think he’d led a charmed life or had special powers and was just as aware when things didn’t work out. It’s not like he thought there was someone making everything smooth for him. He...
+#: paragraph:39,sentence:218
+msgid "And yet he didn’t think he’d led a charmed life or had special powers and was just as aware when things didn’t work out"
+msgstr ""
+
+#. Paragraph 39: And yet he didn’t think he’d led a charmed life or had special powers and was just as aware when things didn’t work out. It’s not like he thought there was someone making everything smooth for him. He...
+#: paragraph:39,sentence:219
+msgid "It’s not like he thought there was someone making everything smooth for him"
+msgstr ""
+
+#. Paragraph 39: And yet he didn’t think he’d led a charmed life or had special powers and was just as aware when things didn’t work out. It’s not like he thought there was someone making everything smooth for him. He...
+#: paragraph:39,sentence:220
+msgid "He did not subscribe to a race of chosen ones, and the whole subject of manifesting—that somehow our spiritual path gives us powers ordinary mortals don’t have—whereby the Holy Spirit opens personal doors so you get the right job, the right car, money, success, and parking spaces was immensely amusing to him"
+msgstr ""
+
+#. Paragraph 39: And yet he didn’t think he’d led a charmed life or had special powers and was just as aware when things didn’t work out. It’s not like he thought there was someone making everything smooth for him. He...
+#: paragraph:39,sentence:221
+msgid "We shared a tremendous amount of humor about all this . . . and he delighted in talking about it"
+msgstr ""
+
+#. Paragraph 39: And yet he didn’t think he’d led a charmed life or had special powers and was just as aware when things didn’t work out. It’s not like he thought there was someone making everything smooth for him. He...
+#: paragraph:39,sentence:222
+msgid "It was part of his open-mindedness"
+msgstr ""
+
+#. Paragraph 39: And yet he didn’t think he’d led a charmed life or had special powers and was just as aware when things didn’t work out. It’s not like he thought there was someone making everything smooth for him. He...
+#: paragraph:39,sentence:223
+msgid "Despite his being somewhat cynical about our personal ability to manipulate the world, he was completely open to psychic phenomena that show the unreality of the world, which is not quite the same thing.[119]"
+msgstr ""
+
+#. Paragraph 40: If intuition worked while he was “on” and not at other times, he was very happy that Helen’s intuition was not always reliable. One unusual challenge that weighed on him in his first years away from N...
+#: paragraph:40,sentence:224
+msgid "If intuition worked while he was “on” and not at other times, he was very happy that Helen’s intuition was not always reliable."
+msgstr ""
+
+#. Paragraph 40: If intuition worked while he was “on” and not at other times, he was very happy that Helen’s intuition was not always reliable. One unusual challenge that weighed on him in his first years away from N...
+#: paragraph:40,sentence:225
+msgid "One unusual challenge that weighed on him in his first years away from New York was Helen’s prediction, made around the time ACIM was first published, about when both she and Bill would die; she saw the date on her own tombstone (she was off by a year) and indicated Bill would follow her within a year of her passing."
+msgstr ""
+
+#. Paragraph 40: If intuition worked while he was “on” and not at other times, he was very happy that Helen’s intuition was not always reliable. One unusual challenge that weighed on him in his first years away from N...
+#: paragraph:40,sentence:226
+msgid "Since she had died in February 1981, everyone, certainly Bill, felt some apprehension as the anniversary date approached."
+msgstr ""
+
+#. Paragraph 40: If intuition worked while he was “on” and not at other times, he was very happy that Helen’s intuition was not always reliable. One unusual challenge that weighed on him in his first years away from N...
+#: paragraph:40,sentence:227
+msgid "It came and went without incident, and everyone let out a collective sigh of relief; Bill survived Helen by seven and a half years."
+msgstr ""
+
+#. Paragraph 40: If intuition worked while he was “on” and not at other times, he was very happy that Helen’s intuition was not always reliable. One unusual challenge that weighed on him in his first years away from N...
+#: paragraph:40,sentence:228
+msgid "Ken Wapnick has noted she could be notoriously wrong when she had a personal investment in a prediction."
+msgstr ""
+
+#. Paragraph 40: If intuition worked while he was “on” and not at other times, he was very happy that Helen’s intuition was not always reliable. One unusual challenge that weighed on him in his first years away from N...
+#: paragraph:40,sentence:229
+msgid "That was her psychic facility misfiring, rather than the Voice that authored ACIM."
+msgstr ""
+
+#. Paragraph 40: If intuition worked while he was “on” and not at other times, he was very happy that Helen’s intuition was not always reliable. One unusual challenge that weighed on him in his first years away from N...
+#: paragraph:40,sentence:230
+msgid "Only with nonspecific, nonpersonal Course material was she always absolutely clear."
+msgstr ""
+
+#. Paragraph 41: Even though Bill had followed his guidance or intuition about moving to Tiburon, that didn’t imply his time there would be the proverbial bed of roses. It was simply the locale for his next round of i...
+#: paragraph:41,sentence:231
+msgid "Even though Bill had followed his guidance or intuition about moving to Tiburon, that didn’t imply his time there would be the proverbial bed of roses."
+msgstr ""
+
+#. Paragraph 41: Even though Bill had followed his guidance or intuition about moving to Tiburon, that didn’t imply his time there would be the proverbial bed of roses. It was simply the locale for his next round of i...
+#: paragraph:41,sentence:232
+msgid "It was simply the locale for his next round of inner growth and releasing defenses."
+msgstr ""
+
+#. Paragraph 41: Even though Bill had followed his guidance or intuition about moving to Tiburon, that didn’t imply his time there would be the proverbial bed of roses. It was simply the locale for his next round of i...
+#: paragraph:41,sentence:233
+msgid "He mused, “I guess too, sometimes, we also really have to go to the ultimate despair in order to break through; at least I do."
+msgstr ""
+
+#. Paragraph 41: Even though Bill had followed his guidance or intuition about moving to Tiburon, that didn’t imply his time there would be the proverbial bed of roses. It was simply the locale for his next round of i...
+#: paragraph:41,sentence:234
+msgid "It seems to be the way it went, and that may be the only way I can learn."
+msgstr ""
+
+#. Paragraph 41: Even though Bill had followed his guidance or intuition about moving to Tiburon, that didn’t imply his time there would be the proverbial bed of roses. It was simply the locale for his next round of i...
+#: paragraph:41,sentence:235
+msgid "I felt I had to struggle with everything, including the Course."
+msgstr ""
+
+#. Paragraph 41: Even though Bill had followed his guidance or intuition about moving to Tiburon, that didn’t imply his time there would be the proverbial bed of roses. It was simply the locale for his next round of i...
+#: paragraph:41,sentence:236
+msgid "It was very hard to be on this path without the notion of struggle, which seemed so predominant, but I loosened up a bit.”[120] All learning isn’t difficult or painful of necessity, only resistance makes it seem so."
+msgstr ""
+
+#. Paragraph 41: Even though Bill had followed his guidance or intuition about moving to Tiburon, that didn’t imply his time there would be the proverbial bed of roses. It was simply the locale for his next round of i...
+#: paragraph:41,sentence:237
+msgid "Along with the more challenging situations, Bill also had some wonderful, happy times in Tiburon."
+msgstr ""
+
+#. Paragraph 42: A friend of mine coined the phrase, “trading up to grace,” to describe the process of relinquishing the ego. Bill was increasingly able to set aside the distractions of the world and his own illusions...
+#: paragraph:42,sentence:238
+msgid "A friend of mine coined the phrase, “trading up to grace,” to describe the process of relinquishing the ego."
+msgstr ""
+
+#. Paragraph 42: A friend of mine coined the phrase, “trading up to grace,” to describe the process of relinquishing the ego. Bill was increasingly able to set aside the distractions of the world and his own illusions...
+#: paragraph:42,sentence:239
+msgid "Bill was increasingly able to set aside the distractions of the world and his own illusions; he moved steadily toward his goal—peace of mind—through each opportunity to let go of fear and, indeed, trade up to grace."
+msgstr ""
+
+#. Paragraph 43: [1] Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 24:7, FIPA. [2]Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February...
+#: paragraph:43,sentence:240
+msgid "[1] Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 43: [1] Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 24:7, FIPA. [2]Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February...
+#: paragraph:43,sentence:241
+msgid "James Bolen, 24:7, FIPA. [2]Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1980."
+msgstr ""
+
+#. Paragraph 44: [3]Jack and Layle Luckett, email message to author, August 2007. [6]A Course In Miracles Text, 456.
+#: paragraph:44,sentence:242
+msgid "[3]Jack and Layle Luckett, email message to author, August 2007. [6]A Course In Miracles Text, 456."
+msgstr ""
+
+#. Paragraph 45: [7]A Course In Miracles Workbook, Introduction, 1–2. [8]A Course In Miracles Text, 666.
+#: paragraph:45,sentence:243
+msgid "[7]A Course In Miracles Workbook, Introduction, 1–2. [8]A Course In Miracles Text, 666."
+msgstr ""
+
+#. Paragraph 46: [9]Thetford personal reading, LeRoy Zemke, February 1980. [10]Dante Alighieri, The Vision of Hell, Purgatory, and Paradise (New York: D. Appleton & Co., 1852), 484.
+#: paragraph:46,sentence:244
+msgid "[9]Thetford personal reading, LeRoy Zemke, February 1980. [10]Dante Alighieri, The Vision of Hell, Purgatory, and Paradise (New York: D. Appleton & Co., 1852), 484."
+msgstr ""
+
+#. Paragraph 47: [11]Maurice Baring, Royal Flying Corps Headquarters (publisher and date unknown), translation of Dante’s quote noted above. [12]A Course In Miracles Text, 565–566.
+#: paragraph:47,sentence:245
+msgid "[11]Maurice Baring, Royal Flying Corps Headquarters (publisher and date unknown), translation of Dante’s quote noted above. [12]A Course In Miracles Text, 565–566."
+msgstr ""
+
+#. Paragraph 48: [13]Jaison Kayn telephone interview by author, February 2007. [14]Bruce Gregory telephone interview by author, January 2008.
+#: paragraph:48,sentence:246
+msgid "[13]Jaison Kayn telephone interview by author, February 2007. [14]Bruce Gregory telephone interview by author, January 2008."
+msgstr ""
+
+#. Paragraph 49: [15]Judith Skutch Whitson telephone interview by author, January 2008. [16]Hugh and Gayle Prather interview by author, October 1993.
+#: paragraph:49,sentence:247
+msgid "[15]Judith Skutch Whitson telephone interview by author, January 2008. [16]Hugh and Gayle Prather interview by author, October 1993."
+msgstr ""
+
+#. Paragraph 50: [17]Catherine Prescott telephone interview by author, August 2008. [18]Diane Cirincione telephone interview by author, July 2007.
+#: paragraph:50,sentence:248
+msgid "[17]Catherine Prescott telephone interview by author, August 2008. [18]Diane Cirincione telephone interview by author, July 2007."
+msgstr ""
+
+#. Paragraph 51: [19]Carlagaye Olson telephone interview by author, September 2007. [20]Gregory Howe interview by author, January 2009.
+#: paragraph:51,sentence:249
+msgid "[19]Carlagaye Olson telephone interview by author, September 2007. [20]Gregory Howe interview by author, January 2009."
+msgstr ""
+
+#. Paragraph 52: [21]Frances Vaughan interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 19:8, FIPA; and personal communication to author, August 13, 2009. [22]Kenneth Wapnick, “The Histo...
+#: paragraph:52,sentence:250
+msgid "[21]Frances Vaughan interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 52: [21]Frances Vaughan interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 19:8, FIPA; and personal communication to author, August 13, 2009. [22]Kenneth Wapnick, “The Histo...
+#: paragraph:52,sentence:251
+msgid "James Bolen, 19:8, FIPA; and personal communication to author, August 13, 2009. [22]Kenneth Wapnick, “The History of the Manuscripts of A Course In Miracles,” manuscript, 9–12."
+msgstr ""
+
+#. Paragraph 53: [23]Urtext, 23–24 (first). [24]Ibid., 47 (first).
+#: paragraph:53,sentence:252
+msgid "[23]Urtext, 23–24 (first). [24]Ibid., 47 (first)."
+msgstr ""
+
+#. Paragraph 54: [25]Ibid., 60–61(first). [26]Carlagaye Olson telephone interview by author, September 2007.
+#: paragraph:54,sentence:253
+msgid "[25]Ibid., 60–61(first). [26]Carlagaye Olson telephone interview by author, September 2007."
+msgstr ""
+
+#. Paragraph 55: [27]A Course In Miracles Text, 220–221. [28]Jerry Jampolsky telephone interview by author, July 2007.
+#: paragraph:55,sentence:254
+msgid "[27]A Course In Miracles Text, 220–221. [28]Jerry Jampolsky telephone interview by author, July 2007."
+msgstr ""
+
+#. Paragraph 56: [30] Jaison Kayn telephone interview by author, February 2007. [31]Bob Beale telephone interview by author, February 2007.
+#: paragraph:56,sentence:255
+msgid "[30] Jaison Kayn telephone interview by author, February 2007. [31]Bob Beale telephone interview by author, February 2007."
+msgstr ""
+
+#. Paragraph 57: [32]Bruce Gregory, personal communication to author, March 2008. [34]Frances Vaughan interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 19:7, FIPA; and personal communic...
+#: paragraph:57,sentence:256
+msgid "[32]Bruce Gregory, personal communication to author, March 2008. [34]Frances Vaughan interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 57: [32]Bruce Gregory, personal communication to author, March 2008. [34]Frances Vaughan interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 19:7, FIPA; and personal communic...
+#: paragraph:57,sentence:257
+msgid "James Bolen, 19:7, FIPA; and personal communication to author, August 13, 2009."
+msgstr ""
+
+#. Paragraph 58: [35]A Course In Miracles Manual for Teachers, 10. [36]Urtext, 122 (first).
+#: paragraph:58,sentence:258
+msgid "[35]A Course In Miracles Manual for Teachers, 10. [36]Urtext, 122 (first)."
+msgstr ""
+
+#. Paragraph 59: [37]Ibid., 42–43 (second). [38]Ibid., 55 (second).
+#: paragraph:59,sentence:259
+msgid "[37]Ibid., 42–43 (second). [38]Ibid., 55 (second)."
+msgstr ""
+
+#. Paragraph 60: [39]Ibid., 77 (first). [40]Ibid., 87 (first).
+#: paragraph:60,sentence:260
+msgid "[39]Ibid., 77 (first). [40]Ibid., 87 (first)."
+msgstr ""
+
+#. Paragraph 61: [41]Ibid., 119 (first). [42]Ibid., 120 (first).
+#: paragraph:61,sentence:261
+msgid "[41]Ibid., 119 (first). [42]Ibid., 120 (first)."
+msgstr ""
+
+#. Paragraph 62: [43]Ibid., 48 (second). [44]Urtext, 155 (first).
+#: paragraph:62,sentence:262
+msgid "[43]Ibid., 48 (second). [44]Urtext, 155 (first)."
+msgstr ""
+
+#. Paragraph 63: [45]William Whitson interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 21:2, FIPA. [46]Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1...
+#: paragraph:63,sentence:263
+msgid "[45]William Whitson interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 63: [45]William Whitson interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 21:2, FIPA. [46]Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1...
+#: paragraph:63,sentence:264
+msgid "James Bolen, 21:2, FIPA. [46]Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1980."
+msgstr ""
+
+#. Paragraph 64: [47]Jack and Layle Luckett telephone interview by author, September 2007. [48]Jack and Layle Luckett, email message to author, August 2007.
+#: paragraph:64,sentence:265
+msgid "[47]Jack and Layle Luckett telephone interview by author, September 2007. [48]Jack and Layle Luckett, email message to author, August 2007."
+msgstr ""
+
+#. Paragraph 65: [49]Hugh and Gayle Prather interview by author, October 1993. [50]William Whitson telephone interview by author, February 2008.
+#: paragraph:65,sentence:266
+msgid "[49]Hugh and Gayle Prather interview by author, October 1993. [50]William Whitson telephone interview by author, February 2008."
+msgstr ""
+
+#. Paragraph 66: [51]Urtext, 170–171 (first). [52]Ibid., 103–104 (second).
+#: paragraph:66,sentence:267
+msgid "[51]Urtext, 170–171 (first). [52]Ibid., 103–104 (second)."
+msgstr ""
+
+#. Paragraph 67: [53]Ibid., 15–16 (second). [54]Jack and Layle Luckett telephone interview by author, September 2007.
+#: paragraph:67,sentence:268
+msgid "[53]Ibid., 15–16 (second). [54]Jack and Layle Luckett telephone interview by author, September 2007."
+msgstr ""
+
+#. Paragraph 68: [55]Author’s transcription of Thetford Memorial Service, Frances Vaughan, July 1988. [56]Sarah Whalen-Kraft, Thetford essay, personal communication to author, March 1994.
+#: paragraph:68,sentence:269
+msgid "[55]Author’s transcription of Thetford Memorial Service, Frances Vaughan, July 1988. [56]Sarah Whalen-Kraft, Thetford essay, personal communication to author, March 1994."
+msgstr ""
+
+#. Paragraph 69: [57]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 11:7, FIPA. [58]A Course In Miracles Text, 236.
+#: paragraph:69,sentence:270
+msgid "[57]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 69: [57]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 11:7, FIPA. [58]A Course In Miracles Text, 236.
+#: paragraph:69,sentence:271
+msgid "James Bolen, 11:7, FIPA. [58]A Course In Miracles Text, 236."
+msgstr ""
+
+#. Paragraph 70: [59]Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 24:2, FIPA. [60]This event took place while Bill was still in Chicago, either while a graduate ...
+#: paragraph:70,sentence:272
+msgid "[59]Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 70: [59]Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 24:2, FIPA. [60]This event took place while Bill was still in Chicago, either while a graduate ...
+#: paragraph:70,sentence:273
+msgid "James Bolen, 24:2, FIPA. [60]This event took place while Bill was still in Chicago, either while a graduate student with Carl Rogers or at Michael Reese Hospital."
+msgstr ""
+
+#. Paragraph 70: [59]Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 24:2, FIPA. [60]This event took place while Bill was still in Chicago, either while a graduate ...
+#: paragraph:70,sentence:274
+msgid "He apparently told Helen about it and she suggested he let it go."
+msgstr ""
+
+#. Paragraph 70: [59]Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 24:2, FIPA. [60]This event took place while Bill was still in Chicago, either while a graduate ...
+#: paragraph:70,sentence:275
+msgid "Although Ken knew about the incident, he did not recall details."
+msgstr ""
+
+#. Paragraph 70: [59]Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 24:2, FIPA. [60]This event took place while Bill was still in Chicago, either while a graduate ...
+#: paragraph:70,sentence:276
+msgid "I questioned all others with whom he might have discussed this event and no one knew anything about it."
+msgstr ""
+
+#. Paragraph 71: [61]Urtext, 165–167 (first). [62]Ralph Blum, Little Book of Runic Wisdom (London: Connections Book Publishing, 2001), 21. A rune is one of the letters of an alphabet used by ancient Germanic peoples, ...
+#: paragraph:71,sentence:277
+msgid "[61]Urtext, 165–167 (first). [62]Ralph Blum, Little Book of Runic Wisdom (London: Connections Book Publishing, 2001), 21."
+msgstr ""
+
+#. Paragraph 71: [61]Urtext, 165–167 (first). [62]Ralph Blum, Little Book of Runic Wisdom (London: Connections Book Publishing, 2001), 21. A rune is one of the letters of an alphabet used by ancient Germanic peoples, ...
+#: paragraph:71,sentence:278
+msgid "A rune is one of the letters of an alphabet used by ancient Germanic peoples, especially by the Scandinavians and Anglo-Saxons."
+msgstr ""
+
+#. Paragraph 71: [61]Urtext, 165–167 (first). [62]Ralph Blum, Little Book of Runic Wisdom (London: Connections Book Publishing, 2001), 21. A rune is one of the letters of an alphabet used by ancient Germanic peoples, ...
+#: paragraph:71,sentence:279
+msgid "In modern usage, it refers to a poem, a riddle, or a secret writing related to determining right action in any given situation."
+msgstr ""
+
+#. Paragraph 72: [63]A Course In Miracles Text, 243. [64]Ibid., 565.
+#: paragraph:72,sentence:280
+msgid "[63]A Course In Miracles Text, 243. [64]Ibid., 565."
+msgstr ""
+
+#. Paragraph 73: [65]Catherine Prescott, telephone interview by author, February 2008. [68]A Course In Miracles Text, 651.
+#: paragraph:73,sentence:281
+msgid "[65]Catherine Prescott, telephone interview by author, February 2008. [68]A Course In Miracles Text, 651."
+msgstr ""
+
+#. Paragraph 74: [69]Prescott interview, February 2008. [70]Jack and Layle Luckett telephone interview by author, September 2007.
+#: paragraph:74,sentence:282
+msgid "[69]Prescott interview, February 2008. [70]Jack and Layle Luckett telephone interview by author, September 2007."
+msgstr ""
+
+#. Paragraph 75: [71]A Course In Miracles Text, 577–578. [72]Hugh and Gayle Prather interview by author, October 1993.
+#: paragraph:75,sentence:283
+msgid "[71]A Course In Miracles Text, 577–578. [72]Hugh and Gayle Prather interview by author, October 1993."
+msgstr ""
+
+#. Paragraph 76: [73]Luckett interview, December 2007. [74]Jerry Jampolsky telephone interview by author, July 2007.
+#: paragraph:76,sentence:284
+msgid "[73]Luckett interview, December 2007. [74]Jerry Jampolsky telephone interview by author, July 2007."
+msgstr ""
+
+#. Paragraph 77: [75]Carlagaye Olson telephone interview by author, September 2007. [77]A Course In Miracles Text, 202.
+#: paragraph:77,sentence:285
+msgid "[75]Carlagaye Olson telephone interview by author, September 2007. [77]A Course In Miracles Text, 202."
+msgstr ""
+
+#. Paragraph 78: [78]As cited on daily AHAM email message to subscribers. (Association of Happiness For All Mankind, Asheboro, NC 27205, ahamcntr@asheboro.com) [79]Luckett, email message to author, August 2007.
+#: paragraph:78,sentence:286
+msgid "[78]As cited on daily AHAM email message to subscribers. (Association of Happiness For All Mankind, Asheboro, NC 27205, ahamcntr@asheboro.com) [79]Luckett, email message to author, August 2007."
+msgstr ""
+
+#. Paragraph 79: [80]Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1980. [81]Jampolsky interview, July 2007.
+#: paragraph:79,sentence:287
+msgid "[80]Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1980. [81]Jampolsky interview, July 2007."
+msgstr ""
+
+#. Paragraph 80: [82]Judith Skutch Whitson telephone interview by author, January 2008. [83]A Course In Miracles Text, 172–173.
+#: paragraph:80,sentence:288
+msgid "[82]Judith Skutch Whitson telephone interview by author, January 2008. [83]A Course In Miracles Text, 172–173."
+msgstr ""
+
+#. Paragraph 81: [84]Bob Beale telephone interview by author, February 2007. [85]Hugh and Gayle Prather interview by author, October 1993.
+#: paragraph:81,sentence:289
+msgid "[84]Bob Beale telephone interview by author, February 2007. [85]Hugh and Gayle Prather interview by author, October 1993."
+msgstr ""
+
+#. Paragraph 82: [86]Thetford personal reading, LeRoy Zemke, February 1980. [87]Catherine Prescott telephone interview by author, February 2008.
+#: paragraph:82,sentence:290
+msgid "[86]Thetford personal reading, LeRoy Zemke, February 1980. [87]Catherine Prescott telephone interview by author, February 2008."
+msgstr ""
+
+#. Paragraph 83: [88]Author’s transcription of Thetford Memorial Service, William Whitson, July 1988. [89]Author’s transcription of Thetford Memorial Service, Frances Vaughan, July 1988.
+#: paragraph:83,sentence:291
+msgid "[88]Author’s transcription of Thetford Memorial Service, William Whitson, July 1988. [89]Author’s transcription of Thetford Memorial Service, Frances Vaughan, July 1988."
+msgstr ""
+
+#. Paragraph 84: [90]Jaison Kayn telephone interview by author, February 2007. [91]Pat Hopkins interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 20:5, FIPA.
+#: paragraph:84,sentence:292
+msgid "[90]Jaison Kayn telephone interview by author, February 2007. [91]Pat Hopkins interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 84: [90]Jaison Kayn telephone interview by author, February 2007. [91]Pat Hopkins interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 20:5, FIPA.
+#: paragraph:84,sentence:293
+msgid "James Bolen, 20:5, FIPA."
+msgstr ""
+
+#. Paragraph 85: [92]Bob Beale telephone interview by author, February 2007. [93]William Whitson telephone interview by author, February 2008.
+#: paragraph:85,sentence:294
+msgid "[92]Bob Beale telephone interview by author, February 2007. [93]William Whitson telephone interview by author, February 2008."
+msgstr ""
+
+#. Paragraph 86: [94]Hugh and Gayle Prather interview by author, October 1993. [95]Roger Walsh telephone interview by author, March 2008.
+#: paragraph:86,sentence:295
+msgid "[94]Hugh and Gayle Prather interview by author, October 1993. [95]Roger Walsh telephone interview by author, March 2008."
+msgstr ""
+
+#. Paragraph 87: [96]Thetford Memorial Service, Roger Walsh, July 1988. [97]Jaison Kayn interview, February 2007.
+#: paragraph:87,sentence:296
+msgid "[96]Thetford Memorial Service, Roger Walsh, July 1988. [97]Jaison Kayn interview, February 2007."
+msgstr ""
+
+#. Paragraph 88: [98]Catherine Prescott telephone interview by author, August 2008. [99]Prather interview, October 1993.
+#: paragraph:88,sentence:297
+msgid "[98]Catherine Prescott telephone interview by author, August 2008. [99]Prather interview, October 1993."
+msgstr ""
+
+#. Paragraph 89: [100]Jaison Kayn interview, February 2007. [101]A Course In Miracles Text, 157.
+#: paragraph:89,sentence:298
+msgid "[100]Jaison Kayn interview, February 2007. [101]A Course In Miracles Text, 157."
+msgstr ""
+
+#. Paragraph 90: [102]Hugh and Gayle Prather interview by author, October 1993. [103]Jim Bolen, “William N. Thetford, Ph.D,” New Realities (September/October 1984), 20.
+#: paragraph:90,sentence:299
+msgid "[102]Hugh and Gayle Prather interview by author, October 1993. [103]Jim Bolen, “William N. Thetford, Ph.D,” New Realities (September/October 1984), 20."
+msgstr ""
+
+#. Paragraph 91: [104]William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:50, FIPA. [105]Bob Beale telephone interview by author, February 2007.
+#: paragraph:91,sentence:300
+msgid "[104]William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:50, FIPA. [105]Bob Beale telephone interview by author, February 2007."
+msgstr ""
+
+#. Paragraph 92: [106]Thetford: Life Story, 4:48, FIPA. [107]Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1980.
+#: paragraph:92,sentence:301
+msgid "[106]Thetford: Life Story, 4:48, FIPA. [107]Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1980."
+msgstr ""
+
+#. Paragraph 93: [108]Thetford: Life Story, 4:34, FIPA. [109]Ibid., 34–35.
+#: paragraph:93,sentence:302
+msgid "[108]Thetford: Life Story, 4:34, FIPA. [109]Ibid., 34–35."
+msgstr ""
+
+#. Paragraph 94: [110]Ibid., 36. [111]Ibid., 37.
+#: paragraph:94,sentence:303
+msgid "[110]Ibid., 36. [111]Ibid., 37."
+msgstr ""
+
+#. Paragraph 95: [112]Ibid., 38–39. [113]Calvin Hatcher interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 7:8, FIPA.
+#: paragraph:95,sentence:304
+msgid "[112]Ibid., 38–39. [113]Calvin Hatcher interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 95: [112]Ibid., 38–39. [113]Calvin Hatcher interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 7:8, FIPA.
+#: paragraph:95,sentence:305
+msgid "James Bolen, 7:8, FIPA."
+msgstr ""
+
+#. Paragraph 96: [114]Jim Bolen, “William N. Thetford, Ph.D,” New Realities (September/October 1984), 20. [115]Roger Walsh interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 25:7, FIPA.
+#: paragraph:96,sentence:306
+msgid "[114]Jim Bolen, “William N. Thetford, Ph.D,” New Realities (September/October 1984), 20. [115]Roger Walsh interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 96: [114]Jim Bolen, “William N. Thetford, Ph.D,” New Realities (September/October 1984), 20. [115]Roger Walsh interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 25:7, FIPA.
+#: paragraph:96,sentence:307
+msgid "James Bolen, 25:7, FIPA."
+msgstr ""
+
+#. Paragraph 97: [116]Jack and Layle Luckett telephone interview by author, September 2007. [117]Patricia Hopkins interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 20:6–7, FIPA.
+#: paragraph:97,sentence:308
+msgid "[116]Jack and Layle Luckett telephone interview by author, September 2007. [117]Patricia Hopkins interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 97: [116]Jack and Layle Luckett telephone interview by author, September 2007. [117]Patricia Hopkins interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 20:6–7, FIPA.
+#: paragraph:97,sentence:309
+msgid "James Bolen, 20:6–7, FIPA."
+msgstr ""
+
+#. Paragraph 98: [118]Luckett interview, December 2007. [119]Prather interview, October 1993.
+#: paragraph:98,sentence:310
+msgid "[118]Luckett interview, December 2007. [119]Prather interview, October 1993."
+msgstr ""
+
+#. Paragraph 99: [120]Thetford: Life Story, 4:51, FIPA.
+#: paragraph:99,sentence:311
+msgid "[120]Thetford: Life Story, 4:51, FIPA."
+msgstr ""
+

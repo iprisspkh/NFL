@@ -1,0 +1,1419 @@
+# Chapter 9: Chapter 3
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: About the time Bill felt his interesting work opportunities in Chicago were complete, he was recruited by the Central Intelligence Agency, the country’s newly reorganized intelligence service. All of ...
+#: paragraph:1,sentence:1
+msgid "About the time Bill felt his interesting work opportunities in Chicago were complete, he was recruited by the Central Intelligence Agency, the country’s newly reorganized intelligence service."
+msgstr ""
+
+#. Paragraph 1: About the time Bill felt his interesting work opportunities in Chicago were complete, he was recruited by the Central Intelligence Agency, the country’s newly reorganized intelligence service. All of ...
+#: paragraph:1,sentence:2
+msgid "All of Bill’s education and training up to that point had involved working with leading-edge scientists, innovators in science and medicine."
+msgstr ""
+
+#. Paragraph 1: About the time Bill felt his interesting work opportunities in Chicago were complete, he was recruited by the Central Intelligence Agency, the country’s newly reorganized intelligence service. All of ...
+#: paragraph:1,sentence:3
+msgid "Because his mentors and colleagues were well known, and publishing is always an integral and necessary aspect of academia, he had become widely recognized and respected throughout his field as a result of his own publications and others to which he contributed."
+msgstr ""
+
+#. Paragraph 1: About the time Bill felt his interesting work opportunities in Chicago were complete, he was recruited by the Central Intelligence Agency, the country’s newly reorganized intelligence service. All of ...
+#: paragraph:1,sentence:4
+msgid "Thus, he was also easy to track, even before the age of computers and modern-day surveillance."
+msgstr ""
+
+#. Paragraph 1: About the time Bill felt his interesting work opportunities in Chicago were complete, he was recruited by the Central Intelligence Agency, the country’s newly reorganized intelligence service. All of ...
+#: paragraph:1,sentence:5
+msgid "A friend of mine and Bill’s, conversant with how the CIA operates, indicated they had levels of connections back then, far beyond what we might imagine, to identify potential recruits who could prove useful to the Agency."
+msgstr ""
+
+#. Paragraph 1: About the time Bill felt his interesting work opportunities in Chicago were complete, he was recruited by the Central Intelligence Agency, the country’s newly reorganized intelligence service. All of ...
+#: paragraph:1,sentence:6
+msgid "Clearly, Bill fell into the “useful” category."
+msgstr ""
+
+#. Paragraph 2: Although working for the CIA would seem an implausible choice of work for him, it turned out to be essential for his path. The Manhattan Project, the job he had “wandered into” ostensibly to earn mone...
+#: paragraph:2,sentence:7
+msgid "Although working for the CIA would seem an implausible choice of work for him, it turned out to be essential for his path."
+msgstr ""
+
+#. Paragraph 2: Although working for the CIA would seem an implausible choice of work for him, it turned out to be essential for his path. The Manhattan Project, the job he had “wandered into” ostensibly to earn mone...
+#: paragraph:2,sentence:8
+msgid "The Manhattan Project, the job he had “wandered into” ostensibly to earn money for living expenses and medical school, had provided Bill with a high security clearance."
+msgstr ""
+
+#. Paragraph 2: Although working for the CIA would seem an implausible choice of work for him, it turned out to be essential for his path. The Manhattan Project, the job he had “wandered into” ostensibly to earn mone...
+#: paragraph:2,sentence:9
+msgid "His work with Carl Rogers, with its emphasis on relationships, fed the soul of this young NF, and he had gained some skill with early biofeedback techniques using scientific equipment then available."
+msgstr ""
+
+#. Paragraph 2: Although working for the CIA would seem an implausible choice of work for him, it turned out to be essential for his path. The Manhattan Project, the job he had “wandered into” ostensibly to earn mone...
+#: paragraph:2,sentence:10
+msgid "Next, he had become conversant with tests and measurement construction at the Michael Reese Hospital, and all of these combined to grant him entrée to the next important chapter of his life, work with the CIA."
+msgstr ""
+
+#. Paragraph 2: Although working for the CIA would seem an implausible choice of work for him, it turned out to be essential for his path. The Manhattan Project, the job he had “wandered into” ostensibly to earn mone...
+#: paragraph:2,sentence:11
+msgid "Outwardly, he was following a career path."
+msgstr ""
+
+#. Paragraph 2: Although working for the CIA would seem an implausible choice of work for him, it turned out to be essential for his path. The Manhattan Project, the job he had “wandered into” ostensibly to earn mone...
+#: paragraph:2,sentence:12
+msgid "In retrospect, we see he was led through the necessary steps, including all that emerged during his time with the CIA, toward his major spiritual fulfillment of co-authoring A Course In Miracles."
+msgstr ""
+
+#. Paragraph 3: It all seems so obvious once our lives are over. If only we could trust the rightness of everything while it is happening. Watching Bill’s destiny unfold after the fact, we can see that events and cir...
+#: paragraph:3,sentence:13
+msgid "It all seems so obvious once our lives are over."
+msgstr ""
+
+#. Paragraph 3: It all seems so obvious once our lives are over. If only we could trust the rightness of everything while it is happening. Watching Bill’s destiny unfold after the fact, we can see that events and cir...
+#: paragraph:3,sentence:14
+msgid "If only we could trust the rightness of everything while it is happening."
+msgstr ""
+
+#. Paragraph 3: It all seems so obvious once our lives are over. If only we could trust the rightness of everything while it is happening. Watching Bill’s destiny unfold after the fact, we can see that events and cir...
+#: paragraph:3,sentence:15
+msgid "Watching Bill’s destiny unfold after the fact, we can see that events and circumstances were always in good order, leading inexorably to his choice for peace of mind."
+msgstr ""
+
+#. Paragraph 4: Yet there is no step along the road that anyone takes but by chance. It has already been taken by him, although he has not yet embarked on it. For time but seems to go in one direction. We but underta...
+#: paragraph:4,sentence:16
+msgid "Yet there is no step along the road that anyone takes but by chance."
+msgstr ""
+
+#. Paragraph 4: Yet there is no step along the road that anyone takes but by chance. It has already been taken by him, although he has not yet embarked on it. For time but seems to go in one direction. We but underta...
+#: paragraph:4,sentence:17
+msgid "It has already been taken by him, although he has not yet embarked on it."
+msgstr ""
+
+#. Paragraph 4: Yet there is no step along the road that anyone takes but by chance. It has already been taken by him, although he has not yet embarked on it. For time but seems to go in one direction. We but underta...
+#: paragraph:4,sentence:18
+msgid "For time but seems to go in one direction."
+msgstr ""
+
+#. Paragraph 4: Yet there is no step along the road that anyone takes but by chance. It has already been taken by him, although he has not yet embarked on it. For time but seems to go in one direction. We but underta...
+#: paragraph:4,sentence:19
+msgid "We but undertake a journey that is over."
+msgstr ""
+
+#. Paragraph 4: Yet there is no step along the road that anyone takes but by chance. It has already been taken by him, although he has not yet embarked on it. For time but seems to go in one direction. We but underta...
+#: paragraph:4,sentence:20
+msgid "Yet it seems to have a future still unknown to us."
+msgstr ""
+
+#. Paragraph 5: Time is a trick, a sleight of hand, a vast illusion in which figures come and go as if by magic. Yet there is a plan behind appearances that does not change. The script is written. When experience wil...
+#: paragraph:5,sentence:21
+msgid "Time is a trick, a sleight of hand, a vast illusion in which figures come and go as if by magic"
+msgstr ""
+
+#. Paragraph 5: Time is a trick, a sleight of hand, a vast illusion in which figures come and go as if by magic. Yet there is a plan behind appearances that does not change. The script is written. When experience wil...
+#: paragraph:5,sentence:22
+msgid "Yet there is a plan behind appearances that does not change"
+msgstr ""
+
+#. Paragraph 5: Time is a trick, a sleight of hand, a vast illusion in which figures come and go as if by magic. Yet there is a plan behind appearances that does not change. The script is written. When experience wil...
+#: paragraph:5,sentence:23
+msgid "The script is written"
+msgstr ""
+
+#. Paragraph 5: Time is a trick, a sleight of hand, a vast illusion in which figures come and go as if by magic. Yet there is a plan behind appearances that does not change. The script is written. When experience wil...
+#: paragraph:5,sentence:24
+msgid "When experience will come to end your doubting has been set"
+msgstr ""
+
+#. Paragraph 5: Time is a trick, a sleight of hand, a vast illusion in which figures come and go as if by magic. Yet there is a plan behind appearances that does not change. The script is written. When experience wil...
+#: paragraph:5,sentence:25
+msgid "For we but see the journey from the point at which it ended, looking back on it, imagining we make it once again; reviewing mentally what has gone by.[20]"
+msgstr ""
+
+#. Paragraph 6: Patriotism was one of several factors in Bill’s decision to join the CIA, though not the primary one. Someone asked Jack Luckett, one of Bill’s closest friends in his later years, if he found Bill to ...
+#: paragraph:6,sentence:26
+msgid "Patriotism was one of several factors in Bill’s decision to join the CIA, though not the primary one"
+msgstr ""
+
+#. Paragraph 6: Patriotism was one of several factors in Bill’s decision to join the CIA, though not the primary one. Someone asked Jack Luckett, one of Bill’s closest friends in his later years, if he found Bill to ...
+#: paragraph:6,sentence:27
+msgid "Someone asked Jack Luckett, one of Bill’s closest friends in his later years, if he found Bill to be patriotic toward the end of his life"
+msgstr ""
+
+#. Paragraph 6: Patriotism was one of several factors in Bill’s decision to join the CIA, though not the primary one. Someone asked Jack Luckett, one of Bill’s closest friends in his later years, if he found Bill to ...
+#: paragraph:6,sentence:28
+msgid "Jack replied, “Not in the normal sense"
+msgstr ""
+
+#. Paragraph 6: Patriotism was one of several factors in Bill’s decision to join the CIA, though not the primary one. Someone asked Jack Luckett, one of Bill’s closest friends in his later years, if he found Bill to ...
+#: paragraph:6,sentence:29
+msgid "He saw himself as a citizen of the universe"
+msgstr ""
+
+#. Paragraph 6: Patriotism was one of several factors in Bill’s decision to join the CIA, though not the primary one. Someone asked Jack Luckett, one of Bill’s closest friends in his later years, if he found Bill to ...
+#: paragraph:6,sentence:30
+msgid "He was secretly proud of his CIA connection, and because of my ‘spook’ background, chatted with me about it"
+msgstr ""
+
+#. Paragraph 6: Patriotism was one of several factors in Bill’s decision to join the CIA, though not the primary one. Someone asked Jack Luckett, one of Bill’s closest friends in his later years, if he found Bill to ...
+#: paragraph:6,sentence:31
+msgid "It was more pride in adventure than dedication to eliminating enemies.”[21]"
+msgstr ""
+
+#. Paragraph 7: The CIA’s predecessor, the Office of Strategic Services (OSS), which was responsible for US intelligence operations during World War II, was disbanded shortly after the war ended. At that time, howeve...
+#: paragraph:7,sentence:32
+msgid "The CIA’s predecessor, the Office of Strategic Services (OSS), which was responsible for US intelligence operations during World War II, was disbanded shortly after the war ended"
+msgstr ""
+
+#. Paragraph 7: The CIA’s predecessor, the Office of Strategic Services (OSS), which was responsible for US intelligence operations during World War II, was disbanded shortly after the war ended. At that time, howeve...
+#: paragraph:7,sentence:33
+msgid "At that time, however, the cold war with the Soviet Union was intensifying and the United States recognized the imperative need for strategic intelligence"
+msgstr ""
+
+#. Paragraph 7: The CIA’s predecessor, the Office of Strategic Services (OSS), which was responsible for US intelligence operations during World War II, was disbanded shortly after the war ended. At that time, howeve...
+#: paragraph:7,sentence:34
+msgid "After some reshuffling of functions into various other agencies, the National Security Act established the CIA in 1947"
+msgstr ""
+
+#. Paragraph 7: The CIA’s predecessor, the Office of Strategic Services (OSS), which was responsible for US intelligence operations during World War II, was disbanded shortly after the war ended. At that time, howeve...
+#: paragraph:7,sentence:35
+msgid "It was unorganized, had no official headquarters, and was generally a mess, bearing little resemblance to the present-day organization"
+msgstr ""
+
+#. Paragraph 7: The CIA’s predecessor, the Office of Strategic Services (OSS), which was responsible for US intelligence operations during World War II, was disbanded shortly after the war ended. At that time, howeve...
+#: paragraph:7,sentence:36
+msgid "From “William Newton Thetford and the Central Intelligence Agency”:"
+msgstr ""
+
+#. Paragraph 8: As the global total cold war gathered momentum, it became clear that the young CIA desperately needed help. An extraordinary network of civilian universities and government agencies had provided OSS w...
+#: paragraph:8,sentence:37
+msgid "As the global total cold war gathered momentum, it became clear that the young CIA desperately needed help"
+msgstr ""
+
+#. Paragraph 8: As the global total cold war gathered momentum, it became clear that the young CIA desperately needed help. An extraordinary network of civilian universities and government agencies had provided OSS w...
+#: paragraph:8,sentence:38
+msgid "An extraordinary network of civilian universities and government agencies had provided OSS with a steady stream of raw intelligence to guide the total war against Nazi Germany and Japan"
+msgstr ""
+
+#. Paragraph 8: As the global total cold war gathered momentum, it became clear that the young CIA desperately needed help. An extraordinary network of civilian universities and government agencies had provided OSS w...
+#: paragraph:8,sentence:39
+msgid "In contrast, the young CIA in 1947 was treated like a stepchild, its experienced leadership in short supply, its actual and legal authority still unclear"
+msgstr ""
+
+#. Paragraph 8: As the global total cold war gathered momentum, it became clear that the young CIA desperately needed help. An extraordinary network of civilian universities and government agencies had provided OSS w...
+#: paragraph:8,sentence:40
+msgid "The new CIA needed more than old files from the OSS"
+msgstr ""
+
+#. Paragraph 8: As the global total cold war gathered momentum, it became clear that the young CIA desperately needed help. An extraordinary network of civilian universities and government agencies had provided OSS w...
+#: paragraph:8,sentence:41
+msgid "Their greatest need was for personnel"
+msgstr ""
+
+#. Paragraph 8: As the global total cold war gathered momentum, it became clear that the young CIA desperately needed help. An extraordinary network of civilian universities and government agencies had provided OSS w...
+#: paragraph:8,sentence:42
+msgid "During hearings on the National Security Act of 1947, the new director of central intelligence, Allen Dulles, said, “The new intelligence entity would be directed by a relatively small but elite corps of men with a passion for anonymity and a willingness to stick at that particular job"
+msgstr ""
+
+#. Paragraph 8: As the global total cold war gathered momentum, it became clear that the young CIA desperately needed help. An extraordinary network of civilian universities and government agencies had provided OSS w...
+#: paragraph:8,sentence:43
+msgid "The agency must have a corps of the most competent men, which this country can produce, to evaluate and correlate the intelligence obtained.”[22]"
+msgstr ""
+
+#. Paragraph 9: The challenge was how to recruit and evaluate this badly needed group of people. At that time, various schools of psychology had been around for about one hundred years; they seemed to hold the keys t...
+#: paragraph:9,sentence:44
+msgid "The challenge was how to recruit and evaluate this badly needed group of people."
+msgstr ""
+
+#. Paragraph 9: The challenge was how to recruit and evaluate this badly needed group of people. At that time, various schools of psychology had been around for about one hundred years; they seemed to hold the keys t...
+#: paragraph:9,sentence:45
+msgid "At that time, various schools of psychology had been around for about one hundred years; they seemed to hold the keys to human behavior—a must-have for evaluating foreign leaders and how they might respond under different circumstances—and to methods for recruiting those essential intelligence officers."
+msgstr ""
+
+#. Paragraph 9: The challenge was how to recruit and evaluate this badly needed group of people. At that time, various schools of psychology had been around for about one hundred years; they seemed to hold the keys t...
+#: paragraph:9,sentence:46
+msgid "In 1950, the year before Bill was hired, the CIA had offered John Gittinger the position of director of its assessment and evaluation staff."
+msgstr ""
+
+#. Paragraph 9: The challenge was how to recruit and evaluate this badly needed group of people. At that time, various schools of psychology had been around for about one hundred years; they seemed to hold the keys t...
+#: paragraph:9,sentence:47
+msgid "Bill, hired in 1951 as one of about ten senior psychologists at that time, worked for Gittinger in that department and would continue to work indirectly with him throughout much of his academic career."
+msgstr ""
+
+#. Paragraph 9: The challenge was how to recruit and evaluate this badly needed group of people. At that time, various schools of psychology had been around for about one hundred years; they seemed to hold the keys t...
+#: paragraph:9,sentence:48
+msgid "John made a tremendous impression on Bill and became a pivotal player in his life."
+msgstr ""
+
+#. Paragraph 10: Bill’s duties included administering a series of tests to applicants seeking to become intelligence officers and/or spies, then interviewing and recommending them or not. There was a sense of danger i...
+#: paragraph:10,sentence:49
+msgid "Bill’s duties included administering a series of tests to applicants seeking to become intelligence officers and/or spies, then interviewing and recommending them or not."
+msgstr ""
+
+#. Paragraph 10: Bill’s duties included administering a series of tests to applicants seeking to become intelligence officers and/or spies, then interviewing and recommending them or not. There was a sense of danger i...
+#: paragraph:10,sentence:50
+msgid "There was a sense of danger in the air and great urgency about staffing up as the cold war with the Soviet Union escalated and the Korean War progressed."
+msgstr ""
+
+#. Paragraph 10: Bill’s duties included administering a series of tests to applicants seeking to become intelligence officers and/or spies, then interviewing and recommending them or not. There was a sense of danger i...
+#: paragraph:10,sentence:51
+msgid "Obviously, in screening potential hires, the psychologists needed insight, intuition, and the ability to read people accurately, all of which were Bill’s strong suits."
+msgstr ""
+
+#. Paragraph 10: Bill’s duties included administering a series of tests to applicants seeking to become intelligence officers and/or spies, then interviewing and recommending them or not. There was a sense of danger i...
+#: paragraph:10,sentence:52
+msgid "Because of the sensitive nature of this work—interviewing those who would be working for the Agency in various intelligence capacities—Bill soon attained a top secret security clearance, something that usually took a while to earn."
+msgstr ""
+
+#. Paragraph 10: Bill’s duties included administering a series of tests to applicants seeking to become intelligence officers and/or spies, then interviewing and recommending them or not. There was a sense of danger i...
+#: paragraph:10,sentence:53
+msgid "It would serve him later as his worldly saga unfolded."
+msgstr ""
+
+#. Paragraph 11: Working with the CIA offered Bill, in addition to his position on the assessment and evaluation team, the added opportunity to learn more about Gittinger’s new project to assess people’s capabilities ...
+#: paragraph:11,sentence:54
+msgid "Working with the CIA offered Bill, in addition to his position on the assessment and evaluation team, the added opportunity to learn more about Gittinger’s new project to assess people’s capabilities under various conditions, stressful and otherwise"
+msgstr ""
+
+#. Paragraph 11: Working with the CIA offered Bill, in addition to his position on the assessment and evaluation team, the added opportunity to learn more about Gittinger’s new project to assess people’s capabilities ...
+#: paragraph:11,sentence:55
+msgid "These innovations and their potential importance greatly impressed Bill, providing the next chapter of his series of psychological explorations"
+msgstr ""
+
+#. Paragraph 11: Working with the CIA offered Bill, in addition to his position on the assessment and evaluation team, the added opportunity to learn more about Gittinger’s new project to assess people’s capabilities ...
+#: paragraph:11,sentence:56
+msgid "Gittinger had developed a process, originally to describe the dynamics and adjustments of mental dysfunction, but later widely used as a technique for general psychological assessment"
+msgstr ""
+
+#. Paragraph 11: Working with the CIA offered Bill, in addition to his position on the assessment and evaluation team, the added opportunity to learn more about Gittinger’s new project to assess people’s capabilities ...
+#: paragraph:11,sentence:57
+msgid "He reportedly was very charismatic and loved to talk for hours about his theories"
+msgstr ""
+
+#. Paragraph 11: Working with the CIA offered Bill, in addition to his position on the assessment and evaluation team, the added opportunity to learn more about Gittinger’s new project to assess people’s capabilities ...
+#: paragraph:11,sentence:58
+msgid "An early colleague of Bill’s reported, “You couldn’t ignore John; he was there, he filled up a room"
+msgstr ""
+
+#. Paragraph 11: Working with the CIA offered Bill, in addition to his position on the assessment and evaluation team, the added opportunity to learn more about Gittinger’s new project to assess people’s capabilities ...
+#: paragraph:11,sentence:59
+msgid "He was a pied-piper, guru-type, interesting individual who developed a theory in terms of how people progressed through life"
+msgstr ""
+
+#. Paragraph 11: Working with the CIA offered Bill, in addition to his position on the assessment and evaluation team, the added opportunity to learn more about Gittinger’s new project to assess people’s capabilities ...
+#: paragraph:11,sentence:60
+msgid "I know Bill was intrigued and would often sit and listen to John expound his theories.”[23]"
+msgstr ""
+
+#. Paragraph 12: During his first year with the CIA, Gittinger continued work on his model of personality development, newly named the Personality Assessment System, or PAS. For more than two decades, John and others,...
+#: paragraph:12,sentence:61
+msgid "During his first year with the CIA, Gittinger continued work on his model of personality development, newly named the Personality Assessment System, or PAS."
+msgstr ""
+
+#. Paragraph 12: During his first year with the CIA, Gittinger continued work on his model of personality development, newly named the Personality Assessment System, or PAS. For more than two decades, John and others,...
+#: paragraph:12,sentence:62
+msgid "For more than two decades, John and others, including Bill, continued to refine what eventually Bill considered the most powerful and efficient descriptive and predictive personality assessment system in the world, deserving to be ranked with Freud and Jung’s discoveries."
+msgstr ""
+
+#. Paragraph 12: During his first year with the CIA, Gittinger continued work on his model of personality development, newly named the Personality Assessment System, or PAS. For more than two decades, John and others,...
+#: paragraph:12,sentence:63
+msgid "Leaders in intelligence circles wholeheartedly agreed with this assessment."
+msgstr ""
+
+#. Paragraph 13: At that time [1961] CIA psychologists began to substitute such direct evidence as body language and overt behavior for the one-hour test to assess personality. However, the PAS remained the conceptual...
+#: paragraph:13,sentence:64
+msgid "At that time [1961] CIA psychologists began to substitute such direct evidence as body language and overt behavior for the one-hour test to assess personality"
+msgstr ""
+
+#. Paragraph 13: At that time [1961] CIA psychologists began to substitute such direct evidence as body language and overt behavior for the one-hour test to assess personality. However, the PAS remained the conceptual...
+#: paragraph:13,sentence:65
+msgid "However, the PAS remained the conceptual structure that guided any such assessment from direct observation"
+msgstr ""
+
+#. Paragraph 13: At that time [1961] CIA psychologists began to substitute such direct evidence as body language and overt behavior for the one-hour test to assess personality. However, the PAS remained the conceptual...
+#: paragraph:13,sentence:66
+msgid "Using the PAS to analyze and make accurate predictions about key world leaders, Gittinger advised several presidents until his retirement in 1978"
+msgstr ""
+
+#. Paragraph 13: At that time [1961] CIA psychologists began to substitute such direct evidence as body language and overt behavior for the one-hour test to assess personality. However, the PAS remained the conceptual...
+#: paragraph:13,sentence:67
+msgid "As early as the Cuban missile crisis in October 1962, he conferred with President Kennedy about the likely behavior of Nikolai Khrushchev under stress"
+msgstr ""
+
+#. Paragraph 13: At that time [1961] CIA psychologists began to substitute such direct evidence as body language and overt behavior for the one-hour test to assess personality. However, the PAS remained the conceptual...
+#: paragraph:13,sentence:68
+msgid "The astonishing accuracy of the PAS eventually won for Gittinger promotion to the role of Chief Psychologist of CIA for World Wide Operations.[24]"
+msgstr ""
+
+#. Paragraph 14: Early in our friendship, Bill told me more than once about his helping to develop a test that could ferret out potential double agents. It seemed to have some special appeal to him, as he became more ...
+#: paragraph:14,sentence:69
+msgid "Early in our friendship, Bill told me more than once about his helping to develop a test that could ferret out potential double agents"
+msgstr ""
+
+#. Paragraph 14: Early in our friendship, Bill told me more than once about his helping to develop a test that could ferret out potential double agents. It seemed to have some special appeal to him, as he became more ...
+#: paragraph:14,sentence:70
+msgid "It seemed to have some special appeal to him, as he became more animated when he spoke of it"
+msgstr ""
+
+#. Paragraph 14: Early in our friendship, Bill told me more than once about his helping to develop a test that could ferret out potential double agents. It seemed to have some special appeal to him, as he became more ...
+#: paragraph:14,sentence:71
+msgid "I knew nothing about the CIA’s early history at that point and couldn’t fully appreciate the scope of the work and Bill’s major contributions to refining that assessment tool, but I did recognize his enthusiasm"
+msgstr ""
+
+#. Paragraph 14: Early in our friendship, Bill told me more than once about his helping to develop a test that could ferret out potential double agents. It seemed to have some special appeal to him, as he became more ...
+#: paragraph:14,sentence:72
+msgid "Even as a young man, when it came to understanding human behavior, Bill was already in the vanguard and Gittinger recognized that talent"
+msgstr ""
+
+#. Paragraph 14: Early in our friendship, Bill told me more than once about his helping to develop a test that could ferret out potential double agents. It seemed to have some special appeal to him, as he became more ...
+#: paragraph:14,sentence:73
+msgid "As David Goodrich, a colleague of Bill’s, reported:"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:74
+msgid "John was not a doctor of psychology; he had a master’s degree in counseling"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:75
+msgid "That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:76
+msgid "And, obviously, he held a most favorable opinion of him"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:77
+msgid "Everyone who ever worked with Bill realized he was an extremely bright guy"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:78
+msgid "John considered Bill one of his real protégés"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:79
+msgid "Basically, John was a very human guy, always somewhat overweight, and as part of his theory, he believed that people were born with or soon acquired something that either made them attractive or unattractive to people"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:80
+msgid "He believed the world treated the cute baby or the attractive little child very differently, allowing them to develop a totally different perspective than people like John believed himself to be"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:81
+msgid "A great deal of John’s thinking was that those unattractive people had to compensate"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:82
+msgid "That was his own self-account"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:83
+msgid "John was motivated by a sincere desire to be helpful to the Agency and he was"
+msgstr ""
+
+#. Paragraph 15: John was not a doctor of psychology; he had a master’s degree in counseling. That’s not a big deal but I think it was to John, so someone with Bill’s credentials was very attractive to him. And, obvio...
+#: paragraph:15,sentence:84
+msgid "He also had a huge investment in this theory and had at least as much ego as the rest of us, if not more.[25]"
+msgstr ""
+
+#. Paragraph 16: The purpose of the PAS is to predict a person’s future behavior so that the responding behavior can be appropriate in relation to it. Where you cannot give the test directly—as for instance, to a fore...
+#: paragraph:16,sentence:85
+msgid "The purpose of the PAS is to predict a person’s future behavior so that the responding behavior can be appropriate in relation to it."
+msgstr ""
+
+#. Paragraph 16: The purpose of the PAS is to predict a person’s future behavior so that the responding behavior can be appropriate in relation to it. Where you cannot give the test directly—as for instance, to a fore...
+#: paragraph:16,sentence:86
+msgid "Where you cannot give the test directly—as for instance, to a foreign leader—it is important to have ways to determine the personality that underlies observable behavior, thus making it possible to predict that person’s future actions."
+msgstr ""
+
+#. Paragraph 16: The purpose of the PAS is to predict a person’s future behavior so that the responding behavior can be appropriate in relation to it. Where you cannot give the test directly—as for instance, to a fore...
+#: paragraph:16,sentence:87
+msgid "Obviously, greater comprehension of human behavior is very important in many other areas, as well—all types of counseling and psychotherapy, personnel work, classroom assessments, crime detection and prevention, to name a few—and, of course, foreign relations."
+msgstr ""
+
+#. Paragraph 17: According to the Personality Assessment System Foundation web site, the PAS contributes to the prediction of behavior in several ways: • It indicates the kinds of internal and external cues the indivi...
+#: paragraph:17,sentence:88
+msgid "According to the Personality Assessment System Foundation web site, the PAS contributes to the prediction of behavior in several ways: • It indicates the kinds of internal and external cues the individual is most likely to respond to overtly; • It suggests the types of stimuli most likely to produce behavior change; • It provides an understanding of the quality of environments in which the individual is most likely to behave efficiently; • It offers insight into situations that are stressful for the individual; • It permits prediction of the probable nature of maladjusted behavior, should maladjusted behavior occur."
+msgstr ""
+
+#. Paragraph 18: The PAS thus contributes to individual assessment by providing practical insights into a highly personalized pattern of strengths and weaknesses. At the same time, the system allows objective comparis...
+#: paragraph:18,sentence:89
+msgid "The PAS thus contributes to individual assessment by providing practical insights into a highly personalized pattern of strengths and weaknesses"
+msgstr ""
+
+#. Paragraph 18: The PAS thus contributes to individual assessment by providing practical insights into a highly personalized pattern of strengths and weaknesses. At the same time, the system allows objective comparis...
+#: paragraph:18,sentence:90
+msgid "At the same time, the system allows objective comparisons among the personality features of different individuals, thereby offering a suitable framework for behavioral research and definitive investigations of personality structure and function.[26]"
+msgstr ""
+
+#. Paragraph 19: In other words, the PAS is an elaborate system for describing how personality is built from infancy through adolescence and all the compensations required when we reject our innate characteristics and...
+#: paragraph:19,sentence:91
+msgid "In other words, the PAS is an elaborate system for describing how personality is built from infancy through adolescence and all the compensations required when we reject our innate characteristics and inclinations, when we are not self-accepting"
+msgstr ""
+
+#. Paragraph 19: In other words, the PAS is an elaborate system for describing how personality is built from infancy through adolescence and all the compensations required when we reject our innate characteristics and...
+#: paragraph:19,sentence:92
+msgid "This applies to every person born"
+msgstr ""
+
+#. Paragraph 19: In other words, the PAS is an elaborate system for describing how personality is built from infancy through adolescence and all the compensations required when we reject our innate characteristics and...
+#: paragraph:19,sentence:93
+msgid "A Course In Miracles also speaks with revealing eloquence on the subject, though with a decidedly different slant:"
+msgstr ""
+
+#. Paragraph 20: The building of a concept of the self is what the learning of the world is for. This is its purpose; that you come without a self, and make one as you go along. And by the time you reach “maturity” yo...
+#: paragraph:20,sentence:94
+msgid "The building of a concept of the self is what the learning of the world is for."
+msgstr ""
+
+#. Paragraph 20: The building of a concept of the self is what the learning of the world is for. This is its purpose; that you come without a self, and make one as you go along. And by the time you reach “maturity” yo...
+#: paragraph:20,sentence:95
+msgid "This is its purpose; that you come without a self, and make one as you go along."
+msgstr ""
+
+#. Paragraph 20: The building of a concept of the self is what the learning of the world is for. This is its purpose; that you come without a self, and make one as you go along. And by the time you reach “maturity” yo...
+#: paragraph:20,sentence:96
+msgid "And by the time you reach “maturity” you have perfected it, to meet the world on equal terms, at one with its demands. . . ."
+msgstr ""
+
+#. Paragraph 21: A concept of the self is made by you. It bears no likeness to yourself at all. It is an idol, made to take the place of your reality as Son of God. . . .[27] You will make many concepts of the self as...
+#: paragraph:21,sentence:97
+msgid "A concept of the self is made by you"
+msgstr ""
+
+#. Paragraph 21: A concept of the self is made by you. It bears no likeness to yourself at all. It is an idol, made to take the place of your reality as Son of God. . . .[27] You will make many concepts of the self as...
+#: paragraph:21,sentence:98
+msgid "It bears no likeness to yourself at all"
+msgstr ""
+
+#. Paragraph 21: A concept of the self is made by you. It bears no likeness to yourself at all. It is an idol, made to take the place of your reality as Son of God. . . .[27] You will make many concepts of the self as...
+#: paragraph:21,sentence:99
+msgid "It is an idol, made to take the place of your reality as Son of God. . . .[27] You will make many concepts of the self as learning goes along"
+msgstr ""
+
+#. Paragraph 21: A concept of the self is made by you. It bears no likeness to yourself at all. It is an idol, made to take the place of your reality as Son of God. . . .[27] You will make many concepts of the self as...
+#: paragraph:21,sentence:100
+msgid "Each one will show the changes in your own relationships, as your perception of yourself is changed"
+msgstr ""
+
+#. Paragraph 21: A concept of the self is made by you. It bears no likeness to yourself at all. It is an idol, made to take the place of your reality as Son of God. . . .[27] You will make many concepts of the self as...
+#: paragraph:21,sentence:101
+msgid "There will be some confusion every time there is a shift, but be you thankful that the learning of the world is loosening its grasp upon your mind"
+msgstr ""
+
+#. Paragraph 21: A concept of the self is made by you. It bears no likeness to yourself at all. It is an idol, made to take the place of your reality as Son of God. . . .[27] You will make many concepts of the self as...
+#: paragraph:21,sentence:102
+msgid "And be you sure and happy in the confidence that it will go at last, and leave your mind at peace.[28]"
+msgstr ""
+
+#. Paragraph 22: Working with John Gittinger, Bill was becoming enamored with the PAS, this very sophisticated process of describing how a personality is built and under what conditions. The Myers-Briggs test, excelle...
+#: paragraph:22,sentence:103
+msgid "Working with John Gittinger, Bill was becoming enamored with the PAS, this very sophisticated process of describing how a personality is built and under what conditions."
+msgstr ""
+
+#. Paragraph 22: Working with John Gittinger, Bill was becoming enamored with the PAS, this very sophisticated process of describing how a personality is built and under what conditions. The Myers-Briggs test, excelle...
+#: paragraph:22,sentence:104
+msgid "The Myers-Briggs test, excellent and helpful though it is, does not have this level of sophistication."
+msgstr ""
+
+#. Paragraph 22: Working with John Gittinger, Bill was becoming enamored with the PAS, this very sophisticated process of describing how a personality is built and under what conditions. The Myers-Briggs test, excelle...
+#: paragraph:22,sentence:105
+msgid "ACIM had not yet been written, although it would have much to say about personality development in years to come."
+msgstr ""
+
+#. Paragraph 22: Working with John Gittinger, Bill was becoming enamored with the PAS, this very sophisticated process of describing how a personality is built and under what conditions. The Myers-Briggs test, excelle...
+#: paragraph:22,sentence:106
+msgid "We can already look ahead and compare the foundations on which the PAS is built to those of the Course, and the life-altering decision that lay ahead for Bill."
+msgstr ""
+
+#. Paragraph 23: Referencing personality development, “William Newton Thetford and the Central Intelligence Agency” includes a firsthand description of twenty-seven-year-old Bill by one of his colleagues in 1950. Real...
+#: paragraph:23,sentence:107
+msgid "Referencing personality development, “William Newton Thetford and the Central Intelligence Agency” includes a firsthand description of twenty-seven-year-old Bill by one of his colleagues in 1950"
+msgstr ""
+
+#. Paragraph 23: Referencing personality development, “William Newton Thetford and the Central Intelligence Agency” includes a firsthand description of twenty-seven-year-old Bill by one of his colleagues in 1950. Real...
+#: paragraph:23,sentence:108
+msgid "Realizing that no observation is objective but colored by the mind-set of the observer, I think the correlations between the theory of Bill’s personality (see Appendix One) and this firsthand account are worth noting:"
+msgstr ""
+
+#. Paragraph 24: An independent but socially involved person, Bill had a high sense of mission. He was typically well organized, systematic, self-disciplined and socially effective, if often aloof. Although he could b...
+#: paragraph:24,sentence:109
+msgid "An independent but socially involved person, Bill had a high sense of mission"
+msgstr ""
+
+#. Paragraph 24: An independent but socially involved person, Bill had a high sense of mission. He was typically well organized, systematic, self-disciplined and socially effective, if often aloof. Although he could b...
+#: paragraph:24,sentence:110
+msgid "He was typically well organized, systematic, self-disciplined and socially effective, if often aloof"
+msgstr ""
+
+#. Paragraph 24: An independent but socially involved person, Bill had a high sense of mission. He was typically well organized, systematic, self-disciplined and socially effective, if often aloof. Although he could b...
+#: paragraph:24,sentence:111
+msgid "Although he could be intensely individualistic and unconventional, he was rarely revolutionary, preferring to dedicate his practical, pragmatic nature to improving, not dismantling, organizations and procedures"
+msgstr ""
+
+#. Paragraph 24: An independent but socially involved person, Bill had a high sense of mission. He was typically well organized, systematic, self-disciplined and socially effective, if often aloof. Although he could b...
+#: paragraph:24,sentence:112
+msgid "He was very conscious of his own needs, which he usually kept under effective control"
+msgstr ""
+
+#. Paragraph 24: An independent but socially involved person, Bill had a high sense of mission. He was typically well organized, systematic, self-disciplined and socially effective, if often aloof. Although he could b...
+#: paragraph:24,sentence:113
+msgid "He was equally perceptive of the needs of others but was not likely to be dominated by them"
+msgstr ""
+
+#. Paragraph 24: An independent but socially involved person, Bill had a high sense of mission. He was typically well organized, systematic, self-disciplined and socially effective, if often aloof. Although he could b...
+#: paragraph:24,sentence:114
+msgid "As a manager, he was thus concerned but relatively dispassionate, sometimes appearing detached or even unsupportive if others failed to meet his high standards"
+msgstr ""
+
+#. Paragraph 24: An independent but socially involved person, Bill had a high sense of mission. He was typically well organized, systematic, self-disciplined and socially effective, if often aloof. Although he could b...
+#: paragraph:24,sentence:115
+msgid "He was typically ahead of or on top of events, confident of his ability to cope with most situations and able to prepare for those that promised to be challenging"
+msgstr ""
+
+#. Paragraph 24: An independent but socially involved person, Bill had a high sense of mission. He was typically well organized, systematic, self-disciplined and socially effective, if often aloof. Although he could b...
+#: paragraph:24,sentence:116
+msgid "He rarely got caught off guard or over his head.[29]"
+msgstr ""
+
+#. Paragraph 25: In researching this book, I spoke with three of Bill’s colleagues, then also senior psychologists with the CIA, who indicated that in the early 1950s they recruited only the “brightest and best,” orig...
+#: paragraph:25,sentence:117
+msgid "In researching this book, I spoke with three of Bill’s colleagues, then also senior psychologists with the CIA, who indicated that in the early 1950s they recruited only the “brightest and best,” originally graduates from Yale and Harvard but later from other institutions as well."
+msgstr ""
+
+#. Paragraph 25: In researching this book, I spoke with three of Bill’s colleagues, then also senior psychologists with the CIA, who indicated that in the early 1950s they recruited only the “brightest and best,” orig...
+#: paragraph:25,sentence:118
+msgid "They said it was a very interesting and exciting time, with much innovative work in the assessment area and a great sense of esprit de corps."
+msgstr ""
+
+#. Paragraph 25: In researching this book, I spoke with three of Bill’s colleagues, then also senior psychologists with the CIA, who indicated that in the early 1950s they recruited only the “brightest and best,” orig...
+#: paragraph:25,sentence:119
+msgid "Feeling part of the inner group, these bright young people entrusted with sensitive, high-priority tasks were always very supportive of one another."
+msgstr ""
+
+#. Paragraph 25: In researching this book, I spoke with three of Bill’s colleagues, then also senior psychologists with the CIA, who indicated that in the early 1950s they recruited only the “brightest and best,” orig...
+#: paragraph:25,sentence:120
+msgid "Friends conversant with the CIA from its earliest days confirmed the collegial culture there and indicated that many who worked together stayed in touch long after leaving their official employment with the Agency, continuing to support each other and their interests whenever possible."
+msgstr ""
+
+#. Paragraph 25: In researching this book, I spoke with three of Bill’s colleagues, then also senior psychologists with the CIA, who indicated that in the early 1950s they recruited only the “brightest and best,” orig...
+#: paragraph:25,sentence:121
+msgid "Apparently, one never really retires from the CIA."
+msgstr ""
+
+#. Paragraph 26: One of his new friends at the Agency described Bill, on first meeting, as very young in appearance (he was twenty-eight), bright-eyed, intelligent, very enthusiastic about his interests, fun to be aro...
+#: paragraph:26,sentence:122
+msgid "One of his new friends at the Agency described Bill, on first meeting, as very young in appearance (he was twenty-eight), bright-eyed, intelligent, very enthusiastic about his interests, fun to be around, friendly and gregarious, but somewhat restless, as if he had not quite found himself."
+msgstr ""
+
+#. Paragraph 26: One of his new friends at the Agency described Bill, on first meeting, as very young in appearance (he was twenty-eight), bright-eyed, intelligent, very enthusiastic about his interests, fun to be aro...
+#: paragraph:26,sentence:123
+msgid "For all his outward charm, Bill was reticent about revealing himself; he did not discuss his private life or how he felt."
+msgstr ""
+
+#. Paragraph 27: Despite his youthful enthusiasm, it seemed that Bill was not going to make Washington and the Agency a permanent stop. He spent as many weekends as possible in New York attending the theater, his pass...
+#: paragraph:27,sentence:124
+msgid "Despite his youthful enthusiasm, it seemed that Bill was not going to make Washington and the Agency a permanent stop."
+msgstr ""
+
+#. Paragraph 27: Despite his youthful enthusiasm, it seemed that Bill was not going to make Washington and the Agency a permanent stop. He spent as many weekends as possible in New York attending the theater, his pass...
+#: paragraph:27,sentence:125
+msgid "He spent as many weekends as possible in New York attending the theater, his passion even then, and feeling very much at home in the city."
+msgstr ""
+
+#. Paragraph 27: Despite his youthful enthusiasm, it seemed that Bill was not going to make Washington and the Agency a permanent stop. He spent as many weekends as possible in New York attending the theater, his pass...
+#: paragraph:27,sentence:126
+msgid "Music and theater were already part of his very soul."
+msgstr ""
+
+#. Paragraph 27: Despite his youthful enthusiasm, it seemed that Bill was not going to make Washington and the Agency a permanent stop. He spent as many weekends as possible in New York attending the theater, his pass...
+#: paragraph:27,sentence:127
+msgid "Friends remembered him wearing his tight-fitting khaki pants and boots, conveying more the essence of the theatrical world than a government job."
+msgstr ""
+
+#. Paragraph 27: Despite his youthful enthusiasm, it seemed that Bill was not going to make Washington and the Agency a permanent stop. He spent as many weekends as possible in New York attending the theater, his pass...
+#: paragraph:27,sentence:128
+msgid "One colleague said they often had lunch with a woman, Gertrude, who was also especially interested in the theater; Bill was close to her although she was ten years his senior."
+msgstr ""
+
+#. Paragraph 27: Despite his youthful enthusiasm, it seemed that Bill was not going to make Washington and the Agency a permanent stop. He spent as many weekends as possible in New York attending the theater, his pass...
+#: paragraph:27,sentence:129
+msgid "With this early draw to New York and its culture, he was not finding or establishing roots in Washington, D. C. , despite being dedicated to his work there."
+msgstr ""
+
+#. Paragraph 28: Bill preferred the company of women to the military or “macho” men who were in the majority at the CIA. That was understandable because by then he had recognized and accepted his homosexuality, which ...
+#: paragraph:28,sentence:130
+msgid "Bill preferred the company of women to the military or “macho” men who were in the majority at the CIA."
+msgstr ""
+
+#. Paragraph 28: Bill preferred the company of women to the military or “macho” men who were in the majority at the CIA. That was understandable because by then he had recognized and accepted his homosexuality, which ...
+#: paragraph:28,sentence:131
+msgid "That was understandable because by then he had recognized and accepted his homosexuality, which would seem an impossible situation since homosexuals were not allowed in the CIA."
+msgstr ""
+
+#. Paragraph 28: Bill preferred the company of women to the military or “macho” men who were in the majority at the CIA. That was understandable because by then he had recognized and accepted his homosexuality, which ...
+#: paragraph:28,sentence:132
+msgid "Applicants were required to take a polygraph test that should have revealed as much."
+msgstr ""
+
+#. Paragraph 28: Bill preferred the company of women to the military or “macho” men who were in the majority at the CIA. That was understandable because by then he had recognized and accepted his homosexuality, which ...
+#: paragraph:28,sentence:133
+msgid "Bill indicated many years later, however, that his familiarity with biofeedback and various scientific instruments used during his time with Carl Rogers and the completing of his Ph.D. taught him how to make the polygraph machine read “inconclusive,” and he was hired."
+msgstr ""
+
+#. Paragraph 28: Bill preferred the company of women to the military or “macho” men who were in the majority at the CIA. That was understandable because by then he had recognized and accepted his homosexuality, which ...
+#: paragraph:28,sentence:134
+msgid "He made certain his apartment was clear of anything that could give him away, and when it was covertly checked—he had ways to determine if it was—no evidence was there to find."
+msgstr ""
+
+#. Paragraph 29: David Goodrich described him as a remarkably competent guy, very perceptive, a delightful friend and companion with a great sense of humor—a trait everyone in his life admired and found noteworthy. Mo...
+#: paragraph:29,sentence:135
+msgid "David Goodrich described him as a remarkably competent guy, very perceptive, a delightful friend and companion with a great sense of humor—a trait everyone in his life admired and found noteworthy."
+msgstr ""
+
+#. Paragraph 29: David Goodrich described him as a remarkably competent guy, very perceptive, a delightful friend and companion with a great sense of humor—a trait everyone in his life admired and found noteworthy. Mo...
+#: paragraph:29,sentence:136
+msgid "More than thirty years later they met again, this former colleague having discovered Bill’s involvement with ACIM and now a student of it himself."
+msgstr ""
+
+#. Paragraph 29: David Goodrich described him as a remarkably competent guy, very perceptive, a delightful friend and companion with a great sense of humor—a trait everyone in his life admired and found noteworthy. Mo...
+#: paragraph:29,sentence:137
+msgid "He had wondered if he would see Bill differently, as an “ascended master” of some kind, but he did not."
+msgstr ""
+
+#. Paragraph 29: David Goodrich described him as a remarkably competent guy, very perceptive, a delightful friend and companion with a great sense of humor—a trait everyone in his life admired and found noteworthy. Mo...
+#: paragraph:29,sentence:138
+msgid "However, he found the same characteristics Bill had displayed in the 1950s—being very present, very casual, easy to relate to, and intensely sincere—were still in place."
+msgstr ""
+
+#. Paragraph 30: In 2007 I met with Goodrich and again we discussed their last meeting about a year before Bill’s passing. He pondered over why he had still seen him as a wonderful person but was not struck forcefully...
+#: paragraph:30,sentence:139
+msgid "In 2007 I met with Goodrich and again we discussed their last meeting about a year before Bill’s passing."
+msgstr ""
+
+#. Paragraph 30: In 2007 I met with Goodrich and again we discussed their last meeting about a year before Bill’s passing. He pondered over why he had still seen him as a wonderful person but was not struck forcefully...
+#: paragraph:30,sentence:140
+msgid "He pondered over why he had still seen him as a wonderful person but was not struck forcefully, like so many others, by the power of his quiet presence."
+msgstr ""
+
+#. Paragraph 30: In 2007 I met with Goodrich and again we discussed their last meeting about a year before Bill’s passing. He pondered over why he had still seen him as a wonderful person but was not struck forcefully...
+#: paragraph:30,sentence:141
+msgid "The Course speaks to this issue, stating that we bring all past associations with us when we observe anything, whether a person, object, or situation."
+msgstr ""
+
+#. Paragraph 30: In 2007 I met with Goodrich and again we discussed their last meeting about a year before Bill’s passing. He pondered over why he had still seen him as a wonderful person but was not struck forcefully...
+#: paragraph:30,sentence:142
+msgid "In this man’s case, he was seeing Bill again but not with a clean lens, so to speak, inadvertently bringing his old perceptions of him, positive though they were, to the encounter."
+msgstr ""
+
+#. Paragraph 30: In 2007 I met with Goodrich and again we discussed their last meeting about a year before Bill’s passing. He pondered over why he had still seen him as a wonderful person but was not struck forcefully...
+#: paragraph:30,sentence:143
+msgid "ACIM exhorts us to practice viewing everything with new eyes, allowing ourselves to see without the usual interpretations, judgments, biases, and ever-present question, “How can I use this for my benefit?” It promises a sense of well-being and peace when we view anything without our past history laid on it, without the obstacle of accumulated thought."
+msgstr ""
+
+#. Paragraph 30: In 2007 I met with Goodrich and again we discussed their last meeting about a year before Bill’s passing. He pondered over why he had still seen him as a wonderful person but was not struck forcefully...
+#: paragraph:30,sentence:144
+msgid "People who met Bill for the first time in his later years, with no expectations, were the ones who found the experience extraordinary and comforting."
+msgstr ""
+
+#. Paragraph 31: Although the CIA’s promise of discovering exciting new psychological processes was certainly alluring and served the purpose of relocating him to Washington, D.C., the Washington School of Psychiatry ...
+#: paragraph:31,sentence:145
+msgid "Although the CIA’s promise of discovering exciting new psychological processes was certainly alluring and served the purpose of relocating him to Washington, D. C. , the Washington School of Psychiatry (WSP) founded by Dr. Harry Stack Sullivan, was the major draw and the real reason Bill agreed to take the CIA position."
+msgstr ""
+
+#. Paragraph 31: Although the CIA’s promise of discovering exciting new psychological processes was certainly alluring and served the purpose of relocating him to Washington, D.C., the Washington School of Psychiatry ...
+#: paragraph:31,sentence:146
+msgid "He couldn’t know in the beginning how important his association with John Gittinger and the PAS would turn out to be long term, but he did know he was fascinated by Sullivan’s philosophy, with its focus on interpersonal relations."
+msgstr ""
+
+#. Paragraph 31: Although the CIA’s promise of discovering exciting new psychological processes was certainly alluring and served the purpose of relocating him to Washington, D.C., the Washington School of Psychiatry ...
+#: paragraph:31,sentence:147
+msgid "This pattern of emphasis on relationships anticipates the central role they will play later on in A Course In Miracles."
+msgstr ""
+
+#. Paragraph 31: Although the CIA’s promise of discovering exciting new psychological processes was certainly alluring and served the purpose of relocating him to Washington, D.C., the Washington School of Psychiatry ...
+#: paragraph:31,sentence:148
+msgid "Sullivan was also intrigued by personality development in children, another interest Bill shared with him."
+msgstr ""
+
+#. Paragraph 31: Although the CIA’s promise of discovering exciting new psychological processes was certainly alluring and served the purpose of relocating him to Washington, D.C., the Washington School of Psychiatry ...
+#: paragraph:31,sentence:149
+msgid "Incidentally, more than half the professional papers Bill published before he moved to Washington focused on children."
+msgstr ""
+
+#. Paragraph 32: Once again, that inevitable pull toward self-discovery, yearning for an undefined something just out of reach, was at work. At the WSP he was able to study with some of the brightest lights in psychol...
+#: paragraph:32,sentence:150
+msgid "Once again, that inevitable pull toward self-discovery, yearning for an undefined something just out of reach, was at work."
+msgstr ""
+
+#. Paragraph 32: Once again, that inevitable pull toward self-discovery, yearning for an undefined something just out of reach, was at work. At the WSP he was able to study with some of the brightest lights in psychol...
+#: paragraph:32,sentence:151
+msgid "At the WSP he was able to study with some of the brightest lights in psychology and psychiatry at the time, usually in the evening so not to interfere with his work at the CIA, taking every class offered."
+msgstr ""
+
+#. Paragraph 32: Once again, that inevitable pull toward self-discovery, yearning for an undefined something just out of reach, was at work. At the WSP he was able to study with some of the brightest lights in psychol...
+#: paragraph:32,sentence:152
+msgid "The philosophy of the school was consistent with the work he had done earlier with Carl Rogers and was very helpful with his work at the Agency."
+msgstr ""
+
+#. Paragraph 33: We can also imagine he felt at home at the WSP and was likely surrounded by fellow seekers, at that time mostly M.D.s but some Ph.D.s like Bill. According to the NF profile: Idealists heavily populate...
+#: paragraph:33,sentence:153
+msgid "We can also imagine he felt at home at the WSP and was likely surrounded by fellow seekers, at that time mostly M. D. s but some Ph.D. s like Bill"
+msgstr ""
+
+#. Paragraph 33: We can also imagine he felt at home at the WSP and was likely surrounded by fellow seekers, at that time mostly M.D.s but some Ph.D.s like Bill. According to the NF profile: Idealists heavily populate...
+#: paragraph:33,sentence:154
+msgid "According to the NF profile: Idealists heavily populate the social sciences, particularly the fields of mental healing and personal or religious counseling—professions directed toward human metamorphosis, or the unfolding of the mind and heart toward greater self-understanding and spiritual peace"
+msgstr ""
+
+#. Paragraph 33: We can also imagine he felt at home at the WSP and was likely surrounded by fellow seekers, at that time mostly M.D.s but some Ph.D.s like Bill. According to the NF profile: Idealists heavily populate...
+#: paragraph:33,sentence:155
+msgid "NFs find great satisfaction in the mental health services, where they tend to take the most humanistic of approaches, those advocating growth models of counseling and psychotherapy rather than the more confronting or controlling models.[30]"
+msgstr ""
+
+#. Paragraph 34: No wonder he took every class; from the profile given above, we can infer that the place was swarming with fellow NFs like moths drawn to the same flame. His WSP experience made a lasting impression o...
+#: paragraph:34,sentence:156
+msgid "No wonder he took every class; from the profile given above, we can infer that the place was swarming with fellow NFs like moths drawn to the same flame."
+msgstr ""
+
+#. Paragraph 34: No wonder he took every class; from the profile given above, we can infer that the place was swarming with fellow NFs like moths drawn to the same flame. His WSP experience made a lasting impression o...
+#: paragraph:34,sentence:157
+msgid "His WSP experience made a lasting impression on Bill for he spoke of it often, as if it were an honor to have been there."
+msgstr ""
+
+#. Paragraph 35: David Goodrich first met Bill when both were enrolled in a postdoctoral certification program at the Washington School of Psychiatry. He remembered, Bill and I were in a class on psychological testing...
+#: paragraph:35,sentence:158
+msgid "David Goodrich first met Bill when both were enrolled in a postdoctoral certification program at the Washington School of Psychiatry"
+msgstr ""
+
+#. Paragraph 35: David Goodrich first met Bill when both were enrolled in a postdoctoral certification program at the Washington School of Psychiatry. He remembered, Bill and I were in a class on psychological testing...
+#: paragraph:35,sentence:159
+msgid "He remembered, Bill and I were in a class on psychological testing and I thought I was pretty good but, by golly, I had this one case and it was something, it was terrific, and Bill just ran circles not only around me but everybody else"
+msgstr ""
+
+#. Paragraph 35: David Goodrich first met Bill when both were enrolled in a postdoctoral certification program at the Washington School of Psychiatry. He remembered, Bill and I were in a class on psychological testing...
+#: paragraph:35,sentence:160
+msgid "It was amazing what he could come up with"
+msgstr ""
+
+#. Paragraph 35: David Goodrich first met Bill when both were enrolled in a postdoctoral certification program at the Washington School of Psychiatry. He remembered, Bill and I were in a class on psychological testing...
+#: paragraph:35,sentence:161
+msgid "Subsequently, I learned that he did this on the basis of his work with John Gittinger, who later funded his research up in New York"
+msgstr ""
+
+#. Paragraph 35: David Goodrich first met Bill when both were enrolled in a postdoctoral certification program at the Washington School of Psychiatry. He remembered, Bill and I were in a class on psychological testing...
+#: paragraph:35,sentence:162
+msgid "He had developed an approach to personality assessment that was quite unique"
+msgstr ""
+
+#. Paragraph 35: David Goodrich first met Bill when both were enrolled in a postdoctoral certification program at the Washington School of Psychiatry. He remembered, Bill and I were in a class on psychological testing...
+#: paragraph:35,sentence:163
+msgid "The only problem was that it certainly didn’t work all the time or even necessarily most of the time, but when it did, it was fantastic"
+msgstr ""
+
+#. Paragraph 35: David Goodrich first met Bill when both were enrolled in a postdoctoral certification program at the Washington School of Psychiatry. He remembered, Bill and I were in a class on psychological testing...
+#: paragraph:35,sentence:164
+msgid "This was one of those times when it worked"
+msgstr ""
+
+#. Paragraph 35: David Goodrich first met Bill when both were enrolled in a postdoctoral certification program at the Washington School of Psychiatry. He remembered, Bill and I were in a class on psychological testing...
+#: paragraph:35,sentence:165
+msgid "Now in fairness both to Bill and to John, though esoteric, it is an approach still carried on by its followers and used very extensively by the Agency around the world.[31]"
+msgstr ""
+
+#. Paragraph 36: Over the years, it became apparent to many that, in addition to his excellent training and education, Bill had a specific, innate aptitude for interpreting tests; psychometrics was his strong suit. Bi...
+#: paragraph:36,sentence:166
+msgid "Over the years, it became apparent to many that, in addition to his excellent training and education, Bill had a specific, innate aptitude for interpreting tests; psychometrics was his strong suit"
+msgstr ""
+
+#. Paragraph 36: Over the years, it became apparent to many that, in addition to his excellent training and education, Bill had a specific, innate aptitude for interpreting tests; psychometrics was his strong suit. Bi...
+#: paragraph:36,sentence:167
+msgid "Bill did base much of his case work on John Gittinger’s research but, of course, also brought his own intuitive talent to bear"
+msgstr ""
+
+#. Paragraph 36: Over the years, it became apparent to many that, in addition to his excellent training and education, Bill had a specific, innate aptitude for interpreting tests; psychometrics was his strong suit. Bi...
+#: paragraph:36,sentence:168
+msgid "Another passage from Please Understand Me, II illustrates this:"
+msgstr ""
+
+#. Paragraph 37: Idealists are naturally inductive in their thought and speech, which is to say that they move quickly from part to whole, from a few particulars to sweeping generalizations, from the smallest sign of ...
+#: paragraph:37,sentence:169
+msgid "Idealists are naturally inductive in their thought and speech, which is to say that they move quickly from part to whole, from a few particulars to sweeping generalizations, from the smallest sign of something to its entirety"
+msgstr ""
+
+#. Paragraph 37: Idealists are naturally inductive in their thought and speech, which is to say that they move quickly from part to whole, from a few particulars to sweeping generalizations, from the smallest sign of ...
+#: paragraph:37,sentence:170
+msgid "With their focus on unseen potentials, on the not visible and the not yet, Idealists show an extraordinary sensitivity to hints of things, mere suggestions, inklings, intimations, symbols"
+msgstr ""
+
+#. Paragraph 37: Idealists are naturally inductive in their thought and speech, which is to say that they move quickly from part to whole, from a few particulars to sweeping generalizations, from the smallest sign of ...
+#: paragraph:37,sentence:171
+msgid "To be sure, such inductive inferences, requiring what is called the “intuitive leap,” can be astonishing to others, especially in cases of mind reading and extra-sensory perception"
+msgstr ""
+
+#. Paragraph 37: Idealists are naturally inductive in their thought and speech, which is to say that they move quickly from part to whole, from a few particulars to sweeping generalizations, from the smallest sign of ...
+#: paragraph:37,sentence:172
+msgid "At the very least, Idealists are the best suited of all the types to read between the lines, to have a sixth sense about people, and they do indeed follow their hunches, heed their feelings, and insist they “just know” what people are really up to or what they really mean"
+msgstr ""
+
+#. Paragraph 37: Idealists are naturally inductive in their thought and speech, which is to say that they move quickly from part to whole, from a few particulars to sweeping generalizations, from the smallest sign of ...
+#: paragraph:37,sentence:173
+msgid "Even with complicated issues, NFs need hear only the first words of an explanation to feel they understand the subject fully, jumping from telling details to larger meanings.[32]"
+msgstr ""
+
+#. Paragraph 38: A third CIA colleague referred to Bill as very congenial, well liked, and conscientious in his work; he was trusted with all kinds of secrets—early evidence of his ability to compartmentalize various ...
+#: paragraph:38,sentence:174
+msgid "A third CIA colleague referred to Bill as very congenial, well liked, and conscientious in his work; he was trusted with all kinds of secrets—early evidence of his ability to compartmentalize various areas of his life and play his cards close to the chest."
+msgstr ""
+
+#. Paragraph 38: A third CIA colleague referred to Bill as very congenial, well liked, and conscientious in his work; he was trusted with all kinds of secrets—early evidence of his ability to compartmentalize various ...
+#: paragraph:38,sentence:175
+msgid "He said that at one point, as Bill was assigned potential employees to evaluate, the Agency apparently decided that some interviews, certainly those involving foreign agents (spies), should occur somewhere other than the CIA offices."
+msgstr ""
+
+#. Paragraph 38: A third CIA colleague referred to Bill as very congenial, well liked, and conscientious in his work; he was trusted with all kinds of secrets—early evidence of his ability to compartmentalize various ...
+#: paragraph:38,sentence:176
+msgid "Thus, Bill conducted some of these at a local hotel and, for a while, actually lived there on the Agency’s behalf, subletting his own apartment to this friend and colleague because the CIA thought it might appear strange if he were at the hotel consistently in the daytime, but left no trace of sleeping there."
+msgstr ""
+
+#. Paragraph 39: It’s difficult to convey just how out of character Bill’s later affiliation with ACIM seemed to those who knew him as a dedicated and accomplished psychologist with the Agency. One woman saw the artic...
+#: paragraph:39,sentence:177
+msgid "It’s difficult to convey just how out of character Bill’s later affiliation with ACIM seemed to those who knew him as a dedicated and accomplished psychologist with the Agency."
+msgstr ""
+
+#. Paragraph 39: It’s difficult to convey just how out of character Bill’s later affiliation with ACIM seemed to those who knew him as a dedicated and accomplished psychologist with the Agency. One woman saw the artic...
+#: paragraph:39,sentence:178
+msgid "One woman saw the article in Psychology Today (September 1980) about the Course and Bill’s involvement in it and thought it so strange because it was atypical of his interests when she knew him."
+msgstr ""
+
+#. Paragraph 39: It’s difficult to convey just how out of character Bill’s later affiliation with ACIM seemed to those who knew him as a dedicated and accomplished psychologist with the Agency. One woman saw the artic...
+#: paragraph:39,sentence:179
+msgid "In fact, before the Course became central to his life, Bill and many of his associates thought religion lacked intellectual respectability."
+msgstr ""
+
+#. Paragraph 39: It’s difficult to convey just how out of character Bill’s later affiliation with ACIM seemed to those who knew him as a dedicated and accomplished psychologist with the Agency. One woman saw the artic...
+#: paragraph:39,sentence:180
+msgid "Although deeply involved with the psychological aspects of his fellow human beings, Bill was not at all interested in organized religion or spirituality."
+msgstr ""
+
+#. Paragraph 39: It’s difficult to convey just how out of character Bill’s later affiliation with ACIM seemed to those who knew him as a dedicated and accomplished psychologist with the Agency. One woman saw the artic...
+#: paragraph:39,sentence:181
+msgid "In his youth, his parents followed the Christian Science teachings, but after the death of their first two children and Bill’s severe illness, they lost faith in religion and never returned to it."
+msgstr ""
+
+#. Paragraph 39: It’s difficult to convey just how out of character Bill’s later affiliation with ACIM seemed to those who knew him as a dedicated and accomplished psychologist with the Agency. One woman saw the artic...
+#: paragraph:39,sentence:182
+msgid "Thus, they never encouraged him in this area, although as noted earlier, he did sing at the Chicago Lawn Congregational Church as a teenager."
+msgstr ""
+
+#. Paragraph 39: It’s difficult to convey just how out of character Bill’s later affiliation with ACIM seemed to those who knew him as a dedicated and accomplished psychologist with the Agency. One woman saw the artic...
+#: paragraph:39,sentence:183
+msgid "I would guess this was motivated by his great love of music and an opportunity to sing rather than by any interest in theology."
+msgstr ""
+
+#. Paragraph 40: Bill was more traditional by today’s standards but quite on the leading edge of psychology for that time. Goodrich spoke with John Gittinger before his death expressly to discuss Bill’s role with A Co...
+#: paragraph:40,sentence:184
+msgid "Bill was more traditional by today’s standards but quite on the leading edge of psychology for that time."
+msgstr ""
+
+#. Paragraph 40: Bill was more traditional by today’s standards but quite on the leading edge of psychology for that time. Goodrich spoke with John Gittinger before his death expressly to discuss Bill’s role with A Co...
+#: paragraph:40,sentence:185
+msgid "Goodrich spoke with John Gittinger before his death expressly to discuss Bill’s role with A Course In Miracles."
+msgstr ""
+
+#. Paragraph 40: Bill was more traditional by today’s standards but quite on the leading edge of psychology for that time. Goodrich spoke with John Gittinger before his death expressly to discuss Bill’s role with A Co...
+#: paragraph:40,sentence:186
+msgid "In that conversation, he told John that Bill had mentioned his fear of losing the research grants funded indirectly by Gittinger if he had learned of his involvement with A Course In Miracles."
+msgstr ""
+
+#. Paragraph 40: Bill was more traditional by today’s standards but quite on the leading edge of psychology for that time. Goodrich spoke with John Gittinger before his death expressly to discuss Bill’s role with A Co...
+#: paragraph:40,sentence:187
+msgid "John replied, “Oh, heavens, no."
+msgstr ""
+
+#. Paragraph 40: Bill was more traditional by today’s standards but quite on the leading edge of psychology for that time. Goodrich spoke with John Gittinger before his death expressly to discuss Bill’s role with A Co...
+#: paragraph:40,sentence:188
+msgid "I wondered what he was doing and would have been skeptical, but tolerant.”[33] He added that, since Bill was doing such great work for him, he would not in any way have withheld support."
+msgstr ""
+
+#. Paragraph 41: The intricacies of how Bill received support from Gittinger is beyond the scope of this book, but through him and his continuing covert CIA connections, Bill was awarded ongoing, substantial grants to...
+#: paragraph:41,sentence:189
+msgid "The intricacies of how Bill received support from Gittinger is beyond the scope of this book, but through him and his continuing covert CIA connections, Bill was awarded ongoing, substantial grants to continue refining the PAS"
+msgstr ""
+
+#. Paragraph 41: The intricacies of how Bill received support from Gittinger is beyond the scope of this book, but through him and his continuing covert CIA connections, Bill was awarded ongoing, substantial grants to...
+#: paragraph:41,sentence:190
+msgid "Those grants followed him to Columbia University; both he and Helen Schucman were conducting PAS research there, among other projects, when the Course entered their lives"
+msgstr ""
+
+#. Paragraph 41: The intricacies of how Bill received support from Gittinger is beyond the scope of this book, but through him and his continuing covert CIA connections, Bill was awarded ongoing, substantial grants to...
+#: paragraph:41,sentence:191
+msgid "That research continued in parallel throughout the scribing of ACIM, as Bill regarded the PAS system as the most sophisticated personality test available at the time"
+msgstr ""
+
+#. Paragraph 41: The intricacies of how Bill received support from Gittinger is beyond the scope of this book, but through him and his continuing covert CIA connections, Bill was awarded ongoing, substantial grants to...
+#: paragraph:41,sentence:192
+msgid "Of course, research on assessing personality traits and their consequent behaviors extended far beyond usefulness to the CIA; it was well within the civilian domain of research psychology and took place at other institutions besides Columbia. (For a list of Bill’s publications related to that research, please see Appendix Two.)"
+msgstr ""
+
+#. Paragraph 42: It is important to correct and clarify some false and misleading information currently on the Internet concerning Bill’s years with the CIA. After Bill’s death, John Gittinger himself stressed that al...
+#: paragraph:42,sentence:193
+msgid "It is important to correct and clarify some false and misleading information currently on the Internet concerning Bill’s years with the CIA."
+msgstr ""
+
+#. Paragraph 42: It is important to correct and clarify some false and misleading information currently on the Internet concerning Bill’s years with the CIA. After Bill’s death, John Gittinger himself stressed that al...
+#: paragraph:42,sentence:194
+msgid "After Bill’s death, John Gittinger himself stressed that although Bill worked tirelessly on refining the PAS, he was never involved with the operational side of the CIA, including any behavior manipulation, drug experiments, mind control, or anything that could possibly be considered coloring outside the lines of propriety."
+msgstr ""
+
+#. Paragraph 42: It is important to correct and clarify some false and misleading information currently on the Internet concerning Bill’s years with the CIA. After Bill’s death, John Gittinger himself stressed that al...
+#: paragraph:42,sentence:195
+msgid "In fact, persons on the operational side were somewhat scornful of the psychological approach to information gathering and preferred more dramatic exploration and practices."
+msgstr ""
+
+#. Paragraph 42: It is important to correct and clarify some false and misleading information currently on the Internet concerning Bill’s years with the CIA. After Bill’s death, John Gittinger himself stressed that al...
+#: paragraph:42,sentence:196
+msgid "Also, the paymaster in charge of sending grant-related funds to Bill, a personal friend of Whit Whitson, has stated unequivocally that none of Bill’s funding ever came through MKUltra, a controversial experimental project."
+msgstr ""
+
+#. Paragraph 42: It is important to correct and clarify some false and misleading information currently on the Internet concerning Bill’s years with the CIA. After Bill’s death, John Gittinger himself stressed that al...
+#: paragraph:42,sentence:197
+msgid "Some Internet articles falsely state that Bill was funded through that project."
+msgstr ""
+
+#. Paragraph 43: Bill had seemed restless even as he began his work at the CIA, perhaps realizing this was only a point along his career path but not a long-term commitment. In 1953, after gaining experience with the ...
+#: paragraph:43,sentence:198
+msgid "Bill had seemed restless even as he began his work at the CIA, perhaps realizing this was only a point along his career path but not a long-term commitment."
+msgstr ""
+
+#. Paragraph 43: Bill had seemed restless even as he began his work at the CIA, perhaps realizing this was only a point along his career path but not a long-term commitment. In 1953, after gaining experience with the ...
+#: paragraph:43,sentence:199
+msgid "In 1953, after gaining experience with the Agency and having completed his work at the Washington School of Psychiatry, he felt it was time to move on and gave notice to that effect."
+msgstr ""
+
+#. Paragraph 43: Bill had seemed restless even as he began his work at the CIA, perhaps realizing this was only a point along his career path but not a long-term commitment. In 1953, after gaining experience with the ...
+#: paragraph:43,sentence:200
+msgid "One colleague said she believed that, although he was fascinated by Gittinger’s work, Bill recognized that a great deal of it was based on intuition and seemed somewhat unscientific."
+msgstr ""
+
+#. Paragraph 43: Bill had seemed restless even as he began his work at the CIA, perhaps realizing this was only a point along his career path but not a long-term commitment. In 1953, after gaining experience with the ...
+#: paragraph:43,sentence:201
+msgid "She speculated he may have left the Agency for other institutions in order to search for a hard scientific basis for the derived assessments, as that type of research was not part of his primary job there—testing and evaluating potential intelligence officers."
+msgstr ""
+
+#. Paragraph 43: Bill had seemed restless even as he began his work at the CIA, perhaps realizing this was only a point along his career path but not a long-term commitment. In 1953, after gaining experience with the ...
+#: paragraph:43,sentence:202
+msgid "She was at least partly right."
+msgstr ""
+
+#. Paragraph 44: After receiving his resignation, the Agency asked Bill to reconsider his decision, and as part of an inducement package, sent him to the Middle East for several months as a special consultant to the F...
+#: paragraph:44,sentence:203
+msgid "After receiving his resignation, the Agency asked Bill to reconsider his decision, and as part of an inducement package, sent him to the Middle East for several months as a special consultant to the Foreign Service Institute at the American University in Beirut, Lebanon."
+msgstr ""
+
+#. Paragraph 44: After receiving his resignation, the Agency asked Bill to reconsider his decision, and as part of an inducement package, sent him to the Middle East for several months as a special consultant to the F...
+#: paragraph:44,sentence:204
+msgid "This assignment was topped off by several weeks of vacation in Europe and the Middle East."
+msgstr ""
+
+#. Paragraph 44: After receiving his resignation, the Agency asked Bill to reconsider his decision, and as part of an inducement package, sent him to the Middle East for several months as a special consultant to the F...
+#: paragraph:44,sentence:205
+msgid "He said, in retrospect, that his Middle East trip was the most marvelous of his life."
+msgstr ""
+
+#. Paragraph 44: After receiving his resignation, the Agency asked Bill to reconsider his decision, and as part of an inducement package, sent him to the Middle East for several months as a special consultant to the F...
+#: paragraph:44,sentence:206
+msgid "After returning, he was generously promised a range of positions with the Agency, not necessarily in Washington, and felt some obligation to stay on for a while."
+msgstr ""
+
+#. Paragraph 44: After receiving his resignation, the Agency asked Bill to reconsider his decision, and as part of an inducement package, sent him to the Middle East for several months as a special consultant to the F...
+#: paragraph:44,sentence:207
+msgid "He continued with the CIA until the summer of 1954, then was impelled to move on."
+msgstr ""
+
+#. Paragraph 45: Since he had been drawn to New York for some years, Bill thought the next obvious step was actually to apply for work there, which he did at the New York Unemployment Service Psychological Placement B...
+#: paragraph:45,sentence:208
+msgid "Since he had been drawn to New York for some years, Bill thought the next obvious step was actually to apply for work there, which he did at the New York Unemployment Service Psychological Placement Bureau."
+msgstr ""
+
+#. Paragraph 45: Since he had been drawn to New York for some years, Bill thought the next obvious step was actually to apply for work there, which he did at the New York Unemployment Service Psychological Placement B...
+#: paragraph:45,sentence:209
+msgid "Although he indicated he wanted to live in the city, the head of the service said, “They want you in Hartford [CT]."
+msgstr ""
+
+#. Paragraph 45: Since he had been drawn to New York for some years, Bill thought the next obvious step was actually to apply for work there, which he did at the New York Unemployment Service Psychological Placement B...
+#: paragraph:45,sentence:210
+msgid "That’s where you have to go, the Institute of Living.”[34] He sent Bill immediately to the institute, an adjunct of the Hartford Hospital, one of the first mental health centers in the country and then the largest psychiatric hospital in the United States."
+msgstr ""
+
+#. Paragraph 45: Since he had been drawn to New York for some years, Bill thought the next obvious step was actually to apply for work there, which he did at the New York Unemployment Service Psychological Placement B...
+#: paragraph:45,sentence:211
+msgid "There is now reason to believe that, unknown to Bill at the time, the CIA had a covert hand in steering him in that direction, and at the ripe old age of thirty-one, he was hired as director of clinical psychology."
+msgstr ""
+
+#. Paragraph 45: Since he had been drawn to New York for some years, Bill thought the next obvious step was actually to apply for work there, which he did at the New York Unemployment Service Psychological Placement B...
+#: paragraph:45,sentence:212
+msgid "Although many well-known people were doing interesting things at the institute, he felt it was not quite his place; it was not New York."
+msgstr ""
+
+#. Paragraph 45: Since he had been drawn to New York for some years, Bill thought the next obvious step was actually to apply for work there, which he did at the New York Unemployment Service Psychological Placement B...
+#: paragraph:45,sentence:213
+msgid "He did leave his imprint there, however, and according to the 1956 annual report, the Division of Clinical Psychology under Bill’s direction expanded its research to include “better diagnosis of organic pathology through psychological tests, the use of projective techniques in predicting aggressive behavior, and appraising changes resulting from psychotherapy.”[35] This research was indeed a continuation of his work with the PAS, and John Gittinger was involved with its funding."
+msgstr ""
+
+#. Paragraph 46: During Bill’s short tenure at the institute, Dr. Harold Wolff, a world-famous neurologist, one of the founders of psychosomatic medicine, and chairman of the Neurology Department at Cornell University...
+#: paragraph:46,sentence:214
+msgid "During Bill’s short tenure at the institute, Dr. Harold Wolff, a world-famous neurologist, one of the founders of psychosomatic medicine, and chairman of the Neurology Department at Cornell University Medical Center in New York, invited Bill to join him."
+msgstr ""
+
+#. Paragraph 46: During Bill’s short tenure at the institute, Dr. Harold Wolff, a world-famous neurologist, one of the founders of psychosomatic medicine, and chairman of the Neurology Department at Cornell University...
+#: paragraph:46,sentence:215
+msgid "Bill used to joke that if his qualification for employment at Michael Reese Hospital had been to know nothing about the Rorschach test, his qualifications for the Cornell position were singular."
+msgstr ""
+
+#. Paragraph 46: During Bill’s short tenure at the institute, Dr. Harold Wolff, a world-famous neurologist, one of the founders of psychosomatic medicine, and chairman of the Neurology Department at Cornell University...
+#: paragraph:46,sentence:216
+msgid "Not only was his work in Washington germane to the Cornell program, he was the only clinical psychologist around with top secret security clearance and trained in neurophysiology."
+msgstr ""
+
+#. Paragraph 46: During Bill’s short tenure at the institute, Dr. Harold Wolff, a world-famous neurologist, one of the founders of psychosomatic medicine, and chairman of the Neurology Department at Cornell University...
+#: paragraph:46,sentence:217
+msgid "Dr. Wolff had been offered the opportunity to do cross-cultural studies funded by the CIA and he hired Bill as head of the psychological research program."
+msgstr ""
+
+#. Paragraph 46: During Bill’s short tenure at the institute, Dr. Harold Wolff, a world-famous neurologist, one of the founders of psychosomatic medicine, and chairman of the Neurology Department at Cornell University...
+#: paragraph:46,sentence:218
+msgid "Part of Bill’s job was to revise the PAS for use with foreign cultures, particularly the Chinese."
+msgstr ""
+
+#. Paragraph 46: During Bill’s short tenure at the institute, Dr. Harold Wolff, a world-famous neurologist, one of the founders of psychosomatic medicine, and chairman of the Neurology Department at Cornell University...
+#: paragraph:46,sentence:219
+msgid "In addition to his research work there, which was primary, he also became first an instructor and soon thereafter an assistant professor of psychology in the Department of Psychiatry."
+msgstr ""
+
+#. Paragraph 47: Regarding his time there, Bill wrote of his “lunch time” experiences with the famous and driven Dr. Wolff: At first I thought he really meant for us to have lunch, but that was ridiculous. I could nev...
+#: paragraph:47,sentence:220
+msgid "Regarding his time there, Bill wrote of his “lunch time” experiences with the famous and driven Dr. Wolff: At first I thought he really meant for us to have lunch, but that was ridiculous"
+msgstr ""
+
+#. Paragraph 47: Regarding his time there, Bill wrote of his “lunch time” experiences with the famous and driven Dr. Wolff: At first I thought he really meant for us to have lunch, but that was ridiculous. I could nev...
+#: paragraph:47,sentence:221
+msgid "I could never eat anything because Wolff would start interrogating me the minute I sat down. “What have you learned this morning in terms of highest integrative functions"
+msgstr ""
+
+#. Paragraph 47: Regarding his time there, Bill wrote of his “lunch time” experiences with the famous and driven Dr. Wolff: At first I thought he really meant for us to have lunch, but that was ridiculous. I could nev...
+#: paragraph:47,sentence:222
+msgid "Are you going to change this and get our next publication out by tomorrow?” He used to go on and on like that, so I would never eat lunch"
+msgstr ""
+
+#. Paragraph 47: Regarding his time there, Bill wrote of his “lunch time” experiences with the famous and driven Dr. Wolff: At first I thought he really meant for us to have lunch, but that was ridiculous. I could nev...
+#: paragraph:47,sentence:223
+msgid "I was used to working under high pressure, but I wasn’t used to that sort of thing"
+msgstr ""
+
+#. Paragraph 47: Regarding his time there, Bill wrote of his “lunch time” experiences with the famous and driven Dr. Wolff: At first I thought he really meant for us to have lunch, but that was ridiculous. I could nev...
+#: paragraph:47,sentence:224
+msgid "I did turn things out pretty fast, though, and I could type quickly"
+msgstr ""
+
+#. Paragraph 47: Regarding his time there, Bill wrote of his “lunch time” experiences with the famous and driven Dr. Wolff: At first I thought he really meant for us to have lunch, but that was ridiculous. I could nev...
+#: paragraph:47,sentence:225
+msgid "When he wanted something he would say, “I’m leaving in a few minutes; would you please prepare an abstract for the International Biological Psychiatry Congress"
+msgstr ""
+
+#. Paragraph 47: Regarding his time there, Bill wrote of his “lunch time” experiences with the famous and driven Dr. Wolff: At first I thought he really meant for us to have lunch, but that was ridiculous. I could nev...
+#: paragraph:47,sentence:226
+msgid "I’ll have to have it in fifteen minutes.” I would go to my typewriter and dash off what he wanted"
+msgstr ""
+
+#. Paragraph 47: Regarding his time there, Bill wrote of his “lunch time” experiences with the famous and driven Dr. Wolff: At first I thought he really meant for us to have lunch, but that was ridiculous. I could nev...
+#: paragraph:47,sentence:227
+msgid "I would tap into some inner source and put it into some sort of English"
+msgstr ""
+
+#. Paragraph 47: Regarding his time there, Bill wrote of his “lunch time” experiences with the famous and driven Dr. Wolff: At first I thought he really meant for us to have lunch, but that was ridiculous. I could nev...
+#: paragraph:47,sentence:228
+msgid "I learned to make it sound super scientific.[36]"
+msgstr ""
+
+#. Paragraph 48: Once again his comments reveal that Bill recognized—and trusted—his intuition, or as he called it, inner source. That intuition or guidance is always present for all of us, but we normally pay little ...
+#: paragraph:48,sentence:229
+msgid "Once again his comments reveal that Bill recognized—and trusted—his intuition, or as he called it, inner source."
+msgstr ""
+
+#. Paragraph 48: Once again his comments reveal that Bill recognized—and trusted—his intuition, or as he called it, inner source. That intuition or guidance is always present for all of us, but we normally pay little ...
+#: paragraph:48,sentence:230
+msgid "That intuition or guidance is always present for all of us, but we normally pay little if any attention to it, relying instead on our intellects and personal desires to direct us until that proves futile and we start honoring our inner wisdom."
+msgstr ""
+
+#. Paragraph 48: Once again his comments reveal that Bill recognized—and trusted—his intuition, or as he called it, inner source. That intuition or guidance is always present for all of us, but we normally pay little ...
+#: paragraph:48,sentence:231
+msgid "This is a particular conflict for those who pride themselves on being rigorously scientific, as Bill did, but who also are very aware of “just knowing.” He indicated that in his early days he acknowledged this gift and took it for granted, but felt he couldn’t talk about it, fearing he would be misunderstood."
+msgstr ""
+
+#. Paragraph 49: As part of the research at Cornell, Bill worked with a number of Chinese stranded in the U.S. after the Communists established the People’s Republic of China in 1949. Some could not and others chose n...
+#: paragraph:49,sentence:232
+msgid "As part of the research at Cornell, Bill worked with a number of Chinese stranded in the U. S. after the Communists established the People’s Republic of China in 1949."
+msgstr ""
+
+#. Paragraph 49: As part of the research at Cornell, Bill worked with a number of Chinese stranded in the U.S. after the Communists established the People’s Republic of China in 1949. Some could not and others chose n...
+#: paragraph:49,sentence:233
+msgid "Some could not and others chose not to return."
+msgstr ""
+
+#. Paragraph 49: As part of the research at Cornell, Bill worked with a number of Chinese stranded in the U.S. after the Communists established the People’s Republic of China in 1949. Some could not and others chose n...
+#: paragraph:49,sentence:234
+msgid "While conducting research with them and their particular reactions to stress, he was abruptly asked to go to China on a secret mission to escort Harriet Mills on her return to the United States."
+msgstr ""
+
+#. Paragraph 49: As part of the research at Cornell, Bill worked with a number of Chinese stranded in the U.S. after the Communists established the People’s Republic of China in 1949. Some could not and others chose n...
+#: paragraph:49,sentence:235
+msgid "She was a Fulbright Scholar and Ph.D. candidate at Columbia University."
+msgstr ""
+
+#. Paragraph 49: As part of the research at Cornell, Bill worked with a number of Chinese stranded in the U.S. after the Communists established the People’s Republic of China in 1949. Some could not and others chose n...
+#: paragraph:49,sentence:236
+msgid "While doing field research there for her dissertation, Mills had come under suspicion and was subsequently jailed by the Communist government."
+msgstr ""
+
+#. Paragraph 49: As part of the research at Cornell, Bill worked with a number of Chinese stranded in the U.S. after the Communists established the People’s Republic of China in 1949. Some could not and others chose n...
+#: paragraph:49,sentence:237
+msgid "The daughter of Presbyterian missionaries, Mills was born in Japan but reared in China, was fluent in the language, and familiar with Chinese customs—all of which had raised a red flag for them."
+msgstr ""
+
+#. Paragraph 49: As part of the research at Cornell, Bill worked with a number of Chinese stranded in the U.S. after the Communists established the People’s Republic of China in 1949. Some could not and others chose n...
+#: paragraph:49,sentence:238
+msgid "After four and a half years, she was finally tried, released, and ordered to leave the country."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:239
+msgid "This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at any given time."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:240
+msgid "He was booked passage on a freighter, the last available vessel out of Hong Kong, where Mills had been taken after being put on trial and expelled from China."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:241
+msgid "Bill said in his biography, “All arrangements were made secretly and undercover."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:242
+msgid "I was not told where I was first going, which was Manila [Philippines], before proceeding to Hong Kong to board the ship.”[37] The freighter was Mills’ choice of transportation after her years in a Beijing prison."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:243
+msgid "As there were only a handful of passengers, Bill and Harriet met almost immediately and became friends."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:244
+msgid "She later told her sister, with whom I spoke in 2007, that after a few days she realized Bill was “put on board to grill her.” She was right."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:245
+msgid "He took notes on thin paper and kept them hidden in his pockets."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:246
+msgid "He didn’t want to leave anything lying around indiscriminately, as he didn’t know who else might be on the ship watching them."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:247
+msgid "They arrived safely in Vancouver, Canada, just before Christmas of 1955, and his extensive notes were ultimately included as part of Harold Wolff’s testimony before the House Committee on brainwashing in 1975."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:248
+msgid "According to her sister, Mills still won’t talk about what happened during her confinement, so we don’t know what she may have disclosed to Bill, who elicited deep trust from virtually everyone."
+msgstr ""
+
+#. Paragraph 50: This assignment, initiated indirectly from the CIA, both frightened and fascinated thirty-two-year-old Bill—a real, live, James Bond-type secret mission where he knew only as much as was provided at a...
+#: paragraph:50,sentence:249
+msgid "He particularly enjoyed telling this story and was highly amused by the drama of the intrigue, especially since the mission had a satisfactory ending."
+msgstr ""
+
+#. Paragraph 51: After two and a half years in the relentlessly high-pressured job at Cornell, Bill was approached by an old friend from Chicago about a possible appointment at Columbia University. The job offered—des...
+#: paragraph:51,sentence:250
+msgid "After two and a half years in the relentlessly high-pressured job at Cornell, Bill was approached by an old friend from Chicago about a possible appointment at Columbia University."
+msgstr ""
+
+#. Paragraph 51: After two and a half years in the relentlessly high-pressured job at Cornell, Bill was approached by an old friend from Chicago about a possible appointment at Columbia University. The job offered—des...
+#: paragraph:51,sentence:251
+msgid "The job offered—designing a doctoral program, writing grants, and assuming an assistant professorship—didn’t particularly appeal to him, but out of courtesy he agreed to meet with the head of the psychiatry department."
+msgstr ""
+
+#. Paragraph 51: After two and a half years in the relentlessly high-pressured job at Cornell, Bill was approached by an old friend from Chicago about a possible appointment at Columbia University. The job offered—des...
+#: paragraph:51,sentence:252
+msgid "Bill told him, thinking he could bring this episode to closure before it began, that he might be interested if they offered him a higher professional rank, which he was certain they would not consider as medical school hierarchies are quite rigid."
+msgstr ""
+
+#. Paragraph 51: After two and a half years in the relentlessly high-pressured job at Cornell, Bill was approached by an old friend from Chicago about a possible appointment at Columbia University. The job offered—des...
+#: paragraph:51,sentence:253
+msgid "To his surprise, they accepted his condition, added a prestigious title, and in the fall of 1957 appointed him to the faculty as an associate professor of medical psychology in the College of Physicians and Surgeons at Columbia University Medical School."
+msgstr ""
+
+#. Paragraph 51: After two and a half years in the relentlessly high-pressured job at Cornell, Bill was approached by an old friend from Chicago about a possible appointment at Columbia University. The job offered—des...
+#: paragraph:51,sentence:254
+msgid "As with his clandestine trip to Hong Kong, he always laughed as he told these stories, as if the way everything had turned out, the improbable series of events, was all a delightful comedy."
+msgstr ""
+
+#. Paragraph 52: Although I cannot prove beyond doubt—either through interviews with key players (now deceased) or through the Freedom of Information Act (I also tried this route)—it seems obvious that the CIA and Joh...
+#: paragraph:52,sentence:255
+msgid "Although I cannot prove beyond doubt—either through interviews with key players (now deceased) or through the Freedom of Information Act (I also tried this route)—it seems obvious that the CIA and John Gittinger were again maneuvering behind the scenes to place Bill in this important post, as well as the earlier ones."
+msgstr ""
+
+#. Paragraph 52: Although I cannot prove beyond doubt—either through interviews with key players (now deceased) or through the Freedom of Information Act (I also tried this route)—it seems obvious that the CIA and Joh...
+#: paragraph:52,sentence:256
+msgid "Jack Luckett’s conversations with Bill also supported this hypothesis; Bill believed the Agency had a hand in arranging his various career opportunities."
+msgstr ""
+
+#. Paragraph 52: Although I cannot prove beyond doubt—either through interviews with key players (now deceased) or through the Freedom of Information Act (I also tried this route)—it seems obvious that the CIA and Joh...
+#: paragraph:52,sentence:257
+msgid "It especially makes sense given the Agency’s propensity to develop a person’s strengths, to push them along, so to speak."
+msgstr ""
+
+#. Paragraph 52: Although I cannot prove beyond doubt—either through interviews with key players (now deceased) or through the Freedom of Information Act (I also tried this route)—it seems obvious that the CIA and Joh...
+#: paragraph:52,sentence:258
+msgid "Gittinger told Dr. Marshall Heyman, another former CIA colleague of Bill’s, that Bill and later Helen were the only two “outsiders” (non-CIA employees—Bill was an ex-employee and Helen never worked for the CIA, nor did she know it was the source of some of their funding) at that time whom he authorized to talk publicly about, hold seminars on, and generally endorse the PAS and their research related to it."
+msgstr ""
+
+#. Paragraph 52: Although I cannot prove beyond doubt—either through interviews with key players (now deceased) or through the Freedom of Information Act (I also tried this route)—it seems obvious that the CIA and Joh...
+#: paragraph:52,sentence:259
+msgid "Other institutions and individuals were doing PAS research, but Bill and Helen became Gittinger’s surrogates of sorts, since he could not publicly comment on his internal classified research."
+msgstr ""
+
+#. Paragraph 52: Although I cannot prove beyond doubt—either through interviews with key players (now deceased) or through the Freedom of Information Act (I also tried this route)—it seems obvious that the CIA and Joh...
+#: paragraph:52,sentence:260
+msgid "In later years, Gittinger, by then head of the CIA’s psychological services worldwide, visited Bill and Helen in New York and sometimes attended their seminars anonymously."
+msgstr ""
+
+#. Paragraph 52: Although I cannot prove beyond doubt—either through interviews with key players (now deceased) or through the Freedom of Information Act (I also tried this route)—it seems obvious that the CIA and Joh...
+#: paragraph:52,sentence:261
+msgid "He very much enjoyed the company of the academics there and being involved with someone of Bill’s reputation and stature."
+msgstr ""
+
+#. Paragraph 53: Although Bill was, in fact, a bit uncomfortable accepting money indirectly from the CIA, his intense intellectual curiosity regarding the formation and maintenance of the personality/ego and his convi...
+#: paragraph:53,sentence:262
+msgid "Although Bill was, in fact, a bit uncomfortable accepting money indirectly from the CIA, his intense intellectual curiosity regarding the formation and maintenance of the personality/ego and his conviction that this was meaningful research tipped the scale in favor of his continuing to receive funding."
+msgstr ""
+
+#. Paragraph 53: Although Bill was, in fact, a bit uncomfortable accepting money indirectly from the CIA, his intense intellectual curiosity regarding the formation and maintenance of the personality/ego and his convi...
+#: paragraph:53,sentence:263
+msgid "The archivist at Columbia University, with whom I spoke in 2008, found records for six of the grants listed on Bill’s curriculum vitae obtained from 1961–1964, totaling $120,410."
+msgstr ""
+
+#. Paragraph 53: Although Bill was, in fact, a bit uncomfortable accepting money indirectly from the CIA, his intense intellectual curiosity regarding the formation and maintenance of the personality/ego and his convi...
+#: paragraph:53,sentence:264
+msgid "He received additional grant money but the records could not be found."
+msgstr ""
+
+#. Paragraph 53: Although Bill was, in fact, a bit uncomfortable accepting money indirectly from the CIA, his intense intellectual curiosity regarding the formation and maintenance of the personality/ego and his convi...
+#: paragraph:53,sentence:265
+msgid "Publication of PAS-related research continued until the early 1970s."
+msgstr ""
+
+#. Paragraph 53: Although Bill was, in fact, a bit uncomfortable accepting money indirectly from the CIA, his intense intellectual curiosity regarding the formation and maintenance of the personality/ego and his convi...
+#: paragraph:53,sentence:266
+msgid "Psychological Assessment Associates, Gittinger’s non-CIA business that promoted the PAS, had a file card on record at Columbia, but there was no attendant folder or paperwork related to it."
+msgstr ""
+
+#. Paragraph 54: It is amusing at this point, as we see the CIA almost assuredly working behind the scenes to move Bill forward in his “outer” career, to realize that the Holy Spirit, to use ACIM terminology, is “usin...
+#: paragraph:54,sentence:267
+msgid "It is amusing at this point, as we see the CIA almost assuredly working behind the scenes to move Bill forward in his “outer” career, to realize that the Holy Spirit, to use ACIM terminology, is “using” the CIA just as the CIA is “using” Bill, to place him on a collision course with Helen and the consequent birth of the Course!"
+msgstr ""
+
+#. Paragraph 54: It is amusing at this point, as we see the CIA almost assuredly working behind the scenes to move Bill forward in his “outer” career, to realize that the Holy Spirit, to use ACIM terminology, is “usin...
+#: paragraph:54,sentence:268
+msgid "As I write, I sense Bill’s presence, laughing at the notion that we think we, at the ego level, are in charge—life is in charge!"
+msgstr ""
+
+#. Paragraph 55: In addition to the duties described to Bill when the job was offered at Columbia, more were added when he arrived in February 1958. Not yet thirty-five, he was additionally appointed as director of th...
+#: paragraph:55,sentence:269
+msgid "In addition to the duties described to Bill when the job was offered at Columbia, more were added when he arrived in February 1958."
+msgstr ""
+
+#. Paragraph 55: In addition to the duties described to Bill when the job was offered at Columbia, more were added when he arrived in February 1958. Not yet thirty-five, he was additionally appointed as director of th...
+#: paragraph:55,sentence:270
+msgid "Not yet thirty-five, he was additionally appointed as director of the Division of Psychology at Presbyterian Hospital, an adjunct to Columbia University and the largest private medical center in the country employing thousands of people."
+msgstr ""
+
+#. Paragraph 55: In addition to the duties described to Bill when the job was offered at Columbia, more were added when he arrived in February 1958. Not yet thirty-five, he was additionally appointed as director of th...
+#: paragraph:55,sentence:271
+msgid "He was responsible for all clinical psychology practiced there."
+msgstr ""
+
+#. Paragraph 55: In addition to the duties described to Bill when the job was offered at Columbia, more were added when he arrived in February 1958. Not yet thirty-five, he was additionally appointed as director of th...
+#: paragraph:55,sentence:272
+msgid "Attempting to bring order and cohesion to an essentially unorganized department was wearing and complicated, given the disparate organizations involved and the turf battles and jealousies that plague so much of academia."
+msgstr ""
+
+#. Paragraph 55: In addition to the duties described to Bill when the job was offered at Columbia, more were added when he arrived in February 1958. Not yet thirty-five, he was additionally appointed as director of th...
+#: paragraph:55,sentence:273
+msgid "In addition, he was required to include the New York State Psychiatric Institute in his attempt at administrative reorganization."
+msgstr ""
+
+#. Paragraph 55: In addition to the duties described to Bill when the job was offered at Columbia, more were added when he arrived in February 1958. Not yet thirty-five, he was additionally appointed as director of th...
+#: paragraph:55,sentence:274
+msgid "Ultimately, therefore, he had responsibilities at the hospital, the university, and the institute, which he found incredibly complicated."
+msgstr ""
+
+#. Paragraph 55: In addition to the duties described to Bill when the job was offered at Columbia, more were added when he arrived in February 1958. Not yet thirty-five, he was additionally appointed as director of th...
+#: paragraph:55,sentence:275
+msgid "And the majority of his work history was in research and writing, not administration, so the challenges were immense."
+msgstr ""
+
+#. Paragraph 56: We had 475 faculty members in the Department of Psychiatry alone. Now, most of them were part-time and in affiliated hospitals and things of that kind, but it was an enormous complex maze. I also foun...
+#: paragraph:56,sentence:276
+msgid "We had 475 faculty members in the Department of Psychiatry alone."
+msgstr ""
+
+#. Paragraph 56: We had 475 faculty members in the Department of Psychiatry alone. Now, most of them were part-time and in affiliated hospitals and things of that kind, but it was an enormous complex maze. I also foun...
+#: paragraph:56,sentence:277
+msgid "Now, most of them were part-time and in affiliated hospitals and things of that kind, but it was an enormous complex maze."
+msgstr ""
+
+#. Paragraph 56: We had 475 faculty members in the Department of Psychiatry alone. Now, most of them were part-time and in affiliated hospitals and things of that kind, but it was an enormous complex maze. I also foun...
+#: paragraph:56,sentence:278
+msgid "I also found out that there was divided authority and responsibility, and you had to report to the president of the hospital as well as the chairman of the department, but there was a vice president in charge of professional affairs that you really had to see first, but you couldn’t see him unless you check through the business manager, and there were three business managers because there were three institutions that were part of this—not only the university but the Presbyterian Hospital and the New York Psychiatric Institute, which were all part of this complex."
+msgstr ""
+
+#. Paragraph 57: There were power struggles going on and people seemed quite happy to injure their colleague’s reputation or career if they could get another office. And to get a secretary, oh that was fantastic. You’...
+#: paragraph:57,sentence:279
+msgid "There were power struggles going on and people seemed quite happy to injure their colleague’s reputation or career if they could get another office"
+msgstr ""
+
+#. Paragraph 57: There were power struggles going on and people seemed quite happy to injure their colleague’s reputation or career if they could get another office. And to get a secretary, oh that was fantastic. You’...
+#: paragraph:57,sentence:280
+msgid "And to get a secretary, oh that was fantastic"
+msgstr ""
+
+#. Paragraph 57: There were power struggles going on and people seemed quite happy to injure their colleague’s reputation or career if they could get another office. And to get a secretary, oh that was fantastic. You’...
+#: paragraph:57,sentence:281
+msgid "You’d do anything—kill your grandmother, I guess"
+msgstr ""
+
+#. Paragraph 57: There were power struggles going on and people seemed quite happy to injure their colleague’s reputation or career if they could get another office. And to get a secretary, oh that was fantastic. You’...
+#: paragraph:57,sentence:282
+msgid "It was the most competitive and power-driven setting that I had ever been in, although I had seen a few.[38]"
+msgstr ""
+

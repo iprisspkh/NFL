@@ -1,0 +1,1964 @@
+# Chapter 11: Chapter 5
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:1
+msgid "As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losing her vision and, indeed, her mind."
+msgstr ""
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:2
+msgid "Those dreams and waking visions, in retrospect, pointed to the coming of ACIM, but at the time seemed obscure and unintelligible."
+msgstr ""
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:3
+msgid "For instance, one vision involved Helen’s seeing herself in a small boat being carried along a lovely canal."
+msgstr ""
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:4
+msgid "She mused about the possibility of buried treasure in the area and noticed a long pole with a hook in the bottom of the boat."
+msgstr ""
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:5
+msgid "She dropped the hook into the water and pulled up an ancient treasure chest; on opening it, she was disappointed to find nothing but a large black book, specifically a black thesis binder, exactly like those that would be used years later to store the typed notes of A Course In Miracles for safekeeping."
+msgstr ""
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:6
+msgid "Down the spine was written one word in gold, Aesculapius."
+msgstr ""
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:7
+msgid "Neither Bill nor Helen knew what it meant, although it had a familiar ring to it."
+msgstr ""
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:8
+msgid "A few nights later, she dreamed of that black book again, now with pearls draped around it."
+msgstr ""
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:9
+msgid "Aesculapius was the Greek god of healing and historians believe the legends surrounding his medical work were based on the life of an historical person."
+msgstr ""
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:10
+msgid "A well-known physician of the second century, Galen, did much research at the Aesculapion in Pergamon, Turkey (then part of the Roman Empire), and embodied the Aesculapion traditions for treating not just the physically but the mentally ill, as well."
+msgstr ""
+
+#. Paragraph 1: As another sign that shifts in consciousness were occurring, almost immediately after Bill’s crisis in the spring of 1965, Helen began having waking visions and strange dreams; she acutely feared losi...
+#: paragraph:1,sentence:11
+msgid "Helen’s dream surely was an accurate premonition of the healing treasure to come."
+msgstr ""
+
+#. Paragraph 2: Other visions involved Helen’s experiences as a priestess in many times and places, and they almost always included Bill. Sometimes the two were married, sometimes they collaborated in healing work, a...
+#: paragraph:2,sentence:12
+msgid "Other visions involved Helen’s experiences as a priestess in many times and places, and they almost always included Bill"
+msgstr ""
+
+#. Paragraph 2: Other visions involved Helen’s experiences as a priestess in many times and places, and they almost always included Bill. Sometimes the two were married, sometimes they collaborated in healing work, a...
+#: paragraph:2,sentence:13
+msgid "Sometimes the two were married, sometimes they collaborated in healing work, and sometimes they were deadly enemies"
+msgstr ""
+
+#. Paragraph 2: Other visions involved Helen’s experiences as a priestess in many times and places, and they almost always included Bill. Sometimes the two were married, sometimes they collaborated in healing work, a...
+#: paragraph:2,sentence:14
+msgid "Often the visions had a profound emotional impact, eliciting either sublime joy or abject terror"
+msgstr ""
+
+#. Paragraph 2: Other visions involved Helen’s experiences as a priestess in many times and places, and they almost always included Bill. Sometimes the two were married, sometimes they collaborated in healing work, a...
+#: paragraph:2,sentence:15
+msgid "In one major vision, she was ready to kill him with a spear poised between his eyes over the theft of a ruby from her priestess crown"
+msgstr ""
+
+#. Paragraph 2: Other visions involved Helen’s experiences as a priestess in many times and places, and they almost always included Bill. Sometimes the two were married, sometimes they collaborated in healing work, a...
+#: paragraph:2,sentence:16
+msgid "She backed off at the last moment and died shortly thereafter"
+msgstr ""
+
+#. Paragraph 2: Other visions involved Helen’s experiences as a priestess in many times and places, and they almost always included Bill. Sometimes the two were married, sometimes they collaborated in healing work, a...
+#: paragraph:2,sentence:17
+msgid "Helen’s response to telling Bill about this particular vision gives some clue about her ongoing intense anger toward him:"
+msgstr ""
+
+#. Paragraph 3: The emotional effect of this last episode was intense and long-lasting. I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particu...
+#: paragraph:3,sentence:18
+msgid "The emotional effect of this last episode was intense and long-lasting"
+msgstr ""
+
+#. Paragraph 3: The emotional effect of this last episode was intense and long-lasting. I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particu...
+#: paragraph:3,sentence:19
+msgid "I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particularly when I spoke of the theft of the ruby"
+msgstr ""
+
+#. Paragraph 3: The emotional effect of this last episode was intense and long-lasting. I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particu...
+#: paragraph:3,sentence:20
+msgid "It is as if it were happening all over again"
+msgstr ""
+
+#. Paragraph 3: The emotional effect of this last episode was intense and long-lasting. I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particu...
+#: paragraph:3,sentence:21
+msgid "A picture of the ruby, beautiful and blazing red, rose before my eyes and for a brief period the scene became reality for me"
+msgstr ""
+
+#. Paragraph 3: The emotional effect of this last episode was intense and long-lasting. I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particu...
+#: paragraph:3,sentence:22
+msgid "Again I berated myself for dying for a rebellious slave who was nothing but a common thief"
+msgstr ""
+
+#. Paragraph 3: The emotional effect of this last episode was intense and long-lasting. I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particu...
+#: paragraph:3,sentence:23
+msgid "I could barely contain my fury at Bill, who was understandably upset"
+msgstr ""
+
+#. Paragraph 3: The emotional effect of this last episode was intense and long-lasting. I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particu...
+#: paragraph:3,sentence:24
+msgid "So was I. The intensity of my anger was quite surprising to both of us"
+msgstr ""
+
+#. Paragraph 3: The emotional effect of this last episode was intense and long-lasting. I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particu...
+#: paragraph:3,sentence:25
+msgid "It was a while before the next episodes in the series appeared"
+msgstr ""
+
+#. Paragraph 3: The emotional effect of this last episode was intense and long-lasting. I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particu...
+#: paragraph:3,sentence:26
+msgid "It was almost as though I had to recover a little before going on"
+msgstr ""
+
+#. Paragraph 3: The emotional effect of this last episode was intense and long-lasting. I still felt the anger after the images faded, and it later blazed into open fury as I told Bill the story the next day, particu...
+#: paragraph:3,sentence:27
+msgid "Fortunately, the next installment was different, although it, too, did not turn out too well for me.[54]"
+msgstr ""
+
+#. Paragraph 4: Speaking of Helens’s temper, her anger wasn’t directly solely at Bill but at anyone who threatened her ego. ACIM asserts that anger is a response to feeling powerless and Tammy Cohen’s (Judith Skutch ...
+#: paragraph:4,sentence:28
+msgid "Speaking of Helens’s temper, her anger wasn’t directly solely at Bill but at anyone who threatened her ego"
+msgstr ""
+
+#. Paragraph 4: Speaking of Helens’s temper, her anger wasn’t directly solely at Bill but at anyone who threatened her ego. ACIM asserts that anger is a response to feeling powerless and Tammy Cohen’s (Judith Skutch ...
+#: paragraph:4,sentence:29
+msgid "ACIM asserts that anger is a response to feeling powerless and Tammy Cohen’s (Judith Skutch Whitson’s daughter) commentary reveals something of Helen’s split mind, apparently known to all who knew her:"
+msgstr ""
+
+#. Paragraph 5: My mother catered to Helen’s every whim and it didn’t take too long for me to realize that everyone else did as well. Helen had a presence about her which demanded attention and care-taking. Yet I not...
+#: paragraph:5,sentence:30
+msgid "My mother catered to Helen’s every whim and it didn’t take too long for me to realize that everyone else did as well"
+msgstr ""
+
+#. Paragraph 5: My mother catered to Helen’s every whim and it didn’t take too long for me to realize that everyone else did as well. Helen had a presence about her which demanded attention and care-taking. Yet I not...
+#: paragraph:5,sentence:31
+msgid "Helen had a presence about her which demanded attention and care-taking"
+msgstr ""
+
+#. Paragraph 5: My mother catered to Helen’s every whim and it didn’t take too long for me to realize that everyone else did as well. Helen had a presence about her which demanded attention and care-taking. Yet I not...
+#: paragraph:5,sentence:32
+msgid "Yet I noticed that on the one hand she played the frail, fragile little old lady to get her way"
+msgstr ""
+
+#. Paragraph 5: My mother catered to Helen’s every whim and it didn’t take too long for me to realize that everyone else did as well. Helen had a presence about her which demanded attention and care-taking. Yet I not...
+#: paragraph:5,sentence:33
+msgid "But on the other, when she wasn’t getting what she wanted, her presence grew to the size of a Sumo wrestler"
+msgstr ""
+
+#. Paragraph 5: My mother catered to Helen’s every whim and it didn’t take too long for me to realize that everyone else did as well. Helen had a presence about her which demanded attention and care-taking. Yet I not...
+#: paragraph:5,sentence:34
+msgid "With merely a glance or a quick slice from her sharp tongue, she could make the largest of men shrink to the size of a pea"
+msgstr ""
+
+#. Paragraph 5: My mother catered to Helen’s every whim and it didn’t take too long for me to realize that everyone else did as well. Helen had a presence about her which demanded attention and care-taking. Yet I not...
+#: paragraph:5,sentence:35
+msgid "As soon as she got what she wanted, though, she instantly returned to her proper lady-like persona, like a genie returns to its lamp after a wish is fulfilled.[55]"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:36
+msgid "During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series ended on a note of final achievement and even glory"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:37
+msgid "I was standing in a room that seemed to be on the top floor of a church building"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:38
+msgid "Bill, seated at a large, old-fashioned church organ, was playing Handel’s Hallelujah Chorus with his face lit with joy"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:39
+msgid "We had finally reached our goal"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:40
+msgid "I was standing in front of a simple brown wooden altar, on which two words were written one underneath the other"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:41
+msgid "I cannot imagine a less appropriate pair"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:42
+msgid "The top word was “Elohim,” which I did not recognize at the time, and only later discovered is one of the Hebrew names for God"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:43
+msgid "The other word, “Evoe,” I did identify as the cry of the Greek Bacchantes [a priestess or female votary of Bacchus; a female participant in a drunken or orgiastic revel] in celebrating the rites of Bacchus [the god of grape-growing and of wine]"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:44
+msgid "As I watched, a streak of lightning from the back of the church struck the altar and obliterated the second word entirely"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:45
+msgid "Only “Elohim” remained, written in bright gold letters"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:46
+msgid "The Hallelujah Chorus rose to a crescendo, and a figure outlined in brilliant light which I recognized immediately as Jesus stepped from behind the altar and came toward me"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:47
+msgid "I started to kneel in front of him, but he came around to my side and knelt at the altar with me"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:48
+msgid "Bill rose and knelt at his other side"
+msgstr ""
+
+#. Paragraph 6: During midsummer, another particularly meaningful vision occurred at the conclusion of what Helen termed the second (out of three) series of visions, this time with a more positive outcome: The series...
+#: paragraph:6,sentence:49
+msgid "And then a Voice, with which I was to become increasingly familiar, said in silent but perfectly clear words, “That altar is within you.” The emotional impact of the conclusion was so powerful that I burst into tears.[56]"
+msgstr ""
+
+#. Paragraph 7: Helen kept a running account of those episodes and shared them with Bill, who was extremely interested in all aspects of her unusual experiences. He had recently discovered the famous “sleeping prophe...
+#: paragraph:7,sentence:50
+msgid "Helen kept a running account of those episodes and shared them with Bill, who was extremely interested in all aspects of her unusual experiences"
+msgstr ""
+
+#. Paragraph 7: Helen kept a running account of those episodes and shared them with Bill, who was extremely interested in all aspects of her unusual experiences. He had recently discovered the famous “sleeping prophe...
+#: paragraph:7,sentence:51
+msgid "He had recently discovered the famous “sleeping prophet,” Edgar Cayce, and was becoming increasingly intrigued with his work"
+msgstr ""
+
+#. Paragraph 7: Helen kept a running account of those episodes and shared them with Bill, who was extremely interested in all aspects of her unusual experiences. He had recently discovered the famous “sleeping prophe...
+#: paragraph:7,sentence:52
+msgid "He urged Helen to read some of his books, but she found them disturbing even though she tried to keep an open mind"
+msgstr ""
+
+#. Paragraph 7: Helen kept a running account of those episodes and shared them with Bill, who was extremely interested in all aspects of her unusual experiences. He had recently discovered the famous “sleeping prophe...
+#: paragraph:7,sentence:53
+msgid "Her visions and waking dreams were followed by a growing capacity for other types of psychic phenomena—remote viewing, and sending and receiving messages at a distance"
+msgstr ""
+
+#. Paragraph 7: Helen kept a running account of those episodes and shared them with Bill, who was extremely interested in all aspects of her unusual experiences. He had recently discovered the famous “sleeping prophe...
+#: paragraph:7,sentence:54
+msgid "She was both fascinated and worried about her “magic phase,” as she called it, which abruptly concluded with an episode that verified she had made a clear and irrevocable choice:"
+msgstr ""
+
+#. Paragraph 8: I saw myself entering a cave cut into a rock formation on a bleak, wind-swept seacoast. All I found in the cave was a large and very old parchment scroll. Its ends were attached to heavy gold-tipped p...
+#: paragraph:8,sentence:55
+msgid "I saw myself entering a cave cut into a rock formation on a bleak, wind-swept seacoast"
+msgstr ""
+
+#. Paragraph 8: I saw myself entering a cave cut into a rock formation on a bleak, wind-swept seacoast. All I found in the cave was a large and very old parchment scroll. Its ends were attached to heavy gold-tipped p...
+#: paragraph:8,sentence:56
+msgid "All I found in the cave was a large and very old parchment scroll"
+msgstr ""
+
+#. Paragraph 8: I saw myself entering a cave cut into a rock formation on a bleak, wind-swept seacoast. All I found in the cave was a large and very old parchment scroll. Its ends were attached to heavy gold-tipped p...
+#: paragraph:8,sentence:57
+msgid "Its ends were attached to heavy gold-tipped poles, and the scroll was wrapped around them so that they met in the middle of the scroll and were tied tightly together"
+msgstr ""
+
+#. Paragraph 8: I saw myself entering a cave cut into a rock formation on a bleak, wind-swept seacoast. All I found in the cave was a large and very old parchment scroll. Its ends were attached to heavy gold-tipped p...
+#: paragraph:8,sentence:58
+msgid "With some difficulty I managed to untie the ends and open the scroll just enough to reveal the center panel, on which two words were written: “God is.” Then I unrolled the scroll all the way"
+msgstr ""
+
+#. Paragraph 8: I saw myself entering a cave cut into a rock formation on a bleak, wind-swept seacoast. All I found in the cave was a large and very old parchment scroll. Its ends were attached to heavy gold-tipped p...
+#: paragraph:8,sentence:59
+msgid "As I did so, tiny letters began to appear on both sides of the panel"
+msgstr ""
+
+#. Paragraph 8: I saw myself entering a cave cut into a rock formation on a bleak, wind-swept seacoast. All I found in the cave was a large and very old parchment scroll. Its ends were attached to heavy gold-tipped p...
+#: paragraph:8,sentence:60
+msgid "The silent Voice, which I had “heard” before explained the situation mentally to me:"
+msgstr ""
+
+#. Paragraph 9: “If you look at the left side you will be able to read the past.” said the Voice. “If you look at the right side you will be able to read the future.” The little letters on the sides of the panel were...
+#: paragraph:9,sentence:61
+msgid "“If you look at the left side you will be able to read the past.” said the Voice. “If you look at the right side you will be able to read the future.” The little letters on the sides of the panel were becoming clearer, but I hesitated only a moment before rolling up the scroll sufficiently to conceal everything except the center panel."
+msgstr ""
+
+#. Paragraph 10: “I’m not interested in reading the past or the future,” I said with finality. “I’ll just stop with this.” The Voice sounded both reassured and reassuring.
+#: paragraph:10,sentence:62
+msgid "“I’m not interested in reading the past or the future,” I said with finality. “I’ll just stop with this.” The Voice sounded both reassured and reassuring."
+msgstr ""
+
+#. Paragraph 11: “You made it that time,” it said. “Thank you.” And that, it seemed, was that.[57] As they moved through the summer, both Helen’s psychic capacity and Bill’s interest in the entire subject expanded. Sh...
+#: paragraph:11,sentence:63
+msgid "“You made it that time,” it said. “Thank you.” And that, it seemed, was that.[57] As they moved through the summer, both Helen’s psychic capacity and Bill’s interest in the entire subject expanded."
+msgstr ""
+
+#. Paragraph 11: “You made it that time,” it said. “Thank you.” And that, it seemed, was that.[57] As they moved through the summer, both Helen’s psychic capacity and Bill’s interest in the entire subject expanded. Sh...
+#: paragraph:11,sentence:64
+msgid "She told him she had a growing sense that something unexpected and unusual was about to take place and had written him a letter during that time stating, “Dear Bill, I’m not sure I want to write this, but I have an idea I’m obeying an order."
+msgstr ""
+
+#. Paragraph 11: “You made it that time,” it said. “Thank you.” And that, it seemed, was that.[57] As they moved through the summer, both Helen’s psychic capacity and Bill’s interest in the entire subject expanded. Sh...
+#: paragraph:11,sentence:65
+msgid "These orders are rather stern and the main feeling I get is that I wouldn’t dare disobey them.”[58] He urged her to keep a notebook with her at all times so that if the “something unexpected” occurred, she could immediately write about it."
+msgstr ""
+
+#. Paragraph 12: As a parenthetical note, in the early 1960s, before the Course transmission began, Bill was appointed to a space-planning committee for a new research building for the Department of Psychiatry. In tha...
+#: paragraph:12,sentence:66
+msgid "As a parenthetical note, in the early 1960s, before the Course transmission began, Bill was appointed to a space-planning committee for a new research building for the Department of Psychiatry."
+msgstr ""
+
+#. Paragraph 12: As a parenthetical note, in the early 1960s, before the Course transmission began, Bill was appointed to a space-planning committee for a new research building for the Department of Psychiatry. In tha...
+#: paragraph:12,sentence:67
+msgid "In that capacity, he was able to create two very private, secluded offices for himself and Helen in one wing of the new building, with their own private entrance; even their secretaries were quartered in a building across the street."
+msgstr ""
+
+#. Paragraph 12: As a parenthetical note, in the early 1960s, before the Course transmission began, Bill was appointed to a space-planning committee for a new research building for the Department of Psychiatry. In tha...
+#: paragraph:12,sentence:68
+msgid "Bill said he felt strongly at the time that there was a purpose for having a secluded space, but he had no idea what that might be."
+msgstr ""
+
+#. Paragraph 12: As a parenthetical note, in the early 1960s, before the Course transmission began, Bill was appointed to a space-planning committee for a new research building for the Department of Psychiatry. In tha...
+#: paragraph:12,sentence:69
+msgid "The new research building was completed in the fall of 1965, and shortly after settling in, the “something unexpected” began."
+msgstr ""
+
+#. Paragraph 13: One October evening, as Helen was writing some notes to herself, the Voice, by now familiar to her, said, “This is a course in miracles. Please take notes.” Very frightened, she called Bill who asked ...
+#: paragraph:13,sentence:70
+msgid "One October evening, as Helen was writing some notes to herself, the Voice, by now familiar to her, said, “This is a course in miracles."
+msgstr ""
+
+#. Paragraph 13: One October evening, as Helen was writing some notes to herself, the Voice, by now familiar to her, said, “This is a course in miracles. Please take notes.” Very frightened, she called Bill who asked ...
+#: paragraph:13,sentence:71
+msgid "Please take notes.” Very frightened, she called Bill who asked if it was the same familiar Voice; she replied that it was."
+msgstr ""
+
+#. Paragraph 13: One October evening, as Helen was writing some notes to herself, the Voice, by now familiar to her, said, “This is a course in miracles. Please take notes.” Very frightened, she called Bill who asked ...
+#: paragraph:13,sentence:72
+msgid "After a short exchange, they agreed she would take the notes but not read them."
+msgstr ""
+
+#. Paragraph 13: One October evening, as Helen was writing some notes to herself, the Voice, by now familiar to her, said, “This is a course in miracles. Please take notes.” Very frightened, she called Bill who asked ...
+#: paragraph:13,sentence:73
+msgid "She would bring them to work the next morning, and if they were nonsense, they could throw them away and no one would know."
+msgstr ""
+
+#. Paragraph 13: One October evening, as Helen was writing some notes to herself, the Voice, by now familiar to her, said, “This is a course in miracles. Please take notes.” Very frightened, she called Bill who asked ...
+#: paragraph:13,sentence:74
+msgid "The first notes she received were the introduction to the text, and both were understandably stunned on reading it."
+msgstr ""
+
+#. Paragraph 14: The abbreviated version of ACIM’s genesis is that over a seven-year period beginning in October 1965, Helen received an inner “dictation,” as it seemed to her, which she wrote down in shorthand. (She ...
+#: paragraph:14,sentence:75
+msgid "The abbreviated version of ACIM’s genesis is that over a seven-year period beginning in October 1965, Helen received an inner “dictation,” as it seemed to her, which she wrote down in shorthand. (She was exceptionally fast at shorthand, having devised her own hybrid method.) She could feel the writing coming on, usually several times a day, but it never conflicted with work or social activities"
+msgstr ""
+
+#. Paragraph 14: The abbreviated version of ACIM’s genesis is that over a seven-year period beginning in October 1965, Helen received an inner “dictation,” as it seemed to her, which she wrote down in shorthand. (She ...
+#: paragraph:14,sentence:76
+msgid "She recalled:"
+msgstr ""
+
+#. Paragraph 15: The writing was highly interruptible. At the office I could lay the notebook down to answer the telephone, talk to a patient, supervise a junior staff member, or attend to one of our numerous emergenc...
+#: paragraph:15,sentence:77
+msgid "The writing was highly interruptible"
+msgstr ""
+
+#. Paragraph 15: The writing was highly interruptible. At the office I could lay the notebook down to answer the telephone, talk to a patient, supervise a junior staff member, or attend to one of our numerous emergenc...
+#: paragraph:15,sentence:78
+msgid "At the office I could lay the notebook down to answer the telephone, talk to a patient, supervise a junior staff member, or attend to one of our numerous emergencies, and return to the writing without even checking back to see where I left off"
+msgstr ""
+
+#. Paragraph 15: The writing was highly interruptible. At the office I could lay the notebook down to answer the telephone, talk to a patient, supervise a junior staff member, or attend to one of our numerous emergenc...
+#: paragraph:15,sentence:79
+msgid "At home, I could talk with my husband, chat with a friend, take a nap, going back to the notebook afterwards without disturbing the flow of words in the slightest"
+msgstr ""
+
+#. Paragraph 15: The writing was highly interruptible. At the office I could lay the notebook down to answer the telephone, talk to a patient, supervise a junior staff member, or attend to one of our numerous emergenc...
+#: paragraph:15,sentence:80
+msgid "It did not matter whether I had stopped at the end of a paragraph or in the middle of a sentence"
+msgstr ""
+
+#. Paragraph 15: The writing was highly interruptible. At the office I could lay the notebook down to answer the telephone, talk to a patient, supervise a junior staff member, or attend to one of our numerous emergenc...
+#: paragraph:15,sentence:81
+msgid "It was as if the Voice merely waited until I came back and then started in again"
+msgstr ""
+
+#. Paragraph 15: The writing was highly interruptible. At the office I could lay the notebook down to answer the telephone, talk to a patient, supervise a junior staff member, or attend to one of our numerous emergenc...
+#: paragraph:15,sentence:82
+msgid "I wrote with equal ease at home, in the office, on a park bench, or in a taxi, bus, or subway"
+msgstr ""
+
+#. Paragraph 15: The writing was highly interruptible. At the office I could lay the notebook down to answer the telephone, talk to a patient, supervise a junior staff member, or attend to one of our numerous emergenc...
+#: paragraph:15,sentence:83
+msgid "The presence of other people did not interfere at all"
+msgstr ""
+
+#. Paragraph 15: The writing was highly interruptible. At the office I could lay the notebook down to answer the telephone, talk to a patient, supervise a junior staff member, or attend to one of our numerous emergenc...
+#: paragraph:15,sentence:84
+msgid "When the time for writing came, external circumstances appeared to be irrelevant.[59]"
+msgstr ""
+
+#. Paragraph 16: Almost every day she would take her most recent notes to Bill’s conveniently private office, where they would lock the door, pull down the shades as an extra precaution against being discovered, and s...
+#: paragraph:16,sentence:85
+msgid "Almost every day she would take her most recent notes to Bill’s conveniently private office, where they would lock the door, pull down the shades as an extra precaution against being discovered, and she would read while Bill typed"
+msgstr ""
+
+#. Paragraph 16: Almost every day she would take her most recent notes to Bill’s conveniently private office, where they would lock the door, pull down the shades as an extra precaution against being discovered, and s...
+#: paragraph:16,sentence:86
+msgid "By her own admission, she was almost always in a state of panic, and the reading required tremendous effort on her part"
+msgstr ""
+
+#. Paragraph 16: Almost every day she would take her most recent notes to Bill’s conveniently private office, where they would lock the door, pull down the shades as an extra precaution against being discovered, and s...
+#: paragraph:16,sentence:87
+msgid "She would yawn, cough, cry, stutter, or sometimes lose her voice completely and, in every conceivable manner, attempt to avoid speaking the words she had received"
+msgstr ""
+
+#. Paragraph 16: Almost every day she would take her most recent notes to Bill’s conveniently private office, where they would lock the door, pull down the shades as an extra precaution against being discovered, and s...
+#: paragraph:16,sentence:88
+msgid "She wrote:"
+msgstr ""
+
+#. Paragraph 17: For the most part, I was bleakly unbelieving, suspicious, and afraid. Yet distressing as the writing generally was, reading the material to Bill afterwards was infinitely more so. We had agreed that I...
+#: paragraph:17,sentence:89
+msgid "For the most part, I was bleakly unbelieving, suspicious, and afraid"
+msgstr ""
+
+#. Paragraph 17: For the most part, I was bleakly unbelieving, suspicious, and afraid. Yet distressing as the writing generally was, reading the material to Bill afterwards was infinitely more so. We had agreed that I...
+#: paragraph:17,sentence:90
+msgid "Yet distressing as the writing generally was, reading the material to Bill afterwards was infinitely more so"
+msgstr ""
+
+#. Paragraph 17: For the most part, I was bleakly unbelieving, suspicious, and afraid. Yet distressing as the writing generally was, reading the material to Bill afterwards was infinitely more so. We had agreed that I...
+#: paragraph:17,sentence:91
+msgid "We had agreed that I would read my notes to him at the end of the day, and he would type them"
+msgstr ""
+
+#. Paragraph 17: For the most part, I was bleakly unbelieving, suspicious, and afraid. Yet distressing as the writing generally was, reading the material to Bill afterwards was infinitely more so. We had agreed that I...
+#: paragraph:17,sentence:92
+msgid "I hated to hear what I had written"
+msgstr ""
+
+#. Paragraph 17: For the most part, I was bleakly unbelieving, suspicious, and afraid. Yet distressing as the writing generally was, reading the material to Bill afterwards was infinitely more so. We had agreed that I...
+#: paragraph:17,sentence:93
+msgid "I was sure it would be incoherent, foolish, and meaningless"
+msgstr ""
+
+#. Paragraph 17: For the most part, I was bleakly unbelieving, suspicious, and afraid. Yet distressing as the writing generally was, reading the material to Bill afterwards was infinitely more so. We had agreed that I...
+#: paragraph:17,sentence:94
+msgid "On the other hand, I was likely to be unexpectedly and deeply moved and suddenly burst into tears.[60]"
+msgstr ""
+
+#. Paragraph 18: Bill with the ACIM typewriter After each typing session, they would jointly go over the typed version and carefully check each word against her shorthand notes for accuracy, of major import to Helen i...
+#: paragraph:18,sentence:95
+msgid "Bill with the ACIM typewriter After each typing session, they would jointly go over the typed version and carefully check each word against her shorthand notes for accuracy, of major import to Helen in particular."
+msgstr ""
+
+#. Paragraph 18: Bill with the ACIM typewriter After each typing session, they would jointly go over the typed version and carefully check each word against her shorthand notes for accuracy, of major import to Helen i...
+#: paragraph:18,sentence:96
+msgid "She told Bill, most irrationally, “You’re responsible for what it says,” and declared her part was to assure grammatical correctness and purity."
+msgstr ""
+
+#. Paragraph 18: Bill with the ACIM typewriter After each typing session, they would jointly go over the typed version and carefully check each word against her shorthand notes for accuracy, of major import to Helen i...
+#: paragraph:18,sentence:97
+msgid "She announced that she would simply refuse to continue if the dictation contained grammatical errors."
+msgstr ""
+
+#. Paragraph 18: Bill with the ACIM typewriter After each typing session, they would jointly go over the typed version and carefully check each word against her shorthand notes for accuracy, of major import to Helen i...
+#: paragraph:18,sentence:98
+msgid "Fortunately, Helen did commit to this assignment absolutely, despite the torment to her."
+msgstr ""
+
+#. Paragraph 18: Bill with the ACIM typewriter After each typing session, they would jointly go over the typed version and carefully check each word against her shorthand notes for accuracy, of major import to Helen i...
+#: paragraph:18,sentence:99
+msgid "A good thing, too, because she couldn’t permanently turn it off."
+msgstr ""
+
+#. Paragraph 18: Bill with the ACIM typewriter After each typing session, they would jointly go over the typed version and carefully check each word against her shorthand notes for accuracy, of major import to Helen i...
+#: paragraph:18,sentence:100
+msgid "Periodically, she would rebel and refuse to take notes for a while, whereupon she became unable to sleep and generally dysfunctional, soon returning to the dictation."
+msgstr ""
+
+#. Paragraph 19: Bill assessed the situation, noting that Helen was never in a trance or altered state when the scribing occurred: So when Helen started hearing an inner voice, I knew it wasn’t something that she was ...
+#: paragraph:19,sentence:101
+msgid "Bill assessed the situation, noting that Helen was never in a trance or altered state when the scribing occurred: So when Helen started hearing an inner voice, I knew it wasn’t something that she was making up"
+msgstr ""
+
+#. Paragraph 19: Bill assessed the situation, noting that Helen was never in a trance or altered state when the scribing occurred: So when Helen started hearing an inner voice, I knew it wasn’t something that she was ...
+#: paragraph:19,sentence:102
+msgid "In her attempts to gain attention, Helen had a strong self-dramatizing tendency, but I knew this wasn’t that"
+msgstr ""
+
+#. Paragraph 19: Bill assessed the situation, noting that Helen was never in a trance or altered state when the scribing occurred: So when Helen started hearing an inner voice, I knew it wasn’t something that she was ...
+#: paragraph:19,sentence:103
+msgid "It didn’t fit that category at all"
+msgstr ""
+
+#. Paragraph 19: Bill assessed the situation, noting that Helen was never in a trance or altered state when the scribing occurred: So when Helen started hearing an inner voice, I knew it wasn’t something that she was ...
+#: paragraph:19,sentence:104
+msgid "This was something that was quite authentic"
+msgstr ""
+
+#. Paragraph 19: Bill assessed the situation, noting that Helen was never in a trance or altered state when the scribing occurred: So when Helen started hearing an inner voice, I knew it wasn’t something that she was ...
+#: paragraph:19,sentence:105
+msgid "She was frightened of it, but acknowledged it as having the kind of authenticity that was not characteristic of her own ideas"
+msgstr ""
+
+#. Paragraph 19: Bill assessed the situation, noting that Helen was never in a trance or altered state when the scribing occurred: So when Helen started hearing an inner voice, I knew it wasn’t something that she was ...
+#: paragraph:19,sentence:106
+msgid "Yet she was also actually indifferent about it, despite its very compelling quality"
+msgstr ""
+
+#. Paragraph 19: Bill assessed the situation, noting that Helen was never in a trance or altered state when the scribing occurred: So when Helen started hearing an inner voice, I knew it wasn’t something that she was ...
+#: paragraph:19,sentence:107
+msgid "And contrary to what some might think, Helen said she did not hear an external voice"
+msgstr ""
+
+#. Paragraph 19: Bill assessed the situation, noting that Helen was never in a trance or altered state when the scribing occurred: So when Helen started hearing an inner voice, I knew it wasn’t something that she was ...
+#: paragraph:19,sentence:108
+msgid "What she heard really was a part of her mind which was clearly separated from her ordinary ego consciousness or awareness.[61]"
+msgstr ""
+
+#. Paragraph 20: In Helen’s process, she didn’t hear voices in the way a schizophrenic does; in her own words she described it not so much a matter of audition as a sense of knowing. She said the material came very ra...
+#: paragraph:20,sentence:109
+msgid "In Helen’s process, she didn’t hear voices in the way a schizophrenic does; in her own words she described it not so much a matter of audition as a sense of knowing"
+msgstr ""
+
+#. Paragraph 20: In Helen’s process, she didn’t hear voices in the way a schizophrenic does; in her own words she described it not so much a matter of audition as a sense of knowing. She said the material came very ra...
+#: paragraph:20,sentence:110
+msgid "She said the material came very rapidly and smoothly, and she never knew how a sentence would end"
+msgstr ""
+
+#. Paragraph 20: In Helen’s process, she didn’t hear voices in the way a schizophrenic does; in her own words she described it not so much a matter of audition as a sense of knowing. She said the material came very ra...
+#: paragraph:20,sentence:111
+msgid "Had she not been proficient in shorthand, she couldn’t have kept up with it"
+msgstr ""
+
+#. Paragraph 20: In Helen’s process, she didn’t hear voices in the way a schizophrenic does; in her own words she described it not so much a matter of audition as a sense of knowing. She said the material came very ra...
+#: paragraph:20,sentence:112
+msgid "Sometimes she asked the Voice to repeat an unclear message; in response, the material then showed up on a sort of interior “blackboard” where she could read it"
+msgstr ""
+
+#. Paragraph 20: In Helen’s process, she didn’t hear voices in the way a schizophrenic does; in her own words she described it not so much a matter of audition as a sense of knowing. She said the material came very ra...
+#: paragraph:20,sentence:113
+msgid "She said all the writing was voluntary, never “automatic writing,” which she could start and stop at will, and she was pleased with its coherence even though the material was antithetical to everything she believed"
+msgstr ""
+
+#. Paragraph 20: In Helen’s process, she didn’t hear voices in the way a schizophrenic does; in her own words she described it not so much a matter of audition as a sense of knowing. She said the material came very ra...
+#: paragraph:20,sentence:114
+msgid "That, she said, confused her no end"
+msgstr ""
+
+#. Paragraph 20: In Helen’s process, she didn’t hear voices in the way a schizophrenic does; in her own words she described it not so much a matter of audition as a sense of knowing. She said the material came very ra...
+#: paragraph:20,sentence:115
+msgid "She ended her commentary by saying that the process of scribing is simply impossible to explain in words: “I do not understand the events that led up to the writing, I do not understand the process, and I certainly do not understand the authorship"
+msgstr ""
+
+#. Paragraph 20: In Helen’s process, she didn’t hear voices in the way a schizophrenic does; in her own words she described it not so much a matter of audition as a sense of knowing. She said the material came very ra...
+#: paragraph:20,sentence:116
+msgid "It would be pointless for me to attempt an explanation.”[62]"
+msgstr ""
+
+#. Paragraph 21: Bill, too, found it impossible to describe a phenomena beyond the intellect’s comprehension: “If one talked about the Holy Spirit or Jesus or Christ or Higher Authority, whatever the term might be, it...
+#: paragraph:21,sentence:117
+msgid "Bill, too, found it impossible to describe a phenomena beyond the intellect’s comprehension: “If one talked about the Holy Spirit or Jesus or Christ or Higher Authority, whatever the term might be, it seemed to me that we were talking at a level which was beyond conceptualization"
+msgstr ""
+
+#. Paragraph 21: Bill, too, found it impossible to describe a phenomena beyond the intellect’s comprehension: “If one talked about the Holy Spirit or Jesus or Christ or Higher Authority, whatever the term might be, it...
+#: paragraph:21,sentence:118
+msgid "And I couldn’t really pinpoint or identify that, except that I knew it went way beyond our egos"
+msgstr ""
+
+#. Paragraph 21: Bill, too, found it impossible to describe a phenomena beyond the intellect’s comprehension: “If one talked about the Holy Spirit or Jesus or Christ or Higher Authority, whatever the term might be, it...
+#: paragraph:21,sentence:119
+msgid "It had nothing to do with our ordinary state of consciousness and awareness"
+msgstr ""
+
+#. Paragraph 21: Bill, too, found it impossible to describe a phenomena beyond the intellect’s comprehension: “If one talked about the Holy Spirit or Jesus or Christ or Higher Authority, whatever the term might be, it...
+#: paragraph:21,sentence:120
+msgid "So I think I was perhaps more hesitant to talk in very specific Biblical terms.”[63]"
+msgstr ""
+
+#. Paragraph 22: Bill almost never referred to Jesus, not out of denial but because he personally felt it confused people and fostered the already prevalent idea about the historic Jesus being the author. Although the...
+#: paragraph:22,sentence:121
+msgid "Bill almost never referred to Jesus, not out of denial but because he personally felt it confused people and fostered the already prevalent idea about the historic Jesus being the author."
+msgstr ""
+
+#. Paragraph 22: Bill almost never referred to Jesus, not out of denial but because he personally felt it confused people and fostered the already prevalent idea about the historic Jesus being the author. Although the...
+#: paragraph:22,sentence:122
+msgid "Although the material is sometimes written in the first person as if a specific person dictated the Course, it was not a personal Jesus speaking through Helen as if she were a telephone line unrelated to the transmitted message. “The name of Jesus Christ as such is but a symbol."
+msgstr ""
+
+#. Paragraph 22: Bill almost never referred to Jesus, not out of denial but because he personally felt it confused people and fostered the already prevalent idea about the historic Jesus being the author. Although the...
+#: paragraph:22,sentence:123
+msgid "But it stands for love that is not of this world.”[64] When specifically asked about ACIM’s authorship, Bill tended to skirt the question, not wanting to trivialize it or give a simplistic answer."
+msgstr ""
+
+#. Paragraph 22: Bill almost never referred to Jesus, not out of denial but because he personally felt it confused people and fostered the already prevalent idea about the historic Jesus being the author. Although the...
+#: paragraph:22,sentence:124
+msgid "Thus, in deference to Bill’s protocol, I use the words “Author” or “Source” of ACIM throughout this work, rather than the name Jesus."
+msgstr ""
+
+#. Paragraph 23: From the ACIM teacher’s manual: The name of Jesus is the name of one who was a man but saw the face of Christ in all his brothers and remembered God. So he became identified with Christ, a man no long...
+#: paragraph:23,sentence:125
+msgid "From the ACIM teacher’s manual: The name of Jesus is the name of one who was a man but saw the face of Christ in all his brothers and remembered God"
+msgstr ""
+
+#. Paragraph 23: From the ACIM teacher’s manual: The name of Jesus is the name of one who was a man but saw the face of Christ in all his brothers and remembered God. So he became identified with Christ, a man no long...
+#: paragraph:23,sentence:126
+msgid "So he became identified with Christ, a man no longer, but at one with God"
+msgstr ""
+
+#. Paragraph 23: From the ACIM teacher’s manual: The name of Jesus is the name of one who was a man but saw the face of Christ in all his brothers and remembered God. So he became identified with Christ, a man no long...
+#: paragraph:23,sentence:127
+msgid "The man was an illusion, for he seemed to be a separate being, walking by himself, within a body that appeared to hold his self from Self, as all illusions do. . ."
+msgstr ""
+
+#. Paragraph 23: From the ACIM teacher’s manual: The name of Jesus is the name of one who was a man but saw the face of Christ in all his brothers and remembered God. So he became identified with Christ, a man no long...
+#: paragraph:23,sentence:128
+msgid "And Christ needed his form that He might appear to men and save them from their own illusions.[65]"
+msgstr ""
+
+#. Paragraph 24: Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words. To say it differently and succinctly here, his is the content, our minds (and brains) supply the form. Therefore, Helen’s decision...
+#: paragraph:24,sentence:129
+msgid "Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words"
+msgstr ""
+
+#. Paragraph 24: Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words. To say it differently and succinctly here, his is the content, our minds (and brains) supply the form. Therefore, Helen’s decision...
+#: paragraph:24,sentence:130
+msgid "To say it differently and succinctly here, his is the content, our minds (and brains) supply the form"
+msgstr ""
+
+#. Paragraph 24: Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words. To say it differently and succinctly here, his is the content, our minds (and brains) supply the form. Therefore, Helen’s decision...
+#: paragraph:24,sentence:131
+msgid "Therefore, Helen’s decision-making mind identified itself with the non-ego presence that is in everyone"
+msgstr ""
+
+#. Paragraph 24: Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words. To say it differently and succinctly here, his is the content, our minds (and brains) supply the form. Therefore, Helen’s decision...
+#: paragraph:24,sentence:132
+msgid "This non-judgmental thought system of love was represented for her by Jesus, as it is for so many of us"
+msgstr ""
+
+#. Paragraph 24: Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words. To say it differently and succinctly here, his is the content, our minds (and brains) supply the form. Therefore, Helen’s decision...
+#: paragraph:24,sentence:133
+msgid "Her mind took that non-specific love and translated it into words, in much the same way as our brains translate the upside-down image cast on the retina into right-side-up perceptions"
+msgstr ""
+
+#. Paragraph 24: Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words. To say it differently and succinctly here, his is the content, our minds (and brains) supply the form. Therefore, Helen’s decision...
+#: paragraph:24,sentence:134
+msgid "And so, as I have said many times, the form of the Course is from Helen. . ."
+msgstr ""
+
+#. Paragraph 24: Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words. To say it differently and succinctly here, his is the content, our minds (and brains) supply the form. Therefore, Helen’s decision...
+#: paragraph:24,sentence:135
+msgid "The content of A Course in Miracles, however, is clearly not Helen’s, at least not the Helen the world knew or the person she consciously identified with"
+msgstr ""
+
+#. Paragraph 24: Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words. To say it differently and succinctly here, his is the content, our minds (and brains) supply the form. Therefore, Helen’s decision...
+#: paragraph:24,sentence:136
+msgid "This explains why she felt at liberty to change the form, though never the content"
+msgstr ""
+
+#. Paragraph 24: Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words. To say it differently and succinctly here, his is the content, our minds (and brains) supply the form. Therefore, Helen’s decision...
+#: paragraph:24,sentence:137
+msgid "Helen knew what the published Course ought to be"
+msgstr ""
+
+#. Paragraph 24: Ken Wapnick wrote: Again, Jesus [the Christ] does not speak in words. To say it differently and succinctly here, his is the content, our minds (and brains) supply the form. Therefore, Helen’s decision...
+#: paragraph:24,sentence:138
+msgid "One could make recommendations, and Bill and I did from time to time, but Helen had the finished form already in her head.[66]"
+msgstr ""
+
+#. Paragraph 25: Finally, ACIM’s origin will remain unfathomable to our intellects, but closer to us than our own breath. Since our goal is ultimately to experience the Source, we are better served by focusing on forg...
+#: paragraph:25,sentence:139
+msgid "Finally, ACIM’s origin will remain unfathomable to our intellects, but closer to us than our own breath."
+msgstr ""
+
+#. Paragraph 25: Finally, ACIM’s origin will remain unfathomable to our intellects, but closer to us than our own breath. Since our goal is ultimately to experience the Source, we are better served by focusing on forg...
+#: paragraph:25,sentence:140
+msgid "Since our goal is ultimately to experience the Source, we are better served by focusing on forgiveness rather than on what our human minds can never fully grasp."
+msgstr ""
+
+#. Paragraph 26: Though they couldn’t comprehend its source, they were convinced of ACIM’s legitimacy and Bill’s support was unwavering and reassuring. He said that many times he typed with one hand and held Helen’s w...
+#: paragraph:26,sentence:141
+msgid "Though they couldn’t comprehend its source, they were convinced of ACIM’s legitimacy and Bill’s support was unwavering and reassuring."
+msgstr ""
+
+#. Paragraph 26: Though they couldn’t comprehend its source, they were convinced of ACIM’s legitimacy and Bill’s support was unwavering and reassuring. He said that many times he typed with one hand and held Helen’s w...
+#: paragraph:26,sentence:142
+msgid "He said that many times he typed with one hand and held Helen’s with the other to try to mitigate her extreme anxiety about the material she was relaying, which was so at odds with her own ego-based beliefs."
+msgstr ""
+
+#. Paragraph 26: Though they couldn’t comprehend its source, they were convinced of ACIM’s legitimacy and Bill’s support was unwavering and reassuring. He said that many times he typed with one hand and held Helen’s w...
+#: paragraph:26,sentence:143
+msgid "Bill, for his part, was also somewhat panicked, often making typographical errors, rare for him, both because of the material’s implications and the possible repercussions if anyone found out what they were up to."
+msgstr ""
+
+#. Paragraph 26: Though they couldn’t comprehend its source, they were convinced of ACIM’s legitimacy and Bill’s support was unwavering and reassuring. He said that many times he typed with one hand and held Helen’s w...
+#: paragraph:26,sentence:144
+msgid "They would likely have lost their jobs and fine reputations, so long in the making."
+msgstr ""
+
+#. Paragraph 26: Though they couldn’t comprehend its source, they were convinced of ACIM’s legitimacy and Bill’s support was unwavering and reassuring. He said that many times he typed with one hand and held Helen’s w...
+#: paragraph:26,sentence:145
+msgid "And, of course, the entire process of scribing ACIM was woven throughout their already impossibly busy schedules."
+msgstr ""
+
+#. Paragraph 26: Though they couldn’t comprehend its source, they were convinced of ACIM’s legitimacy and Bill’s support was unwavering and reassuring. He said that many times he typed with one hand and held Helen’s w...
+#: paragraph:26,sentence:146
+msgid "They made quite a pair."
+msgstr ""
+
+#. Paragraph 27: And thus was born the three-volume work consisting of a text, workbook, and manual for teachers called A Course In Miracles—a title, by the way, neither of them found acceptable in the beginning, thin...
+#: paragraph:27,sentence:147
+msgid "And thus was born the three-volume work consisting of a text, workbook, and manual for teachers called A Course In Miracles—a title, by the way, neither of them found acceptable in the beginning, thinking it sounded embarrassing, awkward, and unscientific."
+msgstr ""
+
+#. Paragraph 27: And thus was born the three-volume work consisting of a text, workbook, and manual for teachers called A Course In Miracles—a title, by the way, neither of them found acceptable in the beginning, thin...
+#: paragraph:27,sentence:148
+msgid "They even wanted the Author to change it, which did not happen."
+msgstr ""
+
+#. Paragraph 27: And thus was born the three-volume work consisting of a text, workbook, and manual for teachers called A Course In Miracles—a title, by the way, neither of them found acceptable in the beginning, thin...
+#: paragraph:27,sentence:149
+msgid "Once they developed a greater understanding of the meaning of miracle (the love that sustains the universe; a shift in perception that removes the barriers to the awareness of love’s presence in our lives), they concluded it was, indeed, the only possible title."
+msgstr ""
+
+#. Paragraph 28: Early on in the process, Bill and Helen both sensed they had started a mission they had promised to fulfill at an earlier, unknown time and place and were recommencing where they had left off. Despite...
+#: paragraph:28,sentence:150
+msgid "Early on in the process, Bill and Helen both sensed they had started a mission they had promised to fulfill at an earlier, unknown time and place and were recommencing where they had left off"
+msgstr ""
+
+#. Paragraph 28: Early on in the process, Bill and Helen both sensed they had started a mission they had promised to fulfill at an earlier, unknown time and place and were recommencing where they had left off. Despite...
+#: paragraph:28,sentence:151
+msgid "Despite their “wildly contradictory feelings,” as Helen described them, neither considered abandoning the project"
+msgstr ""
+
+#. Paragraph 28: Early on in the process, Bill and Helen both sensed they had started a mission they had promised to fulfill at an earlier, unknown time and place and were recommencing where they had left off. Despite...
+#: paragraph:28,sentence:152
+msgid "Two psychic readings given by talented, intuitive individuals, well known in their fields, had much to say about Helen, Bill, their joint undertaking, and their relationships in other lifetimes"
+msgstr ""
+
+#. Paragraph 28: Early on in the process, Bill and Helen both sensed they had started a mission they had promised to fulfill at an earlier, unknown time and place and were recommencing where they had left off. Despite...
+#: paragraph:28,sentence:153
+msgid "The material given in the readings was remarkably similar to the visions and dreams Helen had experienced before “dictation” began"
+msgstr ""
+
+#. Paragraph 28: Early on in the process, Bill and Helen both sensed they had started a mission they had promised to fulfill at an earlier, unknown time and place and were recommencing where they had left off. Despite...
+#: paragraph:28,sentence:154
+msgid "Incidentally, the issue of reincarnation, of ever increasing interest to Bill, is addressed in the teacher’s manual under the chapter, “Is Reincarnation So?”"
+msgstr ""
+
+#. Paragraph 29: In the ultimate sense, reincarnation is impossible. There is no past or future, and the idea of birth into a body has no meaning either once or many times. Reincarnation cannot, then, be true in any r...
+#: paragraph:29,sentence:155
+msgid "In the ultimate sense, reincarnation is impossible."
+msgstr ""
+
+#. Paragraph 29: In the ultimate sense, reincarnation is impossible. There is no past or future, and the idea of birth into a body has no meaning either once or many times. Reincarnation cannot, then, be true in any r...
+#: paragraph:29,sentence:156
+msgid "There is no past or future, and the idea of birth into a body has no meaning either once or many times."
+msgstr ""
+
+#. Paragraph 29: In the ultimate sense, reincarnation is impossible. There is no past or future, and the idea of birth into a body has no meaning either once or many times. Reincarnation cannot, then, be true in any r...
+#: paragraph:29,sentence:157
+msgid "Reincarnation cannot, then, be true in any real sense."
+msgstr ""
+
+#. Paragraph 29: In the ultimate sense, reincarnation is impossible. There is no past or future, and the idea of birth into a body has no meaning either once or many times. Reincarnation cannot, then, be true in any r...
+#: paragraph:29,sentence:158
+msgid "Our only question should be, “Is the concept helpful?” And that depends, of course, on what it is used for."
+msgstr ""
+
+#. Paragraph 29: In the ultimate sense, reincarnation is impossible. There is no past or future, and the idea of birth into a body has no meaning either once or many times. Reincarnation cannot, then, be true in any r...
+#: paragraph:29,sentence:159
+msgid "If it is used to strengthen the recognition of the eternal nature of life, it is helpful, indeed. . . ."
+msgstr ""
+
+#. Paragraph 30: Does this mean that the teacher of God should not believe in reincarnation himself, or discuss it with others who do? The answer is, certainly not! If he does believe in reincarnation, it would be a m...
+#: paragraph:30,sentence:160
+msgid "Does this mean that the teacher of God should not believe in reincarnation himself, or discuss it with others who do."
+msgstr ""
+
+#. Paragraph 30: Does this mean that the teacher of God should not believe in reincarnation himself, or discuss it with others who do? The answer is, certainly not! If he does believe in reincarnation, it would be a m...
+#: paragraph:30,sentence:161
+msgid "The answer is, certainly not."
+msgstr ""
+
+#. Paragraph 30: Does this mean that the teacher of God should not believe in reincarnation himself, or discuss it with others who do? The answer is, certainly not! If he does believe in reincarnation, it would be a m...
+#: paragraph:30,sentence:162
+msgid "If he does believe in reincarnation, it would be a mistake for him to renounce the belief unless his internal Teacher so advised."
+msgstr ""
+
+#. Paragraph 30: Does this mean that the teacher of God should not believe in reincarnation himself, or discuss it with others who do? The answer is, certainly not! If he does believe in reincarnation, it would be a m...
+#: paragraph:30,sentence:163
+msgid "And this is most unlikely. . . ."
+msgstr ""
+
+#. Paragraph 31: The emphasis of this course always remains the same;—it is at this moment that complete salvation is offered you, and it is at this moment that you can accept it. This is still your one responsibility...
+#: paragraph:31,sentence:164
+msgid "The emphasis of this course always remains the same;—it is at this moment that complete salvation is offered you, and it is at this moment that you can accept it"
+msgstr ""
+
+#. Paragraph 31: The emphasis of this course always remains the same;—it is at this moment that complete salvation is offered you, and it is at this moment that you can accept it. This is still your one responsibility...
+#: paragraph:31,sentence:165
+msgid "This is still your one responsibility.[67]"
+msgstr ""
+
+#. Paragraph 32: When these readings took place, neither psychic knew Bill, nor were they familiar with the Course itself. In addition, both were in a trance state and unaware of what was said until the sessions were ...
+#: paragraph:32,sentence:166
+msgid "When these readings took place, neither psychic knew Bill, nor were they familiar with the Course itself."
+msgstr ""
+
+#. Paragraph 32: When these readings took place, neither psychic knew Bill, nor were they familiar with the Course itself. In addition, both were in a trance state and unaware of what was said until the sessions were ...
+#: paragraph:32,sentence:167
+msgid "In addition, both were in a trance state and unaware of what was said until the sessions were over."
+msgstr ""
+
+#. Paragraph 32: When these readings took place, neither psychic knew Bill, nor were they familiar with the Course itself. In addition, both were in a trance state and unaware of what was said until the sessions were ...
+#: paragraph:32,sentence:168
+msgid "The first excerpts are from a reading given for Bill in the spring of 1976 by Paul Solomon shortly after ACIM was finished but not yet published."
+msgstr ""
+
+#. Paragraph 32: When these readings took place, neither psychic knew Bill, nor were they familiar with the Course itself. In addition, both were in a trance state and unaware of what was said until the sessions were ...
+#: paragraph:32,sentence:169
+msgid "While a guest in the Skutch home, Paul had offered to do a reading for Judy and she asked that he read for Bill instead."
+msgstr ""
+
+#. Paragraph 32: When these readings took place, neither psychic knew Bill, nor were they familiar with the Course itself. In addition, both were in a trance state and unaware of what was said until the sessions were ...
+#: paragraph:32,sentence:170
+msgid "The second, in 1980, came at my request through LeRoy Zemke, a long-time family friend, four years after the Course’s initial publication."
+msgstr ""
+
+#. Paragraph 32: When these readings took place, neither psychic knew Bill, nor were they familiar with the Course itself. In addition, both were in a trance state and unaware of what was said until the sessions were ...
+#: paragraph:32,sentence:171
+msgid "Bill was receptive to both these opportunities."
+msgstr ""
+
+#. Paragraph 33: Bill, curious about his next function, had queried Paul, who responded that Bill did not yet understand his relationship to the Course. He stated that he should consider his contribution in terms of a...
+#: paragraph:33,sentence:172
+msgid "Bill, curious about his next function, had queried Paul, who responded that Bill did not yet understand his relationship to the Course"
+msgstr ""
+
+#. Paragraph 33: Bill, curious about his next function, had queried Paul, who responded that Bill did not yet understand his relationship to the Course. He stated that he should consider his contribution in terms of a...
+#: paragraph:33,sentence:173
+msgid "He stated that he should consider his contribution in terms of a father/mother concept—a polarity—and that his presence was as necessary as Helen’s in bringing the work to fruition"
+msgstr ""
+
+#. Paragraph 33: Bill, curious about his next function, had queried Paul, who responded that Bill did not yet understand his relationship to the Course. He stated that he should consider his contribution in terms of a...
+#: paragraph:33,sentence:174
+msgid "He stated, “Begin to understand some of the laws of polarity and of the priesthood, for in this sense you acted as a priest, a priest in the sense of the go-between, the mediator, an energy that allowed the birth of the material . . . participating as one encouraging, as a comrade, counselor.”[68]"
+msgstr ""
+
+#. Paragraph 34: Paul then referred to another life experience in which Bill and Helen, as priest and priestess, had joined together in the highest and noblest sense to evoke the oracle, to experience completion. He i...
+#: paragraph:34,sentence:175
+msgid "Paul then referred to another life experience in which Bill and Helen, as priest and priestess, had joined together in the highest and noblest sense to evoke the oracle, to experience completion"
+msgstr ""
+
+#. Paragraph 34: Paul then referred to another life experience in which Bill and Helen, as priest and priestess, had joined together in the highest and noblest sense to evoke the oracle, to experience completion. He i...
+#: paragraph:34,sentence:176
+msgid "He indicated Bill would be unable to take his next step related to the Course until he understood and owned his full participation in its conception and birth"
+msgstr ""
+
+#. Paragraph 34: Paul then referred to another life experience in which Bill and Helen, as priest and priestess, had joined together in the highest and noblest sense to evoke the oracle, to experience completion. He i...
+#: paragraph:34,sentence:177
+msgid "Once he did this, Paul said,"
+msgstr ""
+
+#. Paragraph 35: There is another step, as might well be described—a step of application, a step of completion, a step of commentary, as it will be seen concerning this Course—as you will be the listener, the recorder...
+#: paragraph:35,sentence:178
+msgid "There is another step, as might well be described—a step of application, a step of completion, a step of commentary, as it will be seen concerning this Course—as you will be the listener, the recorder, not the scribe necessarily, but the listener"
+msgstr ""
+
+#. Paragraph 35: There is another step, as might well be described—a step of application, a step of completion, a step of commentary, as it will be seen concerning this Course—as you will be the listener, the recorder...
+#: paragraph:35,sentence:179
+msgid "And this step will describe two purposes . . . the demonstration of the laws spoken of in the Course itself, the application"
+msgstr ""
+
+#. Paragraph 35: There is another step, as might well be described—a step of application, a step of completion, a step of commentary, as it will be seen concerning this Course—as you will be the listener, the recorder...
+#: paragraph:35,sentence:180
+msgid "It is the demonstration of the completion of application and the recording of that effect that has been prophesied.[69]"
+msgstr ""
+
+#. Paragraph 36: Paul stated further that the vast potential for bringing ACIM forward existed in Helen, but Bill provided the energetic stimulus or key that allowed the flow to begin. He suggested, Now see yourself i...
+#: paragraph:36,sentence:181
+msgid "Paul stated further that the vast potential for bringing ACIM forward existed in Helen, but Bill provided the energetic stimulus or key that allowed the flow to begin."
+msgstr ""
+
+#. Paragraph 36: Paul stated further that the vast potential for bringing ACIM forward existed in Helen, but Bill provided the energetic stimulus or key that allowed the flow to begin. He suggested, Now see yourself i...
+#: paragraph:36,sentence:182
+msgid "He suggested, Now see yourself in that role in relation to that which has been born and be responsible concerning that birth and growth and maturity, for your responsibility ends not with the introduction of this to the world, but with its maturity and application, the responsibility of learning from it, using it, not controlling how it shall be used but rather experiencing that which is given to experience."
+msgstr ""
+
+#. Paragraph 36: Paul stated further that the vast potential for bringing ACIM forward existed in Helen, but Bill provided the energetic stimulus or key that allowed the flow to begin. He suggested, Now see yourself i...
+#: paragraph:36,sentence:183
+msgid "Go out to the people on your own and express, assist, share ideas, be a part of the Source of the material, and demonstrate its growth."
+msgstr ""
+
+#. Paragraph 37: As to the past and its relationship to the present, understand here there are so many times you’ve experienced this plane of existence, and every time is directly involved with this in some way. Many ...
+#: paragraph:37,sentence:184
+msgid "As to the past and its relationship to the present, understand here there are so many times you’ve experienced this plane of existence, and every time is directly involved with this in some way"
+msgstr ""
+
+#. Paragraph 37: As to the past and its relationship to the present, understand here there are so many times you’ve experienced this plane of existence, and every time is directly involved with this in some way. Many ...
+#: paragraph:37,sentence:185
+msgid "Many times you have known those who are close in this time, not only the channel for this material, but others that are as a part of the family even in this time"
+msgstr ""
+
+#. Paragraph 37: As to the past and its relationship to the present, understand here there are so many times you’ve experienced this plane of existence, and every time is directly involved with this in some way. Many ...
+#: paragraph:37,sentence:186
+msgid "You have returned together for a purpose, as men are inclined to do, and each earlier time has played its part, its role, in the preparation.[70]"
+msgstr ""
+
+#. Paragraph 38: Paul suggested, as do many other intuitives, that in various life experiences we play different roles with those we are close to in the current lifetime, and this provides a compelling force for retur...
+#: paragraph:38,sentence:187
+msgid "Paul suggested, as do many other intuitives, that in various life experiences we play different roles with those we are close to in the current lifetime, and this provides a compelling force for returning together"
+msgstr ""
+
+#. Paragraph 38: Paul suggested, as do many other intuitives, that in various life experiences we play different roles with those we are close to in the current lifetime, and this provides a compelling force for retur...
+#: paragraph:38,sentence:188
+msgid "He stated that Bill and Helen had been husband and wife before, but just as important, they had been in a teacher/student relationship, with Bill as the paternal teacher, instructing her how to listen as a channel"
+msgstr ""
+
+#. Paragraph 38: Paul suggested, as do many other intuitives, that in various life experiences we play different roles with those we are close to in the current lifetime, and this provides a compelling force for retur...
+#: paragraph:38,sentence:189
+msgid "Further highlighting Bill’s challenges, Paul said:"
+msgstr ""
+
+#. Paragraph 39: And your tendency has been, in that time and others, to isolate the self, to set the self apart, to become a monk, a separated one. And in the most recent life [before this one], disappointment, disil...
+#: paragraph:39,sentence:190
+msgid "And your tendency has been, in that time and others, to isolate the self, to set the self apart, to become a monk, a separated one."
+msgstr ""
+
+#. Paragraph 39: And your tendency has been, in that time and others, to isolate the self, to set the self apart, to become a monk, a separated one. And in the most recent life [before this one], disappointment, disil...
+#: paragraph:39,sentence:191
+msgid "And in the most recent life [before this one], disappointment, disillusionment in marriage turned to a depth of spiritual quality that made you feel that separation, isolation, being alone is best for soul growth, for development, and yet that decision toward loneliness in that time has, in this time, produced a regret, a feeling of loneliness, isolation."
+msgstr ""
+
+#. Paragraph 39: And your tendency has been, in that time and others, to isolate the self, to set the self apart, to become a monk, a separated one. And in the most recent life [before this one], disappointment, disil...
+#: paragraph:39,sentence:192
+msgid "Then you see how these things work together, that one time tempers another and you are the product of all the times that you lived and all the experiences, one tempering the other to produce that which is perfect for this moment to express that which must be expressed through it."
+msgstr ""
+
+#. Paragraph 40: Now you still continue with the illusion that each moment must have its purpose in productivity. Something must be produced. There must be a reason for this moment. You must have a goal. There will no...
+#: paragraph:40,sentence:193
+msgid "Now you still continue with the illusion that each moment must have its purpose in productivity."
+msgstr ""
+
+#. Paragraph 40: Now you still continue with the illusion that each moment must have its purpose in productivity. Something must be produced. There must be a reason for this moment. You must have a goal. There will no...
+#: paragraph:40,sentence:194
+msgid "Something must be produced."
+msgstr ""
+
+#. Paragraph 40: Now you still continue with the illusion that each moment must have its purpose in productivity. Something must be produced. There must be a reason for this moment. You must have a goal. There will no...
+#: paragraph:40,sentence:195
+msgid "There must be a reason for this moment."
+msgstr ""
+
+#. Paragraph 40: Now you still continue with the illusion that each moment must have its purpose in productivity. Something must be produced. There must be a reason for this moment. You must have a goal. There will no...
+#: paragraph:40,sentence:196
+msgid "You must have a goal."
+msgstr ""
+
+#. Paragraph 40: Now you still continue with the illusion that each moment must have its purpose in productivity. Something must be produced. There must be a reason for this moment. You must have a goal. There will no...
+#: paragraph:40,sentence:197
+msgid "There will not be that clarity of specific purpose, goal, or job until there is the acceptance that living has purpose now."
+msgstr ""
+
+#. Paragraph 40: Now you still continue with the illusion that each moment must have its purpose in productivity. Something must be produced. There must be a reason for this moment. You must have a goal. There will no...
+#: paragraph:40,sentence:198
+msgid "When being what you are is sufficient unto itself, then the means of listening and the next step will appear."
+msgstr ""
+
+#. Paragraph 41: Understand that the concerns for the physical are largely related to that just given. The energy needed will be found in finding purpose. When there is a specific project, there is sufficient energy t...
+#: paragraph:41,sentence:199
+msgid "Understand that the concerns for the physical are largely related to that just given"
+msgstr ""
+
+#. Paragraph 41: Understand that the concerns for the physical are largely related to that just given. The energy needed will be found in finding purpose. When there is a specific project, there is sufficient energy t...
+#: paragraph:41,sentence:200
+msgid "The energy needed will be found in finding purpose"
+msgstr ""
+
+#. Paragraph 41: Understand that the concerns for the physical are largely related to that just given. The energy needed will be found in finding purpose. When there is a specific project, there is sufficient energy t...
+#: paragraph:41,sentence:201
+msgid "When there is a specific project, there is sufficient energy there too"
+msgstr ""
+
+#. Paragraph 41: Understand that the concerns for the physical are largely related to that just given. The energy needed will be found in finding purpose. When there is a specific project, there is sufficient energy t...
+#: paragraph:41,sentence:202
+msgid "When there is a feeling of not having direct purpose, there is a feeling of loss of energy, debilitation, lack of direction"
+msgstr ""
+
+#. Paragraph 41: Understand that the concerns for the physical are largely related to that just given. The energy needed will be found in finding purpose. When there is a specific project, there is sufficient energy t...
+#: paragraph:41,sentence:203
+msgid "Let the moment, let living, let relationships—the relationship with God—be sufficient to that motivation and build the energy for it.[71]"
+msgstr ""
+
+#. Paragraph 42: Before I knew about this reading with Paul, I was conversing with Jaison Kayn, a friend from Denver Bill would meet later. “Bill would defer to Helen because she did the actual scribing,” he observed,...
+#: paragraph:42,sentence:204
+msgid "Before I knew about this reading with Paul, I was conversing with Jaison Kayn, a friend from Denver Bill would meet later. “Bill would defer to Helen because she did the actual scribing,” he observed, as have many others close to Bill, “but not a chance in hell it would have happened without him"
+msgstr ""
+
+#. Paragraph 42: Before I knew about this reading with Paul, I was conversing with Jaison Kayn, a friend from Denver Bill would meet later. “Bill would defer to Helen because she did the actual scribing,” he observed,...
+#: paragraph:42,sentence:205
+msgid "She required not only support but the confidence that he gave simply from the power of his presence. . ."
+msgstr ""
+
+#. Paragraph 42: Before I knew about this reading with Paul, I was conversing with Jaison Kayn, a friend from Denver Bill would meet later. “Bill would defer to Helen because she did the actual scribing,” he observed,...
+#: paragraph:42,sentence:206
+msgid "His respect, admiration, and appreciation for her helped her go on"
+msgstr ""
+
+#. Paragraph 42: Before I knew about this reading with Paul, I was conversing with Jaison Kayn, a friend from Denver Bill would meet later. “Bill would defer to Helen because she did the actual scribing,” he observed,...
+#: paragraph:42,sentence:207
+msgid "They were a team and he knew that.”[72] All who knew him commented on the obvious—Bill was an equal, essential part of the Course’s coming forth; he held the key to its transmission and was ultimately responsible for its coming to pass"
+msgstr ""
+
+#. Paragraph 42: Before I knew about this reading with Paul, I was conversing with Jaison Kayn, a friend from Denver Bill would meet later. “Bill would defer to Helen because she did the actual scribing,” he observed,...
+#: paragraph:42,sentence:208
+msgid "Without him, this work would never have happened"
+msgstr ""
+
+#. Paragraph 42: Before I knew about this reading with Paul, I was conversing with Jaison Kayn, a friend from Denver Bill would meet later. “Bill would defer to Helen because she did the actual scribing,” he observed,...
+#: paragraph:42,sentence:209
+msgid "Of course, this is not to minimize Helen’s part, but to correct any misperception that the Course was “her work” and Bill was the “helper.”"
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:210
+msgid "In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:211
+msgid "Referring to Helen, LeRoy told him: There is here another challenge for you and that involves the channel through whom the energy [of ACIM] itself was directed."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:212
+msgid "The initial connection with this woman was a very, very powerful one."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:213
+msgid "It is still very powerful on the highest level of your being."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:214
+msgid "There is within you a deep, abiding love, a love which goes back centuries into the past, and it is the expression of a love, a connection initially made in the ancient land of Egypt."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:215
+msgid "You were both in the male form and your work involved the founding of a school that became a kind of guideline for the training of the priesthood that would form the foundations of the consciousness of healing in the Egyptian religion of its time."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:216
+msgid "The school itself was thwarted, aborted."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:217
+msgid "And the commitment to establish this energy as a teaching has now been brought into this present time."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:218
+msgid "It will be done without the form of the traditional school, but is still the teaching that is here before you. . .."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:219
+msgid "There is perhaps one additional idea."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:220
+msgid "When this effort in ancient Saqqara [Egypt] was initiated, this entity, Helen, was in the male form."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:221
+msgid "You were both in the male form at that time, as you know, and the energy there was intensely powerful."
+msgstr ""
+
+#. Paragraph 43: In 1980, LeRoy Zemke made many comments in a lengthy reading for Bill about his and Helen’s relationship and its ancient origins. Referring to Helen, LeRoy told him: There is here another challenge fo...
+#: paragraph:43,sentence:222
+msgid "She felt a tremendous commitment and made a very powerful promise at some junction to come forward with that which would be beneficial for those ready to enter a force field that would permit the unfolding of the new Christ, the Cosmic Christ."
+msgstr ""
+
+#. Paragraph 44: Additional important information is that, from that period until this, there have been other embodiments involved with commitments to experiences of like essence and, in this life, the wrestling with ...
+#: paragraph:44,sentence:223
+msgid "Additional important information is that, from that period until this, there have been other embodiments involved with commitments to experiences of like essence and, in this life, the wrestling with the powers of the spirit has been very intense."
+msgstr ""
+
+#. Paragraph 44: Additional important information is that, from that period until this, there have been other embodiments involved with commitments to experiences of like essence and, in this life, the wrestling with ...
+#: paragraph:44,sentence:224
+msgid "As a result of that commitment made in ancient Egypt and the experiences in other dimensions of being, there is a reluctance within her consciousness to let go, and it is only through this deliberate shift created by the personality to allow . . . this promise to be made whole through you [Bill]."
+msgstr ""
+
+#. Paragraph 45: Bill then questioned LeRoy, who was still in a trance state: I think I have been a very reluctant teacher in this life, and I’m aware of feeling that teaching is part of my function, but there has alw...
+#: paragraph:45,sentence:225
+msgid "Bill then questioned LeRoy, who was still in a trance state: I think I have been a very reluctant teacher in this life, and I’m aware of feeling that teaching is part of my function, but there has always been a sense of drag about this. . .?"
+msgstr ""
+
+#. Paragraph 45: Bill then questioned LeRoy, who was still in a trance state: I think I have been a very reluctant teacher in this life, and I’m aware of feeling that teaching is part of my function, but there has alw...
+#: paragraph:45,sentence:226
+msgid "Somehow I have a great deal of fear—a totally irrational, neurotic fear—about getting up before groups, particularly large groups of people?"
+msgstr ""
+
+#. Paragraph 45: Bill then questioned LeRoy, who was still in a trance state: I think I have been a very reluctant teacher in this life, and I’m aware of feeling that teaching is part of my function, but there has alw...
+#: paragraph:45,sentence:227
+msgid "Is there anything that would be helpful in that regard?"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:228
+msgid "Zemke answered: There are several indications here that are significant"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:229
+msgid "In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one setting"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:230
+msgid "You have often been involved in the Catholic Church as a priest and have lived the scholastic life, a very secluded, scholarly life"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:231
+msgid "And much of your work has thus been involved in communicating with only one person or a very small and/or select group"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:232
+msgid "That energy from those life experiences is very much a part of your consciousness"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:233
+msgid "It’s a very powerful memory that acts as a resistance to your present setting since you are no longer in the priesthood but have been in an academic environment where that same secluded atmosphere has been prevalent. . ."
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:234
+msgid "Part of this fear comes from the past"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:235
+msgid "In the priesthood role, your teaching was, as it were, protected"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:236
+msgid "It came out of a very sacred dimension that might be challenged by the outer world, but never fully challenged because the priesthood acts as a shield to protect it"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:237
+msgid "Therefore, whatever the priests have taught, be it true or false, has had the aura of the Church to give it sanction"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:238
+msgid "However, in this life, that is no longer available to you"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:239
+msgid "Now you are drawing much closer to the Source and having to stand alone without the shield as you make the statements that need to be made. . ."
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:240
+msgid "You have no difficulty communicating your ideas, as such, but there is that fear that you are, in some way, going to dishonor the body of information and the power of the God-force within in attempting to represent it accurately"
+msgstr ""
+
+#. Paragraph 46: Zemke answered: There are several indications here that are significant. In the past, much of your in-depth work, in terms of the way in which you have related to people, has been in a one-to-one sett...
+#: paragraph:46,sentence:241
+msgid "That holds you back.[73]"
+msgstr ""
+
+#. Paragraph 47: What our energy fields reveal about any of us is fascinating. We simply can’t hide what is going on in our so-called private space. Judith Skutch Whitson’s first impression of Bill was that of a trapp...
+#: paragraph:47,sentence:242
+msgid "What our energy fields reveal about any of us is fascinating."
+msgstr ""
+
+#. Paragraph 47: What our energy fields reveal about any of us is fascinating. We simply can’t hide what is going on in our so-called private space. Judith Skutch Whitson’s first impression of Bill was that of a trapp...
+#: paragraph:47,sentence:243
+msgid "We simply can’t hide what is going on in our so-called private space."
+msgstr ""
+
+#. Paragraph 47: What our energy fields reveal about any of us is fascinating. We simply can’t hide what is going on in our so-called private space. Judith Skutch Whitson’s first impression of Bill was that of a trapp...
+#: paragraph:47,sentence:244
+msgid "Judith Skutch Whitson’s first impression of Bill was that of a trapped monk."
+msgstr ""
+
+#. Paragraph 47: What our energy fields reveal about any of us is fascinating. We simply can’t hide what is going on in our so-called private space. Judith Skutch Whitson’s first impression of Bill was that of a trapp...
+#: paragraph:47,sentence:245
+msgid "She noted his darting eyes and very straight back poised as if he were always getting ready to leave."
+msgstr ""
+
+#. Paragraph 47: What our energy fields reveal about any of us is fascinating. We simply can’t hide what is going on in our so-called private space. Judith Skutch Whitson’s first impression of Bill was that of a trapp...
+#: paragraph:47,sentence:246
+msgid "About five months into their friendship she mentioned that first impression, at which point he smiled and said, “I knew you knew.” What she noted was not Bill’s usual demeanor, but the fear LeRoy identified occasionally revealed itself."
+msgstr ""
+
+#. Paragraph 48: It’s apparent by now that Bill and Helen’s relationship was unique, to say the least. To illustrate, Whit Whitson recounts an early experience with Judy and the Course: In the spring of 1979, Judy vis...
+#: paragraph:48,sentence:247
+msgid "It’s apparent by now that Bill and Helen’s relationship was unique, to say the least."
+msgstr ""
+
+#. Paragraph 48: It’s apparent by now that Bill and Helen’s relationship was unique, to say the least. To illustrate, Whit Whitson recounts an early experience with Judy and the Course: In the spring of 1979, Judy vis...
+#: paragraph:48,sentence:248
+msgid "To illustrate, Whit Whitson recounts an early experience with Judy and the Course: In the spring of 1979, Judy visited Washington and we got together."
+msgstr ""
+
+#. Paragraph 48: It’s apparent by now that Bill and Helen’s relationship was unique, to say the least. To illustrate, Whit Whitson recounts an early experience with Judy and the Course: In the spring of 1979, Judy vis...
+#: paragraph:48,sentence:249
+msgid "While she was there, I hoped to explore the relationship, if any, between the PAS “ego” [personality] and the “ego” as defined by the Course."
+msgstr ""
+
+#. Paragraph 48: It’s apparent by now that Bill and Helen’s relationship was unique, to say the least. To illustrate, Whit Whitson recounts an early experience with Judy and the Course: In the spring of 1979, Judy vis...
+#: paragraph:48,sentence:250
+msgid "To do that, I decided to introduce Mike [a colleague knowledgeable about the PAS] to Judy."
+msgstr ""
+
+#. Paragraph 48: It’s apparent by now that Bill and Helen’s relationship was unique, to say the least. To illustrate, Whit Whitson recounts an early experience with Judy and the Course: In the spring of 1979, Judy vis...
+#: paragraph:48,sentence:251
+msgid "Judy and Mike hit it off immediately at the lunch I had arranged for us."
+msgstr ""
+
+#. Paragraph 48: It’s apparent by now that Bill and Helen’s relationship was unique, to say the least. To illustrate, Whit Whitson recounts an early experience with Judy and the Course: In the spring of 1979, Judy vis...
+#: paragraph:48,sentence:252
+msgid "Soon Mike asked her to tell him about A Course In Miracles."
+msgstr ""
+
+#. Paragraph 48: It’s apparent by now that Bill and Helen’s relationship was unique, to say the least. To illustrate, Whit Whitson recounts an early experience with Judy and the Course: In the spring of 1979, Judy vis...
+#: paragraph:48,sentence:253
+msgid "I knew he would be somewhat skeptical about the fundamental precepts of the Course and whoever had “dreamed up” such a system of thought."
+msgstr ""
+
+#. Paragraph 49: At the time, Bill and Helen had pledged Judy to silence about their roles in scribing the Course, insisting on remaining anonymous. So Judy refused to give Mike their names or even the locale of their...
+#: paragraph:49,sentence:254
+msgid "At the time, Bill and Helen had pledged Judy to silence about their roles in scribing the Course, insisting on remaining anonymous"
+msgstr ""
+
+#. Paragraph 49: At the time, Bill and Helen had pledged Judy to silence about their roles in scribing the Course, insisting on remaining anonymous. So Judy refused to give Mike their names or even the locale of their...
+#: paragraph:49,sentence:255
+msgid "So Judy refused to give Mike their names or even the locale of their university"
+msgstr ""
+
+#. Paragraph 49: At the time, Bill and Helen had pledged Judy to silence about their roles in scribing the Course, insisting on remaining anonymous. So Judy refused to give Mike their names or even the locale of their...
+#: paragraph:49,sentence:256
+msgid "But as she continued to describe them—their personalities and relationship with one another—Mike suddenly asked, “Are you talking about Bill Thetford and Helen Schucman?”"
+msgstr ""
+
+#. Paragraph 50: Judy was dumbfounded. She wondered what she had said to reveal Helen and Bill’s secret. In turn, Mike stared at Judy in disbelief, telling her that he knew them, but that he never knew they had produc...
+#: paragraph:50,sentence:257
+msgid "Judy was dumbfounded"
+msgstr ""
+
+#. Paragraph 50: Judy was dumbfounded. She wondered what she had said to reveal Helen and Bill’s secret. In turn, Mike stared at Judy in disbelief, telling her that he knew them, but that he never knew they had produc...
+#: paragraph:50,sentence:258
+msgid "She wondered what she had said to reveal Helen and Bill’s secret"
+msgstr ""
+
+#. Paragraph 50: Judy was dumbfounded. She wondered what she had said to reveal Helen and Bill’s secret. In turn, Mike stared at Judy in disbelief, telling her that he knew them, but that he never knew they had produc...
+#: paragraph:50,sentence:259
+msgid "In turn, Mike stared at Judy in disbelief, telling her that he knew them, but that he never knew they had produced A Course In Miracles"
+msgstr ""
+
+#. Paragraph 50: Judy was dumbfounded. She wondered what she had said to reveal Helen and Bill’s secret. In turn, Mike stared at Judy in disbelief, telling her that he knew them, but that he never knew they had produc...
+#: paragraph:50,sentence:260
+msgid "Mike explained that he couldn’t think of anyone else who fit Judy’s descriptions; he would now have to reassess his prior judgments of Bill and Helen"
+msgstr ""
+
+#. Paragraph 50: Judy was dumbfounded. She wondered what she had said to reveal Helen and Bill’s secret. In turn, Mike stared at Judy in disbelief, telling her that he knew them, but that he never knew they had produc...
+#: paragraph:50,sentence:261
+msgid "He also told Judy that he had worked with them and knew them as a truly remarkable team. [Mike’s association with them related to funding many of their projects.] He remembered Bill as being the stable, imperturbable academic—calm and easy-going—which contrasted with Helen’s assertive vitality"
+msgstr ""
+
+#. Paragraph 50: Judy was dumbfounded. She wondered what she had said to reveal Helen and Bill’s secret. In turn, Mike stared at Judy in disbelief, telling her that he knew them, but that he never knew they had produc...
+#: paragraph:50,sentence:262
+msgid "He thought of Helen as a tough-minded New York intellectual with a no-nonsense, intensive, questioning mind"
+msgstr ""
+
+#. Paragraph 50: Judy was dumbfounded. She wondered what she had said to reveal Helen and Bill’s secret. In turn, Mike stared at Judy in disbelief, telling her that he knew them, but that he never knew they had produc...
+#: paragraph:50,sentence:263
+msgid "Yet as a team professionally, he found them incredibly productive.[74]"
+msgstr ""
+
+#. Paragraph 51: So much for trying to hide! Bill and Helen’s relationship was most unusual in other ways as well. Ken Wapnick noted that, although they could fight endlessly, when either really needed help or support...
+#: paragraph:51,sentence:264
+msgid "So much for trying to hide."
+msgstr ""
+
+#. Paragraph 51: So much for trying to hide! Bill and Helen’s relationship was most unusual in other ways as well. Ken Wapnick noted that, although they could fight endlessly, when either really needed help or support...
+#: paragraph:51,sentence:265
+msgid "Bill and Helen’s relationship was most unusual in other ways as well."
+msgstr ""
+
+#. Paragraph 51: So much for trying to hide! Bill and Helen’s relationship was most unusual in other ways as well. Ken Wapnick noted that, although they could fight endlessly, when either really needed help or support...
+#: paragraph:51,sentence:266
+msgid "Ken Wapnick noted that, although they could fight endlessly, when either really needed help or support, the other was there without condition and for as long as needed."
+msgstr ""
+
+#. Paragraph 51: So much for trying to hide! Bill and Helen’s relationship was most unusual in other ways as well. Ken Wapnick noted that, although they could fight endlessly, when either really needed help or support...
+#: paragraph:51,sentence:267
+msgid "Also, when involved in Course work, they were loving and kind to one another, all enmity put aside."
+msgstr ""
+
+#. Paragraph 51: So much for trying to hide! Bill and Helen’s relationship was most unusual in other ways as well. Ken Wapnick noted that, although they could fight endlessly, when either really needed help or support...
+#: paragraph:51,sentence:268
+msgid "On returning to their academic work, however, the sniping would resume."
+msgstr ""
+
+#. Paragraph 51: So much for trying to hide! Bill and Helen’s relationship was most unusual in other ways as well. Ken Wapnick noted that, although they could fight endlessly, when either really needed help or support...
+#: paragraph:51,sentence:269
+msgid "Bill would write, Helen would ferociously edit, he would take that personally, and they were off and running."
+msgstr ""
+
+#. Paragraph 51: So much for trying to hide! Bill and Helen’s relationship was most unusual in other ways as well. Ken Wapnick noted that, although they could fight endlessly, when either really needed help or support...
+#: paragraph:51,sentence:270
+msgid "It’s as if they continually flipped a switch, operating at extremes—a real love-hate relationship, but both were resolute in their commitment to the Course and to avoiding endangering its transmission in any way."
+msgstr ""
+
+#. Paragraph 52: Their battles were not limited to normal work hours. I asked Ken if he was included in the “after-hours war” once he joined the project, and he answered emphatically, Oh, God, yes—always! In general, ...
+#: paragraph:52,sentence:271
+msgid "Their battles were not limited to normal work hours"
+msgstr ""
+
+#. Paragraph 52: Their battles were not limited to normal work hours. I asked Ken if he was included in the “after-hours war” once he joined the project, and he answered emphatically, Oh, God, yes—always! In general, ...
+#: paragraph:52,sentence:272
+msgid "I asked Ken if he was included in the “after-hours war” once he joined the project, and he answered emphatically, Oh, God, yes—always"
+msgstr ""
+
+#. Paragraph 52: Their battles were not limited to normal work hours. I asked Ken if he was included in the “after-hours war” once he joined the project, and he answered emphatically, Oh, God, yes—always! In general, ...
+#: paragraph:52,sentence:273
+msgid "In general, we’d be together all day and they would argue all the time, I’d go home with Helen to have dinner with her and Louis"
+msgstr ""
+
+#. Paragraph 52: Their battles were not limited to normal work hours. I asked Ken if he was included in the “after-hours war” once he joined the project, and he answered emphatically, Oh, God, yes—always! In general, ...
+#: paragraph:52,sentence:274
+msgid "After dinner, Helen would call Bill or he would call her, I’d go to another room, and they’d continue where they left off for up to another hour"
+msgstr ""
+
+#. Paragraph 52: Their battles were not limited to normal work hours. I asked Ken if he was included in the “after-hours war” once he joined the project, and he answered emphatically, Oh, God, yes—always! In general, ...
+#: paragraph:52,sentence:275
+msgid "For a long time we’d have lunch together on Saturday, then go to Bill’s apartment or take a walk in the park if it was nice, and then go to Bill’s apartment and continue"
+msgstr ""
+
+#. Paragraph 52: Their battles were not limited to normal work hours. I asked Ken if he was included in the “after-hours war” once he joined the project, and he answered emphatically, Oh, God, yes—always! In general, ...
+#: paragraph:52,sentence:276
+msgid "At some point, we stopped doing it because it was just awful, the arguing was enough already.[75]"
+msgstr ""
+
+#. Paragraph 53: They both seemed determined to make themselves miserable. Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos. To say they were astonished as t...
+#: paragraph:53,sentence:277
+msgid "They both seemed determined to make themselves miserable."
+msgstr ""
+
+#. Paragraph 53: They both seemed determined to make themselves miserable. Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos. To say they were astonished as t...
+#: paragraph:53,sentence:278
+msgid "Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos."
+msgstr ""
+
+#. Paragraph 53: They both seemed determined to make themselves miserable. Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos. To say they were astonished as t...
+#: paragraph:53,sentence:279
+msgid "To say they were astonished as the message unfolded would be a gross understatement."
+msgstr ""
+
+#. Paragraph 53: They both seemed determined to make themselves miserable. Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos. To say they were astonished as t...
+#: paragraph:53,sentence:280
+msgid "Bill quickly recognized he would need to examine and release virtually everything he believed and seriously questioned his ability to do that."
+msgstr ""
+
+#. Paragraph 53: They both seemed determined to make themselves miserable. Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos. To say they were astonished as t...
+#: paragraph:53,sentence:281
+msgid "In fact, he described being in shock for a while, wondering how such an abrupt shift could be possible."
+msgstr ""
+
+#. Paragraph 53: They both seemed determined to make themselves miserable. Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos. To say they were astonished as t...
+#: paragraph:53,sentence:282
+msgid "How important were all his academic achievements and recognition."
+msgstr ""
+
+#. Paragraph 53: They both seemed determined to make themselves miserable. Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos. To say they were astonished as t...
+#: paragraph:53,sentence:283
+msgid "What was really valuable."
+msgstr ""
+
+#. Paragraph 53: They both seemed determined to make themselves miserable. Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos. To say they were astonished as t...
+#: paragraph:53,sentence:284
+msgid "Everything would have to be reevaluated."
+msgstr ""
+
+#. Paragraph 53: They both seemed determined to make themselves miserable. Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos. To say they were astonished as t...
+#: paragraph:53,sentence:285
+msgid "To live that schizophrenic kind of life, pursuing a career in traditional psychology on one hand and trying to deal with the dynamics of the Course and its ramifications on the other, was a huge feat for both of them."
+msgstr ""
+
+#. Paragraph 53: They both seemed determined to make themselves miserable. Bill used to say he thought he and Helen needed the Course because they intensely resisted each other’s egos. To say they were astonished as t...
+#: paragraph:53,sentence:286
+msgid "From what Bill told me, the endless, wrenching nature of this dichotomy was incredibly difficult for him."
+msgstr ""
+
+#. Paragraph 54: Relentlessly, day after day, the Course pointed out the mirroring nature of our world—relationships, situations, circumstances—and the inescapable fact that we are fully responsible for our subjective...
+#: paragraph:54,sentence:287
+msgid "Relentlessly, day after day, the Course pointed out the mirroring nature of our world—relationships, situations, circumstances—and the inescapable fact that we are fully responsible for our subjective experience."
+msgstr ""
+
+#. Paragraph 55: The world you see depicts exactly what you thought you did. Except that now you think that what you did is being done to you. . . . The world but demonstrates an ancient truth; you will believe that o...
+#: paragraph:55,sentence:288
+msgid "The world you see depicts exactly what you thought you did."
+msgstr ""
+
+#. Paragraph 55: The world you see depicts exactly what you thought you did. Except that now you think that what you did is being done to you. . . . The world but demonstrates an ancient truth; you will believe that o...
+#: paragraph:55,sentence:289
+msgid "Except that now you think that what you did is being done to you. . .."
+msgstr ""
+
+#. Paragraph 55: The world you see depicts exactly what you thought you did. Except that now you think that what you did is being done to you. . . . The world but demonstrates an ancient truth; you will believe that o...
+#: paragraph:55,sentence:290
+msgid "The world but demonstrates an ancient truth; you will believe that others do to you exactly what you think you did to them."
+msgstr ""
+
+#. Paragraph 55: The world you see depicts exactly what you thought you did. Except that now you think that what you did is being done to you. . . . The world but demonstrates an ancient truth; you will believe that o...
+#: paragraph:55,sentence:291
+msgid "But once deluded into blaming them, you will not see the cause of what they do, because you want the guilt to rest on them. . . ."
+msgstr ""
+
+#. Paragraph 56: The secret to salvation is but this: That you are doing this unto yourself. No matter what the form of the attack, this still is true. Whoever takes the role of enemy and of attacker, still is this th...
+#: paragraph:56,sentence:292
+msgid "The secret to salvation is but this: That you are doing this unto yourself"
+msgstr ""
+
+#. Paragraph 56: The secret to salvation is but this: That you are doing this unto yourself. No matter what the form of the attack, this still is true. Whoever takes the role of enemy and of attacker, still is this th...
+#: paragraph:56,sentence:293
+msgid "No matter what the form of the attack, this still is true"
+msgstr ""
+
+#. Paragraph 56: The secret to salvation is but this: That you are doing this unto yourself. No matter what the form of the attack, this still is true. Whoever takes the role of enemy and of attacker, still is this th...
+#: paragraph:56,sentence:294
+msgid "Whoever takes the role of enemy and of attacker, still is this the truth"
+msgstr ""
+
+#. Paragraph 56: The secret to salvation is but this: That you are doing this unto yourself. No matter what the form of the attack, this still is true. Whoever takes the role of enemy and of attacker, still is this th...
+#: paragraph:56,sentence:295
+msgid "Whatever seems to be the cause of any pain and suffering you feel, this is still true.[76]"
+msgstr ""
+
+#. Paragraph 57: As Bill and Helen worked together to produce a typescript of the Course, they felt genuine excitement as the project unfolded, providing a truly meaningful function as they joined in common purpose, a...
+#: paragraph:57,sentence:296
+msgid "As Bill and Helen worked together to produce a typescript of the Course, they felt genuine excitement as the project unfolded, providing a truly meaningful function as they joined in common purpose, and it was rewarding in ways their regular work at Columbia was not."
+msgstr ""
+
+#. Paragraph 57: As Bill and Helen worked together to produce a typescript of the Course, they felt genuine excitement as the project unfolded, providing a truly meaningful function as they joined in common purpose, a...
+#: paragraph:57,sentence:297
+msgid "Bill said later that it felt amazingly familiar, a feeling not unique to them."
+msgstr ""
+
+#. Paragraph 57: As Bill and Helen worked together to produce a typescript of the Course, they felt genuine excitement as the project unfolded, providing a truly meaningful function as they joined in common purpose, a...
+#: paragraph:57,sentence:298
+msgid "I have spoken with many people who have described how much at home they felt with the material, how it resonated at a profound level like a long-lost truth."
+msgstr ""
+
+#. Paragraph 57: As Bill and Helen worked together to produce a typescript of the Course, they felt genuine excitement as the project unfolded, providing a truly meaningful function as they joined in common purpose, a...
+#: paragraph:57,sentence:299
+msgid "Once when Bill and I were discussing the Course, I told him I felt like it was mine, almost like I had written it."
+msgstr ""
+
+#. Paragraph 57: As Bill and Helen worked together to produce a typescript of the Course, they felt genuine excitement as the project unfolded, providing a truly meaningful function as they joined in common purpose, a...
+#: paragraph:57,sentence:300
+msgid "He answered, “I’m sure you did.” He did not mean that I literally had something to do with scribing it in its current form but that we are all part of the unified Self from which it derives."
+msgstr ""
+
+#. Paragraph 57: As Bill and Helen worked together to produce a typescript of the Course, they felt genuine excitement as the project unfolded, providing a truly meaningful function as they joined in common purpose, a...
+#: paragraph:57,sentence:301
+msgid "At some level, we have all collectively written it in anticipation of our comprehensive waking up."
+msgstr ""
+
+#. Paragraph 58: Bill and Helen sometimes asked the Author, the Voice Helen “heard,” why they were chosen to bring this material forward, because they often felt unfit for the job. The Voice indicated that the confide...
+#: paragraph:58,sentence:302
+msgid "Bill and Helen sometimes asked the Author, the Voice Helen “heard,” why they were chosen to bring this material forward, because they often felt unfit for the job"
+msgstr ""
+
+#. Paragraph 58: Bill and Helen sometimes asked the Author, the Voice Helen “heard,” why they were chosen to bring this material forward, because they often felt unfit for the job. The Voice indicated that the confide...
+#: paragraph:58,sentence:303
+msgid "The Voice indicated that the confidence in them was not misplaced, as their commitment and agreement to do this work was already known"
+msgstr ""
+
+#. Paragraph 58: Bill and Helen sometimes asked the Author, the Voice Helen “heard,” why they were chosen to bring this material forward, because they often felt unfit for the job. The Voice indicated that the confide...
+#: paragraph:58,sentence:304
+msgid "Eventually, they realized the inevitability of their commitment, and neither seriously considered giving it up"
+msgstr ""
+
+#. Paragraph 58: Bill and Helen sometimes asked the Author, the Voice Helen “heard,” why they were chosen to bring this material forward, because they often felt unfit for the job. The Voice indicated that the confide...
+#: paragraph:58,sentence:305
+msgid "The answer Bill gave, in the few interviews he granted, to the question of “Why us?” was “Because you’re doing it.” That was a correct but insufficient answer"
+msgstr ""
+
+#. Paragraph 58: Bill and Helen sometimes asked the Author, the Voice Helen “heard,” why they were chosen to bring this material forward, because they often felt unfit for the job. The Voice indicated that the confide...
+#: paragraph:58,sentence:306
+msgid "In the Urtext, defined as “a reconstructed proto-text set up as the basis of variants in extant later texts,”[77] and in this case, Bill’s original, unedited typed notes of ACIM, the Author gave them a more complete and direct answer:"
+msgstr ""
+
+#. Paragraph 59: You have been chosen to teach the Atonement precisely because you have been extreme examples of allegiance to your thought systems and, therefore, have developed the capacity for allegiance. It has, i...
+#: paragraph:59,sentence:307
+msgid "You have been chosen to teach the Atonement precisely because you have been extreme examples of allegiance to your thought systems and, therefore, have developed the capacity for allegiance"
+msgstr ""
+
+#. Paragraph 59: You have been chosen to teach the Atonement precisely because you have been extreme examples of allegiance to your thought systems and, therefore, have developed the capacity for allegiance. It has, i...
+#: paragraph:59,sentence:308
+msgid "It has, indeed, been misplaced"
+msgstr ""
+
+#. Paragraph 59: You have been chosen to teach the Atonement precisely because you have been extreme examples of allegiance to your thought systems and, therefore, have developed the capacity for allegiance. It has, i...
+#: paragraph:59,sentence:309
+msgid "Bill has become an outstanding example of allegiance to apathy, and you [Helen] have become a startling example of fidelity to variability"
+msgstr ""
+
+#. Paragraph 59: You have been chosen to teach the Atonement precisely because you have been extreme examples of allegiance to your thought systems and, therefore, have developed the capacity for allegiance. It has, i...
+#: paragraph:59,sentence:310
+msgid "But this is a form of faith, which you yourselves had grown willing to redirect"
+msgstr ""
+
+#. Paragraph 59: You have been chosen to teach the Atonement precisely because you have been extreme examples of allegiance to your thought systems and, therefore, have developed the capacity for allegiance. It has, i...
+#: paragraph:59,sentence:311
+msgid "You cannot doubt the strength of your devotion when you consider how faithfully you observed it"
+msgstr ""
+
+#. Paragraph 59: You have been chosen to teach the Atonement precisely because you have been extreme examples of allegiance to your thought systems and, therefore, have developed the capacity for allegiance. It has, i...
+#: paragraph:59,sentence:312
+msgid "It was quite evident that you had already developed the ability to follow a better model, if you could accept it.[78]"
+msgstr ""
+
+#. Paragraph 60: Because Helen was so easily upset and challenged by the subject matter of the Course, it was difficult for them to discuss the content once they assured its accuracy. Therefore, Bill, sworn to secrecy...
+#: paragraph:60,sentence:313
+msgid "Because Helen was so easily upset and challenged by the subject matter of the Course, it was difficult for them to discuss the content once they assured its accuracy."
+msgstr ""
+
+#. Paragraph 60: Because Helen was so easily upset and challenged by the subject matter of the Course, it was difficult for them to discuss the content once they assured its accuracy. Therefore, Bill, sworn to secrecy...
+#: paragraph:60,sentence:314
+msgid "Therefore, Bill, sworn to secrecy, had no one with whom to explore the ideas, to discover what they actually said and how to apply them in his life."
+msgstr ""
+
+#. Paragraph 60: Because Helen was so easily upset and challenged by the subject matter of the Course, it was difficult for them to discuss the content once they assured its accuracy. Therefore, Bill, sworn to secrecy...
+#: paragraph:60,sentence:315
+msgid "In the beginning, absolutely no one knew about the ACIM project, which they carefully fit in around the edges of their official jobs."
+msgstr ""
+
+#. Paragraph 61: Several months before the dilemma of having no one to talk with became acute, Bill’s friend at the hospital, Cal Hatcher, had approached him about his desire to discuss religious or spiritual matters....
+#: paragraph:61,sentence:316
+msgid "Several months before the dilemma of having no one to talk with became acute, Bill’s friend at the hospital, Cal Hatcher, had approached him about his desire to discuss religious or spiritual matters"
+msgstr ""
+
+#. Paragraph 61: Several months before the dilemma of having no one to talk with became acute, Bill’s friend at the hospital, Cal Hatcher, had approached him about his desire to discuss religious or spiritual matters....
+#: paragraph:61,sentence:317
+msgid "Bill assured him he was talking to the wrong guy, because he had no knowledge or interest in such subjects at that time"
+msgstr ""
+
+#. Paragraph 61: Several months before the dilemma of having no one to talk with became acute, Bill’s friend at the hospital, Cal Hatcher, had approached him about his desire to discuss religious or spiritual matters....
+#: paragraph:61,sentence:318
+msgid "Therefore, when ACIM turned his values, his assumptions, and his very life upside down, Bill instinctively knew Cal was the person he could trust with their secret"
+msgstr ""
+
+#. Paragraph 61: Several months before the dilemma of having no one to talk with became acute, Bill’s friend at the hospital, Cal Hatcher, had approached him about his desire to discuss religious or spiritual matters....
+#: paragraph:61,sentence:319
+msgid "Although this thought system was entirely different from anything he had learned or that psychology taught, it seemed imminently practical and thus very appealing"
+msgstr ""
+
+#. Paragraph 61: Several months before the dilemma of having no one to talk with became acute, Bill’s friend at the hospital, Cal Hatcher, had approached him about his desire to discuss religious or spiritual matters....
+#: paragraph:61,sentence:320
+msgid "He was anxious to try it out"
+msgstr ""
+
+#. Paragraph 61: Several months before the dilemma of having no one to talk with became acute, Bill’s friend at the hospital, Cal Hatcher, had approached him about his desire to discuss religious or spiritual matters....
+#: paragraph:61,sentence:321
+msgid "Predictably, Helen was more than upset when he told her that Cal would now be his confidant"
+msgstr ""
+
+#. Paragraph 61: Several months before the dilemma of having no one to talk with became acute, Bill’s friend at the hospital, Cal Hatcher, had approached him about his desire to discuss religious or spiritual matters....
+#: paragraph:61,sentence:322
+msgid "Bill wrote:"
+msgstr ""
+
+#. Paragraph 62: Afterward [after making the arrangement with Cal], when I would type up the three copies, I would give Helen the original, keep one copy and give Cal the other each morning. For several years we met i...
+#: paragraph:62,sentence:323
+msgid "Afterward [after making the arrangement with Cal], when I would type up the three copies, I would give Helen the original, keep one copy and give Cal the other each morning"
+msgstr ""
+
+#. Paragraph 62: Afterward [after making the arrangement with Cal], when I would type up the three copies, I would give Helen the original, keep one copy and give Cal the other each morning. For several years we met i...
+#: paragraph:62,sentence:324
+msgid "For several years we met in my office early in the morning, before 8am, because we had to meet before scheduled activities"
+msgstr ""
+
+#. Paragraph 62: Afterward [after making the arrangement with Cal], when I would type up the three copies, I would give Helen the original, keep one copy and give Cal the other each morning. For several years we met i...
+#: paragraph:62,sentence:325
+msgid "I would go over the material that I had typed the preceding day and try to explain it to Cal"
+msgstr ""
+
+#. Paragraph 62: Afterward [after making the arrangement with Cal], when I would type up the three copies, I would give Helen the original, keep one copy and give Cal the other each morning. For several years we met i...
+#: paragraph:62,sentence:326
+msgid "This was my attempt to learn what it meant by trying to teach it to him, and it was enormously helpful"
+msgstr ""
+
+#. Paragraph 62: Afterward [after making the arrangement with Cal], when I would type up the three copies, I would give Helen the original, keep one copy and give Cal the other each morning. For several years we met i...
+#: paragraph:62,sentence:327
+msgid "Cal knew much more than I did about the Bible, which was all very new to me"
+msgstr ""
+
+#. Paragraph 62: Afterward [after making the arrangement with Cal], when I would type up the three copies, I would give Helen the original, keep one copy and give Cal the other each morning. For several years we met i...
+#: paragraph:62,sentence:328
+msgid "He had a critical, inquiring mind, and wanted to know what this meant, what the implications might be"
+msgstr ""
+
+#. Paragraph 62: Afterward [after making the arrangement with Cal], when I would type up the three copies, I would give Helen the original, keep one copy and give Cal the other each morning. For several years we met i...
+#: paragraph:62,sentence:329
+msgid "This gave me my first opportunity to try to find out what I thought about it"
+msgstr ""
+
+#. Paragraph 62: Afterward [after making the arrangement with Cal], when I would type up the three copies, I would give Helen the original, keep one copy and give Cal the other each morning. For several years we met i...
+#: paragraph:62,sentence:330
+msgid "Our talks were extremely helpful and made it possible for Helen and me to continue even when I felt we were not learning it together"
+msgstr ""
+
+#. Paragraph 62: Afterward [after making the arrangement with Cal], when I would type up the three copies, I would give Helen the original, keep one copy and give Cal the other each morning. For several years we met i...
+#: paragraph:62,sentence:331
+msgid "It was much more difficult to go over the material with Helen.[79]"
+msgstr ""
+
+#. Paragraph 63: Although Cal proved to be a much needed partner in studying the material, Bill was deeply disturbed that he and Helen seemed unable to decide harmoniously how to use ACIM to work on their relationship...
+#: paragraph:63,sentence:332
+msgid "Although Cal proved to be a much needed partner in studying the material, Bill was deeply disturbed that he and Helen seemed unable to decide harmoniously how to use ACIM to work on their relationship, much less actually put it into practice"
+msgstr ""
+
+#. Paragraph 63: Although Cal proved to be a much needed partner in studying the material, Bill was deeply disturbed that he and Helen seemed unable to decide harmoniously how to use ACIM to work on their relationship...
+#: paragraph:63,sentence:333
+msgid "In fact, he felt their situation worsened as the Course continued to unfold"
+msgstr ""
+
+#. Paragraph 63: Although Cal proved to be a much needed partner in studying the material, Bill was deeply disturbed that he and Helen seemed unable to decide harmoniously how to use ACIM to work on their relationship...
+#: paragraph:63,sentence:334
+msgid "Helen became increasingly hostile as she projected onto Bill the sense of threat engendered by the material, and from his perspective, she actively attempted to undermine him"
+msgstr ""
+
+#. Paragraph 63: Although Cal proved to be a much needed partner in studying the material, Bill was deeply disturbed that he and Helen seemed unable to decide harmoniously how to use ACIM to work on their relationship...
+#: paragraph:63,sentence:335
+msgid "He took the Course statements seriously and literally when it referred to “you, Helen and Bill,” which they later translated throughout the books into “the two of you” or “you and your brother.” He agonized over the observable lack of progress with her; he used to say it was impossible to express how much this seeming failure with Helen upset him"
+msgstr ""
+
+#. Paragraph 63: Although Cal proved to be a much needed partner in studying the material, Bill was deeply disturbed that he and Helen seemed unable to decide harmoniously how to use ACIM to work on their relationship...
+#: paragraph:63,sentence:336
+msgid "And his ongoing angst with her was just a subplot in the pressure cooker that was the highly competitive medical center"
+msgstr ""
+
+#. Paragraph 63: Although Cal proved to be a much needed partner in studying the material, Bill was deeply disturbed that he and Helen seemed unable to decide harmoniously how to use ACIM to work on their relationship...
+#: paragraph:63,sentence:337
+msgid "As he commented later, “Much of the time what I felt was a constant temptation to walk the plank.”[80]"
+msgstr ""
+
+#. Paragraph 64: Because increased upset is such a common experience for new students of ACIM, I believe it should be addressed. I have worked with many people who found that at some point in their early practice of t...
+#: paragraph:64,sentence:338
+msgid "Because increased upset is such a common experience for new students of ACIM, I believe it should be addressed."
+msgstr ""
+
+#. Paragraph 64: Because increased upset is such a common experience for new students of ACIM, I believe it should be addressed. I have worked with many people who found that at some point in their early practice of t...
+#: paragraph:64,sentence:339
+msgid "I have worked with many people who found that at some point in their early practice of the Course, life seemed to get worse rather than better."
+msgstr ""
+
+#. Paragraph 64: Because increased upset is such a common experience for new students of ACIM, I believe it should be addressed. I have worked with many people who found that at some point in their early practice of t...
+#: paragraph:64,sentence:340
+msgid "In fact, in my classes I warn students this is likely to happen and that it’s reasonable to ask why they should embark on a practice that might stir up more upset."
+msgstr ""
+
+#. Paragraph 64: Because increased upset is such a common experience for new students of ACIM, I believe it should be addressed. I have worked with many people who found that at some point in their early practice of t...
+#: paragraph:64,sentence:341
+msgid "The answer, of course, is that sooner or later it’s our only choice."
+msgstr ""
+
+#. Paragraph 64: Because increased upset is such a common experience for new students of ACIM, I believe it should be addressed. I have worked with many people who found that at some point in their early practice of t...
+#: paragraph:64,sentence:342
+msgid "Addressing our fears is ultimately required of everyone, not to inflict punishment but because this is how to release them."
+msgstr ""
+
+#. Paragraph 64: Because increased upset is such a common experience for new students of ACIM, I believe it should be addressed. I have worked with many people who found that at some point in their early practice of t...
+#: paragraph:64,sentence:343
+msgid "Bill found—as everyone eventually finds—that tolerance for pain is only so high."
+msgstr ""
+
+#. Paragraph 64: Because increased upset is such a common experience for new students of ACIM, I believe it should be addressed. I have worked with many people who found that at some point in their early practice of t...
+#: paragraph:64,sentence:344
+msgid "The introduction to the text speaks of removing the blocks to the awareness of love’s presence."
+msgstr ""
+
+#. Paragraph 64: Because increased upset is such a common experience for new students of ACIM, I believe it should be addressed. I have worked with many people who found that at some point in their early practice of t...
+#: paragraph:64,sentence:345
+msgid "When we ask for help, we become aware of those blocks or fears so that we can address them directly and make happier, more sane and peaceful choices."
+msgstr ""
+
+#. Paragraph 65: Since Bill and Helen were devoting extensive time to the Course project, but seemed to be getting nowhere with healing their relationship, Bill decided to test its premises with other, less volatile r...
+#: paragraph:65,sentence:346
+msgid "Since Bill and Helen were devoting extensive time to the Course project, but seemed to be getting nowhere with healing their relationship, Bill decided to test its premises with other, less volatile relationships that needed attention."
+msgstr ""
+
+#. Paragraph 65: Since Bill and Helen were devoting extensive time to the Course project, but seemed to be getting nowhere with healing their relationship, Bill decided to test its premises with other, less volatile r...
+#: paragraph:65,sentence:347
+msgid "If it could produce changes with a difficult colleague, he thought, it ought to work anywhere."
+msgstr ""
+
+#. Paragraph 65: Since Bill and Helen were devoting extensive time to the Course project, but seemed to be getting nowhere with healing their relationship, Bill decided to test its premises with other, less volatile r...
+#: paragraph:65,sentence:348
+msgid "Judy Skutch Whitson recalls Bill’s telling her more than a few times, with unusual (for him) seriousness, about one of his first dedicated attempts to practice ACIM as the lessons were being dictated."
+msgstr ""
+
+#. Paragraph 66: Art was co-director of the department of psychology with Bill. [In fact, he had been instrumental in Bill’s coming to Columbia in the first place.] They were friends, had had a long walk together prof...
+#: paragraph:66,sentence:349
+msgid "Art was co-director of the department of psychology with Bill. [In fact, he had been instrumental in Bill’s coming to Columbia in the first place.] They were friends, had had a long walk together professionally, and I think accepted and liked each other."
+msgstr ""
+
+#. Paragraph 66: Art was co-director of the department of psychology with Bill. [In fact, he had been instrumental in Bill’s coming to Columbia in the first place.] They were friends, had had a long walk together prof...
+#: paragraph:66,sentence:350
+msgid "Then Bill hired Helen and all hell broke loose."
+msgstr ""
+
+#. Paragraph 66: Art was co-director of the department of psychology with Bill. [In fact, he had been instrumental in Bill’s coming to Columbia in the first place.] They were friends, had had a long walk together prof...
+#: paragraph:66,sentence:351
+msgid "Art didn’t like Helen, really didn’t like her, and had great antipathy toward her."
+msgstr ""
+
+#. Paragraph 66: Art was co-director of the department of psychology with Bill. [In fact, he had been instrumental in Bill’s coming to Columbia in the first place.] They were friends, had had a long walk together prof...
+#: paragraph:66,sentence:352
+msgid "Bill told me that Art thought she certainly did excellent research work but that she was too much trouble, a high-maintenance lady and distracting at meetings."
+msgstr ""
+
+#. Paragraph 66: Art was co-director of the department of psychology with Bill. [In fact, he had been instrumental in Bill’s coming to Columbia in the first place.] They were friends, had had a long walk together prof...
+#: paragraph:66,sentence:353
+msgid "He found her sharp; in other words, they didn’t get along."
+msgstr ""
+
+#. Paragraph 66: Art was co-director of the department of psychology with Bill. [In fact, he had been instrumental in Bill’s coming to Columbia in the first place.] They were friends, had had a long walk together prof...
+#: paragraph:66,sentence:354
+msgid "At times, he asked Bill to fire Helen and Bill dug in, unequivocally refusing to do that."
+msgstr ""
+
+#. Paragraph 67: Of course, Art had no idea what was going on in their office as far as the Course was concerned. As dictation on the workbook began, Bill recognized it provided a process one could pragmatically use t...
+#: paragraph:67,sentence:355
+msgid "Of course, Art had no idea what was going on in their office as far as the Course was concerned."
+msgstr ""
+
+#. Paragraph 67: Of course, Art had no idea what was going on in their office as far as the Course was concerned. As dictation on the workbook began, Bill recognized it provided a process one could pragmatically use t...
+#: paragraph:67,sentence:356
+msgid "As dictation on the workbook began, Bill recognized it provided a process one could pragmatically use to change relationships or re-envision them."
+msgstr ""
+
+#. Paragraph 67: Of course, Art had no idea what was going on in their office as far as the Course was concerned. As dictation on the workbook began, Bill recognized it provided a process one could pragmatically use t...
+#: paragraph:67,sentence:357
+msgid "Wondering if it would really work, he chose Art, who was currently not talking to him, for his experiment."
+msgstr ""
+
+#. Paragraph 67: Of course, Art had no idea what was going on in their office as far as the Course was concerned. As dictation on the workbook began, Bill recognized it provided a process one could pragmatically use t...
+#: paragraph:67,sentence:358
+msgid "Art now had as much antipathy toward Bill as Helen and was including him as a target of his anger."
+msgstr ""
+
+#. Paragraph 67: Of course, Art had no idea what was going on in their office as far as the Course was concerned. As dictation on the workbook began, Bill recognized it provided a process one could pragmatically use t...
+#: paragraph:67,sentence:359
+msgid "This fractured relationship with Art over Helen’s presence was a major contributing factor to the chaos that made birthing the Course so difficult."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:360
+msgid "Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:361
+msgid "On his first attempt, Bill knocked on the door and asked if he could come in; Art didn’t look up from his newspaper."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:362
+msgid "Bill entered and sat quietly on a chair right across from Art’s desk."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:363
+msgid "Art never put down his newspaper, so after a while Bill left."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:364
+msgid "Every day for about a month Bill went in and Art never put down his paper or acknowledged him."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:365
+msgid "By then he felt much more comfortable and knew that he was guided to persevere."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:366
+msgid "One day he said, “Good morning, Art,” who grunted from behind his newspaper."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:367
+msgid "For Bill, this was a very big sign."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:368
+msgid "After several months of this routine, Bill had an early morning appointment elsewhere and came to his office later than usual."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:369
+msgid "Around lunchtime, Bill saw Art, who said, “Where were you this morning."
+msgstr ""
+
+#. Paragraph 68: Art wouldn’t even look him in the eye, so Bill decided to go to his office in the morning before work, knowing Art always went in early to read the paper. On his first attempt, Bill knocked on the doo...
+#: paragraph:68,sentence:370
+msgid "You didn’t come in.” Bill told him of his appointment and that was the beginning of their talking again."
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:371
+msgid "Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university"
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:372
+msgid "Checking into the hotel, although not together, each found the hotel had overbooked and there was a shortage of rooms"
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:373
+msgid "The hotel staff asked those who knew each other to double up"
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:374
+msgid "Art approached Bill and asked if he would like to share a room, stating, “There is no one here I would rather be with.” Bill said he would be delighted, and after unpacking their things, they went down to the bar before dinner"
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:375
+msgid "As they sat there talking and waiting for dinner to be announced, Art took three almonds from a little bowl on their table, passed them to Bill, and said, “Edgar Cayce says they’re very good for you.” Bill said he nearly dropped his front teeth. “Edgar Cayce, Art?” Art replied, “Yes, he’s this very famous psychic"
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:376
+msgid "During the war I was stationed in Virginia Beach and I used to go to his house for lunch on Sundays"
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:377
+msgid "He was really a very great guy.” Bill said at that moment he knew it was over"
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:378
+msgid "The situation with Art was the first time he had deliberately practiced ACIM, and of course, their changed relationship improved the department’s functioning"
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:379
+msgid "This quiet way was typical of Bill"
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:380
+msgid "He didn’t go to Art saying, “Look, I know how you’re feeling about the situation and I don’t blame you, but you’re making me really uncomfortable and here are the reasons for my decisions,” etc"
+msgstr ""
+
+#. Paragraph 69: Not long after that, all the upper staff members were invited to a conference where Bill and Art represented their department at the university. Checking into the hotel, although not together, each fo...
+#: paragraph:69,sentence:381
+msgid "Instead, he sat there in the chair quietly.[81]"
+msgstr ""
+
+#. Paragraph 70: The mention of Edgar Cayce was so meaningful to Bill because shortly before Bill’s urgent speech to Helen that precipitated the onset of ACIM, he had read a book by Hugh Lynn Cayce, Edgar’s son. Altho...
+#: paragraph:70,sentence:382
+msgid "The mention of Edgar Cayce was so meaningful to Bill because shortly before Bill’s urgent speech to Helen that precipitated the onset of ACIM, he had read a book by Hugh Lynn Cayce, Edgar’s son."
+msgstr ""
+
+#. Paragraph 70: The mention of Edgar Cayce was so meaningful to Bill because shortly before Bill’s urgent speech to Helen that precipitated the onset of ACIM, he had read a book by Hugh Lynn Cayce, Edgar’s son. Altho...
+#: paragraph:70,sentence:383
+msgid "Although the claims regarding Cayce’s abilities seemed preposterous by his own scientific standards, Bill sensed inwardly that the stories about him were legitimate."
+msgstr ""
+
+#. Paragraph 70: The mention of Edgar Cayce was so meaningful to Bill because shortly before Bill’s urgent speech to Helen that precipitated the onset of ACIM, he had read a book by Hugh Lynn Cayce, Edgar’s son. Altho...
+#: paragraph:70,sentence:384
+msgid "On that basis, he planned a trip for Helen and himself to Virginia Beach to meet Hugh Lynn."
+msgstr ""
+
+#. Paragraph 70: The mention of Edgar Cayce was so meaningful to Bill because shortly before Bill’s urgent speech to Helen that precipitated the onset of ACIM, he had read a book by Hugh Lynn Cayce, Edgar’s son. Altho...
+#: paragraph:70,sentence:385
+msgid "Helen resisted going as she didn’t want to be considered a “psychic” or be associated with them, although she was privately impressed with her growing psychic abilities."
+msgstr ""
+
+#. Paragraph 70: The mention of Edgar Cayce was so meaningful to Bill because shortly before Bill’s urgent speech to Helen that precipitated the onset of ACIM, he had read a book by Hugh Lynn Cayce, Edgar’s son. Altho...
+#: paragraph:70,sentence:386
+msgid "She was often ambivalent about rejecting or embracing aspects of herself."
+msgstr ""
+
+#. Paragraph 70: The mention of Edgar Cayce was so meaningful to Bill because shortly before Bill’s urgent speech to Helen that precipitated the onset of ACIM, he had read a book by Hugh Lynn Cayce, Edgar’s son. Altho...
+#: paragraph:70,sentence:387
+msgid "Their visit took place in the fall of 1965 after her several months of “heightened visual imagery,” just before the Course began in October."
+msgstr ""
+
+#. Paragraph 70: The mention of Edgar Cayce was so meaningful to Bill because shortly before Bill’s urgent speech to Helen that precipitated the onset of ACIM, he had read a book by Hugh Lynn Cayce, Edgar’s son. Altho...
+#: paragraph:70,sentence:388
+msgid "Bill always thought that trip gave her “permission” to open up to her immense intuitive abilities and also provided some rudimentary preparation for him."
+msgstr ""
+
+#. Paragraph 70: The mention of Edgar Cayce was so meaningful to Bill because shortly before Bill’s urgent speech to Helen that precipitated the onset of ACIM, he had read a book by Hugh Lynn Cayce, Edgar’s son. Altho...
+#: paragraph:70,sentence:389
+msgid "He began to think “outside the box” and looked with growing, though quiet, appreciation of his own intuitive abilities."
+msgstr ""
+
+#. Paragraph 71: The healing with Art was only one of a number of relationships that seemed smoother as Bill attempted to follow his own guidance and the Course instructions. Those around him began to notice that the ...
+#: paragraph:71,sentence:390
+msgid "The healing with Art was only one of a number of relationships that seemed smoother as Bill attempted to follow his own guidance and the Course instructions."
+msgstr ""
+
+#. Paragraph 71: The healing with Art was only one of a number of relationships that seemed smoother as Bill attempted to follow his own guidance and the Course instructions. Those around him began to notice that the ...
+#: paragraph:71,sentence:391
+msgid "Those around him began to notice that the department seemed less harried, and his secretary, having no idea of the real meaning behind what she was saying, would periodically proclaim, “Oh, Dr. Thetford has just performed another miracle.”[82] Or a close colleague, the chairman of the psychology department at the University of Chicago, would say, “There’s Bill, walking on water again.”[83] Bill himself felt that by the time he left the medical center, he had reached his goal—healing all his relationships there—all, of course, except the primary one with Helen."
+msgstr ""
+

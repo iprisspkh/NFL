@@ -1,0 +1,379 @@
+# Chapter 21: Chapter 14
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: Even as Bill had struggled during the ACIM scribing era, feeling it was so difficult, the purifying effect was under way. The entire process of receiving and typing the material—the discussions and ar...
+#: paragraph:1,sentence:1
+msgid "Even as Bill had struggled during the ACIM scribing era, feeling it was so difficult, the purifying effect was under way."
+msgstr ""
+
+#. Paragraph 1: Even as Bill had struggled during the ACIM scribing era, feeling it was so difficult, the purifying effect was under way. The entire process of receiving and typing the material—the discussions and ar...
+#: paragraph:1,sentence:2
+msgid "The entire process of receiving and typing the material—the discussions and arguments about its meaning and then the editing—forced Bill and Helen to focus on it continually."
+msgstr ""
+
+#. Paragraph 1: Even as Bill had struggled during the ACIM scribing era, feeling it was so difficult, the purifying effect was under way. The entire process of receiving and typing the material—the discussions and ar...
+#: paragraph:1,sentence:3
+msgid "Even when not doing the lessons or studying, they were under its influence, and by the time I met Bill, much “unlearning” had occurred, though it wasn’t yet complete."
+msgstr ""
+
+#. Paragraph 1: Even as Bill had struggled during the ACIM scribing era, feeling it was so difficult, the purifying effect was under way. The entire process of receiving and typing the material—the discussions and ar...
+#: paragraph:1,sentence:4
+msgid "He was becoming very clear and being with him always felt light and free, even when he was depressed."
+msgstr ""
+
+#. Paragraph 1: Even as Bill had struggled during the ACIM scribing era, feeling it was so difficult, the purifying effect was under way. The entire process of receiving and typing the material—the discussions and ar...
+#: paragraph:1,sentence:5
+msgid "These “down” periods, when he entertained the preposterous notion that he didn’t have much to offer, didn’t keep others from enjoying his marvelous presence."
+msgstr ""
+
+#. Paragraph 1: Even as Bill had struggled during the ACIM scribing era, feeling it was so difficult, the purifying effect was under way. The entire process of receiving and typing the material—the discussions and ar...
+#: paragraph:1,sentence:6
+msgid "He was a “work in progress,” still harboring some grievances, but his loving nature was always apparent, his light still shining through, and his help unfailingly available."
+msgstr ""
+
+#. Paragraph 2: It is comforting to know we can be helpful even while we’re still getting free ourselves. We need not and should not wait until we are entirely clear before we choose to be truly helpful, which would ...
+#: paragraph:2,sentence:7
+msgid "It is comforting to know we can be helpful even while we’re still getting free ourselves"
+msgstr ""
+
+#. Paragraph 2: It is comforting to know we can be helpful even while we’re still getting free ourselves. We need not and should not wait until we are entirely clear before we choose to be truly helpful, which would ...
+#: paragraph:2,sentence:8
+msgid "We need not and should not wait until we are entirely clear before we choose to be truly helpful, which would be like trying to remove the darkness before turning on a light"
+msgstr ""
+
+#. Paragraph 2: It is comforting to know we can be helpful even while we’re still getting free ourselves. We need not and should not wait until we are entirely clear before we choose to be truly helpful, which would ...
+#: paragraph:2,sentence:9
+msgid "In fact, doing our best to be compassionate, open, and nonjudgmental is the point, recognizing that correction is not our job but loving is"
+msgstr ""
+
+#. Paragraph 2: It is comforting to know we can be helpful even while we’re still getting free ourselves. We need not and should not wait until we are entirely clear before we choose to be truly helpful, which would ...
+#: paragraph:2,sentence:10
+msgid "Shortly after the scribing began, Bill was invited to a meeting on a subject he knew little about"
+msgstr ""
+
+#. Paragraph 2: It is comforting to know we can be helpful even while we’re still getting free ourselves. We need not and should not wait until we are entirely clear before we choose to be truly helpful, which would ...
+#: paragraph:2,sentence:11
+msgid "For political reasons, those at the medical center felt it imperative that he attend, and he was most uncomfortable about the prospect"
+msgstr ""
+
+#. Paragraph 2: It is comforting to know we can be helpful even while we’re still getting free ourselves. We need not and should not wait until we are entirely clear before we choose to be truly helpful, which would ...
+#: paragraph:2,sentence:12
+msgid "In an instance of synchronicity, Helen took down a passage he found extraordinarily helpful, just as it has been for many others since"
+msgstr ""
+
+#. Paragraph 2: It is comforting to know we can be helpful even while we’re still getting free ourselves. We need not and should not wait until we are entirely clear before we choose to be truly helpful, which would ...
+#: paragraph:2,sentence:13
+msgid "It is often recited at the beginning of events or study groups—whenever one needs to remember our true purpose:"
+msgstr ""
+
+#. Paragraph 3: I am here only to be truly helpful. I am here to represent Him Who sent me.
+#: paragraph:3,sentence:14
+msgid "I am here only to be truly helpful."
+msgstr ""
+
+#. Paragraph 3: I am here only to be truly helpful. I am here to represent Him Who sent me.
+#: paragraph:3,sentence:15
+msgid "I am here to represent Him Who sent me."
+msgstr ""
+
+#. Paragraph 4: I do not have to worry about what to say or what to do, because He Who sent me will direct me.
+#: paragraph:4,sentence:16
+msgid "I do not have to worry about what to say or what to do, because He Who sent me will direct me."
+msgstr ""
+
+#. Paragraph 5: I am content to be wherever He wishes, knowing He goes there with me.
+#: paragraph:5,sentence:17
+msgid "I am content to be wherever He wishes, knowing He goes there with me."
+msgstr ""
+
+#. Paragraph 6: I will be healed as I let Him teach me to heal.[40] Bill recalled his relief on receiving that special message: This message helped me recognize that I did not have to rely on my intellectual defenses...
+#: paragraph:6,sentence:18
+msgid "I will be healed as I let Him teach me to heal.[40] Bill recalled his relief on receiving that special message: This message helped me recognize that I did not have to rely on my intellectual defenses in preparing for the conference or anything else"
+msgstr ""
+
+#. Paragraph 6: I will be healed as I let Him teach me to heal.[40] Bill recalled his relief on receiving that special message: This message helped me recognize that I did not have to rely on my intellectual defenses...
+#: paragraph:6,sentence:19
+msgid "All I had to do was to recognize that I was there to be truly helpful and that there would be guidance and help"
+msgstr ""
+
+#. Paragraph 6: I will be healed as I let Him teach me to heal.[40] Bill recalled his relief on receiving that special message: This message helped me recognize that I did not have to rely on my intellectual defenses...
+#: paragraph:6,sentence:20
+msgid "Regardless of what the assignment might seem to be, I didn’t have to plan, I didn’t have to anticipate"
+msgstr ""
+
+#. Paragraph 6: I will be healed as I let Him teach me to heal.[40] Bill recalled his relief on receiving that special message: This message helped me recognize that I did not have to rely on my intellectual defenses...
+#: paragraph:6,sentence:21
+msgid "All of this was very different"
+msgstr ""
+
+#. Paragraph 6: I will be healed as I let Him teach me to heal.[40] Bill recalled his relief on receiving that special message: This message helped me recognize that I did not have to rely on my intellectual defenses...
+#: paragraph:6,sentence:22
+msgid "I was accustomed to planning, anticipating, having lectures and everything worked out intellectually ahead of time"
+msgstr ""
+
+#. Paragraph 6: I will be healed as I let Him teach me to heal.[40] Bill recalled his relief on receiving that special message: This message helped me recognize that I did not have to rely on my intellectual defenses...
+#: paragraph:6,sentence:23
+msgid "Here, I think, the lesson in trust is really what is being emphasized.[41]"
+msgstr ""
+
+#. Paragraph 7: And a next lesson in trust was about to unfold. In 1981, Bill made arrangements to have Christmas with us in Denver, and all four of us were very excited about his coming. We had planned several speci...
+#: paragraph:7,sentence:24
+msgid "And a next lesson in trust was about to unfold."
+msgstr ""
+
+#. Paragraph 7: And a next lesson in trust was about to unfold. In 1981, Bill made arrangements to have Christmas with us in Denver, and all four of us were very excited about his coming. We had planned several speci...
+#: paragraph:7,sentence:25
+msgid "In 1981, Bill made arrangements to have Christmas with us in Denver, and all four of us were very excited about his coming."
+msgstr ""
+
+#. Paragraph 7: And a next lesson in trust was about to unfold. In 1981, Bill made arrangements to have Christmas with us in Denver, and all four of us were very excited about his coming. We had planned several speci...
+#: paragraph:7,sentence:26
+msgid "We had planned several special treats, especially related to the seasonal celebratory music; everything was prepared, with his presents under the tree."
+msgstr ""
+
+#. Paragraph 7: And a next lesson in trust was about to unfold. In 1981, Bill made arrangements to have Christmas with us in Denver, and all four of us were very excited about his coming. We had planned several speci...
+#: paragraph:7,sentence:27
+msgid "Then the phone call."
+msgstr ""
+
+#. Paragraph 7: And a next lesson in trust was about to unfold. In 1981, Bill made arrangements to have Christmas with us in Denver, and all four of us were very excited about his coming. We had planned several speci...
+#: paragraph:7,sentence:28
+msgid "The day before his planned arrival, Jules called to say that Bill had had a serious bout of atrial fibrillation, a malfunction of the heart."
+msgstr ""
+
+#. Paragraph 7: And a next lesson in trust was about to unfold. In 1981, Bill made arrangements to have Christmas with us in Denver, and all four of us were very excited about his coming. We had planned several speci...
+#: paragraph:7,sentence:29
+msgid "We were devastated, first out of concern for his well-being, and second, because we were so looking forward to including him in what would probably have been his first truly “family Christmas” since his own early childhood."
+msgstr ""
+
+#. Paragraph 8: The day before, Pat Hopkins, then a consultant with the Center for Attitudinal Healing, had gone by Bill’s home after work at his request. They were becoming much better acquainted and had developed a...
+#: paragraph:8,sentence:30
+msgid "The day before, Pat Hopkins, then a consultant with the Center for Attitudinal Healing, had gone by Bill’s home after work at his request."
+msgstr ""
+
+#. Paragraph 8: The day before, Pat Hopkins, then a consultant with the Center for Attitudinal Healing, had gone by Bill’s home after work at his request. They were becoming much better acquainted and had developed a...
+#: paragraph:8,sentence:31
+msgid "They were becoming much better acquainted and had developed a routine of getting together at the close of her business day."
+msgstr ""
+
+#. Paragraph 8: The day before, Pat Hopkins, then a consultant with the Center for Attitudinal Healing, had gone by Bill’s home after work at his request. They were becoming much better acquainted and had developed a...
+#: paragraph:8,sentence:32
+msgid "He had called her earlier in the day to say he was not feeling quite up to par, a characteristic understatement, and asked if she would take him to the hospital when she finished work."
+msgstr ""
+
+#. Paragraph 8: The day before, Pat Hopkins, then a consultant with the Center for Attitudinal Healing, had gone by Bill’s home after work at his request. They were becoming much better acquainted and had developed a...
+#: paragraph:8,sentence:33
+msgid "His condition steadily worsened after her arrival and she called the paramedics."
+msgstr ""
+
+#. Paragraph 8: The day before, Pat Hopkins, then a consultant with the Center for Attitudinal Healing, had gone by Bill’s home after work at his request. They were becoming much better acquainted and had developed a...
+#: paragraph:8,sentence:34
+msgid "They required considerable time to stabilize his acutely dangerous condition, then they rushed him to the hospital by ambulance."
+msgstr ""
+
+#. Paragraph 8: The day before, Pat Hopkins, then a consultant with the Center for Attitudinal Healing, had gone by Bill’s home after work at his request. They were becoming much better acquainted and had developed a...
+#: paragraph:8,sentence:35
+msgid "No doubt, Pat saved his life."
+msgstr ""
+
+#. Paragraph 8: The day before, Pat Hopkins, then a consultant with the Center for Attitudinal Healing, had gone by Bill’s home after work at his request. They were becoming much better acquainted and had developed a...
+#: paragraph:8,sentence:36
+msgid "She later assumed the task of handling all paperwork related to insurance, medication, and the details of recovery, which, given his basic unfamiliarity with such matters, would have been more than overwhelming to him."
+msgstr ""
+
+#. Paragraph 8: The day before, Pat Hopkins, then a consultant with the Center for Attitudinal Healing, had gone by Bill’s home after work at his request. They were becoming much better acquainted and had developed a...
+#: paragraph:8,sentence:37
+msgid "She was literally a God-send."
+msgstr ""
+
+#. Paragraph 9: Bill returned to Denver only once or twice after his near-fatal collapse. Our Center for Creative Alternatives had teamed up with the Mile High Church of Religious Science in Denver to sponsor a works...
+#: paragraph:9,sentence:38
+msgid "Bill returned to Denver only once or twice after his near-fatal collapse."
+msgstr ""
+
+#. Paragraph 9: Bill returned to Denver only once or twice after his near-fatal collapse. Our Center for Creative Alternatives had teamed up with the Mile High Church of Religious Science in Denver to sponsor a works...
+#: paragraph:9,sentence:39
+msgid "Our Center for Creative Alternatives had teamed up with the Mile High Church of Religious Science in Denver to sponsor a workshop featuring Jerry and Hugh Prather in April 1982."
+msgstr ""
+
+#. Paragraph 9: Bill returned to Denver only once or twice after his near-fatal collapse. Our Center for Creative Alternatives had teamed up with the Mile High Church of Religious Science in Denver to sponsor a works...
+#: paragraph:9,sentence:40
+msgid "We had a sellout crowd, and while planning that event, Jerry and I intuitively felt we had some joint work to do."
+msgstr ""
+
+#. Paragraph 9: Bill returned to Denver only once or twice after his near-fatal collapse. Our Center for Creative Alternatives had teamed up with the Mile High Church of Religious Science in Denver to sponsor a works...
+#: paragraph:9,sentence:41
+msgid "Three weeks later, I went to Tiburon and we brainstormed about the nature of possible projects."
+msgstr ""
+
+#. Paragraph 9: Bill returned to Denver only once or twice after his near-fatal collapse. Our Center for Creative Alternatives had teamed up with the Mile High Church of Religious Science in Denver to sponsor a works...
+#: paragraph:9,sentence:42
+msgid "For the next two years, Jerry and I worked closely together in a number of areas, which entailed frequent visits to Tiburon and ongoing contact with Bill."
+msgstr ""
+
+#. Paragraph 9: Bill returned to Denver only once or twice after his near-fatal collapse. Our Center for Creative Alternatives had teamed up with the Mile High Church of Religious Science in Denver to sponsor a works...
+#: paragraph:9,sentence:43
+msgid "Thus, between 1978 and 1985, I was there many times."
+msgstr ""
+
+#. Paragraph 10: During his first four years in Tiburon, Bill’s life was busy, especially for a retiree, but not extraordinary. His days were not filled with particularly grand or exotic events. He worked, meditated, ...
+#: paragraph:10,sentence:44
+msgid "During his first four years in Tiburon, Bill’s life was busy, especially for a retiree, but not extraordinary."
+msgstr ""
+
+#. Paragraph 10: During his first four years in Tiburon, Bill’s life was busy, especially for a retiree, but not extraordinary. His days were not filled with particularly grand or exotic events. He worked, meditated, ...
+#: paragraph:10,sentence:45
+msgid "His days were not filled with particularly grand or exotic events."
+msgstr ""
+
+#. Paragraph 10: During his first four years in Tiburon, Bill’s life was busy, especially for a retiree, but not extraordinary. His days were not filled with particularly grand or exotic events. He worked, meditated, ...
+#: paragraph:10,sentence:46
+msgid "He worked, meditated, wrote, visited, recovered from his cardiac difficulties, helped friends, and faithfully walked."
+msgstr ""
+
+#. Paragraph 10: During his first four years in Tiburon, Bill’s life was busy, especially for a retiree, but not extraordinary. His days were not filled with particularly grand or exotic events. He worked, meditated, ...
+#: paragraph:10,sentence:47
+msgid "Because his daily routine sounds so ordinary, it doesn’t convey the magic so many felt on being around him."
+msgstr ""
+
+#. Paragraph 10: During his first four years in Tiburon, Bill’s life was busy, especially for a retiree, but not extraordinary. His days were not filled with particularly grand or exotic events. He worked, meditated, ...
+#: paragraph:10,sentence:48
+msgid "Therefore, before continuing with the chronology of his earthly adventure, here are more details of his major positive characteristics and their life-altering impact on others, as well as the “demons” that plagued him—all the challenges, fears, and concerns that had to be forgiven."
+msgstr ""
+
+#. Paragraph 11: And for all of us drawn into his energy field and who feel part of his lineage, our job is to continue our own forgiveness. The world can’t wait for us to be “ready.” As with Bill, we can be helpful w...
+#: paragraph:11,sentence:49
+msgid "And for all of us drawn into his energy field and who feel part of his lineage, our job is to continue our own forgiveness."
+msgstr ""
+
+#. Paragraph 11: And for all of us drawn into his energy field and who feel part of his lineage, our job is to continue our own forgiveness. The world can’t wait for us to be “ready.” As with Bill, we can be helpful w...
+#: paragraph:11,sentence:50
+msgid "The world can’t wait for us to be “ready.” As with Bill, we can be helpful while we’re still “in process,” and we must."
+msgstr ""
+
+#. Paragraph 11: And for all of us drawn into his energy field and who feel part of his lineage, our job is to continue our own forgiveness. The world can’t wait for us to be “ready.” As with Bill, we can be helpful w...
+#: paragraph:11,sentence:51
+msgid "The stakes are very high and ignoring our calling could be disastrous."
+msgstr ""
+
+#. Paragraph 12: [1] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:11, FIPA. [2] Julius J. Finegold and William N. Thetford, Eds., Choose Once Again (Millbrae, CA: Celestial Arts, 1981).
+#: paragraph:12,sentence:52
+msgid "[1] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:11, FIPA. [2] Julius J. Finegold and William N. Thetford, Eds., Choose Once Again (Millbrae, CA: Celestial Arts, 1981)."
+msgstr ""
+
+#. Paragraph 13: [3] For more information on Rolfing, see www.rolf.org [4] Jaison Kayn telephone interview by author, February 2007.
+#: paragraph:13,sentence:53
+msgid "[3] For more information on Rolfing, see www.rolf.org [4] Jaison Kayn telephone interview by author, February 2007."
+msgstr ""
+
+#. Paragraph 14: [5] Judith Skutch Whitson telephone interview by author, January 2008. [6] Hugh and Gayle Prather interview by author, October 1993.
+#: paragraph:14,sentence:54
+msgid "[5] Judith Skutch Whitson telephone interview by author, January 2008. [6] Hugh and Gayle Prather interview by author, October 1993."
+msgstr ""
+
+#. Paragraph 15: [7] Thetford: Life Story, 4:52, FIPA. [8] Robert Skutch, Journey Without Distance: The Story Behind A Course In Miracles (Berkeley, CA: Celestial Arts, 1984).
+#: paragraph:15,sentence:55
+msgid "[7] Thetford: Life Story, 4:52, FIPA. [8] Robert Skutch, Journey Without Distance: The Story Behind A Course In Miracles (Berkeley, CA: Celestial Arts, 1984)."
+msgstr ""
+
+#. Paragraph 16: [9] Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1980. [10]A Course In Miracles Text, 433–434.
+#: paragraph:16,sentence:56
+msgid "[9] Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, February 1980. [10]A Course In Miracles Text, 433–434."
+msgstr ""
+
+#. Paragraph 17: [11] Thetford personal reading, LeRoy Zemke, February 1980. [12] Jack and Layle Luckett telephone interview by author, September 2007.
+#: paragraph:17,sentence:57
+msgid "[11] Thetford personal reading, LeRoy Zemke, February 1980. [12] Jack and Layle Luckett telephone interview by author, September 2007."
+msgstr ""
+
+#. Paragraph 18: [14] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:48, FIPA. [15] Bob Howe interview by author, March 2007.
+#: paragraph:18,sentence:58
+msgid "[14] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:48, FIPA. [15] Bob Howe interview by author, March 2007."
+msgstr ""
+
+#. Paragraph 19: [16] Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 16:2, FIPA. [17] Jaison Kayn telephone interview by author, February 2007.
+#: paragraph:19,sentence:59
+msgid "[16] Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 19: [16] Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 16:2, FIPA. [17] Jaison Kayn telephone interview by author, February 2007.
+#: paragraph:19,sentence:60
+msgid "James Bolen, 16:2, FIPA. [17] Jaison Kayn telephone interview by author, February 2007."
+msgstr ""
+
+#. Paragraph 20: [18]A Course In Miracles Text, 649–650. [19]A Course In Miracles Workbook, Lesson 166, 315–316.
+#: paragraph:20,sentence:61
+msgid "[18]A Course In Miracles Text, 649–650. [19]A Course In Miracles Workbook, Lesson 166, 315–316."
+msgstr ""
+
+#. Paragraph 21: [20]A Course In Miracles Workbook, Lesson 185, 348. [21] Ibid., Lesson 134, 248.
+#: paragraph:21,sentence:62
+msgid "[20]A Course In Miracles Workbook, Lesson 185, 348. [21] Ibid., Lesson 134, 248."
+msgstr ""
+
+#. Paragraph 22: [22]A Course In Miracles Text, 568. [23] Ibid., 569.
+#: paragraph:22,sentence:63
+msgid "[22]A Course In Miracles Text, 568. [23] Ibid., 569."
+msgstr ""
+
+#. Paragraph 23: [24] Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 16: 2–3, FIPA. [25] Roger Walsh interview by Tamara Cohen, in “Origins of A Course In Miracles,”...
+#: paragraph:23,sentence:64
+msgid "[24] Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 23: [24] Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 16: 2–3, FIPA. [25] Roger Walsh interview by Tamara Cohen, in “Origins of A Course In Miracles,”...
+#: paragraph:23,sentence:65
+msgid "James Bolen, 16: 2–3, FIPA. [25] Roger Walsh interview by Tamara Cohen, in “Origins of A Course In Miracles,”ed."
+msgstr ""
+
+#. Paragraph 23: [24] Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, 16: 2–3, FIPA. [25] Roger Walsh interview by Tamara Cohen, in “Origins of A Course In Miracles,”...
+#: paragraph:23,sentence:66
+msgid "James Bolen, 25:5–6, FIPA; and personal communication to author, August 15, 2009."
+msgstr ""
+
+#. Paragraph 24: [26] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” 3:52, FIPA. [27]A Course In Miracles Text, 37.
+#: paragraph:24,sentence:67
+msgid "[26] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” 3:52, FIPA. [27]A Course In Miracles Text, 37."
+msgstr ""
+
+#. Paragraph 25: [28] www.circleofa.org [29] Jaison Kayn telephone interview with author, February 2007.
+#: paragraph:25,sentence:68
+msgid "[28] www.circleofa.org [29] Jaison Kayn telephone interview with author, February 2007."
+msgstr ""
+
+#. Paragraph 26: [31] Bob Beale telephone interview with author, February 2007. [32] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:51, FIPA.
+#: paragraph:26,sentence:69
+msgid "[31] Bob Beale telephone interview with author, February 2007. [32] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:51, FIPA."
+msgstr ""
+
+#. Paragraph 27: [33] Jaison Kayn interview, February 2007. [35] Gerald Jampolsky, M.D., Love Is Letting Go of Fear (Millbrae, CA: Celestial Arts,1979).
+#: paragraph:27,sentence:70
+msgid "[33] Jaison Kayn interview, February 2007. [35] Gerald Jampolsky, M. D. , Love Is Letting Go of Fear (Millbrae, CA: Celestial Arts,1979)."
+msgstr ""
+
+#. Paragraph 28: [36] James Bolen, “Interview: Judith R. Skutch,” New Realities (April 1977), 19. [37] Introduction by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, Introduction: 4, FIPA.
+#: paragraph:28,sentence:71
+msgid "[36] James Bolen, “Interview: Judith R. Skutch,” New Realities (April 1977), 19. [37] Introduction by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Paragraph 28: [36] James Bolen, “Interview: Judith R. Skutch,” New Realities (April 1977), 19. [37] Introduction by Tamara Cohen, in “Origins of A Course In Miracles,” ed. James Bolen, Introduction: 4, FIPA.
+#: paragraph:28,sentence:72
+msgid "James Bolen, Introduction: 4, FIPA."
+msgstr ""
+
+#. Paragraph 29: [38] Gerald Jampolsky, M.D., Diane Cirincione, Ph.D., To Give Is To Receive: An Eighteen Day Mini-Course on Healing Relationships (Sausalito, CA: Mini-Course Publishing, 2007). [39]A Course In Miracle...
+#: paragraph:29,sentence:73
+msgid "[38] Gerald Jampolsky, M. D. , Diane Cirincione, Ph.D. , To Give Is To Receive: An Eighteen Day Mini-Course on Healing Relationships (Sausalito, CA: Mini-Course Publishing, 2007). [39]A Course In Miracles Text, 314."
+msgstr ""
+
+#. Paragraph 30: [40]A Course In Miracles Text, 28. [41] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:24, FIPA.
+#: paragraph:30,sentence:74
+msgid "[40]A Course In Miracles Text, 28. [41] William Thetford: Life Story, in “Origins of A Course In Miracles,” 4:24, FIPA."
+msgstr ""
+

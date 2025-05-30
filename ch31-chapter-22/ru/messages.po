@@ -1,0 +1,599 @@
+# Chapter 31: Chapter 22
+# Book: Never Forget To Laugh - Carol Howe
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"X-Generator: book-importer\n"
+
+#. Paragraph 1: In 1982, as Bill recovered from his near-fatal heart episode, his friendship with Pat Hopkins continued to deepen. Pat remembers from that time, “Sometimes I would join him and Jules for dinner and ou...
+#: paragraph:1,sentence:1
+msgid "In 1982, as Bill recovered from his near-fatal heart episode, his friendship with Pat Hopkins continued to deepen"
+msgstr ""
+
+#. Paragraph 1: In 1982, as Bill recovered from his near-fatal heart episode, his friendship with Pat Hopkins continued to deepen. Pat remembers from that time, “Sometimes I would join him and Jules for dinner and ou...
+#: paragraph:1,sentence:2
+msgid "Pat remembers from that time, “Sometimes I would join him and Jules for dinner and our conversation would continue through the evening hours"
+msgstr ""
+
+#. Paragraph 1: In 1982, as Bill recovered from his near-fatal heart episode, his friendship with Pat Hopkins continued to deepen. Pat remembers from that time, “Sometimes I would join him and Jules for dinner and ou...
+#: paragraph:1,sentence:3
+msgid "It was obvious that our friendship was becoming more intimate, but it did not feel like falling-in-love romance"
+msgstr ""
+
+#. Paragraph 1: In 1982, as Bill recovered from his near-fatal heart episode, his friendship with Pat Hopkins continued to deepen. Pat remembers from that time, “Sometimes I would join him and Jules for dinner and ou...
+#: paragraph:1,sentence:4
+msgid "Rather, it was more a recognition of something I do not know how to describe, something that gave us both comfort and a deep sense of kinship.”[1]"
+msgstr ""
+
+#. Paragraph 2: I find it fascinating that so many people referred to that feeling with Bill; they variously likened it to a sense of kinship, being part of a family, an indescribable connection, recognizing an old f...
+#: paragraph:2,sentence:5
+msgid "I find it fascinating that so many people referred to that feeling with Bill; they variously likened it to a sense of kinship, being part of a family, an indescribable connection, recognizing an old friend or even one’s self, or a feeling of coming Home—nothing words can accurately convey."
+msgstr ""
+
+#. Paragraph 2: I find it fascinating that so many people referred to that feeling with Bill; they variously likened it to a sense of kinship, being part of a family, an indescribable connection, recognizing an old f...
+#: paragraph:2,sentence:6
+msgid "Incidentally, it’s reassuring to know that no matter who you’re with, the feeling of “being included in the family” increases as you practice forgiveness."
+msgstr ""
+
+#. Paragraph 3: In late spring, Bill suggested they become housemates. Pat had a long daily commute to Tiburon from Santa Rosa, her home at the time, and Bill recognized his need for companionship, so for both practi...
+#: paragraph:3,sentence:7
+msgid "In late spring, Bill suggested they become housemates."
+msgstr ""
+
+#. Paragraph 3: In late spring, Bill suggested they become housemates. Pat had a long daily commute to Tiburon from Santa Rosa, her home at the time, and Bill recognized his need for companionship, so for both practi...
+#: paragraph:3,sentence:8
+msgid "Pat had a long daily commute to Tiburon from Santa Rosa, her home at the time, and Bill recognized his need for companionship, so for both practical and emotional reasons it seemed a perfect fit."
+msgstr ""
+
+#. Paragraph 3: In late spring, Bill suggested they become housemates. Pat had a long daily commute to Tiburon from Santa Rosa, her home at the time, and Bill recognized his need for companionship, so for both practi...
+#: paragraph:3,sentence:9
+msgid "From a broader perspective, it was also a perfect opportunity for both of them to continue to acknowledge some unfinished issues and to choose to let them go."
+msgstr ""
+
+#. Paragraph 3: In late spring, Bill suggested they become housemates. Pat had a long daily commute to Tiburon from Santa Rosa, her home at the time, and Bill recognized his need for companionship, so for both practi...
+#: paragraph:3,sentence:10
+msgid "The Course is crystal clear that the purpose of all relationships is our healing, whether we ever come to that awareness or not, and this one was no exception."
+msgstr ""
+
+#. Paragraph 4: Pat and Bill had much in common. They both loved classical music—Mozart for Bill and a more balanced repertoire for Pat—and it was the centerpiece of their respective lives, second in importance only ...
+#: paragraph:4,sentence:11
+msgid "Pat and Bill had much in common"
+msgstr ""
+
+#. Paragraph 4: Pat and Bill had much in common. They both loved classical music—Mozart for Bill and a more balanced repertoire for Pat—and it was the centerpiece of their respective lives, second in importance only ...
+#: paragraph:4,sentence:12
+msgid "They both loved classical music—Mozart for Bill and a more balanced repertoire for Pat—and it was the centerpiece of their respective lives, second in importance only to their spiritual practice"
+msgstr ""
+
+#. Paragraph 4: Pat and Bill had much in common. They both loved classical music—Mozart for Bill and a more balanced repertoire for Pat—and it was the centerpiece of their respective lives, second in importance only ...
+#: paragraph:4,sentence:13
+msgid "Both were also very bright, intellectually gifted, and loved reading and discussing what they read, including much mystical and spiritual literature"
+msgstr ""
+
+#. Paragraph 4: Pat and Bill had much in common. They both loved classical music—Mozart for Bill and a more balanced repertoire for Pat—and it was the centerpiece of their respective lives, second in importance only ...
+#: paragraph:4,sentence:14
+msgid "They also shared a common sense of the absurd and had many a good laugh over the local “soap operas” within their community"
+msgstr ""
+
+#. Paragraph 4: Pat and Bill had much in common. They both loved classical music—Mozart for Bill and a more balanced repertoire for Pat—and it was the centerpiece of their respective lives, second in importance only ...
+#: paragraph:4,sentence:15
+msgid "As a primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal of time together writing Good-bye to Guilt, attending the daily 9 a.m. meetings, interacting with their friends whose common bond was the Course, and attending to the business of the Center for Attitudinal Healing"
+msgstr ""
+
+#. Paragraph 4: Pat and Bill had much in common. They both loved classical music—Mozart for Bill and a more balanced repertoire for Pat—and it was the centerpiece of their respective lives, second in importance only ...
+#: paragraph:4,sentence:16
+msgid "All three were on its board of directors"
+msgstr ""
+
+#. Paragraph 4: Pat and Bill had much in common. They both loved classical music—Mozart for Bill and a more balanced repertoire for Pat—and it was the centerpiece of their respective lives, second in importance only ...
+#: paragraph:4,sentence:17
+msgid "During times when not serving on the board, Pat was a consultant to the center and later a temporary acting director"
+msgstr ""
+
+#. Paragraph 4: Pat and Bill had much in common. They both loved classical music—Mozart for Bill and a more balanced repertoire for Pat—and it was the centerpiece of their respective lives, second in importance only ...
+#: paragraph:4,sentence:18
+msgid "She also helped Jerry establish an ancillary organization, the Foundation for Spiritual Alternatives, so as she said, she was the “ham in the Bill/Jerry sandwich.”"
+msgstr ""
+
+#. Paragraph 5: In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it. I found samples of absolutely everything, like reprints of old papers going ba...
+#: paragraph:5,sentence:19
+msgid "In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it"
+msgstr ""
+
+#. Paragraph 5: In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it. I found samples of absolutely everything, like reprints of old papers going ba...
+#: paragraph:5,sentence:20
+msgid "I found samples of absolutely everything, like reprints of old papers going back over thirty years and a report I had written when I was studying brainwashing. . ."
+msgstr ""
+
+#. Paragraph 5: In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it. I found samples of absolutely everything, like reprints of old papers going ba...
+#: paragraph:5,sentence:21
+msgid "I also found a certificate that the War Department presented to me for my work on the atomic bomb, as well as some scattered personal notes from the Course that Helen and I had taken out"
+msgstr ""
+
+#. Paragraph 5: In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it. I found samples of absolutely everything, like reprints of old papers going ba...
+#: paragraph:5,sentence:22
+msgid "There were also some old birthday cards that Helen had written and pictures of both my parents"
+msgstr ""
+
+#. Paragraph 5: In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it. I found samples of absolutely everything, like reprints of old papers going ba...
+#: paragraph:5,sentence:23
+msgid "It was a review of “This Is Your Life” going back to the middle 1940s, all jammed in a box"
+msgstr ""
+
+#. Paragraph 5: In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it. I found samples of absolutely everything, like reprints of old papers going ba...
+#: paragraph:5,sentence:24
+msgid "I found my reaction very strange"
+msgstr ""
+
+#. Paragraph 5: In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it. I found samples of absolutely everything, like reprints of old papers going ba...
+#: paragraph:5,sentence:25
+msgid "I was sad and obviously had resistance to looking"
+msgstr ""
+
+#. Paragraph 5: In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it. I found samples of absolutely everything, like reprints of old papers going ba...
+#: paragraph:5,sentence:26
+msgid "I threw out a lot of it in preparation for the move"
+msgstr ""
+
+#. Paragraph 5: In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it. I found samples of absolutely everything, like reprints of old papers going ba...
+#: paragraph:5,sentence:27
+msgid "So in cleaning house, I reviewed all the madness that one accumulates. . ."
+msgstr ""
+
+#. Paragraph 5: In preparation for moving in together, Bill had opened a box of memorabilia and, with some resistance, looked through it. I found samples of absolutely everything, like reprints of old papers going ba...
+#: paragraph:5,sentence:28
+msgid "House cleaning is good, but I have the feeling that there is something that I don’t want to look at or something is missing.[2]"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:29
+msgid "In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:30
+msgid "Despite all they had in common and their great admiration for one another, Pat indicated that “nevertheless, living together did not always go smoothly for us” and that their time together was “the best of times and the worst of times, to quote Dickens.”[3] This is exactly what one might expect from a relationship so important to their mutual growth"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:31
+msgid "I’ve always thought we learn our lessons with our closest friends, who agree at some level to be the mirror to our own fears, though at the time it can feel decidedly unfriendly"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:32
+msgid "The people we live with provide the setup for deep and essential work, if we choose"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:33
+msgid "Bill followed his own unique path to waking up as he built and maintained various relationships throughout his life that delivered exactly what he was willing to deal with at any given moment"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:34
+msgid "The introduction to the Course text says, “Free will does not mean that you can establish the curriculum"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:35
+msgid "It means only that you can elect what you want to take at a given time.”[4] We do have to unlearn our fear and guilt"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:36
+msgid "We can drag our feet or dedicate ourselves in a cooperative manner to discovering those beliefs masking as truths"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:37
+msgid "Clearly, Bill and Pat’s relationship had the same purpose: mutual healing, regardless of whatever reasons or needs seemed to draw them together"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:38
+msgid "Bob Howe recalled, “I remember sitting down there in his condominium when Pat was living with him and they were arguing about which way the toilet paper should be on the holder"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:39
+msgid "And the paper towels"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:40
+msgid "Each one had their own inner secrecy and you kinda knew they had their own thoughts, their own way of doing what they wanted to do, and how they wanted to do it.”[5] They were perfect companions for the work at hand, and their time together was an essential part of his curriculum (and hers), a releasing, clearing, and burning away of old grievances and outworn beliefs"
+msgstr ""
+
+#. Paragraph 6: In his relationship with Pat, Bill would continue that housecleaning, moving yet another step toward his liberation. Despite all they had in common and their great admiration for one another, Pat indi...
+#: paragraph:6,sentence:41
+msgid "Regarding that curriculum, Pat reminisces:"
+msgstr ""
+
+#. Paragraph 7: As the surviving co-scribe of the Course, I believe Bill felt an enormous responsibility, I would almost call it a burden, to be both modest, which was his nature, and to do everything he could to liv...
+#: paragraph:7,sentence:42
+msgid "As the surviving co-scribe of the Course, I believe Bill felt an enormous responsibility, I would almost call it a burden, to be both modest, which was his nature, and to do everything he could to live and exemplify it."
+msgstr ""
+
+#. Paragraph 7: As the surviving co-scribe of the Course, I believe Bill felt an enormous responsibility, I would almost call it a burden, to be both modest, which was his nature, and to do everything he could to liv...
+#: paragraph:7,sentence:43
+msgid "I still feel that Bill felt very strongly that he was holding the iconic, the symbolic, essence of the Course after Helen died."
+msgstr ""
+
+#. Paragraph 7: As the surviving co-scribe of the Course, I believe Bill felt an enormous responsibility, I would almost call it a burden, to be both modest, which was his nature, and to do everything he could to liv...
+#: paragraph:7,sentence:44
+msgid "While he did extraordinarily well with not being inflated by those projections, I think he still felt them."
+msgstr ""
+
+#. Paragraph 7: As the surviving co-scribe of the Course, I believe Bill felt an enormous responsibility, I would almost call it a burden, to be both modest, which was his nature, and to do everything he could to liv...
+#: paragraph:7,sentence:45
+msgid "At times, I felt this cost him enormously in terms of his own personal life; he was very divided between a fulfilled personal life and what he felt he needed to be for the Course, putting certain constraints on our relationship, as well."
+msgstr ""
+
+#. Paragraph 8: It is hard to know, however, whether this sense of constraint I felt came solely from Bill’s desire not to compromise the Course in any way, or from the guardedness he felt compelled to maintain most ...
+#: paragraph:8,sentence:46
+msgid "It is hard to know, however, whether this sense of constraint I felt came solely from Bill’s desire not to compromise the Course in any way, or from the guardedness he felt compelled to maintain most of his life about his homosexuality.[6]"
+msgstr ""
+
+#. Paragraph 9: I believe that beyond guardedness about being gay and resistance to the iconic role he felt he should fill, Bill simply had an internal sense of constraint from birth. Jaison Kayn picked up on that wh...
+#: paragraph:9,sentence:47
+msgid "I believe that beyond guardedness about being gay and resistance to the iconic role he felt he should fill, Bill simply had an internal sense of constraint from birth"
+msgstr ""
+
+#. Paragraph 9: I believe that beyond guardedness about being gay and resistance to the iconic role he felt he should fill, Bill simply had an internal sense of constraint from birth. Jaison Kayn picked up on that wh...
+#: paragraph:9,sentence:48
+msgid "Jaison Kayn picked up on that when he visited Pat and Bill shortly after they had moved in together:"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:49
+msgid "The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:50
+msgid "Pat and Bill were standing in the kitchen of his apartment and I was close by in the adjacent dining nook"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:51
+msgid "All of a sudden the room was filled with soft rose-pink energy"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:52
+msgid "I saw it everywhere and felt it inside myself, as well"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:53
+msgid "It was astounding"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:54
+msgid "Fortunately, I had had an experience of this just the week before and knew what it meant"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:55
+msgid "It was the presence of love urging us to open to expansion"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:56
+msgid "Before I could stop myself, I felt the energy move me into the room and open my mouth"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:57
+msgid "I started telling Bill to trust getting closer to Pat, which for me was—well, I never say things like that"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:58
+msgid "I could feel this sweet rose-energy presence saying to them, “You have something important to do together.” Bill was clearly nervous and upset"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:59
+msgid "I think he felt inadequate and overwhelmed, but I could tell that he knew he was being given a gift he could trust"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:60
+msgid "It was about their hearts joining"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:61
+msgid "It was clear that their hearts were on the verge of joining into some remarkable commitment that neither of them had experienced before"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:62
+msgid "I don’t know if he saw the energy, too, but I certainly felt it and Pat seemed grateful because she knew"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:63
+msgid "Her heart was ready to give him whatever she possibly could"
+msgstr ""
+
+#. Paragraph 10: The only time I ever saw Bill a little nonplussed was when I went to see them just after they started living together. Pat and Bill were standing in the kitchen of his apartment and I was close by in ...
+#: paragraph:10,sentence:64
+msgid "For Bill, it was like asking a person to step off the curb blindly, knowing that rush-hour traffic was about to begin, yet also knowing the danger he felt was his own fear and that he would somehow be okay.[7]"
+msgstr ""
+
+#. Paragraph 11: Robert Rosenthal speaks for many in seeing their relationship as imperative to Bill’s stepping forward. I think when Pat Hopkins moved in with him, that was Bill’s attempt, at a deep psychological and...
+#: paragraph:11,sentence:65
+msgid "Robert Rosenthal speaks for many in seeing their relationship as imperative to Bill’s stepping forward."
+msgstr ""
+
+#. Paragraph 11: Robert Rosenthal speaks for many in seeing their relationship as imperative to Bill’s stepping forward. I think when Pat Hopkins moved in with him, that was Bill’s attempt, at a deep psychological and...
+#: paragraph:11,sentence:66
+msgid "I think when Pat Hopkins moved in with him, that was Bill’s attempt, at a deep psychological and even psycho-spiritual level, to move through his grief."
+msgstr ""
+
+#. Paragraph 11: Robert Rosenthal speaks for many in seeing their relationship as imperative to Bill’s stepping forward. I think when Pat Hopkins moved in with him, that was Bill’s attempt, at a deep psychological and...
+#: paragraph:11,sentence:67
+msgid "And maybe not just the grief from Helen, though that was the most significant, but a deeper, lifetimes-long grief. . . ."
+msgstr ""
+
+#. Paragraph 12: I think that he and Pat had an old connection, that they had agreed to come together at that time so she could help him get through his fear and grief. Bill was the happiest I had ever seen him with P...
+#: paragraph:12,sentence:68
+msgid "I think that he and Pat had an old connection, that they had agreed to come together at that time so she could help him get through his fear and grief"
+msgstr ""
+
+#. Paragraph 12: I think that he and Pat had an old connection, that they had agreed to come together at that time so she could help him get through his fear and grief. Bill was the happiest I had ever seen him with P...
+#: paragraph:12,sentence:69
+msgid "Bill was the happiest I had ever seen him with Pat, at least in the beginning"
+msgstr ""
+
+#. Paragraph 12: I think that he and Pat had an old connection, that they had agreed to come together at that time so she could help him get through his fear and grief. Bill was the happiest I had ever seen him with P...
+#: paragraph:12,sentence:70
+msgid "I believe their relationship allowed him to move beyond his unfulfilled expectations about Helen.[8]"
+msgstr ""
+
+#. Paragraph 13: As an interesting aspect of Bill’s multitasking talents, or perhaps of his “don’t fence me in” proclivity, Bill established new, significant relationships and maintained others while he and Pat lived ...
+#: paragraph:13,sentence:71
+msgid "As an interesting aspect of Bill’s multitasking talents, or perhaps of his “don’t fence me in” proclivity, Bill established new, significant relationships and maintained others while he and Pat lived together."
+msgstr ""
+
+#. Paragraph 13: As an interesting aspect of Bill’s multitasking talents, or perhaps of his “don’t fence me in” proclivity, Bill established new, significant relationships and maintained others while he and Pat lived ...
+#: paragraph:13,sentence:72
+msgid "About the time Bill and Pat were becoming better acquainted, he met Carlagaye Olson."
+msgstr ""
+
+#. Paragraph 13: As an interesting aspect of Bill’s multitasking talents, or perhaps of his “don’t fence me in” proclivity, Bill established new, significant relationships and maintained others while he and Pat lived ...
+#: paragraph:13,sentence:73
+msgid "They became close friends and their Thursday “play-days” with Jules were noted earlier in terms of the healing Bill often seemed to precipitate."
+msgstr ""
+
+#. Paragraph 13: As an interesting aspect of Bill’s multitasking talents, or perhaps of his “don’t fence me in” proclivity, Bill established new, significant relationships and maintained others while he and Pat lived ...
+#: paragraph:13,sentence:74
+msgid "Bill and Carlagaye occasionally got together on weekends, when her husband Steve also joined them."
+msgstr ""
+
+#. Paragraph 13: As an interesting aspect of Bill’s multitasking talents, or perhaps of his “don’t fence me in” proclivity, Bill established new, significant relationships and maintained others while he and Pat lived ...
+#: paragraph:13,sentence:75
+msgid "When Catherine Prescott moved to town in 1984, she and Bill also became very close."
+msgstr ""
+
+#. Paragraph 13: As an interesting aspect of Bill’s multitasking talents, or perhaps of his “don’t fence me in” proclivity, Bill established new, significant relationships and maintained others while he and Pat lived ...
+#: paragraph:13,sentence:76
+msgid "At first, he saw her regularly in her professional therapeutic role, but that ultimately morphed into a more personal relationship, as well."
+msgstr ""
+
+#. Paragraph 13: As an interesting aspect of Bill’s multitasking talents, or perhaps of his “don’t fence me in” proclivity, Bill established new, significant relationships and maintained others while he and Pat lived ...
+#: paragraph:13,sentence:77
+msgid "Bill’s other meaningful relationships created a win/win situation, as Pat also cherished having her own space."
+msgstr ""
+
+#. Paragraph 14: Those of us from out of town also maintained our friendships with Bill. He and I got together on my visits to Tiburon as well as periodically talking on the phone. His original core group in Tiburon r...
+#: paragraph:14,sentence:78
+msgid "Those of us from out of town also maintained our friendships with Bill."
+msgstr ""
+
+#. Paragraph 14: Those of us from out of town also maintained our friendships with Bill. He and I got together on my visits to Tiburon as well as periodically talking on the phone. His original core group in Tiburon r...
+#: paragraph:14,sentence:79
+msgid "He and I got together on my visits to Tiburon as well as periodically talking on the phone."
+msgstr ""
+
+#. Paragraph 14: Those of us from out of town also maintained our friendships with Bill. He and I got together on my visits to Tiburon as well as periodically talking on the phone. His original core group in Tiburon r...
+#: paragraph:14,sentence:80
+msgid "His original core group in Tiburon remained central to his life in California, and his capacity to genuinely care for many individuals at the same time was very deep and remained to the end of his life."
+msgstr ""
+
+#. Paragraph 14: Those of us from out of town also maintained our friendships with Bill. He and I got together on my visits to Tiburon as well as periodically talking on the phone. His original core group in Tiburon r...
+#: paragraph:14,sentence:81
+msgid "Bill could be with a person, in love, rather than being “in love” with a person, and each relationship seemed to foster another important aspect of his self-discovery."
+msgstr ""
+
+#. Paragraph 15: As Pat and Bill began their fourth year sharing an apartment, both were often gone. In 1985, Pat started traveling to do research for the book she co-authored with Sherry Anderson, The Feminine Face o...
+#: paragraph:15,sentence:82
+msgid "As Pat and Bill began their fourth year sharing an apartment, both were often gone."
+msgstr ""
+
+#. Paragraph 15: As Pat and Bill began their fourth year sharing an apartment, both were often gone. In 1985, Pat started traveling to do research for the book she co-authored with Sherry Anderson, The Feminine Face o...
+#: paragraph:15,sentence:83
+msgid "In 1985, Pat started traveling to do research for the book she co-authored with Sherry Anderson, The Feminine Face of God, and ultimately moved into her own apartment in January 1986.[9] Bill was spending perhaps a third of his time in La Jolla, visiting there from 1982–1986 on an increasingly regular basis."
+msgstr ""
+
+#. Paragraph 15: As Pat and Bill began their fourth year sharing an apartment, both were often gone. In 1985, Pat started traveling to do research for the book she co-authored with Sherry Anderson, The Feminine Face o...
+#: paragraph:15,sentence:84
+msgid "Several months after they moved in together, Bill and Pat had gone to La Jolla, and after that Bill made extended visits, sometimes with Pat and sometimes alone."
+msgstr ""
+
+#. Paragraph 15: As Pat and Bill began their fourth year sharing an apartment, both were often gone. In 1985, Pat started traveling to do research for the book she co-authored with Sherry Anderson, The Feminine Face o...
+#: paragraph:15,sentence:85
+msgid "They had discovered a quiet, well-run motel, and either he or they stayed in the same room on each trip."
+msgstr ""
+
+#. Paragraph 15: As Pat and Bill began their fourth year sharing an apartment, both were often gone. In 1985, Pat started traveling to do research for the book she co-authored with Sherry Anderson, The Feminine Face o...
+#: paragraph:15,sentence:86
+msgid "He loved the greater ease of the southern California lifestyle and established a pattern of going there for at least three weeks, then returning to Tiburon."
+msgstr ""
+
+#. Paragraph 15: As Pat and Bill began their fourth year sharing an apartment, both were often gone. In 1985, Pat started traveling to do research for the book she co-authored with Sherry Anderson, The Feminine Face o...
+#: paragraph:15,sentence:87
+msgid "After several weeks, he started to feel a bit lonely and less energized, so he would head back south."
+msgstr ""
+
+#. Paragraph 15: As Pat and Bill began their fourth year sharing an apartment, both were often gone. In 1985, Pat started traveling to do research for the book she co-authored with Sherry Anderson, The Feminine Face o...
+#: paragraph:15,sentence:88
+msgid "He talked about vacillating between Tiburon and La Jolla, or more humorously, teetering away from Tiburon and leaning toward La Jolla."
+msgstr ""
+
+#. Paragraph 15: As Pat and Bill began their fourth year sharing an apartment, both were often gone. In 1985, Pat started traveling to do research for the book she co-authored with Sherry Anderson, The Feminine Face o...
+#: paragraph:15,sentence:89
+msgid "Clearly, something was drawing him there."
+msgstr ""
+
+#. Paragraph 15: As Pat and Bill began their fourth year sharing an apartment, both were often gone. In 1985, Pat started traveling to do research for the book she co-authored with Sherry Anderson, The Feminine Face o...
+#: paragraph:15,sentence:90
+msgid "It would be the last venue for his healing, representing a major breakthrough—an outward sign of another significant step in his evolution."
+msgstr ""
+
+#. Paragraph 16: Robert Rosenthal recalled, “I think the next important transition for Bill was when it became clear that the relationship with Pat was not going to work out. From the way I understood it, Bill really ...
+#: paragraph:16,sentence:91
+msgid "Robert Rosenthal recalled, “I think the next important transition for Bill was when it became clear that the relationship with Pat was not going to work out"
+msgstr ""
+
+#. Paragraph 16: Robert Rosenthal recalled, “I think the next important transition for Bill was when it became clear that the relationship with Pat was not going to work out. From the way I understood it, Bill really ...
+#: paragraph:16,sentence:92
+msgid "From the way I understood it, Bill really wasn’t capable of a full sexual relationship with a woman"
+msgstr ""
+
+#. Paragraph 16: Robert Rosenthal recalled, “I think the next important transition for Bill was when it became clear that the relationship with Pat was not going to work out. From the way I understood it, Bill really ...
+#: paragraph:16,sentence:93
+msgid "And so the relationship, as close as it was, was always left incomplete—a halfway relationship"
+msgstr ""
+
+#. Paragraph 16: Robert Rosenthal recalled, “I think the next important transition for Bill was when it became clear that the relationship with Pat was not going to work out. From the way I understood it, Bill really ...
+#: paragraph:16,sentence:94
+msgid "Celibacy may have worked okay for him, but probably not for her.”[10] From Pat’s perspective on their time together, “We were like family, but not sisterly-brotherly, and we were partners, but not in the traditional sense of the word"
+msgstr ""
+
+#. Paragraph 16: Robert Rosenthal recalled, “I think the next important transition for Bill was when it became clear that the relationship with Pat was not going to work out. From the way I understood it, Bill really ...
+#: paragraph:16,sentence:95
+msgid "To this day, I don’t know how to describe our relationship.”[11] She also told me, “I know it was hugely and immensely important; I would say that both our lives were significantly enriched, but I couldn’t give specifics.”[12]"
+msgstr ""
+
+#. Paragraph 17: Hugh remembers getting together with them after they stopped being housemates: Well, he saw the humor in it [their learning experiences] and at the same time I think it [times of not getting along] wa...
+#: paragraph:17,sentence:96
+msgid "Hugh remembers getting together with them after they stopped being housemates: Well, he saw the humor in it [their learning experiences] and at the same time I think it [times of not getting along] was distressing to him, but he didn’t hang on to it"
+msgstr ""
+
+#. Paragraph 17: Hugh remembers getting together with them after they stopped being housemates: Well, he saw the humor in it [their learning experiences] and at the same time I think it [times of not getting along] wa...
+#: paragraph:17,sentence:97
+msgid "Neither of them did"
+msgstr ""
+
+#. Paragraph 17: Hugh remembers getting together with them after they stopped being housemates: Well, he saw the humor in it [their learning experiences] and at the same time I think it [times of not getting along] wa...
+#: paragraph:17,sentence:98
+msgid "They had been very close friends and became very close friends again"
+msgstr ""
+
+#. Paragraph 17: Hugh remembers getting together with them after they stopped being housemates: Well, he saw the humor in it [their learning experiences] and at the same time I think it [times of not getting along] wa...
+#: paragraph:17,sentence:99
+msgid "They would tell many funny stories about what had happened when they were together and what went on in that apartment; it was just a riot![13]"
+msgstr ""
+
+#. Paragraph 18: He also observed, as Bill was vacillating about his move, He was several years making that decision [to go to La Jolla], which was a very deep one. It was on his mind for a long time, and I’m certain ...
+#: paragraph:18,sentence:100
+msgid "He also observed, as Bill was vacillating about his move, He was several years making that decision [to go to La Jolla], which was a very deep one."
+msgstr ""
+
+#. Paragraph 18: He also observed, as Bill was vacillating about his move, He was several years making that decision [to go to La Jolla], which was a very deep one. It was on his mind for a long time, and I’m certain ...
+#: paragraph:18,sentence:101
+msgid "It was on his mind for a long time, and I’m certain that at that point he saw his own ego clearly, which was sort of the eastern, sophisticated, New York professor, classical music, classical education- type thing, which he shared with everyone else he was surrounded by there, with the exception of Jerry. [Jerry was California born and bred and attended medical school at Stanford.] But Pat, Jules, Frances, Roger, and Judy shared his same worldview."
+msgstr ""
+
+#. Paragraph 18: He also observed, as Bill was vacillating about his move, He was several years making that decision [to go to La Jolla], which was a very deep one. It was on his mind for a long time, and I’m certain ...
+#: paragraph:18,sentence:102
+msgid "That was the unconscious part of Bill’s ego in the beginning."
+msgstr ""
+
+#. Paragraph 18: He also observed, as Bill was vacillating about his move, He was several years making that decision [to go to La Jolla], which was a very deep one. It was on his mind for a long time, and I’m certain ...
+#: paragraph:18,sentence:103
+msgid "In other words, he just presumed everyone would love Mozart and opera; that was a given or a fact."
+msgstr ""
+
+#. Paragraph 18: He also observed, as Bill was vacillating about his move, He was several years making that decision [to go to La Jolla], which was a very deep one. It was on his mind for a long time, and I’m certain ...
+#: paragraph:18,sentence:104
+msgid "His whole personality, that whole eastern thing, was quite unlike this lighthearted self."
+msgstr ""
+
+#. Paragraph 19: My understanding in conversations, and from my own observation, was that he saw that in order to let go of his ego he was going to have to turn it upside down. He would have to stand it on its head. H...
+#: paragraph:19,sentence:105
+msgid "My understanding in conversations, and from my own observation, was that he saw that in order to let go of his ego he was going to have to turn it upside down"
+msgstr ""
+
+#. Paragraph 19: My understanding in conversations, and from my own observation, was that he saw that in order to let go of his ego he was going to have to turn it upside down. He would have to stand it on its head. H...
+#: paragraph:19,sentence:106
+msgid "He would have to stand it on its head"
+msgstr ""
+
+#. Paragraph 19: My understanding in conversations, and from my own observation, was that he saw that in order to let go of his ego he was going to have to turn it upside down. He would have to stand it on its head. H...
+#: paragraph:19,sentence:107
+msgid "He was going to have to get out of this situation and put himself in a completely different, nonintellectual environment, which he did"
+msgstr ""
+
+#. Paragraph 19: My understanding in conversations, and from my own observation, was that he saw that in order to let go of his ego he was going to have to turn it upside down. He would have to stand it on its head. H...
+#: paragraph:19,sentence:108
+msgid "He had a tremendous capacity for acceptance and was able to accept and enjoy it immensely; that’s when his ego dissolved at a remarkably fast rate.[14]"
+msgstr ""
+
+#. Paragraph 20: Gayle Prather additionally noted: “He did agonize over that decision to move to southern California. I guess it was because, basically, he really was going to be saying good-bye to his past because ev...
+#: paragraph:20,sentence:109
+msgid "Gayle Prather additionally noted: “He did agonize over that decision to move to southern California"
+msgstr ""
+
+#. Paragraph 20: Gayle Prather additionally noted: “He did agonize over that decision to move to southern California. I guess it was because, basically, he really was going to be saying good-bye to his past because ev...
+#: paragraph:20,sentence:110
+msgid "I guess it was because, basically, he really was going to be saying good-bye to his past because everybody, despite how he or she may or may not have felt about it, deferred to Bill as the patriarch"
+msgstr ""
+
+#. Paragraph 20: Gayle Prather additionally noted: “He did agonize over that decision to move to southern California. I guess it was because, basically, he really was going to be saying good-bye to his past because ev...
+#: paragraph:20,sentence:111
+msgid "He was the head of the family, and I don’t think he could shake that role as long as he was in Tiburon.”[15]"
+msgstr ""
+
+#. Paragraph 21: Bill and Judy - ACIM 10th anniversary 1986 Bill’s situation was transparent to everyone watching him. Many echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual emphasis in Tiburon, h...
+#: paragraph:21,sentence:112
+msgid "Bill and Judy - ACIM 10th anniversary 1986 Bill’s situation was transparent to everyone watching him."
+msgstr ""
+
+#. Paragraph 21: Bill and Judy - ACIM 10th anniversary 1986 Bill’s situation was transparent to everyone watching him. Many echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual emphasis in Tiburon, h...
+#: paragraph:21,sentence:113
+msgid "Many echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual emphasis in Tiburon, his attempts to escape it, and his inability to take his next step until he was out of that environment entirely."
+msgstr ""
+
+#. Paragraph 21: Bill and Judy - ACIM 10th anniversary 1986 Bill’s situation was transparent to everyone watching him. Many echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual emphasis in Tiburon, h...
+#: paragraph:21,sentence:114
+msgid "In his own way, he was dissociating himself from normal rules of behavior, of self- and other kinds of evaluation."
+msgstr ""
+
+#. Paragraph 21: Bill and Judy - ACIM 10th anniversary 1986 Bill’s situation was transparent to everyone watching him. Many echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual emphasis in Tiburon, h...
+#: paragraph:21,sentence:115
+msgid "He had told his stories long enough and had chosen not to pursue a more public or authoritative role with the Course, nor a more conventional, professional career."
+msgstr ""
+
+#. Paragraph 21: Bill and Judy - ACIM 10th anniversary 1986 Bill’s situation was transparent to everyone watching him. Many echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual emphasis in Tiburon, h...
+#: paragraph:21,sentence:116
+msgid "In terms of an outward focus, he had done what he came to do."
+msgstr ""
+
+#. Paragraph 21: Bill and Judy - ACIM 10th anniversary 1986 Bill’s situation was transparent to everyone watching him. Many echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual emphasis in Tiburon, h...
+#: paragraph:21,sentence:117
+msgid "Also, Roger Walsh felt that part of the pull to La Jolla was to be with people, primarily the Lucketts, who solely devoted themselves to practicing ACIM."
+msgstr ""
+
+#. Paragraph 21: Bill and Judy - ACIM 10th anniversary 1986 Bill’s situation was transparent to everyone watching him. Many echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual emphasis in Tiburon, h...
+#: paragraph:21,sentence:118
+msgid "Although his Tiburon friends were all Course students, they had divided loyalties, including careers, organizations, family responsibilities, or other worldly matters."
+msgstr ""
+
