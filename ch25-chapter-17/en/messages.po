@@ -7,333 +7,333 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "X-Generator: book-importer\n"
 
-#. Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use...
 #: paragraph:1,sentence:1
+msgctxt "Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use..."
 msgid "Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics"
 msgstr ""
 
-#. Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use...
 #: paragraph:1,sentence:2
+msgctxt "Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use..."
 msgid "In the Urtext, the author commented: I wish he would decide to use that talent of his [for making puns] constructively"
 msgstr ""
 
-#. Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use...
 #: paragraph:1,sentence:3
+msgctxt "Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use..."
 msgid "He has no idea how powerful it could be"
 msgstr ""
 
-#. Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use...
 #: paragraph:1,sentence:4
+msgctxt "Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use..."
 msgid "Actually, it does come from the unconscious and is really a distorted form of miraculous perception, which he has reduced to word twisting"
 msgstr ""
 
-#. Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use...
 #: paragraph:1,sentence:5
+msgctxt "Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use..."
 msgid "Although this can be quite funny, it is still a real waste"
 msgstr ""
 
-#. Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use...
 #: paragraph:1,sentence:6
+msgctxt "Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use..."
 msgid "Maybe he’d care to let me control it, and still use it humorously himself"
 msgstr ""
 
-#. Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use...
 #: paragraph:1,sentence:7
+msgctxt "Paragraph 1: Bill’s sense of humor ran a close second to presence and un-conditional acceptance as his most-mentioned outstanding characteristics. In the Urtext, the author commented: I wish he would decide to use..."
 msgid "He doesn’t have to decide it is one or the other.[44]"
 msgstr ""
 
-#. Paragraph 2: Bill must have surrendered some control over that talent because he could be simply hilarious. Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by Bill because he struck me as a...
 #: paragraph:2,sentence:8
+msgctxt "Paragraph 2: Bill must have surrendered some control over that talent because he could be simply hilarious. Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by Bill because he struck me as a..."
 msgid "Bill must have surrendered some control over that talent because he could be simply hilarious."
 msgstr ""
 
-#. Paragraph 2: Bill must have surrendered some control over that talent because he could be simply hilarious. Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by Bill because he struck me as a...
 #: paragraph:2,sentence:9
+msgctxt "Paragraph 2: Bill must have surrendered some control over that talent because he could be simply hilarious. Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by Bill because he struck me as a..."
 msgid "Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by Bill because he struck me as a voice of balance and sanity packaged in dry wit."
 msgstr ""
 
-#. Paragraph 2: Bill must have surrendered some control over that talent because he could be simply hilarious. Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by Bill because he struck me as a...
 #: paragraph:2,sentence:10
+msgctxt "Paragraph 2: Bill must have surrendered some control over that talent because he could be simply hilarious. Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by Bill because he struck me as a..."
 msgid "The more I listened to his views about the Course, the more my respect grew for it and for the whimsy and sparkle of his mind.”[45] His innate lovingness, combined with his wonderful ability to be lighthearted, was indeed sparkling and compelling."
 msgstr ""
 
-#. Paragraph 2: Bill must have surrendered some control over that talent because he could be simply hilarious. Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by Bill because he struck me as a...
 #: paragraph:2,sentence:11
+msgctxt "Paragraph 2: Bill must have surrendered some control over that talent because he could be simply hilarious. Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by Bill because he struck me as a..."
 msgid "Everyone, without exception, recalled with delight their times of rich, heartwarming laughter with Bill."
 msgstr ""
 
-#. Paragraph 3: LeRoy Zemke’s reading confirmed this trait, even though Bill was an unknown client at the time: “You have a remarkable talent to aid you in this, and it is your capacity to draw upon the wit and the c...
 #: paragraph:3,sentence:12
+msgctxt "Paragraph 3: LeRoy Zemke’s reading confirmed this trait, even though Bill was an unknown client at the time: “You have a remarkable talent to aid you in this, and it is your capacity to draw upon the wit and the c..."
 msgid "LeRoy Zemke’s reading confirmed this trait, even though Bill was an unknown client at the time: “You have a remarkable talent to aid you in this, and it is your capacity to draw upon the wit and the clarity of your own mind that stems from warmth and from your capacity to see a sense of the ridiculous in all that life offers. . ."
 msgstr ""
 
-#. Paragraph 3: LeRoy Zemke’s reading confirmed this trait, even though Bill was an unknown client at the time: “You have a remarkable talent to aid you in this, and it is your capacity to draw upon the wit and the c...
 #: paragraph:3,sentence:13
+msgctxt "Paragraph 3: LeRoy Zemke’s reading confirmed this trait, even though Bill was an unknown client at the time: “You have a remarkable talent to aid you in this, and it is your capacity to draw upon the wit and the c..."
 msgid "Use it amply whenever it applies and you will find that whatever you have to teach, this will be the tool that will aid you in the work that needs to be done.”[46]"
 msgstr ""
 
-#. Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove...
 #: paragraph:4,sentence:14
+msgctxt "Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove..."
 msgid "And aid us all, it did"
 msgstr ""
 
-#. Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove...
 #: paragraph:4,sentence:15
+msgctxt "Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove..."
 msgid "Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving"
 msgstr ""
 
-#. Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove...
 #: paragraph:4,sentence:16
+msgctxt "Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove..."
 msgid "He was never malicious with humor, which is often a thinly disguised cover for a put-down, but not with Bill"
 msgstr ""
 
-#. Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove...
 #: paragraph:4,sentence:17
+msgctxt "Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove..."
 msgid "His really funny way of being was not at someone else’s expense"
 msgstr ""
 
-#. Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove...
 #: paragraph:4,sentence:18
+msgctxt "Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove..."
 msgid "Bill laughed at the absurdity of life and found nothing too sacred for his lighthearted touch"
 msgstr ""
 
-#. Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove...
 #: paragraph:4,sentence:19
+msgctxt "Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove..."
 msgid "It was all amusing—his work, the science of psychology, people, situations, or sex"
 msgstr ""
 
-#. Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove...
 #: paragraph:4,sentence:20
+msgctxt "Paragraph 4: And aid us all, it did. Getting a handle on Bill’s humor moves you very close to his essence—it was one of his ways of loving. He was never malicious with humor, which is often a thinly disguised cove..."
 msgid "Predictably, when people started taking themselves or a situation too seriously, he became an impish, irreverent jokester, as if to say, “Lighten up, everybody!”"
 msgstr ""
 
-#. Paragraph 5: Happy to be alive in 1982 Fast forwarding to the La Jolla era, Bill occasionally enjoyed the company of some lady friends there, although they were never actual romances. Jack Luckett recounted that s...
 #: paragraph:5,sentence:21
+msgctxt "Paragraph 5: Happy to be alive in 1982 Fast forwarding to the La Jolla era, Bill occasionally enjoyed the company of some lady friends there, although they were never actual romances. Jack Luckett recounted that s..."
 msgid "Happy to be alive in 1982 Fast forwarding to the La Jolla era, Bill occasionally enjoyed the company of some lady friends there, although they were never actual romances"
 msgstr ""
 
-#. Paragraph 5: Happy to be alive in 1982 Fast forwarding to the La Jolla era, Bill occasionally enjoyed the company of some lady friends there, although they were never actual romances. Jack Luckett recounted that s...
 #: paragraph:5,sentence:22
+msgctxt "Paragraph 5: Happy to be alive in 1982 Fast forwarding to the La Jolla era, Bill occasionally enjoyed the company of some lady friends there, although they were never actual romances. Jack Luckett recounted that s..."
 msgid "Jack Luckett recounted that sometimes, when someone from Tiburon would visit and one of those women were around, Bill would “hold and kiss her and act as if this was a real huge romance; he thought it was a great kick [to shock the visitor] because he had a little bit of a trickster in him.”[47] Jack’s wife Layle remembers a great story many of us can identify with, having been in similar situations with Bill:"
 msgstr ""
 
-#. Paragraph 6: I heard about a poetry reading way across San Diego on the far east side of town. We found the small, old frame house and entered to find a small room jammed with chairs and people. We found seats far...
 #: paragraph:6,sentence:23
+msgctxt "Paragraph 6: I heard about a poetry reading way across San Diego on the far east side of town. We found the small, old frame house and entered to find a small room jammed with chairs and people. We found seats far..."
 msgid "I heard about a poetry reading way across San Diego on the far east side of town."
 msgstr ""
 
-#. Paragraph 6: I heard about a poetry reading way across San Diego on the far east side of town. We found the small, old frame house and entered to find a small room jammed with chairs and people. We found seats far...
 #: paragraph:6,sentence:24
+msgctxt "Paragraph 6: I heard about a poetry reading way across San Diego on the far east side of town. We found the small, old frame house and entered to find a small room jammed with chairs and people. We found seats far..."
 msgid "We found the small, old frame house and entered to find a small room jammed with chairs and people."
 msgstr ""
 
-#. Paragraph 6: I heard about a poetry reading way across San Diego on the far east side of town. We found the small, old frame house and entered to find a small room jammed with chairs and people. We found seats far...
 #: paragraph:6,sentence:25
+msgctxt "Paragraph 6: I heard about a poetry reading way across San Diego on the far east side of town. We found the small, old frame house and entered to find a small room jammed with chairs and people. We found seats far..."
 msgid "We found seats far from the aisle, a very bad sign for Billy in case escape was required."
 msgstr ""
 
-#. Paragraph 6: I heard about a poetry reading way across San Diego on the far east side of town. We found the small, old frame house and entered to find a small room jammed with chairs and people. We found seats far...
 #: paragraph:6,sentence:26
+msgctxt "Paragraph 6: I heard about a poetry reading way across San Diego on the far east side of town. We found the small, old frame house and entered to find a small room jammed with chairs and people. We found seats far..."
 msgid "Also, we learned that the house had no back door—the back overhung a steep canyon—and that there was only one bathroom, but we persevered."
 msgstr ""
 
-#. Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S...
 #: paragraph:7,sentence:27
+msgctxt "Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S..."
 msgid "The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression"
 msgstr ""
 
-#. Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S...
 #: paragraph:7,sentence:28
+msgctxt "Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S..."
 msgid "Soon, Billy and Jack found this hilarious, but couldn’t escape"
 msgstr ""
 
-#. Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S...
 #: paragraph:7,sentence:29
+msgctxt "Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S..."
 msgid "We didn’t dare look at each other for fear of setting off explosive laughter"
 msgstr ""
 
-#. Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S...
 #: paragraph:7,sentence:30
+msgctxt "Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S..."
 msgid "They tried not to be rude, but they were holding back so hard that little snorts were escaping their noses and mouths"
 msgstr ""
 
-#. Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S...
 #: paragraph:7,sentence:31
+msgctxt "Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S..."
 msgid "Finally both—on either side of me—had their faces in their laps shaking"
 msgstr ""
 
-#. Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S...
 #: paragraph:7,sentence:32
+msgctxt "Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S..."
 msgid "I was bored, but oblivious, so thought they were emoting"
 msgstr ""
 
-#. Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S...
 #: paragraph:7,sentence:33
+msgctxt "Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S..."
 msgid "Naturally, this event went on for about ninety hours until we were finally released"
 msgstr ""
 
-#. Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S...
 #: paragraph:7,sentence:34
+msgctxt "Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S..."
 msgid "Imagine how fast we got out of there, never to return"
 msgstr ""
 
-#. Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S...
 #: paragraph:7,sentence:35
+msgctxt "Paragraph 7: The first reader, a man, started out reading something terminally boring in airy-fairy Victorian style with full expression and an almost nausea-producing rhythmic beat, sway, and facial expression. S..."
 msgid "Jack can still get almost hysterical remembering this.[48]"
 msgstr ""
 
-#. Paragraph 8: Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life ...
 #: paragraph:8,sentence:36
+msgctxt "Paragraph 8: Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life ..."
 msgid "Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life and the great gift he gave the world"
 msgstr ""
 
-#. Paragraph 8: Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life ...
 #: paragraph:8,sentence:37
+msgctxt "Paragraph 8: Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life ..."
 msgid "Every conversation I had with him had an effect on me because I was taking the Course very seriously and you just couldn’t do that with Bill"
 msgstr ""
 
-#. Paragraph 8: Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life ...
 #: paragraph:8,sentence:38
+msgctxt "Paragraph 8: Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life ..."
 msgid "I wish everyone could have felt his very lighthearted approach to the Course"
 msgstr ""
 
-#. Paragraph 8: Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life ...
 #: paragraph:8,sentence:39
+msgctxt "Paragraph 8: Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life ..."
 msgid "As a matter of fact, I think one of the reasons he kept telling these stories, pointing out the absurdity of everything that had gone on when the Course came, whether done consciously or not, was for the effect it had of lightening me up on the whole subject"
 msgstr ""
 
-#. Paragraph 8: Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life ...
 #: paragraph:8,sentence:40
+msgctxt "Paragraph 8: Hugh Prather remembers, Well, I can tell you, everything about him was this deep connection with God combined with his advice not to take it all too seriously—one of the primary themes of Bill’s life ..."
 msgid "Additionally, he just thought it infinitely amusing that the CIA had financed so much of their work, and he always joked about the typewriter—the CIA-funded typewriter that typed ACIM.[49]"
 msgstr ""
 
-#. Paragraph 9: Incidentally, the CIA never orchestrated the production of the Course in any way. There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has t...
 #: paragraph:9,sentence:41
+msgctxt "Paragraph 9: Incidentally, the CIA never orchestrated the production of the Course in any way. There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has t..."
 msgid "Incidentally, the CIA never orchestrated the production of the Course in any way."
 msgstr ""
 
-#. Paragraph 9: Incidentally, the CIA never orchestrated the production of the Course in any way. There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has t...
 #: paragraph:9,sentence:42
+msgctxt "Paragraph 9: Incidentally, the CIA never orchestrated the production of the Course in any way. There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has t..."
 msgid "There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has the slightest knowledge of the material would find that patently absurd."
 msgstr ""
 
-#. Paragraph 9: Incidentally, the CIA never orchestrated the production of the Course in any way. There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has t...
 #: paragraph:9,sentence:43
+msgctxt "Paragraph 9: Incidentally, the CIA never orchestrated the production of the Course in any way. There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has t..."
 msgid "This profound and transformative work could not possibly have been faked or planned by even the best of intellects, no matter what the purpose."
 msgstr ""
 
-#. Paragraph 9: Incidentally, the CIA never orchestrated the production of the Course in any way. There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has t...
 #: paragraph:9,sentence:44
+msgctxt "Paragraph 9: Incidentally, the CIA never orchestrated the production of the Course in any way. There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has t..."
 msgid "And for those who knew Helen, the notion that she could be coerced or manipulated into doing something she didn’t want to do is also ridiculous."
 msgstr ""
 
-#. Paragraph 9: Incidentally, the CIA never orchestrated the production of the Course in any way. There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has t...
 #: paragraph:9,sentence:45
+msgctxt "Paragraph 9: Incidentally, the CIA never orchestrated the production of the Course in any way. There is some misleading speculation to that effect on the Internet, but anyone who knew either Helen or Bill or has t..."
 msgid "When she said no, that was it."
 msgstr ""
 
-#. Paragraph 10: Among his stories from Columbia, Bill delighted to talk about being co-editor of the Journal of Abnormal Psychology from 1965–1971, the years of Course dictation. He periodically rejected articles tha...
 #: paragraph:10,sentence:46
+msgctxt "Paragraph 10: Among his stories from Columbia, Bill delighted to talk about being co-editor of the Journal of Abnormal Psychology from 1965–1971, the years of Course dictation. He periodically rejected articles tha..."
 msgid "Among his stories from Columbia, Bill delighted to talk about being co-editor of the Journal of Abnormal Psychology from 1965–1971, the years of Course dictation."
 msgstr ""
 
-#. Paragraph 10: Among his stories from Columbia, Bill delighted to talk about being co-editor of the Journal of Abnormal Psychology from 1965–1971, the years of Course dictation. He periodically rejected articles tha...
 #: paragraph:10,sentence:47
+msgctxt "Paragraph 10: Among his stories from Columbia, Bill delighted to talk about being co-editor of the Journal of Abnormal Psychology from 1965–1971, the years of Course dictation. He periodically rejected articles tha..."
 msgid "He periodically rejected articles that were “not sufficiently scientific,” and, of course, he found this situation ridiculous and very humorous."
 msgstr ""
 
-#. Paragraph 11: In the early 1980s, a woman who was writing a spiritually based sex manual, which she believed was being dictated by Jesus, started corresponding with Bill to inform him about messages she was getting...
 #: paragraph:11,sentence:48
+msgctxt "Paragraph 11: In the early 1980s, a woman who was writing a spiritually based sex manual, which she believed was being dictated by Jesus, started corresponding with Bill to inform him about messages she was getting..."
 msgid "In the early 1980s, a woman who was writing a spiritually based sex manual, which she believed was being dictated by Jesus, started corresponding with Bill to inform him about messages she was getting from “Jesus.” Being a bit nonplussed and not knowing quite how to respond, he finally wrote her back after receiving several letters and said that he, too, had talked to Jesus, who told him they should not communicate for five years."
 msgstr ""
 
-#. Paragraph 11: In the early 1980s, a woman who was writing a spiritually based sex manual, which she believed was being dictated by Jesus, started corresponding with Bill to inform him about messages she was getting...
 #: paragraph:11,sentence:49
+msgctxt "Paragraph 11: In the early 1980s, a woman who was writing a spiritually based sex manual, which she believed was being dictated by Jesus, started corresponding with Bill to inform him about messages she was getting..."
 msgid "Once again, this particular use of humor was not to denigrate the woman but to infuse a greater sense of lightheartedness into the situation."
 msgstr ""
 
-#. Paragraph 11: In the early 1980s, a woman who was writing a spiritually based sex manual, which she believed was being dictated by Jesus, started corresponding with Bill to inform him about messages she was getting...
 #: paragraph:11,sentence:50
+msgctxt "Paragraph 11: In the early 1980s, a woman who was writing a spiritually based sex manual, which she believed was being dictated by Jesus, started corresponding with Bill to inform him about messages she was getting..."
 msgid "Most of us take everything so seriously, but this was quintessential Bill."
 msgstr ""
 
-#. Paragraph 12: Whit Whitson remembers, I often told my children when they were growing up, as a first principle you really should be more than you seem. And that to me was Bill in spades. On the surface, he was a go...
 #: paragraph:12,sentence:51
+msgctxt "Paragraph 12: Whit Whitson remembers, I often told my children when they were growing up, as a first principle you really should be more than you seem. And that to me was Bill in spades. On the surface, he was a go..."
 msgid "Whit Whitson remembers, I often told my children when they were growing up, as a first principle you really should be more than you seem"
 msgstr ""
 
-#. Paragraph 12: Whit Whitson remembers, I often told my children when they were growing up, as a first principle you really should be more than you seem. And that to me was Bill in spades. On the surface, he was a go...
 #: paragraph:12,sentence:52
+msgctxt "Paragraph 12: Whit Whitson remembers, I often told my children when they were growing up, as a first principle you really should be more than you seem. And that to me was Bill in spades. On the surface, he was a go..."
 msgid "And that to me was Bill in spades"
 msgstr ""
 
-#. Paragraph 12: Whit Whitson remembers, I often told my children when they were growing up, as a first principle you really should be more than you seem. And that to me was Bill in spades. On the surface, he was a go...
 #: paragraph:12,sentence:53
+msgctxt "Paragraph 12: Whit Whitson remembers, I often told my children when they were growing up, as a first principle you really should be more than you seem. And that to me was Bill in spades. On the surface, he was a go..."
 msgid "On the surface, he was a good-looking guy and with just a little exposure one found there was something in Bill that was gentle, that was tolerant; his punning, his propensity to humor, the light touch were very important to me"
 msgstr ""
 
-#. Paragraph 12: Whit Whitson remembers, I often told my children when they were growing up, as a first principle you really should be more than you seem. And that to me was Bill in spades. On the surface, he was a go...
 #: paragraph:12,sentence:54
+msgctxt "Paragraph 12: Whit Whitson remembers, I often told my children when they were growing up, as a first principle you really should be more than you seem. And that to me was Bill in spades. On the surface, he was a go..."
 msgid "I just enjoyed him, especially the laughter—we laughed a lot.[50]"
 msgstr ""
 
-#. Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b...
 #: paragraph:13,sentence:55
+msgctxt "Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b..."
 msgid "During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters"
 msgstr ""
 
-#. Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b...
 #: paragraph:13,sentence:56
+msgctxt "Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b..."
 msgid "By this time, it’s obvious that being besieged by adoring fans was not Bill’s favorite situation"
 msgstr ""
 
-#. Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b...
 #: paragraph:13,sentence:57
+msgctxt "Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b..."
 msgid "One evening, the church treated the entire group of participants to a cruise lasting several hours"
 msgstr ""
 
-#. Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b...
 #: paragraph:13,sentence:58
+msgctxt "Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b..."
 msgid "Bill’s major goal quickly became to find someplace private"
 msgstr ""
 
-#. Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b...
 #: paragraph:13,sentence:59
+msgctxt "Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b..."
 msgid "The Prathers, Bill, my husband Bob, and I found a little bench up near the bow away from the festivities"
 msgstr ""
 
-#. Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b...
 #: paragraph:13,sentence:60
+msgctxt "Paragraph 13: During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM conference and invited those of us from the early Course days to be presenters. By this time, it’s obvious that being besieged b..."
 msgid "As we sat down to chat with no one around, Bill said, “It’s so good not to be one with my brother, with whom I am one!”"
 msgstr ""
 
-#. Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks...
 #: paragraph:14,sentence:61
+msgctxt "Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks..."
 msgid "ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then"
 msgstr ""
 
-#. Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks...
 #: paragraph:14,sentence:62
+msgctxt "Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks..."
 msgid "Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks that we take on faith a very different way of living, and it seemed to him that he was plunging into the unknown, not knowing exactly what experiences he might be precipitating"
 msgstr ""
 
-#. Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks...
 #: paragraph:14,sentence:63
+msgctxt "Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks..."
 msgid "Humor enabled him to “take the plunge” more gracefully"
 msgstr ""
 
-#. Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks...
 #: paragraph:14,sentence:64
+msgctxt "Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks..."
 msgid "He was aware of his human frailties but was able to see through and not invest in them; he advised all who would listen to do the same, to laugh at their own judgments"
 msgstr ""
 
-#. Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks...
 #: paragraph:14,sentence:65
+msgctxt "Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks..."
 msgid "As important as ACIM was for him, and as dedicated he was to practicing, he still could witness the entire project from a distance and find it all amusing"
 msgstr ""
 
-#. Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks...
 #: paragraph:14,sentence:66
+msgctxt "Paragraph 14: ACIM was dictated during the cold war era with the Soviets, and “brinksmanship” was a word often used then. Bill used to refer to practicing the Course as “celestial brinksmanship.” After all, it asks..."
 msgid "He closed many a conversation with a smile, saying, “I know it’s hopeless, just not serious.”"
 msgstr ""
 

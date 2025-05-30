@@ -7,698 +7,698 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "X-Generator: book-importer\n"
 
-#. Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ...
 #: paragraph:1,sentence:1
+msgctxt "Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ..."
 msgid "World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition"
 msgstr ""
 
-#. Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ...
 #: paragraph:1,sentence:2
+msgctxt "Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ..."
 msgid "Thus, after receiving his undergraduate degree in psychology from DePauw in February 1944 and being unable to participate in the military, Bill submitted his application and was accepted into the University of Chicago Medical School for the upcoming fall term"
 msgstr ""
 
-#. Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ...
 #: paragraph:1,sentence:3
+msgctxt "Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ..."
 msgid "In addition to taking courses necessary for his psychology degree, he had also completed all necessary pre-med classes"
 msgstr ""
 
-#. Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ...
 #: paragraph:1,sentence:4
+msgctxt "Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ..."
 msgid "Hoping to earn money for his first year of medical school during the intervening six months, Bill applied for work at the University of Chicago"
 msgstr ""
 
-#. Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ...
 #: paragraph:1,sentence:5
+msgctxt "Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ..."
 msgid "He was hired as one of ten administrative officers overseeing several buildings used as testing areas for some highly classified research"
 msgstr ""
 
-#. Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ...
 #: paragraph:1,sentence:6
+msgctxt "Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ..."
 msgid "Later, he learned it was research on atomic energy—the Manhattan Project"
 msgstr ""
 
-#. Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ...
 #: paragraph:1,sentence:7
+msgctxt "Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ..."
 msgid "Soon after being hired, he was promoted to the faculty payroll and given a private office and secretary. “One of my special assignments was to be in charge of a special crew of men,” Bill later wrote, “who went through various radioactive areas and tried to decontaminate them"
 msgstr ""
 
-#. Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ...
 #: paragraph:1,sentence:8
+msgctxt "Paragraph 1: World War II started while Bill was in college, but on graduating, he was rejected for the draft because of his rheumatic heart condition. Thus, after receiving his undergraduate degree in psychology ..."
 msgid "I was required to wear a Geiger counter from the time I arrived in the morning until I left at night.”[11]"
 msgstr ""
 
-#. Paragraph 2: Atomic energy research was occurring in several locations around the country at that time, the University of Chicago being one of them, in a furious race with the Nazis to build a bomb during the fina...
 #: paragraph:2,sentence:9
+msgctxt "Paragraph 2: Atomic energy research was occurring in several locations around the country at that time, the University of Chicago being one of them, in a furious race with the Nazis to build a bomb during the fina..."
 msgid "Atomic energy research was occurring in several locations around the country at that time, the University of Chicago being one of them, in a furious race with the Nazis to build a bomb during the final years of World War II."
 msgstr ""
 
-#. Paragraph 2: Atomic energy research was occurring in several locations around the country at that time, the University of Chicago being one of them, in a furious race with the Nazis to build a bomb during the fina...
 #: paragraph:2,sentence:10
+msgctxt "Paragraph 2: Atomic energy research was occurring in several locations around the country at that time, the University of Chicago being one of them, in a furious race with the Nazis to build a bomb during the fina..."
 msgid "This research was the best-kept secret around."
 msgstr ""
 
-#. Paragraph 2: Atomic energy research was occurring in several locations around the country at that time, the University of Chicago being one of them, in a furious race with the Nazis to build a bomb during the fina...
 #: paragraph:2,sentence:11
+msgctxt "Paragraph 2: Atomic energy research was occurring in several locations around the country at that time, the University of Chicago being one of them, in a furious race with the Nazis to build a bomb during the fina..."
 msgid "More than 100,000 people were involved with the project in various locations, but most were in the dark about its exact nature and specific purpose, including Vice President Truman, who was told the details of the project only on assuming the presidency after Roosevelt’s death."
 msgstr ""
 
-#. Paragraph 2: Atomic energy research was occurring in several locations around the country at that time, the University of Chicago being one of them, in a furious race with the Nazis to build a bomb during the fina...
 #: paragraph:2,sentence:12
+msgctxt "Paragraph 2: Atomic energy research was occurring in several locations around the country at that time, the University of Chicago being one of them, in a furious race with the Nazis to build a bomb during the fina..."
 msgid "Everyone did know, however, that the United States and its allies were joined in a life-or-death struggle with a formidable enemy."
 msgstr ""
 
-#. Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit...
 #: paragraph:3,sentence:13
+msgctxt "Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit..."
 msgid "Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the United States the upper hand, it might mean the end of Western civilization as he knew it."
 msgstr ""
 
-#. Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit...
 #: paragraph:3,sentence:14
+msgctxt "Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit..."
 msgid "One testing area for which he was responsible was beneath the stands of the University of Chicago football stadium, made available for research because the university’s president had eliminated intercollegiate football as an interference to academic learning."
 msgstr ""
 
-#. Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit...
 #: paragraph:3,sentence:15
+msgctxt "Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit..."
 msgid "The first chain reaction in the world took place there in December 1942."
 msgstr ""
 
-#. Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit...
 #: paragraph:3,sentence:16
+msgctxt "Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit..."
 msgid "The irony was not lost on twenty-year-old Bill."
 msgstr ""
 
-#. Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit...
 #: paragraph:3,sentence:17
+msgctxt "Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit..."
 msgid "Given the heightened tensions throughout the country and the sense of urgency related to his supposedly interim job, Bill chose to continue on for another year, foregoing medical school that fall."
 msgstr ""
 
-#. Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit...
 #: paragraph:3,sentence:18
+msgctxt "Paragraph 3: Bill felt the excitement of this project he was part of but, like others, was unaware of its purpose or ramifications; he was told only that if these experiments were not successful in giving the Unit..."
 msgid "The bombs were dropped on Japan in August 1945, and he resigned shortly thereafter on seeing the horrific results of the project’s success."
 msgstr ""
 
-#. Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f...
 #: paragraph:4,sentence:19
+msgctxt "Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f..."
 msgid "Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all."
 msgstr ""
 
-#. Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f...
 #: paragraph:4,sentence:20
+msgctxt "Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f..."
 msgid "Thus, in the fall of 1945, without much thought about where it would lead, he enrolled in the University of Chicago’s graduate school in psychology where the already noted psychologist, Carl Rogers, was beginning to hold forth."
 msgstr ""
 
-#. Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f...
 #: paragraph:4,sentence:21
+msgctxt "Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f..."
 msgid "Unaware of what people sensed about him, Bill was confused and surprised when Rogers offered him a teaching position almost immediately; he was younger than almost all the other students and did not yet have a master’s degree."
 msgstr ""
 
-#. Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f...
 #: paragraph:4,sentence:22
+msgctxt "Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f..."
 msgid "He was also the only member of Rogers’s staff not imported from Ohio State University."
 msgstr ""
 
-#. Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f...
 #: paragraph:4,sentence:23
+msgctxt "Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f..."
 msgid "Soon thereafter, Rogers invited him to participate in research on the merits of his signature “client-centered psychotherapy.” This was an innovative new approach to psychotherapy that emphasized the importance of relationships."
 msgstr ""
 
-#. Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f...
 #: paragraph:4,sentence:24
+msgctxt "Paragraph 4: Although the university had given Bill the option to postpone entering medical school to continue with the Manhattan Project, he decided, after some consideration, not to enroll at all. Thus, in the f..."
 msgid "Specifically, the Rogerian approach was based on “unconditional positive regard,” or perfect love, and its essential place in the success of client-centered therapy."
 msgstr ""
 
-#. Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc...
 #: paragraph:5,sentence:25
+msgctxt "Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc..."
 msgid "Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it"
 msgstr ""
 
-#. Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc...
 #: paragraph:5,sentence:26
+msgctxt "Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc..."
 msgid "Researching the science that provided the foundation for therapy was more to his liking"
 msgstr ""
 
-#. Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc...
 #: paragraph:5,sentence:27
+msgctxt "Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc..."
 msgid "That inclination to examine therapeutic foundations through research into personality development would dominate his work for decades"
 msgstr ""
 
-#. Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc...
 #: paragraph:5,sentence:28
+msgctxt "Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc..."
 msgid "Within this framework of emphasis on relationships, however, Bill received his Ph.D. in psychology in the spring of 1949; his research focused on the psycho-physiological changes in galvanic skin response, heart rate, and respiration in clients tested before and after Rogerian psychotherapy, as compared to a control group"
 msgstr ""
 
-#. Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc...
 #: paragraph:5,sentence:29
+msgctxt "Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc..."
 msgid "Simply stated, his research showed that being loved, appreciated, and listened to positively affects both mind and body"
 msgstr ""
 
-#. Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc...
 #: paragraph:5,sentence:30
+msgctxt "Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc..."
 msgid "Although now, sixty years later, that is old information, at the time it was revolutionary"
 msgstr ""
 
-#. Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc...
 #: paragraph:5,sentence:31
+msgctxt "Paragraph 5: Bill actually worked as a part-time Rogerian therapist for about a year but did not feel called to it. Researching the science that provided the foundation for therapy was more to his liking. That inc..."
 msgid "Everyone who knew Bill remembers his saying how bizarre it was for him to be involved, even though unknowingly, first with a project that resulted in merciless devastation, and then with one that espoused the practice of “unconditional positive regard.”"
 msgstr ""
 
-#. Paragraph 6: As part of a standard psychology curriculum, Bill would have been familiar with the work of Dr. Gardner Murphy, a pioneer in the field. In his book, Personality–A Biosocial Approach to Origins and Str...
 #: paragraph:6,sentence:32
+msgctxt "Paragraph 6: As part of a standard psychology curriculum, Bill would have been familiar with the work of Dr. Gardner Murphy, a pioneer in the field. In his book, Personality–A Biosocial Approach to Origins and Str..."
 msgid "As part of a standard psychology curriculum, Bill would have been familiar with the work of Dr. Gardner Murphy, a pioneer in the field."
 msgstr ""
 
-#. Paragraph 6: As part of a standard psychology curriculum, Bill would have been familiar with the work of Dr. Gardner Murphy, a pioneer in the field. In his book, Personality–A Biosocial Approach to Origins and Str...
 #: paragraph:6,sentence:33
+msgctxt "Paragraph 6: As part of a standard psychology curriculum, Bill would have been familiar with the work of Dr. Gardner Murphy, a pioneer in the field. In his book, Personality–A Biosocial Approach to Origins and Str..."
 msgid "In his book, Personality–A Biosocial Approach to Origins and Structure, published in 1947, Murphy gives an excellent and comprehensive overview of the world of personality research at the time Bill entered the field."
 msgstr ""
 
-#. Paragraph 6: As part of a standard psychology curriculum, Bill would have been familiar with the work of Dr. Gardner Murphy, a pioneer in the field. In his book, Personality–A Biosocial Approach to Origins and Str...
 #: paragraph:6,sentence:34
+msgctxt "Paragraph 6: As part of a standard psychology curriculum, Bill would have been familiar with the work of Dr. Gardner Murphy, a pioneer in the field. In his book, Personality–A Biosocial Approach to Origins and Str..."
 msgid "In the foreword, he writes, “But lest the reader waste time upon what he does not want, it must be emphasized that this is not a book on diagnosis or therapy of personality problems, or upon any type of clinical approach."
 msgstr ""
 
-#. Paragraph 6: As part of a standard psychology curriculum, Bill would have been familiar with the work of Dr. Gardner Murphy, a pioneer in the field. In his book, Personality–A Biosocial Approach to Origins and Str...
 #: paragraph:6,sentence:35
+msgctxt "Paragraph 6: As part of a standard psychology curriculum, Bill would have been familiar with the work of Dr. Gardner Murphy, a pioneer in the field. In his book, Personality–A Biosocial Approach to Origins and Str..."
 msgid "It is simply an attempt at evaluation of data on how personality grows.”[12] It is fortunate for readers that he limited his topic to this single one as, 927 pages later, we have a recap of those major areas of research to which Bill would contribute significantly."
 msgstr ""
 
-#. Paragraph 7: From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited. It lacks today’s high level of technological sophistication that has made possible amazing advances in...
 #: paragraph:7,sentence:36
+msgctxt "Paragraph 7: From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited. It lacks today’s high level of technological sophistication that has made possible amazing advances in..."
 msgid "From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited."
 msgstr ""
 
-#. Paragraph 7: From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited. It lacks today’s high level of technological sophistication that has made possible amazing advances in...
 #: paragraph:7,sentence:37
+msgctxt "Paragraph 7: From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited. It lacks today’s high level of technological sophistication that has made possible amazing advances in..."
 msgid "It lacks today’s high level of technological sophistication that has made possible amazing advances in neuroscience."
 msgstr ""
 
-#. Paragraph 7: From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited. It lacks today’s high level of technological sophistication that has made possible amazing advances in...
 #: paragraph:7,sentence:38
+msgctxt "Paragraph 7: From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited. It lacks today’s high level of technological sophistication that has made possible amazing advances in..."
 msgid "Much less was known then about brain function, genetics and epigenetics, and the body-mind connection, specifically as they relate to personality development."
 msgstr ""
 
-#. Paragraph 7: From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited. It lacks today’s high level of technological sophistication that has made possible amazing advances in...
 #: paragraph:7,sentence:39
+msgctxt "Paragraph 7: From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited. It lacks today’s high level of technological sophistication that has made possible amazing advances in..."
 msgid "Nor was the interest in Eastern philosophies as wide-spread then as now."
 msgstr ""
 
-#. Paragraph 7: From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited. It lacks today’s high level of technological sophistication that has made possible amazing advances in...
 #: paragraph:7,sentence:40
+msgctxt "Paragraph 7: From today’s viewpoint, the information Dr. Murphy provides, current at that time, seems limited. It lacks today’s high level of technological sophistication that has made possible amazing advances in..."
 msgid "Because of such limitations, Bill was very attracted to any new and different approaches, particularly any related to the influence of positive relationships."
 msgstr ""
 
-#. Paragraph 8: Murphy championed the idea that people are already highly formed at birth with fundamentally different and unique predispositions. First voiced by Hippocrates in 370 B.C., the idea was predominant for...
 #: paragraph:8,sentence:41
+msgctxt "Paragraph 8: Murphy championed the idea that people are already highly formed at birth with fundamentally different and unique predispositions. First voiced by Hippocrates in 370 B.C., the idea was predominant for..."
 msgid "Murphy championed the idea that people are already highly formed at birth with fundamentally different and unique predispositions."
 msgstr ""
 
-#. Paragraph 8: Murphy championed the idea that people are already highly formed at birth with fundamentally different and unique predispositions. First voiced by Hippocrates in 370 B.C., the idea was predominant for...
 #: paragraph:8,sentence:42
+msgctxt "Paragraph 8: Murphy championed the idea that people are already highly formed at birth with fundamentally different and unique predispositions. First voiced by Hippocrates in 370 B.C., the idea was predominant for..."
 msgid "First voiced by Hippocrates in 370 B. C. , the idea was predominant for centuries."
 msgstr ""
 
-#. Paragraph 8: Murphy championed the idea that people are already highly formed at birth with fundamentally different and unique predispositions. First voiced by Hippocrates in 370 B.C., the idea was predominant for...
 #: paragraph:8,sentence:43
+msgctxt "Paragraph 8: Murphy championed the idea that people are already highly formed at birth with fundamentally different and unique predispositions. First voiced by Hippocrates in 370 B.C., the idea was predominant for..."
 msgid "Only in the early twentieth century did researchers of the time, constrained by nineteenth-century models of both the universe and the individual, formulate behaviorism, the notion that people are born without predispositions and could have their behavior molded at will."
 msgstr ""
 
-#. Paragraph 8: Murphy championed the idea that people are already highly formed at birth with fundamentally different and unique predispositions. First voiced by Hippocrates in 370 B.C., the idea was predominant for...
 #: paragraph:8,sentence:44
+msgctxt "Paragraph 8: Murphy championed the idea that people are already highly formed at birth with fundamentally different and unique predispositions. First voiced by Hippocrates in 370 B.C., the idea was predominant for..."
 msgid "By midcentury, when Bill was entering the field of psychology, that temporary reversal of psychological theory was coming to a close, and the earlier premise that we are born inherently unique with distinctive energy patterns was being rediscovered and newly researched."
 msgstr ""
 
-#. Paragraph 9: Murphy also lamented Western researchers’ failure to examine the Eastern approach to man’s psychology, which included the spiritual dimensions of life. In a future psychology of personality, there wil...
 #: paragraph:9,sentence:45
+msgctxt "Paragraph 9: Murphy also lamented Western researchers’ failure to examine the Eastern approach to man’s psychology, which included the spiritual dimensions of life. In a future psychology of personality, there wil..."
 msgid "Murphy also lamented Western researchers’ failure to examine the Eastern approach to man’s psychology, which included the spiritual dimensions of life"
 msgstr ""
 
-#. Paragraph 9: Murphy also lamented Western researchers’ failure to examine the Eastern approach to man’s psychology, which included the spiritual dimensions of life. In a future psychology of personality, there wil...
 #: paragraph:9,sentence:46
+msgctxt "Paragraph 9: Murphy also lamented Western researchers’ failure to examine the Eastern approach to man’s psychology, which included the spiritual dimensions of life. In a future psychology of personality, there wil..."
 msgid "In a future psychology of personality, there will surely be a place for directly grappling with the question of man’s response to the cosmos, his sense of unity with it, the nature of his esthetic demands upon it, and his feelings of loneliness or of consummation in his contemplation of it. . ."
 msgstr ""
 
-#. Paragraph 9: Murphy also lamented Western researchers’ failure to examine the Eastern approach to man’s psychology, which included the spiritual dimensions of life. In a future psychology of personality, there wil...
 #: paragraph:9,sentence:47
+msgctxt "Paragraph 9: Murphy also lamented Western researchers’ failure to examine the Eastern approach to man’s psychology, which included the spiritual dimensions of life. In a future psychology of personality, there wil..."
 msgid "It is quite likely that selfhood will be better understood when reference is made to the primordial non-self matrix from which it arises, and that the synthesis, the capacity of human nature to function at self and non-self levels at the same time, or to alternate when it so desires, may prove to be an enrichment of personality far greater than that which the cult of self-contained, self-defined individuality can grant.[13]"
 msgstr ""
 
-#. Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce...
 #: paragraph:10,sentence:48
+msgctxt "Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce..."
 msgid "With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles."
 msgstr ""
 
-#. Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce...
 #: paragraph:10,sentence:49
+msgctxt "Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce..."
 msgid "In addition to what he was learning about psychology in general and client-centered psychotherapy in particular, Bill’s exposure to music broadened and deepened during his years in graduate school, both interests dear to his heart."
 msgstr ""
 
-#. Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce...
 #: paragraph:10,sentence:50
+msgctxt "Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce..."
 msgid "All who knew him in later life can attest to his deep and abiding love for music; his home was continuously filled with music playing in the background."
 msgstr ""
 
-#. Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce...
 #: paragraph:10,sentence:51
+msgctxt "Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce..."
 msgid "He had listened to friends’ classical music collections as much as possible during his years at the University of Chicago and fell in love with Mozart."
 msgstr ""
 
-#. Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce...
 #: paragraph:10,sentence:52
+msgctxt "Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce..."
 msgid "In fact, he was so intimately acquainted with Mozart’s music that after hearing a few bars of a recorded piece, he could accurately identify both the performers and the conductor of that particular recording."
 msgstr ""
 
-#. Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce...
 #: paragraph:10,sentence:53
+msgctxt "Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce..."
 msgid "As he became more musically sophisticated during this time, his love of opera grew and he realized that a good way to become more familiar with it was to usher at the Chicago Opera House, home to several large opera companies."
 msgstr ""
 
-#. Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce...
 #: paragraph:10,sentence:54
+msgctxt "Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce..."
 msgid "He was on a tight budget, but after saving enough to buy a tuxedo (required for the position), he did indeed become an usher there."
 msgstr ""
 
-#. Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce...
 #: paragraph:10,sentence:55
+msgctxt "Paragraph 10: With this Murphy seems to anticipate both modern-day quantum physics and the foundational premise of A Course In Miracles. In addition to what he was learning about psychology in general and client-ce..."
 msgid "Through attending every performance possible, he developed a deep appreciation for and knowledge of that particular art form."
 msgstr ""
 
-#. Paragraph 11: After receiving his Ph.D., something he had doubted he would ever get, Bill still wasn’t sure what to do with it, although he knew it provided something akin to a union card in his field. He also real...
 #: paragraph:11,sentence:56
+msgctxt "Paragraph 11: After receiving his Ph.D., something he had doubted he would ever get, Bill still wasn’t sure what to do with it, although he knew it provided something akin to a union card in his field. He also real..."
 msgid "After receiving his Ph.D. , something he had doubted he would ever get, Bill still wasn’t sure what to do with it, although he knew it provided something akin to a union card in his field."
 msgstr ""
 
-#. Paragraph 11: After receiving his Ph.D., something he had doubted he would ever get, Bill still wasn’t sure what to do with it, although he knew it provided something akin to a union card in his field. He also real...
 #: paragraph:11,sentence:57
+msgctxt "Paragraph 11: After receiving his Ph.D., something he had doubted he would ever get, Bill still wasn’t sure what to do with it, although he knew it provided something akin to a union card in his field. He also real..."
 msgid "He also realized that psychology really did appeal to him and that this field felt exciting, rewarding, and compatible with his most basic nature."
 msgstr ""
 
-#. Paragraph 11: After receiving his Ph.D., something he had doubted he would ever get, Bill still wasn’t sure what to do with it, although he knew it provided something akin to a union card in his field. He also real...
 #: paragraph:11,sentence:58
+msgctxt "Paragraph 11: After receiving his Ph.D., something he had doubted he would ever get, Bill still wasn’t sure what to do with it, although he knew it provided something akin to a union card in his field. He also real..."
 msgid "In his autobiography he noted that, for the first time, he really started to feel good (healthwise), to find himself, and to form some good and lasting friendships."
 msgstr ""
 
-#. Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a...
 #: paragraph:12,sentence:59
+msgctxt "Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a..."
 msgid "Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments."
 msgstr ""
 
-#. Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a...
 #: paragraph:12,sentence:60
+msgctxt "Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a..."
 msgid "He had hoped his parents would be proud of him for earning a Ph.D. , and at such a young age (twenty-five), but they seemed incapable of understanding his field, his basic interests, or his talents and accomplishments."
 msgstr ""
 
-#. Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a...
 #: paragraph:12,sentence:61
+msgctxt "Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a..."
 msgid "To put his early years in context, theirs was a lower-middle-class family, the parents knowing no other than hard physical work."
 msgstr ""
 
-#. Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a...
 #: paragraph:12,sentence:62
+msgctxt "Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a..."
 msgid "His father was one of ten children from a poor, coal-mining family in southern Illinois, though later he became a superintendent in the building and construction department of the telephone company."
 msgstr ""
 
-#. Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a...
 #: paragraph:12,sentence:63
+msgctxt "Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a..."
 msgid "Survival was important; culture was not."
 msgstr ""
 
-#. Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a...
 #: paragraph:12,sentence:64
+msgctxt "Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a..."
 msgid "Bill had become ill at age seven during the depths of the Great Depression when life was generally difficult."
 msgstr ""
 
-#. Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a...
 #: paragraph:12,sentence:65
+msgctxt "Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a..."
 msgid "Having lost two children earlier, his father worried greatly about how he might have to support this ailing child who very likely would never be able to do strenuous physical work."
 msgstr ""
 
-#. Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a...
 #: paragraph:12,sentence:66
+msgctxt "Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a..."
 msgid "How would he be able to support himself."
 msgstr ""
 
-#. Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a...
 #: paragraph:12,sentence:67
+msgctxt "Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a..."
 msgid "His father often verbalized his fear that Bill would end up on the “dole,” a welfare case."
 msgstr ""
 
-#. Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a...
 #: paragraph:12,sentence:68
+msgctxt "Paragraph 12: Although feeling at home and invigorated in the intellectual world of psychology, Bill was also experiencing some disappointments. He had hoped his parents would be proud of him for earning a Ph.D., a..."
 msgid "With their worldview, his parents could hardly appreciate his academic pursuits; they thought a Ph.D. was a worthless piece of paper to hang on the wall—useless in finding a real job."
 msgstr ""
 
-#. Paragraph 13: Of course, Bill was aware of their lack of support for his accomplishments and took that as a personal affront, adding grievances to his growing store. We know he had been greatly affected by his sist...
 #: paragraph:13,sentence:69
+msgctxt "Paragraph 13: Of course, Bill was aware of their lack of support for his accomplishments and took that as a personal affront, adding grievances to his growing store. We know he had been greatly affected by his sist..."
 msgid "Of course, Bill was aware of their lack of support for his accomplishments and took that as a personal affront, adding grievances to his growing store."
 msgstr ""
 
-#. Paragraph 13: Of course, Bill was aware of their lack of support for his accomplishments and took that as a personal affront, adding grievances to his growing store. We know he had been greatly affected by his sist...
 #: paragraph:13,sentence:70
+msgctxt "Paragraph 13: Of course, Bill was aware of their lack of support for his accomplishments and took that as a personal affront, adding grievances to his growing store. We know he had been greatly affected by his sist..."
 msgid "We know he had been greatly affected by his sister’s early death and can assume there was some upset about Jo’s “Dear John” letter."
 msgstr ""
 
-#. Paragraph 13: Of course, Bill was aware of their lack of support for his accomplishments and took that as a personal affront, adding grievances to his growing store. We know he had been greatly affected by his sist...
 #: paragraph:13,sentence:71
+msgctxt "Paragraph 13: Of course, Bill was aware of their lack of support for his accomplishments and took that as a personal affront, adding grievances to his growing store. We know he had been greatly affected by his sist..."
 msgid "These hurts and disappointments were internalized and carried forward for decades, creating a basis for later conflicts and frustrations."
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:72
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:73
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "Alone now in Chicago, though more content than ever, his next venture was at the Michael Reese Hospital, a major Jewish training hospital in Chicago and the place to be"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:74
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "A fellow graduate student mentioned to Bill that a position had unexpectedly become available with Dr. Samuel Beck, head of the psychology department and a leading authority on the Rorschach test (a method of psychological evaluation in which subjects’ perceptions of inkblots are recorded and then analyzed using intuitive insight and/or complex scientifically derived algorithms"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:75
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "This test is used to examine personality characteristics and emotional function)"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:76
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "Bill applied and Beck offered him a position to study schizophrenia and the Rorschach test, funded by the National Institute for Mental Health"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:77
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "After Bill explained that he knew nothing about the Rorschach test, Beck assured him he considered that to be an asset, as it would allow him to conduct research uncorrupted by someone else’s teaching"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:78
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "He was also enthusiastic about Bill’s Ph.D. dissertation, thinking it sounded most scientific, a plus"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:79
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "This first position as a doctor of psychology allowed Bill to become acquainted with, among other things, personality tests and measurements, which would prove useful as his career unfolded"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:80
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "Working there also provided the unusual experience of being the only non-Jewish member of the department"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:81
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "He wondered if he would be accepted, a question of possible reverse discrimination, but he certainly was; his fellow staffers even explained their Yiddish jokes to him"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:82
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "After two-and-a-half years, the grant ended and he chose to move on, but where"
 msgstr ""
 
-#. Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th...
 #: paragraph:14,sentence:83
+msgctxt "Paragraph 14: As Bill was graduating, his parents retired to Florida because his mother was not well; she had been diagnosed with multiple sclerosis and advised to move to a better climate. Alone now in Chicago, th..."
 msgid "The University of Chicago and Michael Reese Hospital were the city’s most interesting and challenging places to work, and he had now “been there, done that.”"
 msgstr ""
 
-#. Paragraph 15: Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next. He certainly didn’t know what he was getting into...
 #: paragraph:15,sentence:84
+msgctxt "Paragraph 15: Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next. He certainly didn’t know what he was getting into..."
 msgid "Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next."
 msgstr ""
 
-#. Paragraph 15: Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next. He certainly didn’t know what he was getting into...
 #: paragraph:15,sentence:85
+msgctxt "Paragraph 15: Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next. He certainly didn’t know what he was getting into..."
 msgid "He certainly didn’t know what he was getting into when he took the administrative job at the University of Chicago related to the Manhattan Project."
 msgstr ""
 
-#. Paragraph 15: Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next. He certainly didn’t know what he was getting into...
 #: paragraph:15,sentence:86
+msgctxt "Paragraph 15: Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next. He certainly didn’t know what he was getting into..."
 msgid "He also wasn’t particularly sure, at the outset, what pursuing a degree in psychology was about, but by 1945 he had lost interest in medical school, something of a fantasy anyway given that he hadn’t the funds to pay for it and his family couldn’t help even if they had been inclined."
 msgstr ""
 
-#. Paragraph 15: Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next. He certainly didn’t know what he was getting into...
 #: paragraph:15,sentence:87
+msgctxt "Paragraph 15: Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next. He certainly didn’t know what he was getting into..."
 msgid "Moving to Michael Reese Hospital had a certain aimless quality about it, from the world’s point of view, but in hindsight his particular destiny was unfolding perfectly."
 msgstr ""
 
-#. Paragraph 15: Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next. He certainly didn’t know what he was getting into...
 #: paragraph:15,sentence:88
+msgctxt "Paragraph 15: Like so many, Bill had moved forward from high school graduation without a clear-cut sense of destiny or even an idea about what he wanted to do next. He certainly didn’t know what he was getting into..."
 msgid "As a harbinger of things to come, Bill said he would occasionally wonder why he was studying psychology in the first place, and an inner response would indicate that he would not know for many years—but when he finally did, it would make him indescribably happy."
 msgstr ""
 
-#. Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan...
 #: paragraph:16,sentence:89
+msgctxt "Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan..."
 msgid "What was the underlying impetus that led him to study psychology."
 msgstr ""
 
-#. Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan...
 #: paragraph:16,sentence:90
+msgctxt "Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan..."
 msgid "The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhandedly, without exploring their ramifications, because we are unaware at the time that they are leading to major changes."
 msgstr ""
 
-#. Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan...
 #: paragraph:16,sentence:91
+msgctxt "Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan..."
 msgid "We know that only after the fact."
 msgstr ""
 
-#. Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan...
 #: paragraph:16,sentence:92
+msgctxt "Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan..."
 msgid "Even at a young age Bill had demonstrated his ability as an able, trustworthy administrator."
 msgstr ""
 
-#. Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan...
 #: paragraph:16,sentence:93
+msgctxt "Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan..."
 msgid "He had more than a little talent for music and theater, and he certainly had the qualifications to succeed in medicine, which he once considered."
 msgstr ""
 
-#. Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan...
 #: paragraph:16,sentence:94
+msgctxt "Paragraph 16: What was the underlying impetus that led him to study psychology? The decision might have seemed a casual one, when other fields were also open to him, but many major decisions in life are made offhan..."
 msgid "He had also mused about a teaching career but was led inexorably to the field of psychology, following the intuition that led him throughout his life."
 msgstr ""
 
-#. Paragraph 17: Because research into personality types became Bill’s specialty, the centerpiece of his academic research, and to understand him better, I am including a brief look at personality types. Men of genius...
 #: paragraph:17,sentence:95
+msgctxt "Paragraph 17: Because research into personality types became Bill’s specialty, the centerpiece of his academic research, and to understand him better, I am including a brief look at personality types. Men of genius..."
 msgid "Because research into personality types became Bill’s specialty, the centerpiece of his academic research, and to understand him better, I am including a brief look at personality types"
 msgstr ""
 
-#. Paragraph 17: Because research into personality types became Bill’s specialty, the centerpiece of his academic research, and to understand him better, I am including a brief look at personality types. Men of genius...
 #: paragraph:17,sentence:96
+msgctxt "Paragraph 17: Because research into personality types became Bill’s specialty, the centerpiece of his academic research, and to understand him better, I am including a brief look at personality types. Men of genius..."
 msgid "Men of genius through the ages have recognized not only that human beings are born with specific characteristics but that humankind seems to fall naturally into four distinct categories of temperament, character, and intelligence or, in short, personality"
 msgstr ""
 
-#. Paragraph 17: Because research into personality types became Bill’s specialty, the centerpiece of his academic research, and to understand him better, I am including a brief look at personality types. Men of genius...
 #: paragraph:17,sentence:97
+msgctxt "Paragraph 17: Because research into personality types became Bill’s specialty, the centerpiece of his academic research, and to understand him better, I am including a brief look at personality types. Men of genius..."
 msgid "Such categories were named according to the understanding available at the time"
 msgstr ""
 
-#. Paragraph 17: Because research into personality types became Bill’s specialty, the centerpiece of his academic research, and to understand him better, I am including a brief look at personality types. Men of genius...
 #: paragraph:17,sentence:98
+msgctxt "Paragraph 17: Because research into personality types became Bill’s specialty, the centerpiece of his academic research, and to understand him better, I am including a brief look at personality types. Men of genius..."
 msgid "An abbreviated list of persons who recognized four basic types include:"
 msgstr ""
 
-#. Paragraph 18: Plato (c340 B.C.), Aristotle (c325 B.C.), Galen (c190 A.D.), Paracelsus (1550), Adickes (1905), Spranger (1914), Kretschmer (1920), Fromm (1947), Myers (1958). . . . And so the idea that individuals a...
 #: paragraph:18,sentence:99
+msgctxt "Paragraph 18: Plato (c340 B.C.), Aristotle (c325 B.C.), Galen (c190 A.D.), Paracelsus (1550), Adickes (1905), Spranger (1914), Kretschmer (1920), Fromm (1947), Myers (1958). . . . And so the idea that individuals a..."
 msgid "Plato (c340 B. C. ), Aristotle (c325 B. C. ), Galen (c190 A. D. ), Paracelsus (1550), Adickes (1905), Spranger (1914), Kretschmer (1920), Fromm (1947), Myers (1958). . ."
 msgstr ""
 
-#. Paragraph 18: Plato (c340 B.C.), Aristotle (c325 B.C.), Galen (c190 A.D.), Paracelsus (1550), Adickes (1905), Spranger (1914), Kretschmer (1920), Fromm (1947), Myers (1958). . . . And so the idea that individuals a...
 #: paragraph:18,sentence:100
+msgctxt "Paragraph 18: Plato (c340 B.C.), Aristotle (c325 B.C.), Galen (c190 A.D.), Paracelsus (1550), Adickes (1905), Spranger (1914), Kretschmer (1920), Fromm (1947), Myers (1958). . . . And so the idea that individuals a..."
 msgid "And so the idea that individuals are predisposed to develop into one of four different configurations of attitude and action has survived for well over two thousand years"
 msgstr ""
 
-#. Paragraph 18: Plato (c340 B.C.), Aristotle (c325 B.C.), Galen (c190 A.D.), Paracelsus (1550), Adickes (1905), Spranger (1914), Kretschmer (1920), Fromm (1947), Myers (1958). . . . And so the idea that individuals a...
 #: paragraph:18,sentence:101
+msgctxt "Paragraph 18: Plato (c340 B.C.), Aristotle (c325 B.C.), Galen (c190 A.D.), Paracelsus (1550), Adickes (1905), Spranger (1914), Kretschmer (1920), Fromm (1947), Myers (1958). . . . And so the idea that individuals a..."
 msgid "Surely this idea would not have been employed for so long, by so many people, in so many countries, had there not been some sort of widely shared recognition of its usefulness.[14]"
 msgstr ""
 
-#. Paragraph 19: The last person on the list, Isabel Myers, with her mother Kathryn Briggs, developed the now well-known system for identifying personality types—the Myers-Briggs Type Indicator. To this we add its sho...
 #: paragraph:19,sentence:102
+msgctxt "Paragraph 19: The last person on the list, Isabel Myers, with her mother Kathryn Briggs, developed the now well-known system for identifying personality types—the Myers-Briggs Type Indicator. To this we add its sho..."
 msgid "The last person on the list, Isabel Myers, with her mother Kathryn Briggs, developed the now well-known system for identifying personality types—the Myers-Briggs Type Indicator."
 msgstr ""
 
-#. Paragraph 19: The last person on the list, Isabel Myers, with her mother Kathryn Briggs, developed the now well-known system for identifying personality types—the Myers-Briggs Type Indicator. To this we add its sho...
 #: paragraph:19,sentence:103
+msgctxt "Paragraph 19: The last person on the list, Isabel Myers, with her mother Kathryn Briggs, developed the now well-known system for identifying personality types—the Myers-Briggs Type Indicator. To this we add its sho..."
 msgid "To this we add its shorter, but equally valid cousin, the Keirsey Temperament Sorter."
 msgstr ""
 
-#. Paragraph 19: The last person on the list, Isabel Myers, with her mother Kathryn Briggs, developed the now well-known system for identifying personality types—the Myers-Briggs Type Indicator. To this we add its sho...
 #: paragraph:19,sentence:104
+msgctxt "Paragraph 19: The last person on the list, Isabel Myers, with her mother Kathryn Briggs, developed the now well-known system for identifying personality types—the Myers-Briggs Type Indicator. To this we add its sho..."
 msgid "These tests, based on Carl Jung’s discoveries, started being used as research tools in the early 1950s."
 msgstr ""
 
-#. Paragraph 19: The last person on the list, Isabel Myers, with her mother Kathryn Briggs, developed the now well-known system for identifying personality types—the Myers-Briggs Type Indicator. To this we add its sho...
 #: paragraph:19,sentence:105
+msgctxt "Paragraph 19: The last person on the list, Isabel Myers, with her mother Kathryn Briggs, developed the now well-known system for identifying personality types—the Myers-Briggs Type Indicator. To this we add its sho..."
 msgid "Thus, Gardner Murphy did not mention them in his 1947 book, nor were they available during Bill’s early work under Carl Rogers in Chicago."
 msgstr ""
 
-#. Paragraph 20: Both these more recent tests use four sets of opposites to identify temperaments: I/E—introvert/extrovert; N/S—intuitive/sensory; T/F—thinking/feeling; and J/P—judging/perceiving. Through her research...
 #: paragraph:20,sentence:106
+msgctxt "Paragraph 20: Both these more recent tests use four sets of opposites to identify temperaments: I/E—introvert/extrovert; N/S—intuitive/sensory; T/F—thinking/feeling; and J/P—judging/perceiving. Through her research..."
 msgid "Both these more recent tests use four sets of opposites to identify temperaments: I/E—introvert/extrovert; N/S—intuitive/sensory; T/F—thinking/feeling; and J/P—judging/perceiving."
 msgstr ""
 
-#. Paragraph 20: Both these more recent tests use four sets of opposites to identify temperaments: I/E—introvert/extrovert; N/S—intuitive/sensory; T/F—thinking/feeling; and J/P—judging/perceiving. Through her research...
 #: paragraph:20,sentence:107
+msgctxt "Paragraph 20: Both these more recent tests use four sets of opposites to identify temperaments: I/E—introvert/extrovert; N/S—intuitive/sensory; T/F—thinking/feeling; and J/P—judging/perceiving. Through her research..."
 msgid "Through her research, Myers discovered, like her predecessors, that the sixteen possible combinations reduce to four major categories, SP, SJ, NF, and NT, with characteristics consistent with the four types deduced by the earlier researchers listed above."
 msgstr ""
 
-#. Paragraph 20: Both these more recent tests use four sets of opposites to identify temperaments: I/E—introvert/extrovert; N/S—intuitive/sensory; T/F—thinking/feeling; and J/P—judging/perceiving. Through her research...
 #: paragraph:20,sentence:108
+msgctxt "Paragraph 20: Both these more recent tests use four sets of opposites to identify temperaments: I/E—introvert/extrovert; N/S—intuitive/sensory; T/F—thinking/feeling; and J/P—judging/perceiving. Through her research..."
 msgid "For a more in-depth explanation, I recommend David Keirsey’s Please Understand Me, II as a guide to understanding personality traits, especially those unlike our own."
 msgstr ""
 
-#. Paragraph 20: Both these more recent tests use four sets of opposites to identify temperaments: I/E—introvert/extrovert; N/S—intuitive/sensory; T/F—thinking/feeling; and J/P—judging/perceiving. Through her research...
 #: paragraph:20,sentence:109
+msgctxt "Paragraph 20: Both these more recent tests use four sets of opposites to identify temperaments: I/E—introvert/extrovert; N/S—intuitive/sensory; T/F—thinking/feeling; and J/P—judging/perceiving. Through her research..."
 msgid "One of those early observers of humankind was Plato."
 msgstr ""
 
-#. Paragraph 21: Plato was the quintessential Idealist [known as the NF, an abbreviation for the intuitive-feeling type in the Myers-Briggs personality lexicon], the inventor of a philosophy in which ideas are even mo...
 #: paragraph:21,sentence:110
+msgctxt "Paragraph 21: Plato was the quintessential Idealist [known as the NF, an abbreviation for the intuitive-feeling type in the Myers-Briggs personality lexicon], the inventor of a philosophy in which ideas are even mo..."
 msgid "Plato was the quintessential Idealist [known as the NF, an abbreviation for the intuitive-feeling type in the Myers-Briggs personality lexicon], the inventor of a philosophy in which ideas are even more real than earth and its inhabitants"
 msgstr ""
 
-#. Paragraph 21: Plato was the quintessential Idealist [known as the NF, an abbreviation for the intuitive-feeling type in the Myers-Briggs personality lexicon], the inventor of a philosophy in which ideas are even mo...
 #: paragraph:21,sentence:111
+msgctxt "Paragraph 21: Plato was the quintessential Idealist [known as the NF, an abbreviation for the intuitive-feeling type in the Myers-Briggs personality lexicon], the inventor of a philosophy in which ideas are even mo..."
 msgid "Plato’s word for an idealist like himself was noetic, which, roughly translated, means “intuitive thought,” that is, pure thinking done without recourse to either logical or empirical investigation.[15]"
 msgstr ""
 
-#. Paragraph 22: Bill Thetford was the poster child for the NF, or intuitive-feeling type, as was his mentor, Carl Rogers. Keirsey gives some insight into what pulled Bill toward psychology and away from what seemed t...
 #: paragraph:22,sentence:112
+msgctxt "Paragraph 22: Bill Thetford was the poster child for the NF, or intuitive-feeling type, as was his mentor, Carl Rogers. Keirsey gives some insight into what pulled Bill toward psychology and away from what seemed t..."
 msgid "Bill Thetford was the poster child for the NF, or intuitive-feeling type, as was his mentor, Carl Rogers"
 msgstr ""
 
-#. Paragraph 22: Bill Thetford was the poster child for the NF, or intuitive-feeling type, as was his mentor, Carl Rogers. Keirsey gives some insight into what pulled Bill toward psychology and away from what seemed t...
 #: paragraph:22,sentence:113
+msgctxt "Paragraph 22: Bill Thetford was the poster child for the NF, or intuitive-feeling type, as was his mentor, Carl Rogers. Keirsey gives some insight into what pulled Bill toward psychology and away from what seemed t..."
 msgid "Keirsey gives some insight into what pulled Bill toward psychology and away from what seemed to be equally viable options:"
 msgstr ""
 
-#. Paragraph 23: Diplomacy is the ability to deal with people in a skillful, tactful manner . . . a metaphor for the interpersonal touch or sensitivity in which Idealists [or NFs] seem to be both interested and partic...
 #: paragraph:23,sentence:114
+msgctxt "Paragraph 23: Diplomacy is the ability to deal with people in a skillful, tactful manner . . . a metaphor for the interpersonal touch or sensitivity in which Idealists [or NFs] seem to be both interested and partic..."
 msgid "Diplomacy is the ability to deal with people in a skillful, tactful manner . . . a metaphor for the interpersonal touch or sensitivity in which Idealists [or NFs] seem to be both interested and particularly talented"
 msgstr ""
 
-#. Paragraph 23: Diplomacy is the ability to deal with people in a skillful, tactful manner . . . a metaphor for the interpersonal touch or sensitivity in which Idealists [or NFs] seem to be both interested and partic...
 #: paragraph:23,sentence:115
+msgctxt "Paragraph 23: Diplomacy is the ability to deal with people in a skillful, tactful manner . . . a metaphor for the interpersonal touch or sensitivity in which Idealists [or NFs] seem to be both interested and partic..."
 msgid "This sensitive way with people shows up so early in NFs that it is tempting to assume they are born with it [emphasis added]—born to use their personal empathy and interpersonal skills to improve relations between people. . ."
 msgstr ""
 
-#. Paragraph 23: Diplomacy is the ability to deal with people in a skillful, tactful manner . . . a metaphor for the interpersonal touch or sensitivity in which Idealists [or NFs] seem to be both interested and partic...
 #: paragraph:23,sentence:116
+msgctxt "Paragraph 23: Diplomacy is the ability to deal with people in a skillful, tactful manner . . . a metaphor for the interpersonal touch or sensitivity in which Idealists [or NFs] seem to be both interested and partic..."
 msgid "With their instinct for seeking common ground, with their ability to interpret each side’s communications in a positive way, with their gift for putting themselves in the other’s place, and with their metaphorical language easily and fluidly turning one thing into another, Idealists are well-equipped for the difficult task of influencing people’s attitudes and actions, not only inspiring them to grow, but also settling differences among them, smoothing difficulties—ever looking to enlighten the people around them and to forge unity among them.[16]"
 msgstr ""
 
-#. Paragraph 24: Thus, we are drawn in certain directions even when, in our earlier days, we might not have a vocabulary to explain that attraction. As natural and automatic as the quest for self-realization is for th...
 #: paragraph:24,sentence:117
+msgctxt "Paragraph 24: Thus, we are drawn in certain directions even when, in our earlier days, we might not have a vocabulary to explain that attraction. As natural and automatic as the quest for self-realization is for th..."
 msgid "Thus, we are drawn in certain directions even when, in our earlier days, we might not have a vocabulary to explain that attraction."
 msgstr ""
 
-#. Paragraph 24: Thus, we are drawn in certain directions even when, in our earlier days, we might not have a vocabulary to explain that attraction. As natural and automatic as the quest for self-realization is for th...
 #: paragraph:24,sentence:118
+msgctxt "Paragraph 24: Thus, we are drawn in certain directions even when, in our earlier days, we might not have a vocabulary to explain that attraction. As natural and automatic as the quest for self-realization is for th..."
 msgid "As natural and automatic as the quest for self-realization is for the NFs, it is quite bewildering to the other three types."
 msgstr ""
 
-#. Paragraph 25: Idealists regard this search for identity as the most important enterprise in their lives and with their gift for language they can be powerful advocates for its being a necessary pilgrimage for all p...
 #: paragraph:25,sentence:119
+msgctxt "Paragraph 25: Idealists regard this search for identity as the most important enterprise in their lives and with their gift for language they can be powerful advocates for its being a necessary pilgrimage for all p..."
 msgid "Idealists regard this search for identity as the most important enterprise in their lives and with their gift for language they can be powerful advocates for its being a necessary pilgrimage for all people"
 msgstr ""
 
-#. Paragraph 25: Idealists regard this search for identity as the most important enterprise in their lives and with their gift for language they can be powerful advocates for its being a necessary pilgrimage for all p...
 #: paragraph:25,sentence:120
+msgctxt "Paragraph 25: Idealists regard this search for identity as the most important enterprise in their lives and with their gift for language they can be powerful advocates for its being a necessary pilgrimage for all p..."
 msgid "Very often the other types, the SJs, NTs, and SPs, are troubled by the thought that they ought to be pursuing this goal, even if the search for Self does not beckon them"
 msgstr ""
 
-#. Paragraph 25: Idealists regard this search for identity as the most important enterprise in their lives and with their gift for language they can be powerful advocates for its being a necessary pilgrimage for all p...
 #: paragraph:25,sentence:121
+msgctxt "Paragraph 25: Idealists regard this search for identity as the most important enterprise in their lives and with their gift for language they can be powerful advocates for its being a necessary pilgrimage for all p..."
 msgid "The reluctance of over ninety percent of humanity to join the search for self-actualization is a great source of mystification to the Idealists.[17]"
 msgstr ""
 
-#. Paragraph 26: This brief description of the NF, though general, gives us much insight into Bill Thetford in particular. The vast amount of research on personality types available today, some of it done by Bill hims...
 #: paragraph:26,sentence:122
+msgctxt "Paragraph 26: This brief description of the NF, though general, gives us much insight into Bill Thetford in particular. The vast amount of research on personality types available today, some of it done by Bill hims..."
 msgid "This brief description of the NF, though general, gives us much insight into Bill Thetford in particular."
 msgstr ""
 
-#. Paragraph 26: This brief description of the NF, though general, gives us much insight into Bill Thetford in particular. The vast amount of research on personality types available today, some of it done by Bill hims...
 #: paragraph:26,sentence:123
+msgctxt "Paragraph 26: This brief description of the NF, though general, gives us much insight into Bill Thetford in particular. The vast amount of research on personality types available today, some of it done by Bill hims..."
 msgid "The vast amount of research on personality types available today, some of it done by Bill himself, provides the opportunity for anyone to understand basic, human motivating factors more fully than ever."
 msgstr ""
 
-#. Paragraph 26: This brief description of the NF, though general, gives us much insight into Bill Thetford in particular. The vast amount of research on personality types available today, some of it done by Bill hims...
 #: paragraph:26,sentence:124
+msgctxt "Paragraph 26: This brief description of the NF, though general, gives us much insight into Bill Thetford in particular. The vast amount of research on personality types available today, some of it done by Bill hims..."
 msgid "Without such explanations, others’ choices and inclinations seem uninformed at best, and defective at worst—hardly a prescription for tolerance or empathy."
 msgstr ""
 
-#. Paragraph 27: One advantage of living several decades, whether we know our personality type or not, is that we can see patterns in our lives, and how seemingly accidental, unrelated experiences all contribute to ou...
 #: paragraph:27,sentence:125
+msgctxt "Paragraph 27: One advantage of living several decades, whether we know our personality type or not, is that we can see patterns in our lives, and how seemingly accidental, unrelated experiences all contribute to ou..."
 msgid "One advantage of living several decades, whether we know our personality type or not, is that we can see patterns in our lives, and how seemingly accidental, unrelated experiences all contribute to our unfolding awareness, a prerequisite for healing the fearful ideas we hold about ourselves."
 msgstr ""
 
-#. Paragraph 27: One advantage of living several decades, whether we know our personality type or not, is that we can see patterns in our lives, and how seemingly accidental, unrelated experiences all contribute to ou...
 #: paragraph:27,sentence:126
+msgctxt "Paragraph 27: One advantage of living several decades, whether we know our personality type or not, is that we can see patterns in our lives, and how seemingly accidental, unrelated experiences all contribute to ou..."
 msgid "A Course In Miracles promises that our lives are not random and that “those who are to meet, will meet.” Although we each have an individualized curriculum in terms of where we go, who we meet, the jobs we hold, the abilities we develop, the places we live, and the lessons we encounter, the Course assures us that all encounters are designed for our maximal and mutual healing."
 msgstr ""
 
-#. Paragraph 27: One advantage of living several decades, whether we know our personality type or not, is that we can see patterns in our lives, and how seemingly accidental, unrelated experiences all contribute to ou...
 #: paragraph:27,sentence:127
+msgctxt "Paragraph 27: One advantage of living several decades, whether we know our personality type or not, is that we can see patterns in our lives, and how seemingly accidental, unrelated experiences all contribute to ou..."
 msgid "This is a very reassuring idea, and embracing it allays anxiety about the correctness of our decisions."
 msgstr ""
 
-#. Paragraph 27: One advantage of living several decades, whether we know our personality type or not, is that we can see patterns in our lives, and how seemingly accidental, unrelated experiences all contribute to ou...
 #: paragraph:27,sentence:128
+msgctxt "Paragraph 27: One advantage of living several decades, whether we know our personality type or not, is that we can see patterns in our lives, and how seemingly accidental, unrelated experiences all contribute to ou..."
 msgid "Keeping in mind ACIM’s major teaching of forgiveness, all circumstances become perfect venues for its practice."
 msgstr ""
 
-#. Paragraph 28: We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents. What could you not accept, if you but knew that everything that...
 #: paragraph:28,sentence:129
+msgctxt "Paragraph 28: We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents. What could you not accept, if you but knew that everything that..."
 msgid "We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents"
 msgstr ""
 
-#. Paragraph 28: We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents. What could you not accept, if you but knew that everything that...
 #: paragraph:28,sentence:130
+msgctxt "Paragraph 28: We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents. What could you not accept, if you but knew that everything that..."
 msgid "What could you not accept, if you but knew that everything that happens, all events, past, present and to come, are gently planned by One Whose only purpose is your good"
 msgstr ""
 
-#. Paragraph 28: We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents. What could you not accept, if you but knew that everything that...
 #: paragraph:28,sentence:131
+msgctxt "Paragraph 28: We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents. What could you not accept, if you but knew that everything that..."
 msgid "Perhaps you have misunderstood His plan, for He would never offer pain to you"
 msgstr ""
 
-#. Paragraph 28: We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents. What could you not accept, if you but knew that everything that...
 #: paragraph:28,sentence:132
+msgctxt "Paragraph 28: We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents. What could you not accept, if you but knew that everything that..."
 msgid "But your defenses did not let you see His loving blessing shine in every step you ever took"
 msgstr ""
 
-#. Paragraph 28: We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents. What could you not accept, if you but knew that everything that...
 #: paragraph:28,sentence:133
+msgctxt "Paragraph 28: We may never fully recognize all the reasons for acquiring our particular skills, but we can learn to trust that there are no accidents. What could you not accept, if you but knew that everything that..."
 msgid "While you made plans for death [or the strengthening of the ego], He led you gently to eternal life.[18]"
 msgstr ""
 
-#. Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o...
 #: paragraph:29,sentence:134
+msgctxt "Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o..."
 msgid "In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices"
 msgstr ""
 
-#. Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o...
 #: paragraph:29,sentence:135
+msgctxt "Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o..."
 msgid "Speaking of his inclination to study psychology, he often commented that he had observed many psychologists and their endless, competing theories, but that nothing really seemed to come of them"
 msgstr ""
 
-#. Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o...
 #: paragraph:29,sentence:136
+msgctxt "Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o..."
 msgid "He saw no one integrating them in a way that actually changed the nature of one’s life experience"
 msgstr ""
 
-#. Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o...
 #: paragraph:29,sentence:137
+msgctxt "Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o..."
 msgid "One of his favorite sayings was that “the emperor has no clothes”—a prescient observation, as many years later he would read the section on unhealed healers in the Course: “Such evident inconsistencies account for why no one has really explained what happens in psychotherapy"
 msgstr ""
 
-#. Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o...
 #: paragraph:29,sentence:138
+msgctxt "Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o..."
 msgid "Nothing really does"
 msgstr ""
 
-#. Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o...
 #: paragraph:29,sentence:139
+msgctxt "Paragraph 29: In 1950, Bill did not know any of this and, at twenty-seven, did not have the advantage of age from which to view his seemingly arbitrary choices. Speaking of his inclination to study psychology, he o..."
 msgid "Nothing real has happened to the unhealed healer, and he must learn from his own teaching.”[19]"
 msgstr ""
 

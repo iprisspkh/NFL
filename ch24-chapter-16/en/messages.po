@@ -7,1178 +7,1178 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "X-Generator: book-importer\n"
 
-#. Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou...
 #: paragraph:1,sentence:1
+msgctxt "Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou..."
 msgid "So what were the issues he struggled with."
 msgstr ""
 
-#. Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou...
 #: paragraph:1,sentence:2
+msgctxt "Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou..."
 msgid "The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause."
 msgstr ""
 
-#. Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou...
 #: paragraph:1,sentence:3
+msgctxt "Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou..."
 msgid "Despite his outward demeanor and his obvious loving nature, he still had some long-held notions about himself to release."
 msgstr ""
 
-#. Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou...
 #: paragraph:1,sentence:4
+msgctxt "Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou..."
 msgid "Bill may have been kind to others, but he was hard on himself, troubled by perceived deficiencies."
 msgstr ""
 
-#. Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou...
 #: paragraph:1,sentence:5
+msgctxt "Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou..."
 msgid "It’s amazing that he could have had such a profound effect on others while still battling with his own guilt, testimony to the two starkly different modes of living in this world."
 msgstr ""
 
-#. Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou...
 #: paragraph:1,sentence:6
+msgctxt "Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou..."
 msgid "Just as Helen could alternate between polar opposites—bowing to her difficult, demanding ego and accessing the love that created the Course—Bill, too, could operate from an unconditional loving space or be caught in the grip of self-doubt."
 msgstr ""
 
-#. Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou...
 #: paragraph:1,sentence:7
+msgctxt "Paragraph 1: So what were the issues he struggled with? The same as ours—grievances, of course, and feelings of guilt and failure, as well as the defenses that hide the pain and distress they cause. Despite his ou..."
 msgid "And just as ACIM dictation was not compromised when Helen didn’t feel good, so too, love is present along with confusion about lack of worth."
 msgstr ""
 
-#. Paragraph 2: There are three avenues we can use to discern the challenging aspects of Bill’s interior life. First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the...
 #: paragraph:2,sentence:8
+msgctxt "Paragraph 2: There are three avenues we can use to discern the challenging aspects of Bill’s interior life. First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the..."
 msgid "There are three avenues we can use to discern the challenging aspects of Bill’s interior life."
 msgstr ""
 
-#. Paragraph 2: There are three avenues we can use to discern the challenging aspects of Bill’s interior life. First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the...
 #: paragraph:2,sentence:9
+msgctxt "Paragraph 2: There are three avenues we can use to discern the challenging aspects of Bill’s interior life. First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the..."
 msgid "First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the defenses he employed to cope with it."
 msgstr ""
 
-#. Paragraph 2: There are three avenues we can use to discern the challenging aspects of Bill’s interior life. First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the...
 #: paragraph:2,sentence:10
+msgctxt "Paragraph 2: There are three avenues we can use to discern the challenging aspects of Bill’s interior life. First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the..."
 msgid "The purpose of the Course is to illustrate how to release entirely the notion of unworthiness, rather than provide more sophisticated strategies for keeping and dealing with it."
 msgstr ""
 
-#. Paragraph 2: There are three avenues we can use to discern the challenging aspects of Bill’s interior life. First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the...
 #: paragraph:2,sentence:11
+msgctxt "Paragraph 2: There are three avenues we can use to discern the challenging aspects of Bill’s interior life. First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the..."
 msgid "Second, throughout his life, Bill elicited certain behavior patterns in others, which allows great insight into what he feared or found troubling in himself, although perhaps unconsciously. “Unacceptable” behaviors in others, of course, reflect our own unfinished business and condemnation of ourselves."
 msgstr ""
 
-#. Paragraph 2: There are three avenues we can use to discern the challenging aspects of Bill’s interior life. First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the...
 #: paragraph:2,sentence:12
+msgctxt "Paragraph 2: There are three avenues we can use to discern the challenging aspects of Bill’s interior life. First is the direct material in the Urtext that addresses both his assessment of his unworthiness and the..."
 msgid "Third, he specifically commented on certain characteristics he found objectionable in himself and others; no detective work required here."
 msgstr ""
 
-#. Paragraph 3: The Author of ACIM was firm and unequivocal in the messages to Bill and Helen about what they needed to look at, release, and make different choices about—attitudes they needed to trade in for a happi...
 #: paragraph:3,sentence:13
+msgctxt "Paragraph 3: The Author of ACIM was firm and unequivocal in the messages to Bill and Helen about what they needed to look at, release, and make different choices about—attitudes they needed to trade in for a happi..."
 msgid "The Author of ACIM was firm and unequivocal in the messages to Bill and Helen about what they needed to look at, release, and make different choices about—attitudes they needed to trade in for a happier way of living."
 msgstr ""
 
-#. Paragraph 3: The Author of ACIM was firm and unequivocal in the messages to Bill and Helen about what they needed to look at, release, and make different choices about—attitudes they needed to trade in for a happi...
 #: paragraph:3,sentence:14
+msgctxt "Paragraph 3: The Author of ACIM was firm and unequivocal in the messages to Bill and Helen about what they needed to look at, release, and make different choices about—attitudes they needed to trade in for a happi..."
 msgid "Bill was a master of ego discernment, but the Author of the Course was a step ahead of him, and after reading the personal commentary in the Urtext, one can see why neither Bill nor Helen wanted this personal material, disclosing their most basic fears and shortcomings, to be part of a public record."
 msgstr ""
 
-#. Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state...
 #: paragraph:4,sentence:15
+msgctxt "Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state..."
 msgid "A significant digression is called for here related to the Urtext"
 msgstr ""
 
-#. Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state...
 #: paragraph:4,sentence:16
+msgctxt "Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state..."
 msgid "Why was the personal material in it deleted"
 msgstr ""
 
-#. Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state...
 #: paragraph:4,sentence:17
+msgctxt "Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state..."
 msgid "In addition to the potential embarrassment to the scribes, the Author specifically stated it should not be included"
 msgstr ""
 
-#. Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state...
 #: paragraph:4,sentence:18
+msgctxt "Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state..."
 msgid "It is important for both new and seasoned students to realize the Author requested that specific or personal material be removed to avoid confusion, rather than thinking this was done unilaterally by Helen, Bill, or Ken"
 msgstr ""
 
-#. Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state...
 #: paragraph:4,sentence:19
+msgctxt "Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state..."
 msgid "Where she had a personal investment, Helen did interfere to a degree, contaminating some of the very earliest material (and only the earliest) with her own biases, because she was not yet a totally clear channel"
 msgstr ""
 
-#. Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state...
 #: paragraph:4,sentence:20
+msgctxt "Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state..."
 msgid "Such material was inconsistent with the actual Course, and Ken referred to these parts as “Helen-isms.” The scribing was very informal, especially in the beginning; the form was not sacrosanct"
 msgstr ""
 
-#. Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state...
 #: paragraph:4,sentence:21
+msgctxt "Paragraph 4: A significant digression is called for here related to the Urtext. Why was the personal material in it deleted? In addition to the potential embarrassment to the scribes, the Author specifically state..."
 msgid "Ken Wapnick writes in an unpublished manuscript, “The History of the Manuscripts of A Course In Miracles”:"
 msgstr ""
 
-#. Paragraph 5: What is most important to consider about the public exposure of these earlier manuscripts [the Urtext, the Hugh Lynn Cayce version, and a couple of others] is that regardless of the version you read, ...
 #: paragraph:5,sentence:22
+msgctxt "Paragraph 5: What is most important to consider about the public exposure of these earlier manuscripts [the Urtext, the Hugh Lynn Cayce version, and a couple of others] is that regardless of the version you read, ..."
 msgid "What is most important to consider about the public exposure of these earlier manuscripts [the Urtext, the Hugh Lynn Cayce version, and a couple of others] is that regardless of the version you read, you will receive the essential teaching of the Course."
 msgstr ""
 
-#. Paragraph 5: What is most important to consider about the public exposure of these earlier manuscripts [the Urtext, the Hugh Lynn Cayce version, and a couple of others] is that regardless of the version you read, ...
 #: paragraph:5,sentence:23
+msgctxt "Paragraph 5: What is most important to consider about the public exposure of these earlier manuscripts [the Urtext, the Hugh Lynn Cayce version, and a couple of others] is that regardless of the version you read, ..."
 msgid "In that sense, no real harm has been done."
 msgstr ""
 
-#. Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ...
 #: paragraph:6,sentence:24
+msgctxt "Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ..."
 msgid "In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be reading."
 msgstr ""
 
-#. Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ...
 #: paragraph:6,sentence:25
+msgctxt "Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ..."
 msgid "Let me cite some examples."
 msgstr ""
 
-#. Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ...
 #: paragraph:6,sentence:26
+msgctxt "Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ..."
 msgid "There is material in the Urtext about sex and sexuality, an area that will almost certainly pique the curiosity (if not prurient interest) of students."
 msgstr ""
 
-#. Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ...
 #: paragraph:6,sentence:27
+msgctxt "Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ..."
 msgid "Thus, for example, one will read that homosexuality is essentially a pathology (the traditional psychoanalytic view) and that the only purpose for sex is procreation, two positions that are antithetical to Jesus’ own teachings in the Course about seeing all forms of the ego’s world as the same, the correction to the ego’s first law of chaos that there is a hierarchy of illusion."
 msgstr ""
 
-#. Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ...
 #: paragraph:6,sentence:28
+msgctxt "Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ..."
 msgid "To believe that these would be the words and thoughts of Jesus is as preposterous and unthinkable an idea as to believe that I could influence Helen as to what belonged in the Course and what did not."
 msgstr ""
 
-#. Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ...
 #: paragraph:6,sentence:29
+msgctxt "Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ..."
 msgid "It should be obvious that these beliefs belong to Helen and not to Jesus."
 msgstr ""
 
-#. Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ...
 #: paragraph:6,sentence:30
+msgctxt "Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ..."
 msgid "Helen had her own biases about sex, and unfortunately they came through in these early passages."
 msgstr ""
 
-#. Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ...
 #: paragraph:6,sentence:31
+msgctxt "Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ..."
 msgid "Yet those who believe that every word in the Urtext is sacred and are Jesus’ words can use statements like these to support their own preconceived notions."
 msgstr ""
 
-#. Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ...
 #: paragraph:6,sentence:32
+msgctxt "Paragraph 6: In another sense, however, the situation is unfortunate because people could be misled and at this point, nothing can be done about it . . . except, perhaps, to clarify what inquiring students may be ..."
 msgid "This same issue holds, though perhaps with less emotionality, with material related to Edgar Cayce, Freud and other psychologists. . . ."
 msgstr ""
 
-#. Paragraph 7: Thus, it became very clear to me in the years I knew Helen that I should take with a grain of salt some of the things she said or wrote as coming from Jesus, and this clearly included the early Urtext...
 #: paragraph:7,sentence:33
+msgctxt "Paragraph 7: Thus, it became very clear to me in the years I knew Helen that I should take with a grain of salt some of the things she said or wrote as coming from Jesus, and this clearly included the early Urtext..."
 msgid "Thus, it became very clear to me in the years I knew Helen that I should take with a grain of salt some of the things she said or wrote as coming from Jesus, and this clearly included the early Urtext material"
 msgstr ""
 
-#. Paragraph 7: Thus, it became very clear to me in the years I knew Helen that I should take with a grain of salt some of the things she said or wrote as coming from Jesus, and this clearly included the early Urtext...
 #: paragraph:7,sentence:34
+msgctxt "Paragraph 7: Thus, it became very clear to me in the years I knew Helen that I should take with a grain of salt some of the things she said or wrote as coming from Jesus, and this clearly included the early Urtext..."
 msgid "Unfortunately, there are also some things there that if you do not know the context, you will not understand what they refer to, or what they mean"
 msgstr ""
 
-#. Paragraph 7: Thus, it became very clear to me in the years I knew Helen that I should take with a grain of salt some of the things she said or wrote as coming from Jesus, and this clearly included the early Urtext...
 #: paragraph:7,sentence:35
+msgctxt "Paragraph 7: Thus, it became very clear to me in the years I knew Helen that I should take with a grain of salt some of the things she said or wrote as coming from Jesus, and this clearly included the early Urtext..."
 msgid "This inevitability means that those who were not present and did not know Helen and Bill will misunderstand much of what is found there.[22]"
 msgstr ""
 
-#. Paragraph 8: Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken. She may also have talked with Bill about it, but that is only conjecture as their rela...
 #: paragraph:8,sentence:36
+msgctxt "Paragraph 8: Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken. She may also have talked with Bill about it, but that is only conjecture as their rela..."
 msgid "Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken."
 msgstr ""
 
-#. Paragraph 8: Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken. She may also have talked with Bill about it, but that is only conjecture as their rela...
 #: paragraph:8,sentence:37
+msgctxt "Paragraph 8: Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken. She may also have talked with Bill about it, but that is only conjecture as their rela..."
 msgid "She may also have talked with Bill about it, but that is only conjecture as their relationship was so often discordant."
 msgstr ""
 
-#. Paragraph 8: Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken. She may also have talked with Bill about it, but that is only conjecture as their rela...
 #: paragraph:8,sentence:38
+msgctxt "Paragraph 8: Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken. She may also have talked with Bill about it, but that is only conjecture as their rela..."
 msgid "A short while into the text, Helen’s resistance relaxed; the dictation flowed evenly and no longer included dialogue or personal material."
 msgstr ""
 
-#. Paragraph 8: Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken. She may also have talked with Bill about it, but that is only conjecture as their rela...
 #: paragraph:8,sentence:39
+msgctxt "Paragraph 8: Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken. She may also have talked with Bill about it, but that is only conjecture as their rela..."
 msgid "Bill often commented on how difficult scribing the Course was for both of them; being thoroughly examined by the Author makes “difficult” seem, at the least, an understatement."
 msgstr ""
 
-#. Paragraph 8: Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken. She may also have talked with Bill about it, but that is only conjecture as their rela...
 #: paragraph:8,sentence:40
+msgctxt "Paragraph 8: Helen did recognize this periodic corruption of the material where her biases intruded and discussed it with Ken. She may also have talked with Bill about it, but that is only conjecture as their rela..."
 msgid "Both Bill and Helen called on considerable courage to continue their scribal commitment while being in the “hot seat” with the Author."
 msgstr ""
 
-#. Paragraph 9: A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are. The...
 #: paragraph:9,sentence:41
+msgctxt "Paragraph 9: A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are. The..."
 msgid "A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are."
 msgstr ""
 
-#. Paragraph 9: A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are. The...
 #: paragraph:9,sentence:42
+msgctxt "Paragraph 9: A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are. The..."
 msgid "They concerned his fear that he was not going to succeed without being special in some way and that without specialness everyone would see his unworthiness, and thus failure. (By the way, Ken indicated that the quotes I have chosen for inclusion in this book are valid, not ones where Helen’s personal opinions bled through.) Despite his outer success, Bill still harbored resentments and was plagued by a lack of self-worth."
 msgstr ""
 
-#. Paragraph 9: A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are. The...
 #: paragraph:9,sentence:43
+msgctxt "Paragraph 9: A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are. The..."
 msgid "Sound familiar."
 msgstr ""
 
-#. Paragraph 9: A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are. The...
 #: paragraph:9,sentence:44
+msgctxt "Paragraph 9: A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are. The..."
 msgid "The following material comes from the early part of the Urtext, which was deleted from the first six chapters of the published text."
 msgstr ""
 
-#. Paragraph 9: A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are. The...
 #: paragraph:9,sentence:45
+msgctxt "Paragraph 9: A few examples from the Urtext reveal both the specific nature of some of Bill’s issues, remembering they allude to his state of mind at the onset of the Course, and how universal they really are. The..."
 msgid "The Author was equally firm with Helen, but her issues are not the subject of this book. (Bill capitalized some words as he typed Helen’s notes to denote emphasis, but I have changed them to italics.) This message for Bill was relayed to Helen."
 msgstr ""
 
-#. Paragraph 10: His real specialness does not stem from exclusion, but from inclusion. All my brothers are special. He should stop interpreting this as “all except Bill.” This is ridiculous! Tell him that the implied...
 #: paragraph:10,sentence:46
+msgctxt "Paragraph 10: His real specialness does not stem from exclusion, but from inclusion. All my brothers are special. He should stop interpreting this as “all except Bill.” This is ridiculous! Tell him that the implied..."
 msgid "His real specialness does not stem from exclusion, but from inclusion"
 msgstr ""
 
-#. Paragraph 10: His real specialness does not stem from exclusion, but from inclusion. All my brothers are special. He should stop interpreting this as “all except Bill.” This is ridiculous! Tell him that the implied...
 #: paragraph:10,sentence:47
+msgctxt "Paragraph 10: His real specialness does not stem from exclusion, but from inclusion. All my brothers are special. He should stop interpreting this as “all except Bill.” This is ridiculous! Tell him that the implied..."
 msgid "All my brothers are special"
 msgstr ""
 
-#. Paragraph 10: His real specialness does not stem from exclusion, but from inclusion. All my brothers are special. He should stop interpreting this as “all except Bill.” This is ridiculous! Tell him that the implied...
 #: paragraph:10,sentence:48
+msgctxt "Paragraph 10: His real specialness does not stem from exclusion, but from inclusion. All my brothers are special. He should stop interpreting this as “all except Bill.” This is ridiculous! Tell him that the implied..."
 msgid "He should stop interpreting this as “all except Bill.” This is ridiculous"
 msgstr ""
 
-#. Paragraph 10: His real specialness does not stem from exclusion, but from inclusion. All my brothers are special. He should stop interpreting this as “all except Bill.” This is ridiculous! Tell him that the implied...
 #: paragraph:10,sentence:49
+msgctxt "Paragraph 10: His real specialness does not stem from exclusion, but from inclusion. All my brothers are special. He should stop interpreting this as “all except Bill.” This is ridiculous! Tell him that the implied..."
 msgid "Tell him that the implied lack of love that his version contains is way off the mark and misses the level of right thinking entirely"
 msgstr ""
 
-#. Paragraph 10: His real specialness does not stem from exclusion, but from inclusion. All my brothers are special. He should stop interpreting this as “all except Bill.” This is ridiculous! Tell him that the implied...
 #: paragraph:10,sentence:50
+msgctxt "Paragraph 10: His real specialness does not stem from exclusion, but from inclusion. All my brothers are special. He should stop interpreting this as “all except Bill.” This is ridiculous! Tell him that the implied..."
 msgid "He must heal his perception in this respect.[23]"
 msgstr ""
 
-#. Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol...
 #: paragraph:11,sentence:51
+msgctxt "Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol..."
 msgid "You and Bill do have special talents which are needed for the celestial speed-up at this time"
 msgstr ""
 
-#. Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol...
 #: paragraph:11,sentence:52
+msgctxt "Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol..."
 msgid "But note that the term “speed-up” is not one which relates to the transcending of time"
 msgstr ""
 
-#. Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol...
 #: paragraph:11,sentence:53
+msgctxt "Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol..."
 msgid "When time is abolished and all of the Sons of God have come home, no special agents will be necessary"
 msgstr ""
 
-#. Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol...
 #: paragraph:11,sentence:54
+msgctxt "Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol..."
 msgid "But do not underestimate the power of special agents now, or the great need there is for them"
 msgstr ""
 
-#. Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol...
 #: paragraph:11,sentence:55
+msgctxt "Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol..."
 msgid "I do not claim to be more than that myself"
 msgstr ""
 
-#. Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol...
 #: paragraph:11,sentence:56
+msgctxt "Paragraph 11: You and Bill do have special talents which are needed for the celestial speed-up at this time. But note that the term “speed-up” is not one which relates to the transcending of time. When time is abol..."
 msgid "No one in his right mind (a term which should be especially noted) ever wants either more nor less than that.[24]"
 msgstr ""
 
-#. Paragraph 12: At the end of a long dissertation on the confusion about communication and knowledge, the Author listed four general statements about the misuse of knowledge (as we understand the word, not as the Cou...
 #: paragraph:12,sentence:57
+msgctxt "Paragraph 12: At the end of a long dissertation on the confusion about communication and knowledge, the Author listed four general statements about the misuse of knowledge (as we understand the word, not as the Cou..."
 msgid "At the end of a long dissertation on the confusion about communication and knowledge, the Author listed four general statements about the misuse of knowledge (as we understand the word, not as the Course uses it), and then specifically called their attention to this list:"
 msgstr ""
 
-#. Paragraph 13: 4. Knowledge can also be misinterpreted as a means of possession. Here, the content is not physical and the underlying fallacy is more likely to be a confusion of mind and brain. . . . The fallacious ...
 #: paragraph:13,sentence:58
+msgctxt "Paragraph 13: 4. Knowledge can also be misinterpreted as a means of possession. Here, the content is not physical and the underlying fallacy is more likely to be a confusion of mind and brain. . . . The fallacious ..."
 msgid "4"
 msgstr ""
 
-#. Paragraph 13: 4. Knowledge can also be misinterpreted as a means of possession. Here, the content is not physical and the underlying fallacy is more likely to be a confusion of mind and brain. . . . The fallacious ...
 #: paragraph:13,sentence:59
+msgctxt "Paragraph 13: 4. Knowledge can also be misinterpreted as a means of possession. Here, the content is not physical and the underlying fallacy is more likely to be a confusion of mind and brain. . . . The fallacious ..."
 msgid "Knowledge can also be misinterpreted as a means of possession"
 msgstr ""
 
-#. Paragraph 13: 4. Knowledge can also be misinterpreted as a means of possession. Here, the content is not physical and the underlying fallacy is more likely to be a confusion of mind and brain. . . . The fallacious ...
 #: paragraph:13,sentence:60
+msgctxt "Paragraph 13: 4. Knowledge can also be misinterpreted as a means of possession. Here, the content is not physical and the underlying fallacy is more likely to be a confusion of mind and brain. . . . The fallacious ..."
 msgid "Here, the content is not physical and the underlying fallacy is more likely to be a confusion of mind and brain. . ."
 msgstr ""
 
-#. Paragraph 13: 4. Knowledge can also be misinterpreted as a means of possession. Here, the content is not physical and the underlying fallacy is more likely to be a confusion of mind and brain. . . . The fallacious ...
 #: paragraph:13,sentence:61
+msgctxt "Paragraph 13: 4. Knowledge can also be misinterpreted as a means of possession. Here, the content is not physical and the underlying fallacy is more likely to be a confusion of mind and brain. . . . The fallacious ..."
 msgid "The fallacious use of knowledge can result in several errors, including:"
 msgstr ""
 
-#. Paragraph 14: a. The idea that knowledge will make the individual more attractive to others. This is possession-fallacy. b. The idea that knowledge will make the individual invulnerable. This is the reaction format...
 #: paragraph:14,sentence:62
+msgctxt "Paragraph 14: a. The idea that knowledge will make the individual more attractive to others. This is possession-fallacy. b. The idea that knowledge will make the individual invulnerable. This is the reaction format..."
 msgid "a."
 msgstr ""
 
-#. Paragraph 14: a. The idea that knowledge will make the individual more attractive to others. This is possession-fallacy. b. The idea that knowledge will make the individual invulnerable. This is the reaction format...
 #: paragraph:14,sentence:63
+msgctxt "Paragraph 14: a. The idea that knowledge will make the individual more attractive to others. This is possession-fallacy. b. The idea that knowledge will make the individual invulnerable. This is the reaction format..."
 msgid "The idea that knowledge will make the individual more attractive to others."
 msgstr ""
 
-#. Paragraph 14: a. The idea that knowledge will make the individual more attractive to others. This is possession-fallacy. b. The idea that knowledge will make the individual invulnerable. This is the reaction format...
 #: paragraph:14,sentence:64
+msgctxt "Paragraph 14: a. The idea that knowledge will make the individual more attractive to others. This is possession-fallacy. b. The idea that knowledge will make the individual invulnerable. This is the reaction format..."
 msgid "This is possession-fallacy. b."
 msgstr ""
 
-#. Paragraph 14: a. The idea that knowledge will make the individual more attractive to others. This is possession-fallacy. b. The idea that knowledge will make the individual invulnerable. This is the reaction format...
 #: paragraph:14,sentence:65
+msgctxt "Paragraph 14: a. The idea that knowledge will make the individual more attractive to others. This is possession-fallacy. b. The idea that knowledge will make the individual invulnerable. This is the reaction format..."
 msgid "The idea that knowledge will make the individual invulnerable."
 msgstr ""
 
-#. Paragraph 14: a. The idea that knowledge will make the individual more attractive to others. This is possession-fallacy. b. The idea that knowledge will make the individual invulnerable. This is the reaction format...
 #: paragraph:14,sentence:66
+msgctxt "Paragraph 14: a. The idea that knowledge will make the individual more attractive to others. This is possession-fallacy. b. The idea that knowledge will make the individual invulnerable. This is the reaction format..."
 msgid "This is the reaction formation against the underlying fear of vulnerability."
 msgstr ""
 
-#. Paragraph 15: c. The idea that knowledge will make the individual worthy. This is largely pathetic. Both you and Bill should consider type 4 [all of the above] very carefully. Like all these fallacies, it contains ...
 #: paragraph:15,sentence:67
+msgctxt "Paragraph 15: c. The idea that knowledge will make the individual worthy. This is largely pathetic. Both you and Bill should consider type 4 [all of the above] very carefully. Like all these fallacies, it contains ..."
 msgid "c."
 msgstr ""
 
-#. Paragraph 15: c. The idea that knowledge will make the individual worthy. This is largely pathetic. Both you and Bill should consider type 4 [all of the above] very carefully. Like all these fallacies, it contains ...
 #: paragraph:15,sentence:68
+msgctxt "Paragraph 15: c. The idea that knowledge will make the individual worthy. This is largely pathetic. Both you and Bill should consider type 4 [all of the above] very carefully. Like all these fallacies, it contains ..."
 msgid "The idea that knowledge will make the individual worthy."
 msgstr ""
 
-#. Paragraph 15: c. The idea that knowledge will make the individual worthy. This is largely pathetic. Both you and Bill should consider type 4 [all of the above] very carefully. Like all these fallacies, it contains ...
 #: paragraph:15,sentence:69
+msgctxt "Paragraph 15: c. The idea that knowledge will make the individual worthy. This is largely pathetic. Both you and Bill should consider type 4 [all of the above] very carefully. Like all these fallacies, it contains ..."
 msgid "This is largely pathetic."
 msgstr ""
 
-#. Paragraph 15: c. The idea that knowledge will make the individual worthy. This is largely pathetic. Both you and Bill should consider type 4 [all of the above] very carefully. Like all these fallacies, it contains ...
 #: paragraph:15,sentence:70
+msgctxt "Paragraph 15: c. The idea that knowledge will make the individual worthy. This is largely pathetic. Both you and Bill should consider type 4 [all of the above] very carefully. Like all these fallacies, it contains ..."
 msgid "Both you and Bill should consider type 4 [all of the above] very carefully."
 msgstr ""
 
-#. Paragraph 15: c. The idea that knowledge will make the individual worthy. This is largely pathetic. Both you and Bill should consider type 4 [all of the above] very carefully. Like all these fallacies, it contains ...
 #: paragraph:15,sentence:71
+msgctxt "Paragraph 15: c. The idea that knowledge will make the individual worthy. This is largely pathetic. Both you and Bill should consider type 4 [all of the above] very carefully. Like all these fallacies, it contains ..."
 msgid "Like all these fallacies, it contains a denial mechanism, which swings into operation as the fear increases, thus canceling out the error temporarily, but seriously impairing efficiency."
 msgstr ""
 
-#. Paragraph 16: Thus, you claim that you can’t read and Bill claims that he can’t speak. Note that depression is a real risk here, for a Child of God should never reduce his efficiency in any way. The depression come...
 #: paragraph:16,sentence:72
+msgctxt "Paragraph 16: Thus, you claim that you can’t read and Bill claims that he can’t speak. Note that depression is a real risk here, for a Child of God should never reduce his efficiency in any way. The depression come..."
 msgid "Thus, you claim that you can’t read and Bill claims that he can’t speak"
 msgstr ""
 
-#. Paragraph 16: Thus, you claim that you can’t read and Bill claims that he can’t speak. Note that depression is a real risk here, for a Child of God should never reduce his efficiency in any way. The depression come...
 #: paragraph:16,sentence:73
+msgctxt "Paragraph 16: Thus, you claim that you can’t read and Bill claims that he can’t speak. Note that depression is a real risk here, for a Child of God should never reduce his efficiency in any way. The depression come..."
 msgid "Note that depression is a real risk here, for a Child of God should never reduce his efficiency in any way"
 msgstr ""
 
-#. Paragraph 16: Thus, you claim that you can’t read and Bill claims that he can’t speak. Note that depression is a real risk here, for a Child of God should never reduce his efficiency in any way. The depression come...
 #: paragraph:16,sentence:74
+msgctxt "Paragraph 16: Thus, you claim that you can’t read and Bill claims that he can’t speak. Note that depression is a real risk here, for a Child of God should never reduce his efficiency in any way. The depression come..."
 msgid "The depression comes from a peculiar pseudo-solution which reads:"
 msgstr ""
 
-#. Paragraph 17: A Child of God is efficient. I am not efficient.
 #: paragraph:17,sentence:75
+msgctxt "Paragraph 17: A Child of God is efficient. I am not efficient."
 msgid "A Child of God is efficient."
 msgstr ""
 
-#. Paragraph 17: A Child of God is efficient. I am not efficient.
 #: paragraph:17,sentence:76
+msgctxt "Paragraph 17: A Child of God is efficient. I am not efficient."
 msgid "I am not efficient."
 msgstr ""
 
-#. Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear...
 #: paragraph:18,sentence:77
+msgctxt "Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear..."
 msgid "Therefore, I am not a Child of God"
 msgstr ""
 
-#. Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear...
 #: paragraph:18,sentence:78
+msgctxt "Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear..."
 msgid "This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to heart and diligently practiced reaching out to others"
 msgstr ""
 
-#. Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear...
 #: paragraph:18,sentence:79
+msgctxt "Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear..."
 msgid "As he took the steps offered him in the Course, he became more than willing to spend a great deal of time with many people in order to help them"
 msgstr ""
 
-#. Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear...
 #: paragraph:18,sentence:80
+msgctxt "Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear..."
 msgid "He lavished attention on those with whom he had strong connections, as well as in more casual encounters"
 msgstr ""
 
-#. Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear...
 #: paragraph:18,sentence:81
+msgctxt "Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear..."
 msgid "For many of us, he was our greatest cheerleader, inspiring us to take our next steps, both internally and externally, and helping each to let go of whatever was in our way—modern-day disciples, perhaps"
 msgstr ""
 
-#. Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear...
 #: paragraph:18,sentence:82
+msgctxt "Paragraph 18: Therefore, I am not a Child of God. This leads to neurotic resignation and this is a state which merely increases the depression.[25] However uninviting these messages were, Bill did take them to hear..."
 msgid "As one person stated, “I just can’t imagine anyone else playing that kind of [inspirational] role and for so many of us!”[26]"
 msgstr ""
 
-#. Paragraph 19: He was also willing, as a demonstration of love, to do things he really didn’t care to do, but he honored those who asked, if his guidance so dictated. Do not mistake this for being wimpy, having no b...
 #: paragraph:19,sentence:83
+msgctxt "Paragraph 19: He was also willing, as a demonstration of love, to do things he really didn’t care to do, but he honored those who asked, if his guidance so dictated. Do not mistake this for being wimpy, having no b..."
 msgid "He was also willing, as a demonstration of love, to do things he really didn’t care to do, but he honored those who asked, if his guidance so dictated"
 msgstr ""
 
-#. Paragraph 19: He was also willing, as a demonstration of love, to do things he really didn’t care to do, but he honored those who asked, if his guidance so dictated. Do not mistake this for being wimpy, having no b...
 #: paragraph:19,sentence:84
+msgctxt "Paragraph 19: He was also willing, as a demonstration of love, to do things he really didn’t care to do, but he honored those who asked, if his guidance so dictated. Do not mistake this for being wimpy, having no b..."
 msgid "Do not mistake this for being wimpy, having no boundaries, or being unable to say no"
 msgstr ""
 
-#. Paragraph 19: He was also willing, as a demonstration of love, to do things he really didn’t care to do, but he honored those who asked, if his guidance so dictated. Do not mistake this for being wimpy, having no b...
 #: paragraph:19,sentence:85
+msgctxt "Paragraph 19: He was also willing, as a demonstration of love, to do things he really didn’t care to do, but he honored those who asked, if his guidance so dictated. Do not mistake this for being wimpy, having no b..."
 msgid "For sure, when Bill felt it was not right for him to do something, nothing in heaven or earth could move him from his position"
 msgstr ""
 
-#. Paragraph 19: He was also willing, as a demonstration of love, to do things he really didn’t care to do, but he honored those who asked, if his guidance so dictated. Do not mistake this for being wimpy, having no b...
 #: paragraph:19,sentence:86
+msgctxt "Paragraph 19: He was also willing, as a demonstration of love, to do things he really didn’t care to do, but he honored those who asked, if his guidance so dictated. Do not mistake this for being wimpy, having no b..."
 msgid "He really lived this admonition:"
 msgstr ""
 
-#. Paragraph 20: Suppose a brother insists on having you do something you think you do not want to do. His very insistence should tell you that he believes salvation lies in it. If you insist on refusing and experienc...
 #: paragraph:20,sentence:87
+msgctxt "Paragraph 20: Suppose a brother insists on having you do something you think you do not want to do. His very insistence should tell you that he believes salvation lies in it. If you insist on refusing and experienc..."
 msgid "Suppose a brother insists on having you do something you think you do not want to do"
 msgstr ""
 
-#. Paragraph 20: Suppose a brother insists on having you do something you think you do not want to do. His very insistence should tell you that he believes salvation lies in it. If you insist on refusing and experienc...
 #: paragraph:20,sentence:88
+msgctxt "Paragraph 20: Suppose a brother insists on having you do something you think you do not want to do. His very insistence should tell you that he believes salvation lies in it. If you insist on refusing and experienc..."
 msgid "His very insistence should tell you that he believes salvation lies in it"
 msgstr ""
 
-#. Paragraph 20: Suppose a brother insists on having you do something you think you do not want to do. His very insistence should tell you that he believes salvation lies in it. If you insist on refusing and experienc...
 #: paragraph:20,sentence:89
+msgctxt "Paragraph 20: Suppose a brother insists on having you do something you think you do not want to do. His very insistence should tell you that he believes salvation lies in it. If you insist on refusing and experienc..."
 msgid "If you insist on refusing and experience a quick response of opposition, you are believing that your salvation lies in not doing it"
 msgstr ""
 
-#. Paragraph 20: Suppose a brother insists on having you do something you think you do not want to do. His very insistence should tell you that he believes salvation lies in it. If you insist on refusing and experienc...
 #: paragraph:20,sentence:90
+msgctxt "Paragraph 20: Suppose a brother insists on having you do something you think you do not want to do. His very insistence should tell you that he believes salvation lies in it. If you insist on refusing and experienc..."
 msgid "You, then, are making the same mistake he is, and are making his error real to both of you"
 msgstr ""
 
-#. Paragraph 20: Suppose a brother insists on having you do something you think you do not want to do. His very insistence should tell you that he believes salvation lies in it. If you insist on refusing and experienc...
 #: paragraph:20,sentence:91
+msgctxt "Paragraph 20: Suppose a brother insists on having you do something you think you do not want to do. His very insistence should tell you that he believes salvation lies in it. If you insist on refusing and experienc..."
 msgid "Insistence means investment, and what you invest in is always related to your notion of salvation.[27]"
 msgstr ""
 
-#. Paragraph 21: As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing...
 #: paragraph:21,sentence:92
+msgctxt "Paragraph 21: As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing..."
 msgid "As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing things like that."
 msgstr ""
 
-#. Paragraph 21: As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing...
 #: paragraph:21,sentence:93
+msgctxt "Paragraph 21: As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing..."
 msgid "He said, ‘No way am I going to do that, but I’ll tell you what I’ll do."
 msgstr ""
 
-#. Paragraph 21: As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing...
 #: paragraph:21,sentence:94
+msgctxt "Paragraph 21: As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing..."
 msgid "I’ll let you take one picture of me with that suit on.’ He took it off and never wore it again."
 msgstr ""
 
-#. Paragraph 21: As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing...
 #: paragraph:21,sentence:95
+msgctxt "Paragraph 21: As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing..."
 msgid "He wasn’t going to a gym.”[28] Actually, he did walk every day, sometimes more than once, and he enjoyed that a great deal; it made possible the wonderful experiences so many had on those walks."
 msgstr ""
 
-#. Paragraph 21: As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing...
 #: paragraph:21,sentence:96
+msgctxt "Paragraph 21: As one example, Jerry Jampolsky remembered this favorite: “You know he never exercised and I thought maybe if I bought him a jogging suit for his birthday, he might get interested in walking and doing..."
 msgid "But true to his word, he never went to a gym."
 msgstr ""
 
-#. Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ...
 #: paragraph:22,sentence:97
+msgctxt "Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ..."
 msgid "Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal Healing, which was “the last thing in the world his ego would want to do"
 msgstr ""
 
-#. Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ...
 #: paragraph:22,sentence:98
+msgctxt "Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ..."
 msgid "I remember his infinite patience with me"
 msgstr ""
 
-#. Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ...
 #: paragraph:22,sentence:99
+msgctxt "Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ..."
 msgid "I asked him a thousand questions and later came back with more"
 msgstr ""
 
-#. Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ...
 #: paragraph:22,sentence:100
+msgctxt "Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ..."
 msgid "His willingness to do his best to listen to the Voice was amazing"
 msgstr ""
 
-#. Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ...
 #: paragraph:22,sentence:101
+msgctxt "Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ..."
 msgid "What I remember about him was that steadfast commitment"
 msgstr ""
 
-#. Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ...
 #: paragraph:22,sentence:102
+msgctxt "Paragraph 22: Jogging suit—present from Jerry Jerry was also aware of the great love and brotherhood they felt for one another, exemplified by Bill’s willingness to serve on the board of the Center for Attitudinal ..."
 msgid "He was like a rudder on a ship going straight in the direction toward God.”[29]"
 msgstr ""
 
-#. Paragraph 23: Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would. That was one of his forms of generosity, as if to say, “If that’s what you w...
 #: paragraph:23,sentence:103
+msgctxt "Paragraph 23: Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would. That was one of his forms of generosity, as if to say, “If that’s what you w..."
 msgid "Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would"
 msgstr ""
 
-#. Paragraph 23: Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would. That was one of his forms of generosity, as if to say, “If that’s what you w...
 #: paragraph:23,sentence:104
+msgctxt "Paragraph 23: Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would. That was one of his forms of generosity, as if to say, “If that’s what you w..."
 msgid "That was one of his forms of generosity, as if to say, “If that’s what you want, then I’ll talk.” Another thing he gave me was the sense that if there was anything he could do to make me comfortable, he would"
 msgstr ""
 
-#. Paragraph 23: Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would. That was one of his forms of generosity, as if to say, “If that’s what you w...
 #: paragraph:23,sentence:105
+msgctxt "Paragraph 23: Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would. That was one of his forms of generosity, as if to say, “If that’s what you w..."
 msgid "He mostly did that with his presence in terms of reassurance, not verbally"
 msgstr ""
 
-#. Paragraph 23: Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would. That was one of his forms of generosity, as if to say, “If that’s what you w...
 #: paragraph:23,sentence:106
+msgctxt "Paragraph 23: Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would. That was one of his forms of generosity, as if to say, “If that’s what you w..."
 msgid "He honored people for who they were and let them know that there was nothing about them that he judged"
 msgstr ""
 
-#. Paragraph 23: Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would. That was one of his forms of generosity, as if to say, “If that’s what you w...
 #: paragraph:23,sentence:107
+msgctxt "Paragraph 23: Jaison Kayn remembered: He would never think of speaking himself, but as other people asked it [to speak] of him, he would. That was one of his forms of generosity, as if to say, “If that’s what you w..."
 msgid "He supported your being.[30]"
 msgstr ""
 
-#. Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a...
 #: paragraph:24,sentence:108
+msgctxt "Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a..."
 msgid "Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, and I was very receptive to listening"
 msgstr ""
 
-#. Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a...
 #: paragraph:24,sentence:109
+msgctxt "Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a..."
 msgid "Sometimes people try to give you advice or insights and they come on fairly strong and one instinctively pushes back"
 msgstr ""
 
-#. Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a...
 #: paragraph:24,sentence:110
+msgctxt "Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a..."
 msgid "He never made emphatic statements and I had no feeling of wanting to push back with Bill"
 msgstr ""
 
-#. Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a...
 #: paragraph:24,sentence:111
+msgctxt "Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a..."
 msgid "It was a delight to experience his gentle manner"
 msgstr ""
 
-#. Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a...
 #: paragraph:24,sentence:112
+msgctxt "Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a..."
 msgid "I can distinctly remember when it was time to leave, I would go up that hill from Tiburon over to San Francisco and things would really just start to vibrate"
 msgstr ""
 
-#. Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a...
 #: paragraph:24,sentence:113
+msgctxt "Paragraph 24: Bob Beale occasionally visited Bill in Tiburon: One of the things I loved about him was his gentle manner and that he subtly offered some really powerful insights, always made in low-key statements, a..."
 msgid "All of a sudden I’d really get what Bill said.[31]"
 msgstr ""
 
-#. Paragraph 25: Bill always modeled the wonderful way we can be helpful to each other without being oppressive or giving advice or fixing. How comforting it is when information comes through the loving presence withi...
 #: paragraph:25,sentence:114
+msgctxt "Paragraph 25: Bill always modeled the wonderful way we can be helpful to each other without being oppressive or giving advice or fixing. How comforting it is when information comes through the loving presence withi..."
 msgid "Bill always modeled the wonderful way we can be helpful to each other without being oppressive or giving advice or fixing."
 msgstr ""
 
-#. Paragraph 25: Bill always modeled the wonderful way we can be helpful to each other without being oppressive or giving advice or fixing. How comforting it is when information comes through the loving presence withi...
 #: paragraph:25,sentence:115
+msgctxt "Paragraph 25: Bill always modeled the wonderful way we can be helpful to each other without being oppressive or giving advice or fixing. How comforting it is when information comes through the loving presence withi..."
 msgid "How comforting it is when information comes through the loving presence within, rather than from the ego’s critical perspective of, “Here is what’s the matter with you, so shape up.” It’s not that Bill saw things and then had to work to overlook them; somehow they fell off the radar screen for him."
 msgstr ""
 
-#. Paragraph 25: Bill always modeled the wonderful way we can be helpful to each other without being oppressive or giving advice or fixing. How comforting it is when information comes through the loving presence withi...
 #: paragraph:25,sentence:116
+msgctxt "Paragraph 25: Bill always modeled the wonderful way we can be helpful to each other without being oppressive or giving advice or fixing. How comforting it is when information comes through the loving presence withi..."
 msgid "He touched people deeply because it was his goal to be aware only of their underlying love, and he was determined to let go of judgment."
 msgstr ""
 
-#. Paragraph 25: Bill always modeled the wonderful way we can be helpful to each other without being oppressive or giving advice or fixing. How comforting it is when information comes through the loving presence withi...
 #: paragraph:25,sentence:117
+msgctxt "Paragraph 25: Bill always modeled the wonderful way we can be helpful to each other without being oppressive or giving advice or fixing. How comforting it is when information comes through the loving presence withi..."
 msgid "It was not in keeping with his goal of unconditional acceptance to try to change a person or buy into their fears."
 msgstr ""
 
-#. Paragraph 26: Bruce Gregory met Bill at the Skutch home in New York, which he described as “Miracle Central.” He left Manhattan in 1979 and moved to rural Arizona, where he worked in a prison. Being closer then to ...
 #: paragraph:26,sentence:118
+msgctxt "Paragraph 26: Bruce Gregory met Bill at the Skutch home in New York, which he described as “Miracle Central.” He left Manhattan in 1979 and moved to rural Arizona, where he worked in a prison. Being closer then to ..."
 msgid "Bruce Gregory met Bill at the Skutch home in New York, which he described as “Miracle Central.” He left Manhattan in 1979 and moved to rural Arizona, where he worked in a prison."
 msgstr ""
 
-#. Paragraph 26: Bruce Gregory met Bill at the Skutch home in New York, which he described as “Miracle Central.” He left Manhattan in 1979 and moved to rural Arizona, where he worked in a prison. Being closer then to ...
 #: paragraph:26,sentence:119
+msgctxt "Paragraph 26: Bruce Gregory met Bill at the Skutch home in New York, which he described as “Miracle Central.” He left Manhattan in 1979 and moved to rural Arizona, where he worked in a prison. Being closer then to ..."
 msgid "Being closer then to Tiburon, he visited Bill occasionally."
 msgstr ""
 
-#. Paragraph 27: Those visits with Bill, though small in number, were quality times with a gentle, settled soul who was kind enough to hear out my challenges in my personal and work life in a small town that was frien...
 #: paragraph:27,sentence:120
+msgctxt "Paragraph 27: Those visits with Bill, though small in number, were quality times with a gentle, settled soul who was kind enough to hear out my challenges in my personal and work life in a small town that was frien..."
 msgid "Those visits with Bill, though small in number, were quality times with a gentle, settled soul who was kind enough to hear out my challenges in my personal and work life in a small town that was friendly but openly critical of anyone who wasn’t “normal.”. .."
 msgstr ""
 
-#. Paragraph 27: Those visits with Bill, though small in number, were quality times with a gentle, settled soul who was kind enough to hear out my challenges in my personal and work life in a small town that was frien...
 #: paragraph:27,sentence:121
+msgctxt "Paragraph 27: Those visits with Bill, though small in number, were quality times with a gentle, settled soul who was kind enough to hear out my challenges in my personal and work life in a small town that was frien..."
 msgid "He also provided such kind support as I tried to integrate my spiritual yearnings with the fact of being gay in a world that did not really understand or accept either."
 msgstr ""
 
-#. Paragraph 28: Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance. I can’t say that I resolved my issues completely with his help, but I certainly did come back to m...
 #: paragraph:28,sentence:122
+msgctxt "Paragraph 28: Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance. I can’t say that I resolved my issues completely with his help, but I certainly did come back to m..."
 msgid "Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance"
 msgstr ""
 
-#. Paragraph 28: Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance. I can’t say that I resolved my issues completely with his help, but I certainly did come back to m...
 #: paragraph:28,sentence:123
+msgctxt "Paragraph 28: Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance. I can’t say that I resolved my issues completely with his help, but I certainly did come back to m..."
 msgid "I can’t say that I resolved my issues completely with his help, but I certainly did come back to my new home after my visits refreshed and with more peace of mind, along with the magic of self-acceptance and acceptance of others, even in their bigotry"
 msgstr ""
 
-#. Paragraph 28: Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance. I can’t say that I resolved my issues completely with his help, but I certainly did come back to m...
 #: paragraph:28,sentence:124
+msgctxt "Paragraph 28: Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance. I can’t say that I resolved my issues completely with his help, but I certainly did come back to m..."
 msgid "That was a miracle for me, in that I saw no need to fight or struggle to change the minds of others to accept me as I was"
 msgstr ""
 
-#. Paragraph 28: Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance. I can’t say that I resolved my issues completely with his help, but I certainly did come back to m...
 #: paragraph:28,sentence:125
+msgctxt "Paragraph 28: Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance. I can’t say that I resolved my issues completely with his help, but I certainly did come back to m..."
 msgid "It was more important to accept them as they were"
 msgstr ""
 
-#. Paragraph 28: Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance. I can’t say that I resolved my issues completely with his help, but I certainly did come back to m...
 #: paragraph:28,sentence:126
+msgctxt "Paragraph 28: Bill was able to exude acceptance and normalcy and even a little feistiness about my self-acceptance. I can’t say that I resolved my issues completely with his help, but I certainly did come back to m..."
 msgid "I then found that this started to translate into acceptance of the inmates I worked with in my substance abuse groups.[32]"
 msgstr ""
 
-#. Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t...
 #: paragraph:29,sentence:127
+msgctxt "Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t..."
 msgid "Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical."
 msgstr ""
 
-#. Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t...
 #: paragraph:29,sentence:128
+msgctxt "Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t..."
 msgid "I’m sure that when I asked God if I should go with my friends out to Arizona for this new life in forming a small spiritual community of friends, and the answer I got was “Go!” that some interesting plans for my healing were put in place."
 msgstr ""
 
-#. Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t...
 #: paragraph:29,sentence:129
+msgctxt "Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t..."
 msgid "I had spent my life avoiding any kind of bullies, after a rough encounter in the third grade, leaving me with a firm but tearful decision to “never trust anyone again.” That firm rule had never really been challenged until my move to Arizona."
 msgstr ""
 
-#. Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t...
 #: paragraph:29,sentence:130
+msgctxt "Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t..."
 msgid "When I went for a job, there were only two available: skinning coyotes (seasonal) and counseling inmates at the local prison."
 msgstr ""
 
-#. Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t...
 #: paragraph:29,sentence:131
+msgctxt "Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t..."
 msgid "I wanted neither, but I had to earn money to pay off my part of the mortgage."
 msgstr ""
 
-#. Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t...
 #: paragraph:29,sentence:132
+msgctxt "Paragraph 29: Although there are many examples of how Bill’s supportive attitude led people to greater forgiveness, and thus to a more rewarding and helpful life, excerpts from Bruce’s essay are typical. I’m sure t..."
 msgid "The prison paid better and was steady pay, so that’s what I chose."
 msgstr ""
 
-#. Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But...
 #: paragraph:30,sentence:133
+msgctxt "Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But..."
 msgid "My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates."
 msgstr ""
 
-#. Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But...
 #: paragraph:30,sentence:134
+msgctxt "Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But..."
 msgid "Not a great beginning, especially when I really didn’t want to be there."
 msgstr ""
 
-#. Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But...
 #: paragraph:30,sentence:135
+msgctxt "Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But..."
 msgid "But since skinning coyotes was definitely worse, I knew I had to find a way through this."
 msgstr ""
 
-#. Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But...
 #: paragraph:30,sentence:136
+msgctxt "Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But..."
 msgid "I went home that night to the peace and quiet of our new home and tried to sort it out."
 msgstr ""
 
-#. Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But...
 #: paragraph:30,sentence:137
+msgctxt "Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But..."
 msgid "I figured that the inmates had responded to my fears, and found an opportunity to feel stronger than me by comparison, especially in their one-down position in prison."
 msgstr ""
 
-#. Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But...
 #: paragraph:30,sentence:138
+msgctxt "Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But..."
 msgid "I decided then and there to choose to go beyond my fears of the inmate bullies and focus on my desire to be of help in whatever way I could."
 msgstr ""
 
-#. Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But...
 #: paragraph:30,sentence:139
+msgctxt "Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But..."
 msgid "I went back to work the next morning, and I never had another negative encounter with them in the twenty-seven years that followed."
 msgstr ""
 
-#. Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But...
 #: paragraph:30,sentence:140
+msgctxt "Paragraph 30: My first day on the prison yard was a nightmare, as I got all sorts of comments and catcalls and whistles from the inmates. Not a great beginning, especially when I really didn’t want to be there. But..."
 msgid "In fact, one of the highest compliments I’ve ever received came from a fellow counselor, who told me that if ever a riot were to break out among the inmates, he was planning to stand behind me because no one would ever hurt me."
 msgstr ""
 
-#. Paragraph 31: Bill helped me to develop this inner calm from his own example. And when I was asked to work with medium-custody inmates, a rougher, tougher crowd, I found myself dealing with personal attacks again, ...
 #: paragraph:31,sentence:141
+msgctxt "Paragraph 31: Bill helped me to develop this inner calm from his own example. And when I was asked to work with medium-custody inmates, a rougher, tougher crowd, I found myself dealing with personal attacks again, ..."
 msgid "Bill helped me to develop this inner calm from his own example."
 msgstr ""
 
-#. Paragraph 31: Bill helped me to develop this inner calm from his own example. And when I was asked to work with medium-custody inmates, a rougher, tougher crowd, I found myself dealing with personal attacks again, ...
 #: paragraph:31,sentence:142
+msgctxt "Paragraph 31: Bill helped me to develop this inner calm from his own example. And when I was asked to work with medium-custody inmates, a rougher, tougher crowd, I found myself dealing with personal attacks again, ..."
 msgid "And when I was asked to work with medium-custody inmates, a rougher, tougher crowd, I found myself dealing with personal attacks again, this time in the classroom from those who didn’t want to be there, but were required to be “for their own good.” At this point, again with some time spent with Bill under my belt, I found myself not caring about the obvious barbs intended to put me down, but caring more for the inmates’ well-being."
 msgstr ""
 
-#. Paragraph 31: Bill helped me to develop this inner calm from his own example. And when I was asked to work with medium-custody inmates, a rougher, tougher crowd, I found myself dealing with personal attacks again, ...
 #: paragraph:31,sentence:143
+msgctxt "Paragraph 31: Bill helped me to develop this inner calm from his own example. And when I was asked to work with medium-custody inmates, a rougher, tougher crowd, I found myself dealing with personal attacks again, ..."
 msgid "It was a new-found freedom that came from this that eventually led to a greater acceptance, appreciation, and even joyous love for the inmate “bullies” that I had so assiduously avoided all my life."
 msgstr ""
 
-#. Paragraph 32: Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again...
 #: paragraph:32,sentence:144
+msgctxt "Paragraph 32: Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again..."
 msgid "Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again, and yet I have met him in so many others, especially in prison"
 msgstr ""
 
-#. Paragraph 32: Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again...
 #: paragraph:32,sentence:145
+msgctxt "Paragraph 32: Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again..."
 msgid "Even the inmates have told me, “I know you"
 msgstr ""
 
-#. Paragraph 32: Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again...
 #: paragraph:32,sentence:146
+msgctxt "Paragraph 32: Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again..."
 msgid "You’re the person I used to give such a hard time to.” We both knew that we were speaking of substitutes, later in life, but we could see that we were both moving beyond our old roles"
 msgstr ""
 
-#. Paragraph 32: Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again...
 #: paragraph:32,sentence:147
+msgctxt "Paragraph 32: Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again..."
 msgid "So I thank Bill for his loving encouragement not to be afraid"
 msgstr ""
 
-#. Paragraph 32: Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again...
 #: paragraph:32,sentence:148
+msgctxt "Paragraph 32: Understanding his [the childhood bully’s] background as well as my own attack thoughts helped me to break down the barriers I had built toward everyone and forgive my “bully.” I’ve never met him again..."
 msgid "I know it meant a lot to have that deeper part of me recognized and energized by his knowing gaze.[33]"
 msgstr ""
 
-#. Paragraph 33: Bill had not always been consistently supportive and accepting. For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together. She ...
 #: paragraph:33,sentence:149
+msgctxt "Paragraph 33: Bill had not always been consistently supportive and accepting. For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together. She ..."
 msgid "Bill had not always been consistently supportive and accepting."
 msgstr ""
 
-#. Paragraph 33: Bill had not always been consistently supportive and accepting. For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together. She ...
 #: paragraph:33,sentence:150
+msgctxt "Paragraph 33: Bill had not always been consistently supportive and accepting. For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together. She ..."
 msgid "For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together."
 msgstr ""
 
-#. Paragraph 33: Bill had not always been consistently supportive and accepting. For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together. She ...
 #: paragraph:33,sentence:151
+msgctxt "Paragraph 33: Bill had not always been consistently supportive and accepting. For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together. She ..."
 msgid "She apologized and indicated that she and her friend had simply forgotten about his going, but that it certainly wasn’t deliberate."
 msgstr ""
 
-#. Paragraph 33: Bill had not always been consistently supportive and accepting. For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together. She ...
 #: paragraph:33,sentence:152
+msgctxt "Paragraph 33: Bill had not always been consistently supportive and accepting. For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together. She ..."
 msgid "Bill replied that that was worse, interpreting her explanation as an obvious rejection, though perhaps not on a conscious level."
 msgstr ""
 
-#. Paragraph 33: Bill had not always been consistently supportive and accepting. For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together. She ...
 #: paragraph:33,sentence:153
+msgctxt "Paragraph 33: Bill had not always been consistently supportive and accepting. For instance, one of his friends at the CIA told of going to lunch without him after they had specifically planned to get together. She ..."
 msgid "He told her, “We go to lunch together but then at a subconscious level I’m not someone you want to be with.” She still remembers being quite taken aback by that comment because he was serious, and not playful, about feeling rejected."
 msgstr ""
 
-#. Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id...
 #: paragraph:34,sentence:154
+msgctxt "Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id..."
 msgid "A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation"
 msgstr ""
 
-#. Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id...
 #: paragraph:34,sentence:155
+msgctxt "Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id..."
 msgid "We love the idea that something mystical and unexplainable can occur"
 msgstr ""
 
-#. Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id...
 #: paragraph:34,sentence:156
+msgctxt "Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id..."
 msgid "A true magician can project and change the experience of those he influences"
 msgstr ""
 
-#. Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id...
 #: paragraph:34,sentence:157
+msgctxt "Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id..."
 msgid "In that way, Bill was like a magician, although it was not contrived but automatic"
 msgstr ""
 
-#. Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id...
 #: paragraph:34,sentence:158
+msgctxt "Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id..."
 msgid "Through his openness to them, he could invite people into a sense of Self and was delighted as he witnessed that occur"
 msgstr ""
 
-#. Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id...
 #: paragraph:34,sentence:159
+msgctxt "Paragraph 34: A famous magician of the early twentieth century, David Verner, aka Dai Vernon, spoke of the deep hunger within us for the “numinous”—divine power, creative energy, spiritual elevation. We love the id..."
 msgid "Frances Vaughan speaks of a particularly important aspect of Bill’s acceptance:"
 msgstr ""
 
-#. Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality...
 #: paragraph:35,sentence:160
+msgctxt "Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality..."
 msgid "One of Bill’s gifts was a presence that enabled people to grow."
 msgstr ""
 
-#. Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality...
 #: paragraph:35,sentence:161
+msgctxt "Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality..."
 msgid "He was very accepting."
 msgstr ""
 
-#. Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality...
 #: paragraph:35,sentence:162
+msgctxt "Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality..."
 msgid "He never tried to impose his own views on anybody."
 msgstr ""
 
-#. Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality...
 #: paragraph:35,sentence:163
+msgctxt "Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality..."
 msgid "I would describe his way of being as an absence of personality noise."
 msgstr ""
 
-#. Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality...
 #: paragraph:35,sentence:164
+msgctxt "Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality..."
 msgid "He created a safe place for people to be who they were."
 msgstr ""
 
-#. Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality...
 #: paragraph:35,sentence:165
+msgctxt "Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality..."
 msgid "He was definitely very attentive to whomever he was with; it was as though he didn’t need to take up any room."
 msgstr ""
 
-#. Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality...
 #: paragraph:35,sentence:166
+msgctxt "Paragraph 35: One of Bill’s gifts was a presence that enabled people to grow. He was very accepting. He never tried to impose his own views on anybody. I would describe his way of being as an absence of personality..."
 msgid "By making a space for you to fill up, he made you feel that you could just be who you are."
 msgstr ""
 
-#. Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou...
 #: paragraph:36,sentence:167
+msgctxt "Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou..."
 msgid "When I talked to Bill I felt he really listened and could understand what I had to say"
 msgstr ""
 
-#. Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou...
 #: paragraph:36,sentence:168
+msgctxt "Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou..."
 msgid "That was one of the nicest things about him"
 msgstr ""
 
-#. Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou...
 #: paragraph:36,sentence:169
+msgctxt "Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou..."
 msgid "He wasn’t full of his own agenda or ideas about the way things should be"
 msgstr ""
 
-#. Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou...
 #: paragraph:36,sentence:170
+msgctxt "Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou..."
 msgid "He provided a spaciousness and a quality of listening that was very deep"
 msgstr ""
 
-#. Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou...
 #: paragraph:36,sentence:171
+msgctxt "Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou..."
 msgid "I felt he gave loving, non-interfering attention to everyone"
 msgstr ""
 
-#. Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou...
 #: paragraph:36,sentence:172
+msgctxt "Paragraph 36: When I talked to Bill I felt he really listened and could understand what I had to say. That was one of the nicest things about him. He wasn’t full of his own agenda or ideas about the way things shou..."
 msgid "That is a great gift that can be very healing.[34]"
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:173
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "These observations include several critically important ideas."
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:174
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “I, me, and mine—it’s all about me.” No one warms to that person and yet we all believe that we require some degree of self-promotion to be happy, secure, and prosperous."
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:175
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "However, if you ask someone to elaborate on how that happens, you will not get a valid answer."
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:176
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "We have fallen into the trap of believing that taking up space is good and necessary, competing for it through attempts to be special."
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:177
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "The philosopher Douglas Harding often speaks of “disappearing in favor of the other person,” another way of stating Bill’s capacity for open acceptance."
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:178
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "It seems a paradox that the more wholeheartedly present we are for others, the more we “disappear,” the more everyone gains."
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:179
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "This contradicts our earliest programming of how to “stake out our territory.” If we gathered up all the “I, me, and mine” thought patterns and rolled them up to almost nothing—figuratively speaking—our happiness would increase."
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:180
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "Focusing on the other, rather than self, is a major component of forgiveness."
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:181
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "One caution: taking up no space does not mean withholding, hiding, or defending."
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:182
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "Keeping things bottled up for fear of being unacceptable is hardly a no-space situation."
 msgstr ""
 
-#. Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “...
 #: paragraph:37,sentence:183
+msgctxt "Paragraph 37: These observations include several critically important ideas. First, we all know individuals who take up a great deal of psychic space, who seem to take all the air out of a room, who dominate with “..."
 msgid "Feeling inferior with the need to hide can result in one’s being an irritable, high-maintenance person, indeed."
 msgstr ""
 
-#. Paragraph 38: A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parti...
 #: paragraph:38,sentence:184
+msgctxt "Paragraph 38: A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parti..."
 msgid "A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parties"
 msgstr ""
 
-#. Paragraph 38: A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parti...
 #: paragraph:38,sentence:185
+msgctxt "Paragraph 38: A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parti..."
 msgid "The one being listened to feels completely and unconditionally accepted, and it quiets the mind of the listener, bringing both into the present moment—the only time a change of mind can occur"
 msgstr ""
 
-#. Paragraph 38: A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parti...
 #: paragraph:38,sentence:186
+msgctxt "Paragraph 38: A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parti..."
 msgid "Undivided attention also clears the mind enough so that guidance or intuition about what to do or how to change perspective becomes possible"
 msgstr ""
 
-#. Paragraph 38: A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parti...
 #: paragraph:38,sentence:187
+msgctxt "Paragraph 38: A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parti..."
 msgid "Counterintuitively, “taking up no space” incurs no sacrifice whatsoever"
 msgstr ""
 
-#. Paragraph 38: A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parti...
 #: paragraph:38,sentence:188
+msgctxt "Paragraph 38: A second important aspect of the acceptance Bill demonstrated was his capacity to listen fully, to give another his undivided attention regardless of the subject matter; this is healing for both parti..."
 msgid "ACIM, understanding that we believe this change of outlook is dangerous, states:"
 msgstr ""
 
-#. Paragraph 39: Therefore, the period of overlap is apt to be one in which the teacher of God feels called upon to sacrifice his own best interests on behalf of truth. He has not realized as yet how wholly impossible...
 #: paragraph:39,sentence:189
+msgctxt "Paragraph 39: Therefore, the period of overlap is apt to be one in which the teacher of God feels called upon to sacrifice his own best interests on behalf of truth. He has not realized as yet how wholly impossible..."
 msgid "Therefore, the period of overlap is apt to be one in which the teacher of God feels called upon to sacrifice his own best interests on behalf of truth"
 msgstr ""
 
-#. Paragraph 39: Therefore, the period of overlap is apt to be one in which the teacher of God feels called upon to sacrifice his own best interests on behalf of truth. He has not realized as yet how wholly impossible...
 #: paragraph:39,sentence:190
+msgctxt "Paragraph 39: Therefore, the period of overlap is apt to be one in which the teacher of God feels called upon to sacrifice his own best interests on behalf of truth. He has not realized as yet how wholly impossible..."
 msgid "He has not realized as yet how wholly impossible such a demand would be"
 msgstr ""
 
-#. Paragraph 39: Therefore, the period of overlap is apt to be one in which the teacher of God feels called upon to sacrifice his own best interests on behalf of truth. He has not realized as yet how wholly impossible...
 #: paragraph:39,sentence:191
+msgctxt "Paragraph 39: Therefore, the period of overlap is apt to be one in which the teacher of God feels called upon to sacrifice his own best interests on behalf of truth. He has not realized as yet how wholly impossible..."
 msgid "He can learn this only as he actually does give up the valueless [ego self-promotion]"
 msgstr ""
 
-#. Paragraph 39: Therefore, the period of overlap is apt to be one in which the teacher of God feels called upon to sacrifice his own best interests on behalf of truth. He has not realized as yet how wholly impossible...
 #: paragraph:39,sentence:192
+msgctxt "Paragraph 39: Therefore, the period of overlap is apt to be one in which the teacher of God feels called upon to sacrifice his own best interests on behalf of truth. He has not realized as yet how wholly impossible..."
 msgid "Through this, he learns that where he anticipated grief, he finds a happy lightheartedness instead; where he thought something was asked of him, he finds a gift bestowed on him.[35]"
 msgstr ""
 
-#. Paragraph 40: Deeply listening to others is an act of love. Where we think that genuinely deferring to others will bring us loneliness and unhappiness, instead we find ourselves included and revered. The following ...
 #: paragraph:40,sentence:193
+msgctxt "Paragraph 40: Deeply listening to others is an act of love. Where we think that genuinely deferring to others will bring us loneliness and unhappiness, instead we find ourselves included and revered. The following ..."
 msgid "Deeply listening to others is an act of love."
 msgstr ""
 
-#. Paragraph 40: Deeply listening to others is an act of love. Where we think that genuinely deferring to others will bring us loneliness and unhappiness, instead we find ourselves included and revered. The following ...
 #: paragraph:40,sentence:194
+msgctxt "Paragraph 40: Deeply listening to others is an act of love. Where we think that genuinely deferring to others will bring us loneliness and unhappiness, instead we find ourselves included and revered. The following ..."
 msgid "Where we think that genuinely deferring to others will bring us loneliness and unhappiness, instead we find ourselves included and revered."
 msgstr ""
 
-#. Paragraph 40: Deeply listening to others is an act of love. Where we think that genuinely deferring to others will bring us loneliness and unhappiness, instead we find ourselves included and revered. The following ...
 #: paragraph:40,sentence:195
+msgctxt "Paragraph 40: Deeply listening to others is an act of love. Where we think that genuinely deferring to others will bring us loneliness and unhappiness, instead we find ourselves included and revered. The following ..."
 msgid "The following passages from the Urtext indicate some of Bill’s errors that he corrected through deep listening and engaging with others."
 msgstr ""
 
-#. Paragraph 41: Tell Bill the reason he was so strained yesterday is because he allowed himself a number of fear-producing attitudes. They were fleeting enough to be more will-of-the-wisps than serious will-errors bu...
 #: paragraph:41,sentence:196
+msgctxt "Paragraph 41: Tell Bill the reason he was so strained yesterday is because he allowed himself a number of fear-producing attitudes. They were fleeting enough to be more will-of-the-wisps than serious will-errors bu..."
 msgid "Tell Bill the reason he was so strained yesterday is because he allowed himself a number of fear-producing attitudes"
 msgstr ""
 
-#. Paragraph 41: Tell Bill the reason he was so strained yesterday is because he allowed himself a number of fear-producing attitudes. They were fleeting enough to be more will-of-the-wisps than serious will-errors bu...
 #: paragraph:41,sentence:197
+msgctxt "Paragraph 41: Tell Bill the reason he was so strained yesterday is because he allowed himself a number of fear-producing attitudes. They were fleeting enough to be more will-of-the-wisps than serious will-errors bu..."
 msgid "They were fleeting enough to be more will-of-the-wisps than serious will-errors but unless he watches this kind of thing, he will find the notes fearful, and knowing him well, will mis-distantiate. [In short, he would keep the notes at an intellectual or emotional distance inappropriately.][36]"
 msgstr ""
 
-#. Paragraph 42: You, Bill, have not made consistent efforts to change your mind except through applying old habit patterns to new ideas. But you have learned, and learned it better than Helen, that your mind gains co...
 #: paragraph:42,sentence:198
+msgctxt "Paragraph 42: You, Bill, have not made consistent efforts to change your mind except through applying old habit patterns to new ideas. But you have learned, and learned it better than Helen, that your mind gains co..."
 msgid "You, Bill, have not made consistent efforts to change your mind except through applying old habit patterns to new ideas."
 msgstr ""
 
-#. Paragraph 42: You, Bill, have not made consistent efforts to change your mind except through applying old habit patterns to new ideas. But you have learned, and learned it better than Helen, that your mind gains co...
 #: paragraph:42,sentence:199
+msgctxt "Paragraph 42: You, Bill, have not made consistent efforts to change your mind except through applying old habit patterns to new ideas. But you have learned, and learned it better than Helen, that your mind gains co..."
 msgid "But you have learned, and learned it better than Helen, that your mind gains control over itself when you direct it genuinely toward perceiving someone else truly."
 msgstr ""
 
-#. Paragraph 42: You, Bill, have not made consistent efforts to change your mind except through applying old habit patterns to new ideas. But you have learned, and learned it better than Helen, that your mind gains co...
 #: paragraph:42,sentence:200
+msgctxt "Paragraph 42: You, Bill, have not made consistent efforts to change your mind except through applying old habit patterns to new ideas. But you have learned, and learned it better than Helen, that your mind gains co..."
 msgid "Your lack of vitality is due to your former marked effort at solving your needless depression and anxiety through disinterest."
 msgstr ""
 
-#. Paragraph 42: You, Bill, have not made consistent efforts to change your mind except through applying old habit patterns to new ideas. But you have learned, and learned it better than Helen, that your mind gains co...
 #: paragraph:42,sentence:201
+msgctxt "Paragraph 42: You, Bill, have not made consistent efforts to change your mind except through applying old habit patterns to new ideas. But you have learned, and learned it better than Helen, that your mind gains co..."
 msgid "Because your ego was protected by this unfortunate negative attribute, you are afraid to abandon it."
 msgstr ""
 
-#. Paragraph 43: When you have given up this voluntary dis-spiriting, you have already seen how your mind can focus and rise above fatigue, and heal. But you are not sufficiently vigilant against the demands of your e...
 #: paragraph:43,sentence:202
+msgctxt "Paragraph 43: When you have given up this voluntary dis-spiriting, you have already seen how your mind can focus and rise above fatigue, and heal. But you are not sufficiently vigilant against the demands of your e..."
 msgid "When you have given up this voluntary dis-spiriting, you have already seen how your mind can focus and rise above fatigue, and heal"
 msgstr ""
 
-#. Paragraph 43: When you have given up this voluntary dis-spiriting, you have already seen how your mind can focus and rise above fatigue, and heal. But you are not sufficiently vigilant against the demands of your e...
 #: paragraph:43,sentence:203
+msgctxt "Paragraph 43: When you have given up this voluntary dis-spiriting, you have already seen how your mind can focus and rise above fatigue, and heal. But you are not sufficiently vigilant against the demands of your e..."
 msgid "But you are not sufficiently vigilant against the demands of your ego that you disengage yourself.[37]"
 msgstr ""
 
-#. Paragraph 44: Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers. Withdrawal is frightening and you do not recognize all the forms it ta...
 #: paragraph:44,sentence:204
+msgctxt "Paragraph 44: Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers. Withdrawal is frightening and you do not recognize all the forms it ta..."
 msgid "Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers"
 msgstr ""
 
-#. Paragraph 44: Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers. Withdrawal is frightening and you do not recognize all the forms it ta...
 #: paragraph:44,sentence:205
+msgctxt "Paragraph 44: Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers. Withdrawal is frightening and you do not recognize all the forms it ta..."
 msgid "Withdrawal is frightening and you do not recognize all the forms it takes in you. . ."
 msgstr ""
 
-#. Paragraph 44: Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers. Withdrawal is frightening and you do not recognize all the forms it ta...
 #: paragraph:44,sentence:206
+msgctxt "Paragraph 44: Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers. Withdrawal is frightening and you do not recognize all the forms it ta..."
 msgid "You, Bill, will learn somewhat differently because you are afraid of all complete involvements, and believe that they will lessen you"
 msgstr ""
 
-#. Paragraph 44: Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers. Withdrawal is frightening and you do not recognize all the forms it ta...
 #: paragraph:44,sentence:207
+msgctxt "Paragraph 44: Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers. Withdrawal is frightening and you do not recognize all the forms it ta..."
 msgid "You have learned to be so much more clear-sighted about this that you should be ready to oppose it in yourself relatively easily"
 msgstr ""
 
-#. Paragraph 44: Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers. Withdrawal is frightening and you do not recognize all the forms it ta...
 #: paragraph:44,sentence:208
+msgctxt "Paragraph 44: Do not disturb yourself about repression, Bill, but do train yourself to be alert to any tendency to withdraw from your brothers. Withdrawal is frightening and you do not recognize all the forms it ta..."
 msgid "As you come closer to a brother, you do approach Me, and as you withdraw from him, I become distant to you.[38]"
 msgstr ""
 
-#. Paragraph 45: Detachment is essentially a weaker form of dissociation. This is one of the major areas of withholding that both you and Bill are engaging in.[39] Tell Bill that his delaying tactics are holding him b...
 #: paragraph:45,sentence:209
+msgctxt "Paragraph 45: Detachment is essentially a weaker form of dissociation. This is one of the major areas of withholding that both you and Bill are engaging in.[39] Tell Bill that his delaying tactics are holding him b..."
 msgid "Detachment is essentially a weaker form of dissociation"
 msgstr ""
 
-#. Paragraph 45: Detachment is essentially a weaker form of dissociation. This is one of the major areas of withholding that both you and Bill are engaging in.[39] Tell Bill that his delaying tactics are holding him b...
 #: paragraph:45,sentence:210
+msgctxt "Paragraph 45: Detachment is essentially a weaker form of dissociation. This is one of the major areas of withholding that both you and Bill are engaging in.[39] Tell Bill that his delaying tactics are holding him b..."
 msgid "This is one of the major areas of withholding that both you and Bill are engaging in.[39] Tell Bill that his delaying tactics are holding him back"
 msgstr ""
 
-#. Paragraph 45: Detachment is essentially a weaker form of dissociation. This is one of the major areas of withholding that both you and Bill are engaging in.[39] Tell Bill that his delaying tactics are holding him b...
 #: paragraph:45,sentence:211
+msgctxt "Paragraph 45: Detachment is essentially a weaker form of dissociation. This is one of the major areas of withholding that both you and Bill are engaging in.[39] Tell Bill that his delaying tactics are holding him b..."
 msgid "He does not really understand detachment, distantiation, and withdrawal"
 msgstr ""
 
-#. Paragraph 45: Detachment is essentially a weaker form of dissociation. This is one of the major areas of withholding that both you and Bill are engaging in.[39] Tell Bill that his delaying tactics are holding him b...
 #: paragraph:45,sentence:212
+msgctxt "Paragraph 45: Detachment is essentially a weaker form of dissociation. This is one of the major areas of withholding that both you and Bill are engaging in.[39] Tell Bill that his delaying tactics are holding him b..."
 msgid "He is interpreting them as “holding himself aloof” from the Atonement.[40]"
 msgstr ""
 
-#. Paragraph 46: There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world. For instance, he always preferred to sit by a door at meetings or in an aisl...
 #: paragraph:46,sentence:213
+msgctxt "Paragraph 46: There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world. For instance, he always preferred to sit by a door at meetings or in an aisl..."
 msgid "There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world."
 msgstr ""
 
-#. Paragraph 46: There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world. For instance, he always preferred to sit by a door at meetings or in an aisl...
 #: paragraph:46,sentence:214
+msgctxt "Paragraph 46: There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world. For instance, he always preferred to sit by a door at meetings or in an aisl..."
 msgid "For instance, he always preferred to sit by a door at meetings or in an aisle seat at the theater or concert hall, any place that facilitated a quick escape."
 msgstr ""
 
-#. Paragraph 46: There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world. For instance, he always preferred to sit by a door at meetings or in an aisl...
 #: paragraph:46,sentence:215
+msgctxt "Paragraph 46: There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world. For instance, he always preferred to sit by a door at meetings or in an aisl..."
 msgid "Ken noted Bill’s propensity for standing in the doorway of Helen’s office as they met during the editing phase, not only as an escape route but also to retreat to his office for a cigarette, another type of escape."
 msgstr ""
 
-#. Paragraph 46: There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world. For instance, he always preferred to sit by a door at meetings or in an aisl...
 #: paragraph:46,sentence:216
+msgctxt "Paragraph 46: There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world. For instance, he always preferred to sit by a door at meetings or in an aisl..."
 msgid "Also, when one is uncomfortable in a situation and can’t “escape” geographically, it is common simply to detach from it and disappear emotionally, a defense universally employed until one realizes it doesn’t bring happiness or peace of mind."
 msgstr ""
 
-#. Paragraph 46: There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world. For instance, he always preferred to sit by a door at meetings or in an aisl...
 #: paragraph:46,sentence:217
+msgctxt "Paragraph 46: There is much evidence that Bill often felt trapped, an interior experience but one he tried to rectify in his outer world. For instance, he always preferred to sit by a door at meetings or in an aisl..."
 msgid "Bill used that strategy as well."
 msgstr ""
 
-#. Paragraph 47: Bill is better at understanding the need to study the notes than you are, but neither of you realizes that many of the problems you keep being faced with may already have been solved there. You do not...
 #: paragraph:47,sentence:218
+msgctxt "Paragraph 47: Bill is better at understanding the need to study the notes than you are, but neither of you realizes that many of the problems you keep being faced with may already have been solved there. You do not..."
 msgid "Bill is better at understanding the need to study the notes than you are, but neither of you realizes that many of the problems you keep being faced with may already have been solved there."
 msgstr ""
 
-#. Paragraph 47: Bill is better at understanding the need to study the notes than you are, but neither of you realizes that many of the problems you keep being faced with may already have been solved there. You do not...
 #: paragraph:47,sentence:219
+msgctxt "Paragraph 47: Bill is better at understanding the need to study the notes than you are, but neither of you realizes that many of the problems you keep being faced with may already have been solved there. You do not..."
 msgid "You do not think of the notes in this way at all."
 msgstr ""
 
-#. Paragraph 47: Bill is better at understanding the need to study the notes than you are, but neither of you realizes that many of the problems you keep being faced with may already have been solved there. You do not...
 #: paragraph:47,sentence:220
+msgctxt "Paragraph 47: Bill is better at understanding the need to study the notes than you are, but neither of you realizes that many of the problems you keep being faced with may already have been solved there. You do not..."
 msgid "Bill does from time to time, but he generally says, “It’s probably in the notes,” and doesn’t look it up."
 msgstr ""
 
-#. Paragraph 47: Bill is better at understanding the need to study the notes than you are, but neither of you realizes that many of the problems you keep being faced with may already have been solved there. You do not...
 #: paragraph:47,sentence:221
+msgctxt "Paragraph 47: Bill is better at understanding the need to study the notes than you are, but neither of you realizes that many of the problems you keep being faced with may already have been solved there. You do not..."
 msgid "He believes that, although he reads them over, they cannot really help him until they are complete."
 msgstr ""
 
-#. Paragraph 48: First of all, he cannot be sure of this unless he tries. Second, they would be completed if both of you so willed. You vaguely know that the course is intended for some sort of preparation. I can only...
 #: paragraph:48,sentence:222
+msgctxt "Paragraph 48: First of all, he cannot be sure of this unless he tries. Second, they would be completed if both of you so willed. You vaguely know that the course is intended for some sort of preparation. I can only..."
 msgid "First of all, he cannot be sure of this unless he tries."
 msgstr ""
 
-#. Paragraph 48: First of all, he cannot be sure of this unless he tries. Second, they would be completed if both of you so willed. You vaguely know that the course is intended for some sort of preparation. I can only...
 #: paragraph:48,sentence:223
+msgctxt "Paragraph 48: First of all, he cannot be sure of this unless he tries. Second, they would be completed if both of you so willed. You vaguely know that the course is intended for some sort of preparation. I can only..."
 msgid "Second, they would be completed if both of you so willed."
 msgstr ""
 
-#. Paragraph 48: First of all, he cannot be sure of this unless he tries. Second, they would be completed if both of you so willed. You vaguely know that the course is intended for some sort of preparation. I can only...
 #: paragraph:48,sentence:224
+msgctxt "Paragraph 48: First of all, he cannot be sure of this unless he tries. Second, they would be completed if both of you so willed. You vaguely know that the course is intended for some sort of preparation. I can only..."
 msgid "You vaguely know that the course is intended for some sort of preparation."
 msgstr ""
 
-#. Paragraph 48: First of all, he cannot be sure of this unless he tries. Second, they would be completed if both of you so willed. You vaguely know that the course is intended for some sort of preparation. I can only...
 #: paragraph:48,sentence:225
+msgctxt "Paragraph 48: First of all, he cannot be sure of this unless he tries. Second, they would be completed if both of you so willed. You vaguely know that the course is intended for some sort of preparation. I can only..."
 msgid "I can only say that you are not prepared."
 msgstr ""
 
-#. Paragraph 49: I was amused when you reminded Bill that he, too, was being prepared for something quite unexpected and he said he was not at all curious about what it was. This disinterest is very characteristic of ...
 #: paragraph:49,sentence:226
+msgctxt "Paragraph 49: I was amused when you reminded Bill that he, too, was being prepared for something quite unexpected and he said he was not at all curious about what it was. This disinterest is very characteristic of ..."
 msgid "I was amused when you reminded Bill that he, too, was being prepared for something quite unexpected and he said he was not at all curious about what it was"
 msgstr ""
 
-#. Paragraph 49: I was amused when you reminded Bill that he, too, was being prepared for something quite unexpected and he said he was not at all curious about what it was. This disinterest is very characteristic of ...
 #: paragraph:49,sentence:227
+msgctxt "Paragraph 49: I was amused when you reminded Bill that he, too, was being prepared for something quite unexpected and he said he was not at all curious about what it was. This disinterest is very characteristic of ..."
 msgid "This disinterest is very characteristic of him when he is afraid"
 msgstr ""
 
-#. Paragraph 49: I was amused when you reminded Bill that he, too, was being prepared for something quite unexpected and he said he was not at all curious about what it was. This disinterest is very characteristic of ...
 #: paragraph:49,sentence:228
+msgctxt "Paragraph 49: I was amused when you reminded Bill that he, too, was being prepared for something quite unexpected and he said he was not at all curious about what it was. This disinterest is very characteristic of ..."
 msgid "Interest and fear do not go together as your respective behavior clearly shows.[41]"
 msgstr ""
 
-#. Paragraph 50: Bill’s behavior is not chaotic because he is not so much goal-divided as not goal-oriented. Where Helen has over-invested in many goals, Bill has under-invested in all goals. He has the advantage of p...
 #: paragraph:50,sentence:229
+msgctxt "Paragraph 50: Bill’s behavior is not chaotic because he is not so much goal-divided as not goal-oriented. Where Helen has over-invested in many goals, Bill has under-invested in all goals. He has the advantage of p..."
 msgid "Bill’s behavior is not chaotic because he is not so much goal-divided as not goal-oriented"
 msgstr ""
 
-#. Paragraph 50: Bill’s behavior is not chaotic because he is not so much goal-divided as not goal-oriented. Where Helen has over-invested in many goals, Bill has under-invested in all goals. He has the advantage of p...
 #: paragraph:50,sentence:230
+msgctxt "Paragraph 50: Bill’s behavior is not chaotic because he is not so much goal-divided as not goal-oriented. Where Helen has over-invested in many goals, Bill has under-invested in all goals. He has the advantage of p..."
 msgid "Where Helen has over-invested in many goals, Bill has under-invested in all goals"
 msgstr ""
 
-#. Paragraph 50: Bill’s behavior is not chaotic because he is not so much goal-divided as not goal-oriented. Where Helen has over-invested in many goals, Bill has under-invested in all goals. He has the advantage of p...
 #: paragraph:50,sentence:231
+msgctxt "Paragraph 50: Bill’s behavior is not chaotic because he is not so much goal-divided as not goal-oriented. Where Helen has over-invested in many goals, Bill has under-invested in all goals. He has the advantage of p..."
 msgid "He has the advantage of potentially greater freedom from dis-tractability, but he does not care enough to use it"
 msgstr ""
 
-#. Paragraph 50: Bill’s behavior is not chaotic because he is not so much goal-divided as not goal-oriented. Where Helen has over-invested in many goals, Bill has under-invested in all goals. He has the advantage of p...
 #: paragraph:50,sentence:232
+msgctxt "Paragraph 50: Bill’s behavior is not chaotic because he is not so much goal-divided as not goal-oriented. Where Helen has over-invested in many goals, Bill has under-invested in all goals. He has the advantage of p..."
 msgid "Helen has the advantage of great effort, but she keeps losing sight of the goal.[42]"
 msgstr ""
 
-#. Paragraph 51: Bill has very intelligently suggested that you both should set yourself the goal of really studying for this course. There can be no doubt of the wisdom of this decision for any student who wants to p...
 #: paragraph:51,sentence:233
+msgctxt "Paragraph 51: Bill has very intelligently suggested that you both should set yourself the goal of really studying for this course. There can be no doubt of the wisdom of this decision for any student who wants to p..."
 msgid "Bill has very intelligently suggested that you both should set yourself the goal of really studying for this course"
 msgstr ""
 
-#. Paragraph 51: Bill has very intelligently suggested that you both should set yourself the goal of really studying for this course. There can be no doubt of the wisdom of this decision for any student who wants to p...
 #: paragraph:51,sentence:234
+msgctxt "Paragraph 51: Bill has very intelligently suggested that you both should set yourself the goal of really studying for this course. There can be no doubt of the wisdom of this decision for any student who wants to p..."
 msgid "There can be no doubt of the wisdom of this decision for any student who wants to pass it"
 msgstr ""
 
-#. Paragraph 51: Bill has very intelligently suggested that you both should set yourself the goal of really studying for this course. There can be no doubt of the wisdom of this decision for any student who wants to p...
 #: paragraph:51,sentence:235
+msgctxt "Paragraph 51: Bill has very intelligently suggested that you both should set yourself the goal of really studying for this course. There can be no doubt of the wisdom of this decision for any student who wants to p..."
 msgid "But, knowing your individual weaknesses as learners, and being a teacher with some experience, I must remind you that learning and wanting to learn are inseparable.[43]"
 msgstr ""
 

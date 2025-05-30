@@ -7,8 +7,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "X-Generator: book-importer\n"
 
-#. Paragraph 1: Table of Contents Front Cover Also by Carol Howe
 #: paragraph:1,sentence:1
+msgctxt "Paragraph 1: Table of Contents Front Cover Also by Carol Howe"
 msgid "Table of Contents Front Cover Also by Carol Howe"
 msgstr ""
 

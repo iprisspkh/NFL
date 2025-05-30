@@ -7,588 +7,588 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "X-Generator: book-importer\n"
 
-#. Paragraph 1: After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between. He would come to Denver and stay with my family—my husband and two young boys—a...
 #: paragraph:1,sentence:1
+msgctxt "Paragraph 1: After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between. He would come to Denver and stay with my family—my husband and two young boys—a..."
 msgid "After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between."
 msgstr ""
 
-#. Paragraph 1: After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between. He would come to Denver and stay with my family—my husband and two young boys—a...
 #: paragraph:1,sentence:2
+msgctxt "Paragraph 1: After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between. He would come to Denver and stay with my family—my husband and two young boys—a..."
 msgid "He would come to Denver and stay with my family—my husband and two young boys—and in turn, I would visit Tiburon and stay with him or, later, with Jerry, sometimes to participate in planned events and sometimes for no reason."
 msgstr ""
 
-#. Paragraph 1: After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between. He would come to Denver and stay with my family—my husband and two young boys—a...
 #: paragraph:1,sentence:3
+msgctxt "Paragraph 1: After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between. He would come to Denver and stay with my family—my husband and two young boys—a..."
 msgid "This schedule continued for about three years."
 msgstr ""
 
-#. Paragraph 1: After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between. He would come to Denver and stay with my family—my husband and two young boys—a...
 #: paragraph:1,sentence:4
+msgctxt "Paragraph 1: After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between. He would come to Denver and stay with my family—my husband and two young boys—a..."
 msgid "Early on, it felt surreal to watch him sitting on our patio, listen to his tales, or conversely, be included in his daily routine as he settled into California."
 msgstr ""
 
-#. Paragraph 1: After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between. He would come to Denver and stay with my family—my husband and two young boys—a...
 #: paragraph:1,sentence:5
+msgctxt "Paragraph 1: After our first visit in Tiburon, a pattern emerged: Bill and I met every couple of months, with phone calls in between. He would come to Denver and stay with my family—my husband and two young boys—a..."
 msgid "He had dropped suddenly and unexpectedly into the middle of my life, and it took a bit of getting used to."
 msgstr ""
 
-#. Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo...
 #: paragraph:2,sentence:6
+msgctxt "Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo..."
 msgid "During his visits to Denver, “socializing Bill” began in earnest."
 msgstr ""
 
-#. Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo...
 #: paragraph:2,sentence:7
+msgctxt "Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo..."
 msgid "I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore."
 msgstr ""
 
-#. Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo...
 #: paragraph:2,sentence:8
+msgctxt "Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo..."
 msgid "He especially enjoyed our sons—six and eight when we met; he was fascinated by what little boys could do and got such a kick out of their activities and friends."
 msgstr ""
 
-#. Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo...
 #: paragraph:2,sentence:9
+msgctxt "Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo..."
 msgid "Although he had studied, tested, and written about children in his professional life, he had very little experience being around them in normal everyday life."
 msgstr ""
 
-#. Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo...
 #: paragraph:2,sentence:10
+msgctxt "Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo..."
 msgid "As an adult, he was basically unfamiliar with families or the myriad details and responsibilities of family life."
 msgstr ""
 
-#. Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo...
 #: paragraph:2,sentence:11
+msgctxt "Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo..."
 msgid "Bill would stand in the kitchen as I prepared meals, with little ones running in and out, and often exclaim, “I don’t know how you do all this!” It was business as usual; parents learn, out of necessity, to multitask."
 msgstr ""
 
-#. Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo...
 #: paragraph:2,sentence:12
+msgctxt "Paragraph 2: During his visits to Denver, “socializing Bill” began in earnest. I wish everyone could have seen him as he participated in that “normalizing process.” He was so willing to explore. He especially enjo..."
 msgid "He himself was a master at multitasking but in very different areas of life."
 msgstr ""
 
-#. Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ...
 #: paragraph:3,sentence:13
+msgctxt "Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ..."
 msgid "Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool."
 msgstr ""
 
-#. Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ...
 #: paragraph:3,sentence:14
+msgctxt "Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ..."
 msgid "I’ve not met anyone else who ever saw Bill in that role—riding in a car full of little kids."
 msgstr ""
 
-#. Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ...
 #: paragraph:3,sentence:15
+msgctxt "Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ..."
 msgid "It was a new adventure for him."
 msgstr ""
 
-#. Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ...
 #: paragraph:3,sentence:16
+msgctxt "Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ..."
 msgid "He sat in wonder as he listened to their conversations, finding them hilarious and precious."
 msgstr ""
 
-#. Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ...
 #: paragraph:3,sentence:17
+msgctxt "Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ..."
 msgid "He would look over at me with eyes wide open, a huge grin on his face, as their stories unfolded."
 msgstr ""
 
-#. Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ...
 #: paragraph:3,sentence:18
+msgctxt "Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ..."
 msgid "Their parents would likely have been less than thrilled to hear their small children candidly revealing private family business."
 msgstr ""
 
-#. Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ...
 #: paragraph:3,sentence:19
+msgctxt "Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ..."
 msgid "He loved such times, delighting in their complete ease and openness as they prattled on, asking him questions, wholeheartedly including him as a matter of course."
 msgstr ""
 
-#. Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ...
 #: paragraph:3,sentence:20
+msgctxt "Paragraph 3: Because of his lack of experience with young children in their usual environments, he thoroughly enjoyed attending school functions or riding along when it was my turn to drive the car pool. I’ve not ..."
 msgid "They were a marked contrast to his own early experience and to his long-standing inclination to secrecy."
 msgstr ""
 
-#. Paragraph 4: Bill often commented on how very different these children’s early years were from his. On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle. I co...
 #: paragraph:4,sentence:21
+msgctxt "Paragraph 4: Bill often commented on how very different these children’s early years were from his. On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle. I co..."
 msgid "Bill often commented on how very different these children’s early years were from his."
 msgstr ""
 
-#. Paragraph 4: Bill often commented on how very different these children’s early years were from his. On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle. I co...
 #: paragraph:4,sentence:22
+msgctxt "Paragraph 4: Bill often commented on how very different these children’s early years were from his. On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle. I co..."
 msgid "On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle."
 msgstr ""
 
-#. Paragraph 4: Bill often commented on how very different these children’s early years were from his. On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle. I co...
 #: paragraph:4,sentence:23
+msgctxt "Paragraph 4: Bill often commented on how very different these children’s early years were from his. On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle. I co..."
 msgid "I could see the wistful look in his eyes and commented on how this seven-year-old’s experience must seem worlds apart from his own at seven, lying in bed gravely ill."
 msgstr ""
 
-#. Paragraph 4: Bill often commented on how very different these children’s early years were from his. On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle. I co...
 #: paragraph:4,sentence:24
+msgctxt "Paragraph 4: Bill often commented on how very different these children’s early years were from his. On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle. I co..."
 msgid "He acknowledged the difference, then responded with a broad smile, “Nothing is ever going to get in his way in life!” In addition, both Bill and Helen were true Gilbert and Sullivan aficionados, and he was especially pleased that my older son had a significant role in his elementary school’s abridged production of the musical, H. M. S. Pinafore."
 msgstr ""
 
-#. Paragraph 4: Bill often commented on how very different these children’s early years were from his. On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle. I co...
 #: paragraph:4,sentence:25
+msgctxt "Paragraph 4: Bill often commented on how very different these children’s early years were from his. On one trip to Denver, he watched my younger son energetically ride up and down the sidewalk on his bicycle. I co..."
 msgid "Greg was nine, an age when Bill was still confined to bed, which led to more reminiscing about how different were their early childhood experiences."
 msgstr ""
 
-#. Paragraph 5: I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music les...
 #: paragraph:5,sentence:26
+msgctxt "Paragraph 5: I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music les..."
 msgid "I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music lessons, as if he did this every day."
 msgstr ""
 
-#. Paragraph 5: I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music les...
 #: paragraph:5,sentence:27
+msgctxt "Paragraph 5: I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music les..."
 msgid "Actually, it was probably the first time he had ever been in such a situation, but you wouldn’t have known it."
 msgstr ""
 
-#. Paragraph 5: I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music les...
 #: paragraph:5,sentence:28
+msgctxt "Paragraph 5: I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music les..."
 msgid "Bill had an amazing capacity to seem at home in any situation even when he absolutely was not."
 msgstr ""
 
-#. Paragraph 5: I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music les...
 #: paragraph:5,sentence:29
+msgctxt "Paragraph 5: I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music les..."
 msgid "These various groups of children took to him at once and all unquestioningly considered him part of their young lives, telling him their stories and competing with one another to hold his hands."
 msgstr ""
 
-#. Paragraph 5: I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music les...
 #: paragraph:5,sentence:30
+msgctxt "Paragraph 5: I can still see him—tall, handsome, charismatic, and often the only man around—casually visiting with the mothers waiting for their children at the end of the school day, soccer practice, or music les..."
 msgid "Sometimes he read stories to our boys at night, which they loved; they regarded him as a favorite uncle, and in my mind I can still hear the sound of his reassuring, resonant voice coming down the hall."
 msgstr ""
 
-#. Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho...
 #: paragraph:6,sentence:31
+msgctxt "Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho..."
 msgid "On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world."
 msgstr ""
 
-#. Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho...
 #: paragraph:6,sentence:32
+msgctxt "Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho..."
 msgid "He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s home, a short distance away."
 msgstr ""
 
-#. Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho...
 #: paragraph:6,sentence:33
+msgctxt "Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho..."
 msgid "This infrequent plunge into typical, busy family life was a source of great amusement—and perhaps some gratitude that he had opted for the single life."
 msgstr ""
 
-#. Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho...
 #: paragraph:6,sentence:34
+msgctxt "Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho..."
 msgid "Certainly it was different."
 msgstr ""
 
-#. Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho...
 #: paragraph:6,sentence:35
+msgctxt "Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho..."
 msgid "In retrospect, it doesn’t seem a coincidence that Bill came to Denver while my children were the same age he had been while bedridden."
 msgstr ""
 
-#. Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho...
 #: paragraph:6,sentence:36
+msgctxt "Paragraph 6: On a few occasions, we took the boys to Tiburon, always infusing a burst of energy into Bill’s world. He watched with delight as they scrambled along the shoreline between his apartment and Jerry’s ho..."
 msgid "In ways we may never understand, I believe some healing of his difficult early years took place through those casual interactions."
 msgstr ""
 
-#. Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ...
 #: paragraph:7,sentence:37
+msgctxt "Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ..."
 msgid "Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the door closed until quiet settled over the house."
 msgstr ""
 
-#. Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ...
 #: paragraph:7,sentence:38
+msgctxt "Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ..."
 msgid "Then we had wonderful long talks in the kitchen, usually followed by a walk."
 msgstr ""
 
-#. Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ...
 #: paragraph:7,sentence:39
+msgctxt "Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ..."
 msgid "Sometimes Bob joined us for an evening walk and remembered them fondly, “We just walked and talked and exchanged thoughts and information and he was always receptive to whatever was on your mind; he would listen to you."
 msgstr ""
 
-#. Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ...
 #: paragraph:7,sentence:40
+msgctxt "Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ..."
 msgid "You could talk to Bill about anything and he would have an answer."
 msgstr ""
 
-#. Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ...
 #: paragraph:7,sentence:41
+msgctxt "Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ..."
 msgid "Somehow the two of us clicked; he was just a dear, dear, friend.”1[15] Although Bob was not a Course student himself, he was a gracious host on Bill’s visits; he made sure he had everything he might want or need as a guest in our home."
 msgstr ""
 
-#. Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ...
 #: paragraph:7,sentence:42
+msgctxt "Paragraph 7: Although Bill enjoyed being included in our daily routine, the early morning “get the kids up and off to school” uproar challenged his endurance, and he always remained safely in his bedroom with the ..."
 msgid "He genuinely cared for Bill—and that was mutual—and even now (we have been divorced for many years), he still talks about him."
 msgstr ""
 
-#. Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ...
 #: paragraph:8,sentence:43
+msgctxt "Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ..."
 msgid "So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions"
 msgstr ""
 
-#. Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ...
 #: paragraph:8,sentence:44
+msgctxt "Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ..."
 msgid "Robert Rosenthal, a young psychiatrist friend of Bill’s, relates a typical experience: “Often when Bill and I would get together we’d walk and chat"
 msgstr ""
 
-#. Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ...
 #: paragraph:8,sentence:45
+msgctxt "Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ..."
 msgid "He’d catch me up on the latest ‘craziness’ going on with the Course or what Jerry Jampolsky or other people were doing"
 msgstr ""
 
-#. Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ...
 #: paragraph:8,sentence:46
+msgctxt "Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ..."
 msgid "But in a way, that was all window dressing"
 msgstr ""
 
-#. Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ...
 #: paragraph:8,sentence:47
+msgctxt "Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ..."
 msgid "Behind it was a shared sense of presence and peace, just meditating together and sharing the moment.”[16] Hugh Prather also mentioned how they always seemed to be walking together somewhere, discussing a range of issues, and how important that was to him"
 msgstr ""
 
-#. Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ...
 #: paragraph:8,sentence:48
+msgctxt "Paragraph 8: So many others I interviewed for this book also emphasized the importance of a walk with Bill, how satisfying it was and how much insight occurred during those casual discussions. Robert Rosenthal, a ..."
 msgid "And Jaison Kayn found silent walking with Bill profoundly satisfying:"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:49
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "Bill and I didn’t talk much"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:50
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "It was part of our relationship to be absolutely comfortable together, physically and energetically"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:51
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "We would walk to the bakery on the dock near Jerry’s office"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:52
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "It was a casual ritual, going down there every day [when Jaison was visiting in Tiburon], ordering those wonderful custard-filled cream puffs"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:53
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "They were his favorite and, at first bite, became mine as well"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:54
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "Since we were both basically shy people, there was not much to say"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:55
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "We simply sat, watched, and enjoyed our cream puffs"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:56
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "We accepted each other’s shyness very easily and did not need to entertain each other"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:57
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "It was more than comfortable; our energies seemed to be quietly communicating something gracious and beyond words"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:58
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "I was probably one of the few people in his life he felt that way about"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:59
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "My sense is that he often felt he had to talk to people more, that most people required that of him"
 msgstr ""
 
-#. Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ...
 #: paragraph:9,sentence:60
+msgctxt "Paragraph 9: Bill and I didn’t talk much. It was part of our relationship to be absolutely comfortable together, physically and energetically. We would walk to the bakery on the dock near Jerry’s office. It was a ..."
 msgid "Somehow with me he knew he didn’t have to talk because I couldn’t either.[17]"
 msgstr ""
 
-#. Paragraph 10: ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road. He is like us, as near ...
 #: paragraph:10,sentence:61
+msgctxt "Paragraph 10: ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road. He is like us, as near ..."
 msgid "ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road."
 msgstr ""
 
-#. Paragraph 10: ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road. He is like us, as near ...
 #: paragraph:10,sentence:62
+msgctxt "Paragraph 10: ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road. He is like us, as near ..."
 msgid "He is like us, as near or far away from what we want as we will let him be."
 msgstr ""
 
-#. Paragraph 10: ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road. He is like us, as near ...
 #: paragraph:10,sentence:63
+msgctxt "Paragraph 10: ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road. He is like us, as near ..."
 msgid "We make no gains he does not make with us, and we fall back if he does not advance."
 msgstr ""
 
-#. Paragraph 10: ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road. He is like us, as near ...
 #: paragraph:10,sentence:64
+msgctxt "Paragraph 10: ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road. He is like us, as near ..."
 msgid "Take not his hand in anger but in love, for in his progress do you count your own."
 msgstr ""
 
-#. Paragraph 10: ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road. He is like us, as near ...
 #: paragraph:10,sentence:65
+msgctxt "Paragraph 10: ACIM speaks beautifully of the implications of walking together, literally or figuratively: This brother neither leads nor follows us, but walks beside us on the selfsame road. He is like us, as near ..."
 msgid "And we go separately along the way unless you keep him safely by your side. . . ."
 msgstr ""
 
-#. Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of...
 #: paragraph:11,sentence:66
+msgctxt "Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of..."
 msgid "Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you"
 msgstr ""
 
-#. Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of...
 #: paragraph:11,sentence:67
+msgctxt "Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of..."
 msgid "Hear but his call for mercy and release from all the fearful images he holds of what he is and of what you must be"
 msgstr ""
 
-#. Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of...
 #: paragraph:11,sentence:68
+msgctxt "Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of..."
 msgid "He is afraid to walk with you, and thinks perhaps a bit behind, a bit ahead would be a safer place for him to be"
 msgstr ""
 
-#. Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of...
 #: paragraph:11,sentence:69
+msgctxt "Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of..."
 msgid "Can you make progress if you think the same, advancing only when he would step back, and falling back when he would go ahead"
 msgstr ""
 
-#. Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of...
 #: paragraph:11,sentence:70
+msgctxt "Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of..."
 msgid "For so do you forget the journey’s goal, which is but to decide to walk with him, so neither leads nor follows"
 msgstr ""
 
-#. Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of...
 #: paragraph:11,sentence:71
+msgctxt "Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of..."
 msgid "Thus it is a way you go together, not alone"
 msgstr ""
 
-#. Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of...
 #: paragraph:11,sentence:72
+msgctxt "Paragraph 11: Forgive your brother all appearances, that are but ancient lessons you have taught yourself about the sinfulness in you. Hear but his call for mercy and release from all the fearful images he holds of..."
 msgid "And in this choice is learning’s outcome changed, for Christ has been reborn to both of you.[18]"
 msgstr ""
 
-#. Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi...
 #: paragraph:12,sentence:73
+msgctxt "Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi..."
 msgid "Something was reborn in those who walked with Bill; it was like coming home."
 msgstr ""
 
-#. Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi...
 #: paragraph:12,sentence:74
+msgctxt "Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi..."
 msgid "Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwind."
 msgstr ""
 
-#. Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi...
 #: paragraph:12,sentence:75
+msgctxt "Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi..."
 msgid "It was helpful for him to be away from places where the roles of teacher, Course scribe, learned professor, or anything else were thrust upon him."
 msgstr ""
 
-#. Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi...
 #: paragraph:12,sentence:76
+msgctxt "Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi..."
 msgid "On occasion, when we had our private space, he would break down and weep."
 msgstr ""
 
-#. Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi...
 #: paragraph:12,sentence:77
+msgctxt "Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi..."
 msgid "I comforted him as best I could, at the same time encouraging him to cry those tears so long unshed—tears not so much over particulars, but a lifetime accumulation of pain not fully acknowledged."
 msgstr ""
 
-#. Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi...
 #: paragraph:12,sentence:78
+msgctxt "Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi..."
 msgid "Nothing specific prompted those episodes; it was more a combination of things."
 msgstr ""
 
-#. Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi...
 #: paragraph:12,sentence:79
+msgctxt "Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi..."
 msgid "We often spoke of his relationship with Helen, with the Course, and the heaviness he carried about it all—the burden of unexpressed life, repressed grief, hiding out."
 msgstr ""
 
-#. Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi...
 #: paragraph:12,sentence:80
+msgctxt "Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi..."
 msgid "All of us hold onto some secrets, wearying at the very least, and this was especially so for Bill."
 msgstr ""
 
-#. Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi...
 #: paragraph:12,sentence:81
+msgctxt "Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi..."
 msgid "He constantly lived a dual life: his academic career intermixed with his hidden ACIM work, his unresolved love/hate relationship with Helen, his knowledge of various secret CIA projects—very likely carried to his grave—and of course, his never publicly acknowledged homosexual private life."
 msgstr ""
 
-#. Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi...
 #: paragraph:12,sentence:82
+msgctxt "Paragraph 12: Something was reborn in those who walked with Bill; it was like coming home. Bill seemed to need, perhaps more than anything, some comfortable time and space to assimilate his new life and slowly unwi..."
 msgid "Thus, he could “hide out” in Denver, where almost no one had access to him, and really let go."
 msgstr ""
 
-#. Paragraph 13: Over the years he also engaged in ongoing therapeutic work in Tiburon with both Frances Vaughan and Catherine Riggs Prescott, a close friend he met in 1984, as well as learning from less formal intera...
 #: paragraph:13,sentence:83
+msgctxt "Paragraph 13: Over the years he also engaged in ongoing therapeutic work in Tiburon with both Frances Vaughan and Catherine Riggs Prescott, a close friend he met in 1984, as well as learning from less formal intera..."
 msgid "Over the years he also engaged in ongoing therapeutic work in Tiburon with both Frances Vaughan and Catherine Riggs Prescott, a close friend he met in 1984, as well as learning from less formal interactions with others."
 msgstr ""
 
-#. Paragraph 13: Over the years he also engaged in ongoing therapeutic work in Tiburon with both Frances Vaughan and Catherine Riggs Prescott, a close friend he met in 1984, as well as learning from less formal intera...
 #: paragraph:13,sentence:84
+msgctxt "Paragraph 13: Over the years he also engaged in ongoing therapeutic work in Tiburon with both Frances Vaughan and Catherine Riggs Prescott, a close friend he met in 1984, as well as learning from less formal intera..."
 msgid "It is easy to see the Course operating in his life through a kaleidoscope of relationships and encounters, helping him to identify and release unhelpful beliefs."
 msgstr ""
 
-#. Paragraph 13: Over the years he also engaged in ongoing therapeutic work in Tiburon with both Frances Vaughan and Catherine Riggs Prescott, a close friend he met in 1984, as well as learning from less formal intera...
 #: paragraph:13,sentence:85
+msgctxt "Paragraph 13: Over the years he also engaged in ongoing therapeutic work in Tiburon with both Frances Vaughan and Catherine Riggs Prescott, a close friend he met in 1984, as well as learning from less formal intera..."
 msgid "It’s fair to say that all his relationships were mutually therapeutic, though perhaps not recognized at the time."
 msgstr ""
 
-#. Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c...
 #: paragraph:14,sentence:86
+msgctxt "Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c..."
 msgid "I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another."
 msgstr ""
 
-#. Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c...
 #: paragraph:14,sentence:87
+msgctxt "Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c..."
 msgid "We were very respectful of one another’s capabilities and shared a close connection as colleagues."
 msgstr ""
 
-#. Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c...
 #: paragraph:14,sentence:88
+msgctxt "Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c..."
 msgid "I, too, remember the importance of our long walks, as we shared our worlds, at once so different and yet so similar."
 msgstr ""
 
-#. Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c...
 #: paragraph:14,sentence:89
+msgctxt "Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c..."
 msgid "We compared notes about my mother (also named Helen), who at that time was retreating into Alzheimer’s disease, and about “his” Helen."
 msgstr ""
 
-#. Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c...
 #: paragraph:14,sentence:90
+msgctxt "Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c..."
 msgid "He said he had tried for so many years to make her happy, to do or be whatever she wanted, and that it was simply not possible."
 msgstr ""
 
-#. Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c...
 #: paragraph:14,sentence:91
+msgctxt "Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c..."
 msgid "As simple as it sounds now, it was a significant breakthrough for him to realize it was not his job to make Helen happy, and he advised me accordingly."
 msgstr ""
 
-#. Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c...
 #: paragraph:14,sentence:92
+msgctxt "Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c..."
 msgid "Her happiness had been his self-appointed responsibility, one she also assumed was his."
 msgstr ""
 
-#. Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c...
 #: paragraph:14,sentence:93
+msgctxt "Paragraph 14: I regarded Bill as my mentor, as did almost everyone who knew him, and we served as therapists for one another. We were very respectful of one another’s capabilities and shared a close connection as c..."
 msgid "He used to say that it seemed Helen would never be happy, for she found very little in life even to be acceptable."
 msgstr ""
 
-#. Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi...
 #: paragraph:15,sentence:94
+msgctxt "Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi..."
 msgid "It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval."
 msgstr ""
 
-#. Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi...
 #: paragraph:15,sentence:95
+msgctxt "Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi..."
 msgid "Although he recognized it was pointless to continue trying, he didn’t find peace with that relationship until near the end of his life."
 msgstr ""
 
-#. Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi...
 #: paragraph:15,sentence:96
+msgctxt "Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi..."
 msgid "Yet Bill was no different from the rest of us."
 msgstr ""
 
-#. Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi...
 #: paragraph:15,sentence:97
+msgctxt "Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi..."
 msgid "In my experience, most people learn that being okay, being worthy, having a right to be here, is measured by others’ approval; unlearning that lie is essential and often a lifelong venture."
 msgstr ""
 
-#. Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi...
 #: paragraph:15,sentence:98
+msgctxt "Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi..."
 msgid "He felt disappointed and betrayed because his vision of practicing the Course with Helen and having a wonderful friendship didn’t happen."
 msgstr ""
 
-#. Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi...
 #: paragraph:15,sentence:99
+msgctxt "Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi..."
 msgid "He also felt some resentment that she had gotten him into this situation and was not fulfilling her part of the bargain, whatever he perceived that to be."
 msgstr ""
 
-#. Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi...
 #: paragraph:15,sentence:100
+msgctxt "Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi..."
 msgid "At the same time, he was compassionate with her, aware of her difficulties when she was overtaken by phobias and compulsions."
 msgstr ""
 
-#. Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi...
 #: paragraph:15,sentence:101
+msgctxt "Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi..."
 msgid "Also, during the last years of her life, after Bill and the Skutches had moved to California, she grew ill with pancreatic cancer."
 msgstr ""
 
-#. Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi...
 #: paragraph:15,sentence:102
+msgctxt "Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi..."
 msgid "Many who knew her well said she became quite deranged."
 msgstr ""
 
-#. Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi...
 #: paragraph:15,sentence:103
+msgctxt "Paragraph 15: It took years for him to grow more accepting of his relationship with Helen, as he released his sense of failure and the need for her approval. Although he recognized it was pointless to continue tryi..."
 msgid "She was definitely not the Helen everyone had known in her prime."
 msgstr ""
 
-#. Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon...
 #: paragraph:16,sentence:104
+msgctxt "Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon..."
 msgid "Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard."
 msgstr ""
 
-#. Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon...
 #: paragraph:16,sentence:105
+msgctxt "Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon..."
 msgid "His paws were raw and bleeding as if he had had a very long, hard run on concrete; he came straight toward us as if on purpose, clear about his destination, then nearly collapsed."
 msgstr ""
 
-#. Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon...
 #: paragraph:16,sentence:106
+msgctxt "Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon..."
 msgid "Bill had a very tender heart, was concerned about the dog, as were we all, and asked several times what we could do for him."
 msgstr ""
 
-#. Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon...
 #: paragraph:16,sentence:107
+msgctxt "Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon..."
 msgid "We provided water, food, and a safe place to rest until the owner, whose number was on his collar, returned our call that evening."
 msgstr ""
 
-#. Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon...
 #: paragraph:16,sentence:108
+msgctxt "Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon..."
 msgid "The dog was very friendly and, despite his recent experience, seemed content to sit with us for several hours until his owner arrived to collect him."
 msgstr ""
 
-#. Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon...
 #: paragraph:16,sentence:109
+msgctxt "Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon..."
 msgid "Later, the owner told us the dog had been stolen from his backyard and carried off for some unknown purpose."
 msgstr ""
 
-#. Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon...
 #: paragraph:16,sentence:110
+msgctxt "Paragraph 16: Once when Bill was in Denver, we were in the front yard watching the children when a lovely dog—a handsome Irish setter—limped into the yard. His paws were raw and bleeding as if he had had a very lon..."
 msgid "He had escaped his captors and was trying to find his way back home; our neighborhood was approximately on the way."
 msgstr ""
 
-#. Paragraph 17: It seemed purposeful that Bill had this unanticipated encounter with the dog. The episode might seem trivial but it was important to Bill. By his own account, he had been under tremendous strain—self-...
 #: paragraph:17,sentence:111
+msgctxt "Paragraph 17: It seemed purposeful that Bill had this unanticipated encounter with the dog. The episode might seem trivial but it was important to Bill. By his own account, he had been under tremendous strain—self-..."
 msgid "It seemed purposeful that Bill had this unanticipated encounter with the dog"
 msgstr ""
 
-#. Paragraph 17: It seemed purposeful that Bill had this unanticipated encounter with the dog. The episode might seem trivial but it was important to Bill. By his own account, he had been under tremendous strain—self-...
 #: paragraph:17,sentence:112
+msgctxt "Paragraph 17: It seemed purposeful that Bill had this unanticipated encounter with the dog. The episode might seem trivial but it was important to Bill. By his own account, he had been under tremendous strain—self-..."
 msgid "The episode might seem trivial but it was important to Bill"
 msgstr ""
 
-#. Paragraph 17: It seemed purposeful that Bill had this unanticipated encounter with the dog. The episode might seem trivial but it was important to Bill. By his own account, he had been under tremendous strain—self-...
 #: paragraph:17,sentence:113
+msgctxt "Paragraph 17: It seemed purposeful that Bill had this unanticipated encounter with the dog. The episode might seem trivial but it was important to Bill. By his own account, he had been under tremendous strain—self-..."
 msgid "By his own account, he had been under tremendous strain—self-imposed though it may have been—at Columbia, especially during the scribing years; he had spoken of the struggle that seemed the hallmark of his life"
 msgstr ""
 
-#. Paragraph 17: It seemed purposeful that Bill had this unanticipated encounter with the dog. The episode might seem trivial but it was important to Bill. By his own account, he had been under tremendous strain—self-...
 #: paragraph:17,sentence:114
+msgctxt "Paragraph 17: It seemed purposeful that Bill had this unanticipated encounter with the dog. The episode might seem trivial but it was important to Bill. By his own account, he had been under tremendous strain—self-..."
 msgid "Our “outer” life is a seamless whole with the “inner,” and both Bill and the dog, after long, difficult journeys, were on the final leg of returning “Home.” A lesson from ACIM comments on our suffering when we “leave home,” in other words, when we refuse to accept the truth about ourselves:"
 msgstr ""
 
-#. Paragraph 18: He seems a sorry figure; weary, worn, in threadbare clothing, and with feet that bleed a little from the rocky road he walks. No one but has identified with him, for everyone who comes here has pursue...
 #: paragraph:18,sentence:115
+msgctxt "Paragraph 18: He seems a sorry figure; weary, worn, in threadbare clothing, and with feet that bleed a little from the rocky road he walks. No one but has identified with him, for everyone who comes here has pursue..."
 msgid "He seems a sorry figure; weary, worn, in threadbare clothing, and with feet that bleed a little from the rocky road he walks"
 msgstr ""
 
-#. Paragraph 18: He seems a sorry figure; weary, worn, in threadbare clothing, and with feet that bleed a little from the rocky road he walks. No one but has identified with him, for everyone who comes here has pursue...
 #: paragraph:18,sentence:116
+msgctxt "Paragraph 18: He seems a sorry figure; weary, worn, in threadbare clothing, and with feet that bleed a little from the rocky road he walks. No one but has identified with him, for everyone who comes here has pursue..."
 msgid "No one but has identified with him, for everyone who comes here has pursued the path he follows, and has felt defeat and hopelessness as he is feeling them"
 msgstr ""
 
-#. Paragraph 18: He seems a sorry figure; weary, worn, in threadbare clothing, and with feet that bleed a little from the rocky road he walks. No one but has identified with him, for everyone who comes here has pursue...
 #: paragraph:18,sentence:117
+msgctxt "Paragraph 18: He seems a sorry figure; weary, worn, in threadbare clothing, and with feet that bleed a little from the rocky road he walks. No one but has identified with him, for everyone who comes here has pursue..."
 msgid "Yet is he really tragic, when you see that he is following the way he chose, and need but realize Who walks with him and open up his treasures to be free?[19]"
 msgstr ""
 

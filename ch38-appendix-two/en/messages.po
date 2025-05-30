@@ -7,628 +7,628 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "X-Generator: book-importer\n"
 
-#. Paragraph 1: Curriculum Vitae — William N. Thetford A.B., DePauw University, 1944 Ph.D., University of Chicago, 1949 Post-Doctoral Training: Institute for Psychiatric and Psychosomatic Research and Training, Micha...
 #: paragraph:1,sentence:1
+msgctxt "Paragraph 1: Curriculum Vitae — William N. Thetford A.B., DePauw University, 1944 Ph.D., University of Chicago, 1949 Post-Doctoral Training: Institute for Psychiatric and Psychosomatic Research and Training, Micha..."
 msgid "Curriculum Vitae — William N. Thetford A. B. , DePauw University, 1944 Ph.D. , University of Chicago, 1949 Post-Doctoral Training: Institute for Psychiatric and Psychosomatic Research and Training, Michael Reese Hospital, Chicago, 1949–1951 Washington School of Psychiatry, 1951–1954 Professional Experience: Professor of Medical Psychology, College of Physicians and Surgeons, Columbia University, 1971–1981 Associate Professor of Medical Psychology, College of Physicians and Surgeons, Columbia University, 1958–1971; Department of Psychology, Columbia University, 1966–1970 Director, Division of Psychology, Presbyterian Hospital, 1958–1978 Assistant Project Director (Psychology), Study Program on the  Pathogenesis of Cerebral Palsy, Columbia University, College of  Physicians and Surgeons, 1959–1968 Senior Psychological Consultant, Study Program in Human Ecology  and the Health of Man, Cornell University Medical College, 1962–1968 Special Consultant, U. S. Public Health Service (NINDB), 1961 Assistant Professor of Psychology, Department of Psychiatry,  Cornell University, 1955–1958 Chief Psychologist, Study Program in Human Ecology, Departments of Medicine and Psychiatry, Cornell University Medical College, 1955–1957 Director, Department of Psychology, Institute of Living,  Hartford, Connecticut, 1954–1955 Senior Psychologist, U. S. Government, Washington, D. C. 1951–1954 Research Consultant, Foreign Service Institute, U. S Department of State, at American University, Beirut, Lebanon, 1953 Research Psychologist, Michael Reese Hospital, Chicago, Ill., 1949 –1951 Clinical Psychologist, Roosevelt College, Chicago, Ill., 1948–1949 Research Psychologist, Psychological Corporation, New York, N. Y. , 1947 Research Assistant and Counselor, Counseling Center,  University of Chicago, 1945–1946 Administrative Office, University of Chicago, Metallurgical Laboratory, (Atomic Research Program), 1944–1945 Professional Societies: Fellow, American Orthopsychiatric Association Fellow, American Psychological Association Fellow, International Council of Psychologists Fellow, Society for Projective Techniques American Association for the Advancement of Science American Association on Mental Deficiency American Association of University Professors American Federation for Clinical Research American Psychosomatic Society Association of American Medical Colleges Eastern Psychological Association Inter-American Psychological Association New York Academy of Sciences New York Society for Projective Techniques New York State Psychological Association World Federation for Mental Health President, New York Society for Projective Techniques, 1963–1966 Who’s Who in the East, 1960 on American Men of Science, 1956 on Member, Committee on Orthopsychiatry in Pediatric Settings, American Orthopsychiatric Association, 1963–1965 Member, Columbia University Seminar on the Role of the Health Professions, 1961 on Member, Professional Standards Committee, ACCEPT (New York  Council on Alcoholism), 1970 on Certified by the State Education Department, University of the  State of New York Research Grants: Principal Investigator on following research grants awarded  by Human Ecology Fund: Investigations of the Personality Assessment System in Patients  with Psychosomatic Symptoms (1960–1961) Personality Assessment System and Learning Behavior (1961–1962) Formulation of a Personality Theory (1961) Learning Behavior and Personality Traits (1962–1963) Prediction of Overt Behavior by Means of the Personality  Assessment System (1963–1964) Principal Investigator on grant awarded by the Geschicter Foundation: Prediction of Overt Behavior by Means of the Personality  Assessment System (1965–1966) Principal Investigator on research contract awarded by Psychological  Assessment Associates: Brief Procedures for the Personality Assessment System  Evaluation (1967–1968) Training Grant: Co-Director, Training Program in Clinical Psychology (with H. Hunt,  |Director), National Institute of Mental Health, 1965 (continued support from 1958 on) Publications and Papers: Thetford, W. N. The measurement of physiological responses to frustration before and after client-centered psychotherapy."
 msgstr ""
 
-#. Paragraph 1: Curriculum Vitae — William N. Thetford A.B., DePauw University, 1944 Ph.D., University of Chicago, 1949 Post-Doctoral Training: Institute for Psychiatric and Psychosomatic Research and Training, Micha...
 #: paragraph:1,sentence:2
+msgctxt "Paragraph 1: Curriculum Vitae — William N. Thetford A.B., DePauw University, 1944 Ph.D., University of Chicago, 1949 Post-Doctoral Training: Institute for Psychiatric and Psychosomatic Research and Training, Micha..."
 msgid "American Psychologist, 1948, 3, 278 (ab.)."
 msgstr ""
 
-#. Paragraph 2: Thetford, W. N. & Molish, H. B. Aspects of personality development in  normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.). Thetford, W. N. Developmental aspects of fantasy in no...
 #: paragraph:2,sentence:3
+msgctxt "Paragraph 2: Thetford, W. N. & Molish, H. B. Aspects of personality development in  normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.). Thetford, W. N. Developmental aspects of fantasy in no..."
 msgid "Thetford, W. N. & Molish, H. B. Aspects of personality development in  normal children."
 msgstr ""
 
-#. Paragraph 2: Thetford, W. N. & Molish, H. B. Aspects of personality development in  normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.). Thetford, W. N. Developmental aspects of fantasy in no...
 #: paragraph:2,sentence:4
+msgctxt "Paragraph 2: Thetford, W. N. & Molish, H. B. Aspects of personality development in  normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.). Thetford, W. N. Developmental aspects of fantasy in no..."
 msgid "American Journal of Orthopsychiatry, 1950, 20, 866 (ab.)."
 msgstr ""
 
-#. Paragraph 2: Thetford, W. N. & Molish, H. B. Aspects of personality development in  normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.). Thetford, W. N. Developmental aspects of fantasy in no...
 #: paragraph:2,sentence:5
+msgctxt "Paragraph 2: Thetford, W. N. & Molish, H. B. Aspects of personality development in  normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.). Thetford, W. N. Developmental aspects of fantasy in no..."
 msgid "Thetford, W. N. Developmental aspects of fantasy in normal and schizophrenic children."
 msgstr ""
 
-#. Paragraph 2: Thetford, W. N. & Molish, H. B. Aspects of personality development in  normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.). Thetford, W. N. Developmental aspects of fantasy in no...
 #: paragraph:2,sentence:6
+msgctxt "Paragraph 2: Thetford, W. N. & Molish, H. B. Aspects of personality development in  normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.). Thetford, W. N. Developmental aspects of fantasy in no..."
 msgid "American Psychologist, 1950, 5, 295 (ab.)."
 msgstr ""
 
-#. Paragraph 3: Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The normal personality as projected in the Rorschach test.  Journal of Psychology, 1950, 30, 241–298. Thetford, W. N. Childhood sc...
 #: paragraph:3,sentence:7
+msgctxt "Paragraph 3: Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The normal personality as projected in the Rorschach test.  Journal of Psychology, 1950, 30, 241–298. Thetford, W. N. Childhood sc..."
 msgid "Beck, S. J. , Thiesen, W. , Rabin, A. , Molish, H. B. & Thetford, W. N. The normal personality as projected in the Rorschach test."
 msgstr ""
 
-#. Paragraph 3: Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The normal personality as projected in the Rorschach test.  Journal of Psychology, 1950, 30, 241–298. Thetford, W. N. Childhood sc...
 #: paragraph:3,sentence:8
+msgctxt "Paragraph 3: Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The normal personality as projected in the Rorschach test.  Journal of Psychology, 1950, 30, 241–298. Thetford, W. N. Childhood sc..."
 msgid "Journal of Psychology, 1950, 30, 241–298."
 msgstr ""
 
-#. Paragraph 3: Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The normal personality as projected in the Rorschach test.  Journal of Psychology, 1950, 30, 241–298. Thetford, W. N. Childhood sc...
 #: paragraph:3,sentence:9
+msgctxt "Paragraph 3: Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The normal personality as projected in the Rorschach test.  Journal of Psychology, 1950, 30, 241–298. Thetford, W. N. Childhood sc..."
 msgid "Thetford, W. N. Childhood schizophrenia and the Rorschach test."
 msgstr ""
 
-#. Paragraph 3: Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The normal personality as projected in the Rorschach test.  Journal of Psychology, 1950, 30, 241–298. Thetford, W. N. Childhood sc...
 #: paragraph:3,sentence:10
+msgctxt "Paragraph 3: Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The normal personality as projected in the Rorschach test.  Journal of Psychology, 1950, 30, 241–298. Thetford, W. N. Childhood sc..."
 msgid "Human Development Bulletin."
 msgstr ""
 
-#. Paragraph 3: Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The normal personality as projected in the Rorschach test.  Journal of Psychology, 1950, 30, 241–298. Thetford, W. N. Childhood sc...
 #: paragraph:3,sentence:11
+msgctxt "Paragraph 3: Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The normal personality as projected in the Rorschach test.  Journal of Psychology, 1950, 30, 241–298. Thetford, W. N. Childhood sc..."
 msgid "University of Chicago, 1951, 10–14."
 msgstr ""
 
-#. Paragraph 4: Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of personality structure in normal children. Journal of Projective Techniques, 1951, 15, 58–78. Thetford, W. N. The development of fa...
 #: paragraph:4,sentence:12
+msgctxt "Paragraph 4: Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of personality structure in normal children. Journal of Projective Techniques, 1951, 15, 58–78. Thetford, W. N. The development of fa..."
 msgid "Thetford, W. N. , Molish, H. B. & Beck, S. J. Developmental aspects of personality structure in normal children."
 msgstr ""
 
-#. Paragraph 4: Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of personality structure in normal children. Journal of Projective Techniques, 1951, 15, 58–78. Thetford, W. N. The development of fa...
 #: paragraph:4,sentence:13
+msgctxt "Paragraph 4: Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of personality structure in normal children. Journal of Projective Techniques, 1951, 15, 58–78. Thetford, W. N. The development of fa..."
 msgid "Journal of Projective Techniques, 1951, 15, 58–78."
 msgstr ""
 
-#. Paragraph 4: Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of personality structure in normal children. Journal of Projective Techniques, 1951, 15, 58–78. Thetford, W. N. The development of fa...
 #: paragraph:4,sentence:14
+msgctxt "Paragraph 4: Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of personality structure in normal children. Journal of Projective Techniques, 1951, 15, 58–78. Thetford, W. N. The development of fa..."
 msgid "Thetford, W. N. The development of fantasy perceptions in children."
 msgstr ""
 
-#. Paragraph 4: Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of personality structure in normal children. Journal of Projective Techniques, 1951, 15, 58–78. Thetford, W. N. The development of fa...
 #: paragraph:4,sentence:15
+msgctxt "Paragraph 4: Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of personality structure in normal children. Journal of Projective Techniques, 1951, 15, 58–78. Thetford, W. N. The development of fa..."
 msgid "American Journal of Orthopsychiatry, 1951, 21, 860 (ab.)."
 msgstr ""
 
-#. Paragraph 5: Thetford, W. N. An Organismic approach to frustration. Personality:  Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19. Thetford, W. N. & DeVos, G. A Rorschach study of clinical group...
 #: paragraph:5,sentence:16
+msgctxt "Paragraph 5: Thetford, W. N. An Organismic approach to frustration. Personality:  Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19. Thetford, W. N. & DeVos, G. A Rorschach study of clinical group..."
 msgid "Thetford, W. N. An Organismic approach to frustration."
 msgstr ""
 
-#. Paragraph 5: Thetford, W. N. An Organismic approach to frustration. Personality:  Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19. Thetford, W. N. & DeVos, G. A Rorschach study of clinical group...
 #: paragraph:5,sentence:17
+msgctxt "Paragraph 5: Thetford, W. N. An Organismic approach to frustration. Personality:  Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19. Thetford, W. N. & DeVos, G. A Rorschach study of clinical group..."
 msgid "Personality:  Symposia on topical issues."
 msgstr ""
 
-#. Paragraph 5: Thetford, W. N. An Organismic approach to frustration. Personality:  Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19. Thetford, W. N. & DeVos, G. A Rorschach study of clinical group...
 #: paragraph:5,sentence:18
+msgctxt "Paragraph 5: Thetford, W. N. An Organismic approach to frustration. Personality:  Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19. Thetford, W. N. & DeVos, G. A Rorschach study of clinical group..."
 msgid "New York: Grune & Stratton, 1951, 1–19."
 msgstr ""
 
-#. Paragraph 5: Thetford, W. N. An Organismic approach to frustration. Personality:  Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19. Thetford, W. N. & DeVos, G. A Rorschach study of clinical group...
 #: paragraph:5,sentence:19
+msgctxt "Paragraph 5: Thetford, W. N. An Organismic approach to frustration. Personality:  Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19. Thetford, W. N. & DeVos, G. A Rorschach study of clinical group..."
 msgid "Thetford, W. N. & DeVos, G. A Rorschach study of clinical groups by means of Fisher’s maladjustment index."
 msgstr ""
 
-#. Paragraph 5: Thetford, W. N. An Organismic approach to frustration. Personality:  Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19. Thetford, W. N. & DeVos, G. A Rorschach study of clinical group...
 #: paragraph:5,sentence:20
+msgctxt "Paragraph 5: Thetford, W. N. An Organismic approach to frustration. Personality:  Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19. Thetford, W. N. & DeVos, G. A Rorschach study of clinical group..."
 msgid "American Psychologist, 1951, 6, 505 (ab.)."
 msgstr ""
 
-#. Paragraph 6: Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children. American Journal of Orthopsychiatry, 1952, 22, 532–550. Thetford, W. N. An objective measurement of f...
 #: paragraph:6,sentence:21
+msgctxt "Paragraph 6: Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children. American Journal of Orthopsychiatry, 1952, 22, 532–550. Thetford, W. N. An objective measurement of f..."
 msgid "Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children."
 msgstr ""
 
-#. Paragraph 6: Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children. American Journal of Orthopsychiatry, 1952, 22, 532–550. Thetford, W. N. An objective measurement of f...
 #: paragraph:6,sentence:22
+msgctxt "Paragraph 6: Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children. American Journal of Orthopsychiatry, 1952, 22, 532–550. Thetford, W. N. An objective measurement of f..."
 msgid "American Journal of Orthopsychiatry, 1952, 22, 532–550."
 msgstr ""
 
-#. Paragraph 6: Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children. American Journal of Orthopsychiatry, 1952, 22, 532–550. Thetford, W. N. An objective measurement of f...
 #: paragraph:6,sentence:23
+msgctxt "Paragraph 6: Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children. American Journal of Orthopsychiatry, 1952, 22, 532–550. Thetford, W. N. An objective measurement of f..."
 msgid "Thetford, W. N. An objective measurement of frustration tolerance in evaluating psychotherapy."
 msgstr ""
 
-#. Paragraph 6: Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children. American Journal of Orthopsychiatry, 1952, 22, 532–550. Thetford, W. N. An objective measurement of f...
 #: paragraph:6,sentence:24
+msgctxt "Paragraph 6: Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children. American Journal of Orthopsychiatry, 1952, 22, 532–550. Thetford, W. N. An objective measurement of f..."
 msgid "In W. Wolff & J. Precker (Eds.), Success in Psychotherapy."
 msgstr ""
 
-#. Paragraph 6: Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children. American Journal of Orthopsychiatry, 1952, 22, 532–550. Thetford, W. N. An objective measurement of f...
 #: paragraph:6,sentence:25
+msgctxt "Paragraph 6: Thetford, W. N. Fantasy perceptions in the personality development of normal and deviant children. American Journal of Orthopsychiatry, 1952, 22, 532–550. Thetford, W. N. An objective measurement of f..."
 msgid "New York: Grune & Stratton, 1952, 26–62."
 msgstr ""
 
-#. Paragraph 7: Thetford, W. N. Personality characteristics of schizophrenic children. American Psychologist, 1952, 7, 301 (ab.). Thetford, W. N. Educational therapy as an integral part of the psychotherapeutic proce...
 #: paragraph:7,sentence:26
+msgctxt "Paragraph 7: Thetford, W. N. Personality characteristics of schizophrenic children. American Psychologist, 1952, 7, 301 (ab.). Thetford, W. N. Educational therapy as an integral part of the psychotherapeutic proce..."
 msgid "Thetford, W. N. Personality characteristics of schizophrenic children."
 msgstr ""
 
-#. Paragraph 7: Thetford, W. N. Personality characteristics of schizophrenic children. American Psychologist, 1952, 7, 301 (ab.). Thetford, W. N. Educational therapy as an integral part of the psychotherapeutic proce...
 #: paragraph:7,sentence:27
+msgctxt "Paragraph 7: Thetford, W. N. Personality characteristics of schizophrenic children. American Psychologist, 1952, 7, 301 (ab.). Thetford, W. N. Educational therapy as an integral part of the psychotherapeutic proce..."
 msgid "American Psychologist, 1952, 7, 301 (ab.)."
 msgstr ""
 
-#. Paragraph 7: Thetford, W. N. Personality characteristics of schizophrenic children. American Psychologist, 1952, 7, 301 (ab.). Thetford, W. N. Educational therapy as an integral part of the psychotherapeutic proce...
 #: paragraph:7,sentence:28
+msgctxt "Paragraph 7: Thetford, W. N. Personality characteristics of schizophrenic children. American Psychologist, 1952, 7, 301 (ab.). Thetford, W. N. Educational therapy as an integral part of the psychotherapeutic proce..."
 msgid "Thetford, W. N. Educational therapy as an integral part of the psychotherapeutic process."
 msgstr ""
 
-#. Paragraph 7: Thetford, W. N. Personality characteristics of schizophrenic children. American Psychologist, 1952, 7, 301 (ab.). Thetford, W. N. Educational therapy as an integral part of the psychotherapeutic proce...
 #: paragraph:7,sentence:29
+msgctxt "Paragraph 7: Thetford, W. N. Personality characteristics of schizophrenic children. American Psychologist, 1952, 7, 301 (ab.). Thetford, W. N. Educational therapy as an integral part of the psychotherapeutic proce..."
 msgid "Proceedings of the Inter-American Psychological Association, Mexico, 1954, 24–25."
 msgstr ""
 
-#. Paragraph 8: Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. Proceedings of the International Applied Psychology Association, London, 1955, 56. Nicholas, Alma & Thetford, W. N. The use of the...
 #: paragraph:8,sentence:30
+msgctxt "Paragraph 8: Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. Proceedings of the International Applied Psychology Association, London, 1955, 56. Nicholas, Alma & Thetford, W. N. The use of the..."
 msgid "Thetford, W. N. (Chm.)."
 msgstr ""
 
-#. Paragraph 8: Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. Proceedings of the International Applied Psychology Association, London, 1955, 56. Nicholas, Alma & Thetford, W. N. The use of the...
 #: paragraph:8,sentence:31
+msgctxt "Paragraph 8: Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. Proceedings of the International Applied Psychology Association, London, 1955, 56. Nicholas, Alma & Thetford, W. N. The use of the..."
 msgid "Diagnostic techniques in clinical psychology."
 msgstr ""
 
-#. Paragraph 8: Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. Proceedings of the International Applied Psychology Association, London, 1955, 56. Nicholas, Alma & Thetford, W. N. The use of the...
 #: paragraph:8,sentence:32
+msgctxt "Paragraph 8: Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. Proceedings of the International Applied Psychology Association, London, 1955, 56. Nicholas, Alma & Thetford, W. N. The use of the..."
 msgid "Proceedings of the International Applied Psychology Association, London, 1955, 56."
 msgstr ""
 
-#. Paragraph 8: Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. Proceedings of the International Applied Psychology Association, London, 1955, 56. Nicholas, Alma & Thetford, W. N. The use of the...
 #: paragraph:8,sentence:33
+msgctxt "Paragraph 8: Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. Proceedings of the International Applied Psychology Association, London, 1955, 56. Nicholas, Alma & Thetford, W. N. The use of the..."
 msgid "Nicholas, Alma & Thetford, W. N. The use of the Hewson ratios in the diagnosis of cerebral pathology."
 msgstr ""
 
-#. Paragraph 8: Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. Proceedings of the International Applied Psychology Association, London, 1955, 56. Nicholas, Alma & Thetford, W. N. The use of the...
 #: paragraph:8,sentence:34
+msgctxt "Paragraph 8: Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. Proceedings of the International Applied Psychology Association, London, 1955, 56. Nicholas, Alma & Thetford, W. N. The use of the..."
 msgid "American Psychologist, 1955, 10, 563 (ab.)."
 msgstr ""
 
-#. Paragraph 9: Thetford, W. N. & Goldberger, L. Personality features and reactions in a group of Chinese. American Psychologist, 1956, 11, 385 (ab.). Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural a...
 #: paragraph:9,sentence:35
+msgctxt "Paragraph 9: Thetford, W. N. & Goldberger, L. Personality features and reactions in a group of Chinese. American Psychologist, 1956, 11, 385 (ab.). Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural a..."
 msgid "Thetford, W. N. & Goldberger, L. Personality features and reactions in a group of Chinese."
 msgstr ""
 
-#. Paragraph 9: Thetford, W. N. & Goldberger, L. Personality features and reactions in a group of Chinese. American Psychologist, 1956, 11, 385 (ab.). Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural a...
 #: paragraph:9,sentence:36
+msgctxt "Paragraph 9: Thetford, W. N. & Goldberger, L. Personality features and reactions in a group of Chinese. American Psychologist, 1956, 11, 385 (ab.). Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural a..."
 msgid "American Psychologist, 1956, 11, 385 (ab.)."
 msgstr ""
 
-#. Paragraph 9: Thetford, W. N. & Goldberger, L. Personality features and reactions in a group of Chinese. American Psychologist, 1956, 11, 385 (ab.). Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural a...
 #: paragraph:9,sentence:37
+msgctxt "Paragraph 9: Thetford, W. N. & Goldberger, L. Personality features and reactions in a group of Chinese. American Psychologist, 1956, 11, 385 (ab.). Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural a..."
 msgid "Thetford, W. N. , Goldberger, L. & Wolff, H. G. A cross-cultural approach to the study of personality and illness."
 msgstr ""
 
-#. Paragraph 9: Thetford, W. N. & Goldberger, L. Personality features and reactions in a group of Chinese. American Psychologist, 1956, 11, 385 (ab.). Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural a...
 #: paragraph:9,sentence:38
+msgctxt "Paragraph 9: Thetford, W. N. & Goldberger, L. Personality features and reactions in a group of Chinese. American Psychologist, 1956, 11, 385 (ab.). Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural a..."
 msgid "American Psychologist, 1957, 12, 375 (ab.)."
 msgstr ""
 
-#. Paragraph 10: Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. Human cerebral hemisphere function. The Physiologist, 1957, 1, 4. Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wol...
 #: paragraph:10,sentence:39
+msgctxt "Paragraph 10: Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. Human cerebral hemisphere function. The Physiologist, 1957, 1, 4. Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wol..."
 msgid "Chapman, L. F. , Berlin, L. , Guthrie, T. C. , Thetford, W. N. & Wolff, H. G. Human cerebral hemisphere function."
 msgstr ""
 
-#. Paragraph 10: Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. Human cerebral hemisphere function. The Physiologist, 1957, 1, 4. Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wol...
 #: paragraph:10,sentence:40
+msgctxt "Paragraph 10: Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. Human cerebral hemisphere function. The Physiologist, 1957, 1, 4. Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wol..."
 msgid "The Physiologist, 1957, 1, 4."
 msgstr ""
 
-#. Paragraph 10: Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. Human cerebral hemisphere function. The Physiologist, 1957, 1, 4. Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wol...
 #: paragraph:10,sentence:41
+msgctxt "Paragraph 10: Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. Human cerebral hemisphere function. The Physiologist, 1957, 1, 4. Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wol..."
 msgid "Chapman, L. , Thetford, W. N. , Berlin, L. , Guthrie, T. & Wolff, H. G. Impairment of cerebral hemispheric functions following prolonged life stress in man."
 msgstr ""
 
-#. Paragraph 10: Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. Human cerebral hemisphere function. The Physiologist, 1957, 1, 4. Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wol...
 #: paragraph:10,sentence:42
+msgctxt "Paragraph 10: Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. Human cerebral hemisphere function. The Physiologist, 1957, 1, 4. Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wol..."
 msgid "Transactions VIth International Congress of Neurology, Brussels, 1957, 203–218."
 msgstr ""
 
-#. Paragraph 11: Thetford, W. N., Goldberger, L., Hinkle, L. & Wolff, H. G. Personality features and their cultural interrelationships in a group of Chinese. Brussels: Proceedings of 15th International Congress of Psy...
 #: paragraph:11,sentence:43
+msgctxt "Paragraph 11: Thetford, W. N., Goldberger, L., Hinkle, L. & Wolff, H. G. Personality features and their cultural interrelationships in a group of Chinese. Brussels: Proceedings of 15th International Congress of Psy..."
 msgid "Thetford, W. N. , Goldberger, L. , Hinkle, L. & Wolff, H. G. Personality features and their cultural interrelationships in a group of Chinese."
 msgstr ""
 
-#. Paragraph 11: Thetford, W. N., Goldberger, L., Hinkle, L. & Wolff, H. G. Personality features and their cultural interrelationships in a group of Chinese. Brussels: Proceedings of 15th International Congress of Psy...
 #: paragraph:11,sentence:44
+msgctxt "Paragraph 11: Thetford, W. N., Goldberger, L., Hinkle, L. & Wolff, H. G. Personality features and their cultural interrelationships in a group of Chinese. Brussels: Proceedings of 15th International Congress of Psy..."
 msgid "Brussels: Proceedings of 15th International Congress of Psychology, 1957, 541–542."
 msgstr ""
 
-#. Paragraph 12: Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & Wolff, H. G. Some relationships between health, personality and environmental factors in a group of adult Chinese. Psychosom...
 #: paragraph:12,sentence:45
+msgctxt "Paragraph 12: Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & Wolff, H. G. Some relationships between health, personality and environmental factors in a group of adult Chinese. Psychosom..."
 msgid "Hinkle, L. E. , Christenson, W. , Kane, F. D. , Ostfeld, A. , Thetford, W. N. & Wolff, H. G. Some relationships between health, personality and environmental factors in a group of adult Chinese."
 msgstr ""
 
-#. Paragraph 12: Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & Wolff, H. G. Some relationships between health, personality and environmental factors in a group of adult Chinese. Psychosom...
 #: paragraph:12,sentence:46
+msgctxt "Paragraph 12: Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & Wolff, H. G. Some relationships between health, personality and environmental factors in a group of adult Chinese. Psychosom..."
 msgid "Psychosomatic Medicine, 1957, 19, 159 (ab.)."
 msgstr ""
 
-#. Paragraph 13: Chapman, L. F., Thetford, W. N., Berlin, L., Guthrie, T. C. & Wolff, H. G. Studies in human cerebral function: Prolonged stress and the highest integrative functions of man. Excerpta Medica, Free Comm...
 #: paragraph:13,sentence:47
+msgctxt "Paragraph 13: Chapman, L. F., Thetford, W. N., Berlin, L., Guthrie, T. C. & Wolff, H. G. Studies in human cerebral function: Prolonged stress and the highest integrative functions of man. Excerpta Medica, Free Comm..."
 msgid "Chapman, L. F. , Thetford, W. N. , Berlin, L. , Guthrie, T. C. & Wolff, H. G. Studies in human cerebral function: Prolonged stress and the highest integrative functions of man."
 msgstr ""
 
-#. Paragraph 13: Chapman, L. F., Thetford, W. N., Berlin, L., Guthrie, T. C. & Wolff, H. G. Studies in human cerebral function: Prolonged stress and the highest integrative functions of man. Excerpta Medica, Free Comm...
 #: paragraph:13,sentence:48
+msgctxt "Paragraph 13: Chapman, L. F., Thetford, W. N., Berlin, L., Guthrie, T. C. & Wolff, H. G. Studies in human cerebral function: Prolonged stress and the highest integrative functions of man. Excerpta Medica, Free Comm..."
 msgid "Excerpta Medica, Free Communication 24, VIth International Congress of Neurology, Brussels, 1957."
 msgstr ""
 
-#. Paragraph 14: Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions. Transactions of American Neurological Association, 1957, 95–96. Hinkle, L. E., Plum...
 #: paragraph:14,sentence:49
+msgctxt "Paragraph 14: Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions. Transactions of American Neurological Association, 1957, 95–96. Hinkle, L. E., Plum..."
 msgid "Chapman, L. , Thetford, W. N. , Guthrie, T. , Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions."
 msgstr ""
 
-#. Paragraph 14: Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions. Transactions of American Neurological Association, 1957, 95–96. Hinkle, L. E., Plum...
 #: paragraph:14,sentence:50
+msgctxt "Paragraph 14: Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions. Transactions of American Neurological Association, 1957, 95–96. Hinkle, L. E., Plum..."
 msgid "Transactions of American Neurological Association, 1957, 95–96."
 msgstr ""
 
-#. Paragraph 14: Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions. Transactions of American Neurological Association, 1957, 95–96. Hinkle, L. E., Plum...
 #: paragraph:14,sentence:51
+msgctxt "Paragraph 14: Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions. Transactions of American Neurological Association, 1957, 95–96. Hinkle, L. E., Plum..."
 msgid "Hinkle, L. E. , Plummer, N. , Metraux, R. , Richter, P. , Gittinger, J. W. , Thetford, W. N. et al."
 msgstr ""
 
-#. Paragraph 14: Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions. Transactions of American Neurological Association, 1957, 95–96. Hinkle, L. E., Plum...
 #: paragraph:14,sentence:52
+msgctxt "Paragraph 14: Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions. Transactions of American Neurological Association, 1957, 95–96. Hinkle, L. E., Plum..."
 msgid "Studies in human ecology: factors relevant to the occurrence of bodily illness and disturbances in need, thought, and behavior in three homogeneous population groups."
 msgstr ""
 
-#. Paragraph 14: Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions. Transactions of American Neurological Association, 1957, 95–96. Hinkle, L. E., Plum...
 #: paragraph:14,sentence:53
+msgctxt "Paragraph 14: Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies in human cerebral hemisphere functions. Transactions of American Neurological Association, 1957, 95–96. Hinkle, L. E., Plum..."
 msgid "American Journal of Psychiatry, 1957, 114, 212–220."
 msgstr ""
 
-#. Paragraph 15: Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress. The Brain and Human Behavior. Baltimore: William and Wilkins, 1958, 491–534. Hi...
 #: paragraph:15,sentence:54
+msgctxt "Paragraph 15: Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress. The Brain and Human Behavior. Baltimore: William and Wilkins, 1958, 491–534. Hi..."
 msgid "Chapman, L. , Thetford, W. N. , Berlin, L. , Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress."
 msgstr ""
 
-#. Paragraph 15: Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress. The Brain and Human Behavior. Baltimore: William and Wilkins, 1958, 491–534. Hi...
 #: paragraph:15,sentence:55
+msgctxt "Paragraph 15: Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress. The Brain and Human Behavior. Baltimore: William and Wilkins, 1958, 491–534. Hi..."
 msgid "The Brain and Human Behavior."
 msgstr ""
 
-#. Paragraph 15: Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress. The Brain and Human Behavior. Baltimore: William and Wilkins, 1958, 491–534. Hi...
 #: paragraph:15,sentence:56
+msgctxt "Paragraph 15: Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress. The Brain and Human Behavior. Baltimore: William and Wilkins, 1958, 491–534. Hi..."
 msgid "Baltimore: William and Wilkins, 1958, 491–534."
 msgstr ""
 
-#. Paragraph 15: Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress. The Brain and Human Behavior. Baltimore: William and Wilkins, 1958, 491–534. Hi...
 #: paragraph:15,sentence:57
+msgctxt "Paragraph 15: Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress. The Brain and Human Behavior. Baltimore: William and Wilkins, 1958, 491–534. Hi..."
 msgid "Hinkle, L. E. , Christenson, W. , Kane, F. D. , Ostfeld, A. , Thetford, W. N. & Wolff, H. G. An investigation of the relation between life experience, personality characteristics, and general susceptibility to illness."
 msgstr ""
 
-#. Paragraph 15: Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress. The Brain and Human Behavior. Baltimore: William and Wilkins, 1958, 491–534. Hi...
 #: paragraph:15,sentence:58
+msgctxt "Paragraph 15: Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest integrative functions in man during stress. The Brain and Human Behavior. Baltimore: William and Wilkins, 1958, 491–534. Hi..."
 msgid "Psychosomatic Medicine, 1958, 20, 278–295."
 msgstr ""
 
-#. Paragraph 16: Thetford, W. N. The place of projective techniques in the medical curriculum. American Psychologist, 1958, 13, 346 (ab.). Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical educa...
 #: paragraph:16,sentence:59
+msgctxt "Paragraph 16: Thetford, W. N. The place of projective techniques in the medical curriculum. American Psychologist, 1958, 13, 346 (ab.). Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical educa..."
 msgid "Thetford, W. N. The place of projective techniques in the medical curriculum."
 msgstr ""
 
-#. Paragraph 16: Thetford, W. N. The place of projective techniques in the medical curriculum. American Psychologist, 1958, 13, 346 (ab.). Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical educa...
 #: paragraph:16,sentence:60
+msgctxt "Paragraph 16: Thetford, W. N. The place of projective techniques in the medical curriculum. American Psychologist, 1958, 13, 346 (ab.). Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical educa..."
 msgid "American Psychologist, 1958, 13, 346 (ab.)."
 msgstr ""
 
-#. Paragraph 16: Thetford, W. N. The place of projective techniques in the medical curriculum. American Psychologist, 1958, 13, 346 (ab.). Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical educa...
 #: paragraph:16,sentence:61
+msgctxt "Paragraph 16: Thetford, W. N. The place of projective techniques in the medical curriculum. American Psychologist, 1958, 13, 346 (ab.). Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical educa..."
 msgid "Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical education."
 msgstr ""
 
-#. Paragraph 16: Thetford, W. N. The place of projective techniques in the medical curriculum. American Psychologist, 1958, 13, 346 (ab.). Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical educa...
 #: paragraph:16,sentence:62
+msgctxt "Paragraph 16: Thetford, W. N. The place of projective techniques in the medical curriculum. American Psychologist, 1958, 13, 346 (ab.). Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical educa..."
 msgid "Journal of Medical Education, 1960, 35, 62–66."
 msgstr ""
 
-#. Paragraph 17: Thetford, W. N. Theoretical formulations in personality evaluation. American Psychologist, 1961, 16, 431 (ab.). Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome analysis. Ame...
 #: paragraph:17,sentence:63
+msgctxt "Paragraph 17: Thetford, W. N. Theoretical formulations in personality evaluation. American Psychologist, 1961, 16, 431 (ab.). Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome analysis. Ame..."
 msgid "Thetford, W. N. Theoretical formulations in personality evaluation."
 msgstr ""
 
-#. Paragraph 17: Thetford, W. N. Theoretical formulations in personality evaluation. American Psychologist, 1961, 16, 431 (ab.). Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome analysis. Ame...
 #: paragraph:17,sentence:64
+msgctxt "Paragraph 17: Thetford, W. N. Theoretical formulations in personality evaluation. American Psychologist, 1961, 16, 431 (ab.). Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome analysis. Ame..."
 msgid "American Psychologist, 1961, 16, 431 (ab.)."
 msgstr ""
 
-#. Paragraph 17: Thetford, W. N. Theoretical formulations in personality evaluation. American Psychologist, 1961, 16, 431 (ab.). Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome analysis. Ame...
 #: paragraph:17,sentence:65
+msgctxt "Paragraph 17: Thetford, W. N. Theoretical formulations in personality evaluation. American Psychologist, 1961, 16, 431 (ab.). Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome analysis. Ame..."
 msgid "Schucman, H. , Saunders, D. R. & Thetford, W. N. An application of syndrome analysis."
 msgstr ""
 
-#. Paragraph 17: Thetford, W. N. Theoretical formulations in personality evaluation. American Psychologist, 1961, 16, 431 (ab.). Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome analysis. Ame...
 #: paragraph:17,sentence:66
+msgctxt "Paragraph 17: Thetford, W. N. Theoretical formulations in personality evaluation. American Psychologist, 1961, 16, 431 (ab.). Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome analysis. Ame..."
 msgid "American Psychologist, 1962, 17, 359 (ab.)."
 msgstr ""
 
-#. Paragraph 18: Thetford, W. N. & Schucman, H. The personality assessment system. Human Ecology Fund, 1962. (Preliminary monograph) Thetford, W. N. Principles of administrative development: technical developments. Pr...
 #: paragraph:18,sentence:67
+msgctxt "Paragraph 18: Thetford, W. N. & Schucman, H. The personality assessment system. Human Ecology Fund, 1962. (Preliminary monograph) Thetford, W. N. Principles of administrative development: technical developments. Pr..."
 msgid "Thetford, W. N. & Schucman, H. The personality assessment system."
 msgstr ""
 
-#. Paragraph 18: Thetford, W. N. & Schucman, H. The personality assessment system. Human Ecology Fund, 1962. (Preliminary monograph) Thetford, W. N. Principles of administrative development: technical developments. Pr...
 #: paragraph:18,sentence:68
+msgctxt "Paragraph 18: Thetford, W. N. & Schucman, H. The personality assessment system. Human Ecology Fund, 1962. (Preliminary monograph) Thetford, W. N. Principles of administrative development: technical developments. Pr..."
 msgid "Human Ecology Fund, 1962. (Preliminary monograph) Thetford, W. N. Principles of administrative development: technical developments."
 msgstr ""
 
-#. Paragraph 18: Thetford, W. N. & Schucman, H. The personality assessment system. Human Ecology Fund, 1962. (Preliminary monograph) Thetford, W. N. Principles of administrative development: technical developments. Pr...
 #: paragraph:18,sentence:69
+msgctxt "Paragraph 18: Thetford, W. N. & Schucman, H. The personality assessment system. Human Ecology Fund, 1962. (Preliminary monograph) Thetford, W. N. Principles of administrative development: technical developments. Pr..."
 msgid "Presented at Psychology Conference, New York State Department of Mental Hygiene, 1962."
 msgstr ""
 
-#. Paragraph 19: Thetford, W. N. Psychodynamics of intelligence: a projective approach. Address as president-elect, New York Society for Projective Techniques, 1962. Thetford, W. N. Theoretical formulations underlying...
 #: paragraph:19,sentence:70
+msgctxt "Paragraph 19: Thetford, W. N. Psychodynamics of intelligence: a projective approach. Address as president-elect, New York Society for Projective Techniques, 1962. Thetford, W. N. Theoretical formulations underlying..."
 msgid "Thetford, W. N. Psychodynamics of intelligence: a projective approach"
 msgstr ""
 
-#. Paragraph 19: Thetford, W. N. Psychodynamics of intelligence: a projective approach. Address as president-elect, New York Society for Projective Techniques, 1962. Thetford, W. N. Theoretical formulations underlying...
 #: paragraph:19,sentence:71
+msgctxt "Paragraph 19: Thetford, W. N. Psychodynamics of intelligence: a projective approach. Address as president-elect, New York Society for Projective Techniques, 1962. Thetford, W. N. Theoretical formulations underlying..."
 msgid "Address as president-elect, New York Society for Projective Techniques, 1962"
 msgstr ""
 
-#. Paragraph 19: Thetford, W. N. Psychodynamics of intelligence: a projective approach. Address as president-elect, New York Society for Projective Techniques, 1962. Thetford, W. N. Theoretical formulations underlying...
 #: paragraph:19,sentence:72
+msgctxt "Paragraph 19: Thetford, W. N. Psychodynamics of intelligence: a projective approach. Address as president-elect, New York Society for Projective Techniques, 1962. Thetford, W. N. Theoretical formulations underlying..."
 msgid "Thetford, W. N. Theoretical formulations underlying research"
 msgstr ""
 
-#. Paragraph 19: Thetford, W. N. Psychodynamics of intelligence: a projective approach. Address as president-elect, New York Society for Projective Techniques, 1962. Thetford, W. N. Theoretical formulations underlying...
 #: paragraph:19,sentence:73
+msgctxt "Paragraph 19: Thetford, W. N. Psychodynamics of intelligence: a projective approach. Address as president-elect, New York Society for Projective Techniques, 1962. Thetford, W. N. Theoretical formulations underlying..."
 msgid "Measurement of personality traits resulting from the interaction of ability and environment"
 msgstr ""
 
-#. Paragraph 19: Thetford, W. N. Psychodynamics of intelligence: a projective approach. Address as president-elect, New York Society for Projective Techniques, 1962. Thetford, W. N. Theoretical formulations underlying...
 #: paragraph:19,sentence:74
+msgctxt "Paragraph 19: Thetford, W. N. Psychodynamics of intelligence: a projective approach. Address as president-elect, New York Society for Projective Techniques, 1962. Thetford, W. N. Theoretical formulations underlying..."
 msgid "New York: Human Ecology Fund, 1962, 1–3. (Foundation monograph)"
 msgstr ""
 
-#. Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person...
 #: paragraph:20,sentence:75
+msgctxt "Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person..."
 msgid "Thetford, W. N. (Chm.)."
 msgstr ""
 
-#. Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person...
 #: paragraph:20,sentence:76
+msgctxt "Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person..."
 msgid "Symposium: Approaches to integrated concepts of personality theory and assessment."
 msgstr ""
 
-#. Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person...
 #: paragraph:20,sentence:77
+msgctxt "Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person..."
 msgid "New York Academy of Science, June, 1964."
 msgstr ""
 
-#. Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person...
 #: paragraph:20,sentence:78
+msgctxt "Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person..."
 msgid "Thetford, W. N. (Ed.)."
 msgstr ""
 
-#. Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person...
 #: paragraph:20,sentence:79
+msgctxt "Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person..."
 msgid "Multitrait, multilevel personality assessment."
 msgstr ""
 
-#. Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person...
 #: paragraph:20,sentence:80
+msgctxt "Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person..."
 msgid "New York: Human Ecology Fund, 1964 (Foundation monograph) Thetford, W. N. (Chm.) Symposium: Multitrait, multilevel personality assessment: theory, measurement, evaluation."
 msgstr ""
 
-#. Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person...
 #: paragraph:20,sentence:81
+msgctxt "Paragraph 20: Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of personality theory and assessment. New York Academy of Science, June, 1964. Thetford, W. N. (Ed.). Multitrait, multilevel person..."
 msgid "American Psychologist, 1963, 18, 411 (ab.)."
 msgstr ""
 
-#. Paragraph 21: Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, 1965, 70, 1. Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth mental measurements yearbook. Highland Par...
 #: paragraph:21,sentence:82
+msgctxt "Paragraph 21: Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, 1965, 70, 1. Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth mental measurements yearbook. Highland Par..."
 msgid "Hunt, H. F. & Thetford, W. N. Editorial."
 msgstr ""
 
-#. Paragraph 21: Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, 1965, 70, 1. Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth mental measurements yearbook. Highland Par...
 #: paragraph:21,sentence:83
+msgctxt "Paragraph 21: Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, 1965, 70, 1. Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth mental measurements yearbook. Highland Par..."
 msgid "Journal of Abnormal Psychology, 1965, 70, 1."
 msgstr ""
 
-#. Paragraph 21: Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, 1965, 70, 1. Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth mental measurements yearbook. Highland Par...
 #: paragraph:21,sentence:84
+msgctxt "Paragraph 21: Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, 1965, 70, 1. Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth mental measurements yearbook. Highland Par..."
 msgid "Thetford, W. N. The Holtzman inkblot test."
 msgstr ""
 
-#. Paragraph 21: Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, 1965, 70, 1. Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth mental measurements yearbook. Highland Par...
 #: paragraph:21,sentence:85
+msgctxt "Paragraph 21: Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, 1965, 70, 1. Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth mental measurements yearbook. Highland Par..."
 msgid "In O. Buros (Ed.), The sixth mental measurements yearbook."
 msgstr ""
 
-#. Paragraph 21: Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, 1965, 70, 1. Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth mental measurements yearbook. Highland Par...
 #: paragraph:21,sentence:86
+msgctxt "Paragraph 21: Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, 1965, 70, 1. Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth mental measurements yearbook. Highland Par..."
 msgid "Highland Park, N. J. : The Gryphon Press, 1965, 442–444."
 msgstr ""
 
-#. Paragraph 22: Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, 82–114. Thetfo...
 #: paragraph:22,sentence:87
+msgctxt "Paragraph 22: Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, 82–114. Thetfo..."
 msgid "Thetford, W. N. , Schucman, H. & Farmer, C. Psychological testing of children with headaches."
 msgstr ""
 
-#. Paragraph 22: Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, 82–114. Thetfo...
 #: paragraph:22,sentence:88
+msgctxt "Paragraph 22: Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, 82–114. Thetfo..."
 msgid "In A. P. Friedman & E. Harms (Eds.), Headaches in children."
 msgstr ""
 
-#. Paragraph 22: Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, 82–114. Thetfo...
 #: paragraph:22,sentence:89
+msgctxt "Paragraph 22: Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, 82–114. Thetfo..."
 msgid "Springfield: C. C. Thomas, 1967, 82–114."
 msgstr ""
 
-#. Paragraph 22: Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, 82–114. Thetfo...
 #: paragraph:22,sentence:90
+msgctxt "Paragraph 22: Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, 82–114. Thetfo..."
 msgid "Thetford, W. N. Problems of assessment and evaluation of the mentally retarded and the culturally deprived (symposium discussant)."
 msgstr ""
 
-#. Paragraph 22: Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, 82–114. Thetfo...
 #: paragraph:22,sentence:91
+msgctxt "Paragraph 22: Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, 82–114. Thetfo..."
 msgid "Excerpta Medica, International Congress, Series No. 153, 1967, 33–34."
 msgstr ""
 
-#. Paragraph 23: Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr (Eds.), Sourcebook in Abnormal Psychology. Boston: ...
 #: paragraph:23,sentence:92
+msgctxt "Paragraph 23: Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr (Eds.), Sourcebook in Abnormal Psychology. Boston: ..."
 msgid "Hinkle, L. E. , Plummer, N. , Metraux, R. , Richter, P. , Gittinger, J. W. , Thetford, W. N. et al."
 msgstr ""
 
-#. Paragraph 23: Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr (Eds.), Sourcebook in Abnormal Psychology. Boston: ...
 #: paragraph:23,sentence:93
+msgctxt "Paragraph 23: Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr (Eds.), Sourcebook in Abnormal Psychology. Boston: ..."
 msgid "Studies in human ecology."
 msgstr ""
 
-#. Paragraph 23: Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr (Eds.), Sourcebook in Abnormal Psychology. Boston: ...
 #: paragraph:23,sentence:94
+msgctxt "Paragraph 23: Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr (Eds.), Sourcebook in Abnormal Psychology. Boston: ..."
 msgid "In L. Y. Rabkin & J. E. Carr (Eds.), Sourcebook in Abnormal Psychology."
 msgstr ""
 
-#. Paragraph 23: Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr (Eds.), Sourcebook in Abnormal Psychology. Boston: ...
 #: paragraph:23,sentence:95
+msgctxt "Paragraph 23: Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr (Eds.), Sourcebook in Abnormal Psychology. Boston: ..."
 msgid "Boston: Houghton Mifflin, 1967, 342–350."
 msgstr ""
 
-#. Paragraph 24: Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in conversion hysteria. Psychological Reports, 1968, 23, 231–243. Thetford, W. N. & Schucman, H. Personality patterns in migrai...
 #: paragraph:24,sentence:96
+msgctxt "Paragraph 24: Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in conversion hysteria. Psychological Reports, 1968, 23, 231–243. Thetford, W. N. & Schucman, H. Personality patterns in migrai..."
 msgid "Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in conversion hysteria."
 msgstr ""
 
-#. Paragraph 24: Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in conversion hysteria. Psychological Reports, 1968, 23, 231–243. Thetford, W. N. & Schucman, H. Personality patterns in migrai...
 #: paragraph:24,sentence:97
+msgctxt "Paragraph 24: Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in conversion hysteria. Psychological Reports, 1968, 23, 231–243. Thetford, W. N. & Schucman, H. Personality patterns in migrai..."
 msgid "Psychological Reports, 1968, 23, 231–243."
 msgstr ""
 
-#. Paragraph 24: Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in conversion hysteria. Psychological Reports, 1968, 23, 231–243. Thetford, W. N. & Schucman, H. Personality patterns in migrai...
 #: paragraph:24,sentence:98
+msgctxt "Paragraph 24: Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in conversion hysteria. Psychological Reports, 1968, 23, 231–243. Thetford, W. N. & Schucman, H. Personality patterns in migrai..."
 msgid "Thetford, W. N. & Schucman, H. Personality patterns in migraine and ulcerative colitis patients."
 msgstr ""
 
-#. Paragraph 24: Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in conversion hysteria. Psychological Reports, 1968, 23, 231–243. Thetford, W. N. & Schucman, H. Personality patterns in migrai...
 #: paragraph:24,sentence:99
+msgctxt "Paragraph 24: Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in conversion hysteria. Psychological Reports, 1968, 23, 231–243. Thetford, W. N. & Schucman, H. Personality patterns in migrai..."
 msgid "Psychological Reports, 1968, 23, 1206."
 msgstr ""
 
-#. Paragraph 25: Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality traits. Psychological Reports, 1969, 25, 659–667. Schucman, H. & Thetford, W. N. A comparison of personality traits in ulcerat...
 #: paragraph:25,sentence:100
+msgctxt "Paragraph 25: Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality traits. Psychological Reports, 1969, 25, 659–667. Schucman, H. & Thetford, W. N. A comparison of personality traits in ulcerat..."
 msgid "Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality traits."
 msgstr ""
 
-#. Paragraph 25: Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality traits. Psychological Reports, 1969, 25, 659–667. Schucman, H. & Thetford, W. N. A comparison of personality traits in ulcerat...
 #: paragraph:25,sentence:101
+msgctxt "Paragraph 25: Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality traits. Psychological Reports, 1969, 25, 659–667. Schucman, H. & Thetford, W. N. A comparison of personality traits in ulcerat..."
 msgid "Psychological Reports, 1969, 25, 659–667."
 msgstr ""
 
-#. Paragraph 25: Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality traits. Psychological Reports, 1969, 25, 659–667. Schucman, H. & Thetford, W. N. A comparison of personality traits in ulcerat...
 #: paragraph:25,sentence:102
+msgctxt "Paragraph 25: Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality traits. Psychological Reports, 1969, 25, 659–667. Schucman, H. & Thetford, W. N. A comparison of personality traits in ulcerat..."
 msgid "Schucman, H. & Thetford, W. N. A comparison of personality traits in ulcerative colitis and migraine patients."
 msgstr ""
 
-#. Paragraph 25: Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality traits. Psychological Reports, 1969, 25, 659–667. Schucman, H. & Thetford, W. N. A comparison of personality traits in ulcerat...
 #: paragraph:25,sentence:103
+msgctxt "Paragraph 25: Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality traits. Psychological Reports, 1969, 25, 659–667. Schucman, H. & Thetford, W. N. A comparison of personality traits in ulcerat..."
 msgid "Journal of Abnormal Psychology, 1970, 76."
 msgstr ""
 
-#. Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A...
 #: paragraph:26,sentence:104
+msgctxt "Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A..."
 msgid "Thetford, W. N. & Schucman, H. Conversion reactions and personality traits."
 msgstr ""
 
-#. Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A...
 #: paragraph:26,sentence:105
+msgctxt "Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A..."
 msgid "Psychological Reports, 1970."
 msgstr ""
 
-#. Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A...
 #: paragraph:26,sentence:106
+msgctxt "Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A..."
 msgid "Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17)."
 msgstr ""
 
-#. Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A...
 #: paragraph:26,sentence:107
+msgctxt "Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A..."
 msgid "In J. A. Downey & R. C. Darling (Eds.)."
 msgstr ""
 
-#. Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A...
 #: paragraph:26,sentence:108
+msgctxt "Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A..."
 msgid "The physiologic basis of rehabilitation medicine."
 msgstr ""
 
-#. Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A...
 #: paragraph:26,sentence:109
+msgctxt "Paragraph 26: Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. Psychological Reports, 1970. Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior (Chapter 17). In J. A..."
 msgid "Philadelphia: W. B. Saunders, 1971."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:110
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfelt input from many of Bill’s closest friends, and to them I am grateful beyond measure."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:111
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "Although I already possessed many documents and much information about Bill, the Foundation for Inner Peace kindly made their archives available to fill in the gaps."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:112
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "Without Judy and Whit Whitson, who along with Bob Skutch and Kenneth Wapnick are the centers of the original ACIM family, it would be a decidedly less complete work."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:113
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "They have generously shared their time, their memories of Bill, and their enthusiasm for the project."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:114
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "Nor would it have come together without the excellent suggestions and expertise of my dear, lifelong friend and professional editor, Sarah Whalen-Kraft."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:115
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "She has skillfully assisted in turning my memories poured out on paper and my transcribed conversations with more than thirty people into a more graceful document."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:116
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "I extend sincere thanks also to Julie Ruffo, who provided specialized editorial services and assisted with publishing decisions."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:117
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "My treasured friend, Alice MacMahon, served as reader, unofficial editor, and cheerleader for the project."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:118
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "So too, my sons Greg and Nelson were wholeheartedly in favor of my writing Bill’s story and encouraged me to persevere when the mountain of details and information seemed daunting."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:119
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "My fun-loving friend, Judie Chiappone, who definitely never forgets to laugh, took the back cover picture."
 msgstr ""
 
-#. Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel...
 #: paragraph:27,sentence:120
+msgctxt "Paragraph 27: Editorship: Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. Hunt, Ed.) Acknowledgments It is a simple fact that this book is possible only because of extensive and heartfel..."
 msgid "Last but certainly not least, Cathy Sanders and Kathryn Van Aernum brought their extensive graphic design experience and good will to the layout design and cover respectively."
 msgstr ""
 
-#. Paragraph 28: Those interviewed in person or by phone, some more than once, include Bob Beale, Diane Cirincione, Dean Clyde (now deceased), Jules Finegold, David Goodrich, Bruce Gregory, Patricia Hopkins, Bob Howe,...
 #: paragraph:28,sentence:121
+msgctxt "Paragraph 28: Those interviewed in person or by phone, some more than once, include Bob Beale, Diane Cirincione, Dean Clyde (now deceased), Jules Finegold, David Goodrich, Bruce Gregory, Patricia Hopkins, Bob Howe,..."
 msgid "Those interviewed in person or by phone, some more than once, include Bob Beale, Diane Cirincione, Dean Clyde (now deceased), Jules Finegold, David Goodrich, Bruce Gregory, Patricia Hopkins, Bob Howe, Greg Howe, Jerry Jampolsky, Jim Jeffries, Jaison Kayn, Jack and Layle Luckett, Carlagaye Olson, Hugh and Gayle Prather, Catherine Prescott, Bob Skutch, Alice Stephens, Roger Walsh, Kenneth Wapnick, Sarah Whalen-Kraft, Judith Skutch Whitson, and William Whitson."
 msgstr ""
 
-#. Paragraph 29: From the archival records of the Foundation for Inner Peace, I gathered excerpts from interviews with Art Carr, Tammy Cohen, Calvin Hatcher, Edna Jo Hunter-King, Charles Lehman, Robert Rosenthal, Fran...
 #: paragraph:29,sentence:122
+msgctxt "Paragraph 29: From the archival records of the Foundation for Inner Peace, I gathered excerpts from interviews with Art Carr, Tammy Cohen, Calvin Hatcher, Edna Jo Hunter-King, Charles Lehman, Robert Rosenthal, Fran..."
 msgid "From the archival records of the Foundation for Inner Peace, I gathered excerpts from interviews with Art Carr, Tammy Cohen, Calvin Hatcher, Edna Jo Hunter-King, Charles Lehman, Robert Rosenthal, Frances Vaughan, and Dorothy Ullman."
 msgstr ""
 
-#. Paragraph 30: Angie Mills responded to my letter to her sister Harriet, and both corroborated Bill’s story of Harriet’s retrieval from Hong Kong as told in his autobiography and added new material. Paul Solomon (no...
 #: paragraph:30,sentence:123
+msgctxt "Paragraph 30: Angie Mills responded to my letter to her sister Harriet, and both corroborated Bill’s story of Harriet’s retrieval from Hong Kong as told in his autobiography and added new material. Paul Solomon (no..."
 msgid "Angie Mills responded to my letter to her sister Harriet, and both corroborated Bill’s story of Harriet’s retrieval from Hong Kong as told in his autobiography and added new material."
 msgstr ""
 
-#. Paragraph 30: Angie Mills responded to my letter to her sister Harriet, and both corroborated Bill’s story of Harriet’s retrieval from Hong Kong as told in his autobiography and added new material. Paul Solomon (no...
 #: paragraph:30,sentence:124
+msgctxt "Paragraph 30: Angie Mills responded to my letter to her sister Harriet, and both corroborated Bill’s story of Harriet’s retrieval from Hong Kong as told in his autobiography and added new material. Paul Solomon (no..."
 msgid "Paul Solomon (now deceased) and LeRoy Zemke provided valuable insights into Bill’s psyche through their in-depth readings given for him in 1976 and 1980 respectively."
 msgstr ""
 
-#. Paragraph 31: Thank you one and all for making Bill’s story available for everyone, and may we all learn to emulate “flexi-Bill!” Table of Contents Front Cover Also by Carol Howe
 #: paragraph:31,sentence:125
+msgctxt "Paragraph 31: Thank you one and all for making Bill’s story available for everyone, and may we all learn to emulate “flexi-Bill!” Table of Contents Front Cover Also by Carol Howe"
 msgid "Thank you one and all for making Bill’s story available for everyone, and may we all learn to emulate “flexi-Bill!” Table of Contents Front Cover Also by Carol Howe"
 msgstr ""
 

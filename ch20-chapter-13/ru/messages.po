@@ -7,808 +7,808 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "X-Generator: book-importer\n"
 
-#. Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ...
 #: paragraph:1,sentence:1
+msgctxt "Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ..."
 msgid "Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California."
 msgstr ""
 
-#. Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ...
 #: paragraph:1,sentence:2
+msgctxt "Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ..."
 msgid "I found no evidence from interviews or archival records that there was ever an important woman in his New York life other than Helen."
 msgstr ""
 
-#. Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ...
 #: paragraph:1,sentence:3
+msgctxt "Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ..."
 msgid "That is not surprising since he always had a male partner while living there and Helen consumed almost all his attention, even during his personal time."
 msgstr ""
 
-#. Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ...
 #: paragraph:1,sentence:4
+msgctxt "Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ..."
 msgid "It’s a wonder he had time for anything or anyone outside his work and preoccupation with her."
 msgstr ""
 
-#. Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ...
 #: paragraph:1,sentence:5
+msgctxt "Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ..."
 msgid "One of his good friends characterized him as “ambiguously gay,” and Bill told Jo, his first and only girlfriend, that he considered himself bisexual even though he was not intimate with women."
 msgstr ""
 
-#. Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ...
 #: paragraph:1,sentence:6
+msgctxt "Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ..."
 msgid "Others opined that he thought and interacted in the world like a straight man but conducted his private life as a gay man."
 msgstr ""
 
-#. Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ...
 #: paragraph:1,sentence:7
+msgctxt "Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ..."
 msgid "In his high school essay, he wrote of constantly following his sister and her friends around and about his ongoing fascination with the opposite sex, a fascination that apparently continued into adulthood."
 msgstr ""
 
-#. Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ...
 #: paragraph:1,sentence:8
+msgctxt "Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ..."
 msgid "In the California era, Bill was attracted to a few other women and with them he had the same intimate yet not intimate relationship he and I had as well."
 msgstr ""
 
-#. Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ...
 #: paragraph:1,sentence:9
+msgctxt "Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ..."
 msgid "We have all been confounded at trying to explain what that relationship was like."
 msgstr ""
 
-#. Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ...
 #: paragraph:1,sentence:10
+msgctxt "Paragraph 1: Although Bill was gay, there were women he deeply cared for and considered an integral part of his life, especially after moving to California. I found no evidence from interviews or archival records ..."
 msgid "Also Bill was concerned that his homosexuality might reflect negatively on ACIM, a sacred trust in his eyes, and spending time with women could provide “cover.” Bill cannot easily be categorized in terms of his private life and his ambivalence challenged him, too."
 msgstr ""
 
-#. Paragraph 2: Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate invol...
 #: paragraph:2,sentence:11
+msgctxt "Paragraph 2: Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate invol..."
 msgid "Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate involvement."
 msgstr ""
 
-#. Paragraph 2: Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate invol...
 #: paragraph:2,sentence:12
+msgctxt "Paragraph 2: Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate invol..."
 msgid "Having no romantic agenda leaves room for a deep and abiding friendship."
 msgstr ""
 
-#. Paragraph 2: Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate invol...
 #: paragraph:2,sentence:13
+msgctxt "Paragraph 2: Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate invol..."
 msgid "Bill could be very flirtatious, and was capable of giving anyone his complete, undivided attention, evoking a feeling of being valued and cared for."
 msgstr ""
 
-#. Paragraph 2: Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate invol...
 #: paragraph:2,sentence:14
+msgctxt "Paragraph 2: Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate invol..."
 msgid "Once when we were walking together in Tiburon, perhaps holding hands, a stranger suddenly stopped and with unusual fervor commented on how marvelous it was to see two people who cared so much about each other."
 msgstr ""
 
-#. Paragraph 2: Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate invol...
 #: paragraph:2,sentence:15
+msgctxt "Paragraph 2: Perhaps he felt safe with women, at least those who were not overly aggressive, just as many women feel safe with their gay men friends, without the complications and expectations of an intimate invol..."
 msgid "Whatever he “saw” deeply confirmed what I felt, too."
 msgstr ""
 
-#. Paragraph 3: Our time together was always easy, wide open, and without secrets from my perspective (I found out later there were things I didn’t know). We didn’t project our unfinished business onto one another, w...
 #: paragraph:3,sentence:16
+msgctxt "Paragraph 3: Our time together was always easy, wide open, and without secrets from my perspective (I found out later there were things I didn’t know). We didn’t project our unfinished business onto one another, w..."
 msgid "Our time together was always easy, wide open, and without secrets from my perspective (I found out later there were things I didn’t know)"
 msgstr ""
 
-#. Paragraph 3: Our time together was always easy, wide open, and without secrets from my perspective (I found out later there were things I didn’t know). We didn’t project our unfinished business onto one another, w...
 #: paragraph:3,sentence:17
+msgctxt "Paragraph 3: Our time together was always easy, wide open, and without secrets from my perspective (I found out later there were things I didn’t know). We didn’t project our unfinished business onto one another, w..."
 msgid "We didn’t project our unfinished business onto one another, which was not a matter of being polite but of genuine openheartedness"
 msgstr ""
 
-#. Paragraph 3: Our time together was always easy, wide open, and without secrets from my perspective (I found out later there were things I didn’t know). We didn’t project our unfinished business onto one another, w...
 #: paragraph:3,sentence:18
+msgctxt "Paragraph 3: Our time together was always easy, wide open, and without secrets from my perspective (I found out later there were things I didn’t know). We didn’t project our unfinished business onto one another, w..."
 msgid "And in all fairness, we neither lived nor worked together for extended periods of time, and it is usually in such close, continuous relationships where people begin to abrade against one another, survival strategies begin to surface, and opportunities for self-discovery appear"
 msgstr ""
 
-#. Paragraph 3: Our time together was always easy, wide open, and without secrets from my perspective (I found out later there were things I didn’t know). We didn’t project our unfinished business onto one another, w...
 #: paragraph:3,sentence:19
+msgctxt "Paragraph 3: Our time together was always easy, wide open, and without secrets from my perspective (I found out later there were things I didn’t know). We didn’t project our unfinished business onto one another, w..."
 msgid "All of us have had our share of challenging relationships, but mine with Bill seemed more like a reward, a respite from “learning lessons.”"
 msgstr ""
 
-#. Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill...
 #: paragraph:4,sentence:20
+msgctxt "Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill..."
 msgid "The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group."
 msgstr ""
 
-#. Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill...
 #: paragraph:4,sentence:21
+msgctxt "Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill..."
 msgid "Judy and Jerry were unhappy with each other over something, and Bill felt their discord was disruptive."
 msgstr ""
 
-#. Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill...
 #: paragraph:4,sentence:22
+msgctxt "Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill..."
 msgid "In an uncharacteristic display of temper, Bill picked up the text and slammed it down on the table, saying, “If you two don’t stop it, I’m leaving!” like a father admonishing his children."
 msgstr ""
 
-#. Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill...
 #: paragraph:4,sentence:23
+msgctxt "Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill..."
 msgid "That surprising outburst got everyone’s attention."
 msgstr ""
 
-#. Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill...
 #: paragraph:4,sentence:24
+msgctxt "Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill..."
 msgid "He seemed afraid of anger, his own and others, and like so many, defended himself against it."
 msgstr ""
 
-#. Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill...
 #: paragraph:4,sentence:25
+msgctxt "Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill..."
 msgid "In my research I’ve found other instances when Bill displayed anger but I witnessed only that one occasion."
 msgstr ""
 
-#. Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill...
 #: paragraph:4,sentence:26
+msgctxt "Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill..."
 msgid "Although he rarely revealed his angry side, he was periodically depressed, which usually indicates repressed anger directed against one’s self."
 msgstr ""
 
-#. Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill...
 #: paragraph:4,sentence:27
+msgctxt "Paragraph 4: The only time I remember seeing Bill angry was in Tiburon while attending the regular nine o’clock prayer meeting/discussion group. Judy and Jerry were unhappy with each other over something, and Bill..."
 msgid "Hidden anger and upset always continue to disturb one’s peace of mind."
 msgstr ""
 
-#. Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d...
 #: paragraph:5,sentence:28
+msgctxt "Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d..."
 msgid "A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere."
 msgstr ""
 
-#. Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d...
 #: paragraph:5,sentence:29
+msgctxt "Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d..."
 msgid "About two days after every visit I had an unusual feeling of “more.” It did not matter what had happened, who was present, or what we discussed."
 msgstr ""
 
-#. Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d...
 #: paragraph:5,sentence:30
+msgctxt "Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d..."
 msgid "Something shifted on a level beyond personality or even recognition."
 msgstr ""
 
-#. Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d...
 #: paragraph:5,sentence:31
+msgctxt "Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d..."
 msgid "If someone had asked, “More of what?” I would have answered, “Everything in general and nothing in particular.” It was less about acquiring information and more about clarity—an insightful process."
 msgstr ""
 
-#. Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d...
 #: paragraph:5,sentence:32
+msgctxt "Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d..."
 msgid "If I had a specific question or an unresolved issue, it was answered or resolved, but not through my effort."
 msgstr ""
 
-#. Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d...
 #: paragraph:5,sentence:33
+msgctxt "Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d..."
 msgid "With every encounter I discovered a new level of internal power, becoming more aware of myself, larger and more loving."
 msgstr ""
 
-#. Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d...
 #: paragraph:5,sentence:34
+msgctxt "Paragraph 5: A noteworthy and consistent experience occurred every time Bill and I were together, whether in Denver, Tiburon, or elsewhere. About two days after every visit I had an unusual feeling of “more.” It d..."
 msgid "This feeling of literal expanding consciousness was a hallmark of our coming together and it never failed."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:35
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "Additional opportunities for growth were in store for both Bill and me."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:36
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill, and a third person, Aeesha, to present a day-long seminar on ACIM for the University of California at Santa Cruz, to be held three months later in April."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:37
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "This was a shocking invitation as I had been a Course student for only a year and a half."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:38
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "The Course does indeed present challenges, and this one raised the bar."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:39
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "Looking back, I can’t fathom all I didn’t know then, but somehow, by the end of the day, the seminar seemed to be a success and Bill was greatly relieved."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:40
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "He despised speaking before large groups."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:41
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "He thought a group of five or six was the perfect size; that he enjoyed."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:42
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "However, standing in front of a large group produced great anxiety for him."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:43
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "Not only was public speaking threatening to him, but for his first few years after retirement, he was still trying to avoid notoriety about the Course."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:44
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "His New York friends indicated that he always hated public speaking while living there too, relying on tranquilizers to get through what he considered an ordeal."
 msgstr ""
 
-#. Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,...
 #: paragraph:6,sentence:45
+msgctxt "Paragraph 6: Additional opportunities for growth were in store for both Bill and me. One morning in January 1979, Jerry called to say that while meditating he had received a “message” that I should join him, Bill,..."
 msgid "Jerry noted on the drive down to Santa Cruz, however, that he seemed more willing when we were together."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:46
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:47
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "I had heard about Ken but hadn’t yet met him."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:48
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "Accustomed as I was to making extensive preparations for classes or workshops, the prospect of the four of us spending the next day with hundreds of people, with no collaboration or planning beforehand, made me nervous, to say the least."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:49
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "If Bill and Helen were being rushed in their spiritual evolution, so were many of us."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:50
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "I asked Jerry if we needed to make a plan and he indicated he had one: he would go first, then Ken, myself, and finally Bill. “That’s it?” I said, “That’s the plan?” “That’s the plan,” he said, as if that took care of everything, and for him, it did."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:51
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "Jerry was skilled and experienced at letting events unfold, and I, of necessity, learned a tremendous amount from him."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:52
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "I had no choice but to listen carefully and trust I would know what to do next."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:53
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "As Ken, Jerry, and I gave our various presentations, Bill periodically stood up and announced, “I think it’s time to do a lesson.” He would then read a lesson, inviting the audience to fully participate."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:54
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "He felt that teaching ACIM was not his mission, but he was happy to comment on what someone else had to say, and he loved to read the lessons."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:55
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "He could have recited the alphabet and it wouldn’t have mattered."
 msgstr ""
 
-#. Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha...
 #: paragraph:7,sentence:56
+msgctxt "Paragraph 7: After ACIM workshop in San Diego, CA On several other occasions, Bill, Jerry, and I teamed up to present the Course, once with Ken Wapnick in San Diego in the early 1980s. I had heard about Ken but ha..."
 msgid "People loved listening to Bill—and they loved him."
 msgstr ""
 
-#. Paragraph 8: We ended the day on a happy note, and despite his anxiety, Bill’s participation was marvelous. With his beautiful voice and captivating presence, people were spellbound. Over the years, his attitude s...
 #: paragraph:8,sentence:57
+msgctxt "Paragraph 8: We ended the day on a happy note, and despite his anxiety, Bill’s participation was marvelous. With his beautiful voice and captivating presence, people were spellbound. Over the years, his attitude s..."
 msgid "We ended the day on a happy note, and despite his anxiety, Bill’s participation was marvelous."
 msgstr ""
 
-#. Paragraph 8: We ended the day on a happy note, and despite his anxiety, Bill’s participation was marvelous. With his beautiful voice and captivating presence, people were spellbound. Over the years, his attitude s...
 #: paragraph:8,sentence:58
+msgctxt "Paragraph 8: We ended the day on a happy note, and despite his anxiety, Bill’s participation was marvelous. With his beautiful voice and captivating presence, people were spellbound. Over the years, his attitude s..."
 msgid "With his beautiful voice and captivating presence, people were spellbound."
 msgstr ""
 
-#. Paragraph 8: We ended the day on a happy note, and despite his anxiety, Bill’s participation was marvelous. With his beautiful voice and captivating presence, people were spellbound. Over the years, his attitude s...
 #: paragraph:8,sentence:59
+msgctxt "Paragraph 8: We ended the day on a happy note, and despite his anxiety, Bill’s participation was marvelous. With his beautiful voice and captivating presence, people were spellbound. Over the years, his attitude s..."
 msgid "Over the years, his attitude softened a bit and he became a little more willing to participate, but he was never completely comfortable with public appearances."
 msgstr ""
 
-#. Paragraph 8: We ended the day on a happy note, and despite his anxiety, Bill’s participation was marvelous. With his beautiful voice and captivating presence, people were spellbound. Over the years, his attitude s...
 #: paragraph:8,sentence:60
+msgctxt "Paragraph 8: We ended the day on a happy note, and despite his anxiety, Bill’s participation was marvelous. With his beautiful voice and captivating presence, people were spellbound. Over the years, his attitude s..."
 msgid "It was such a paradox, because he was a tremendously effective speaker and people were always greatly moved."
 msgstr ""
 
-#. Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo...
 #: paragraph:9,sentence:61
+msgctxt "Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo..."
 msgid "In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon."
 msgstr ""
 
-#. Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo...
 #: paragraph:9,sentence:62
+msgctxt "Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo..."
 msgid "Four years earlier Jerry had felt called to provide a forum for practicing the insights gleaned from ACIM; he established a program based on its principles for children with catastrophic illnesses."
 msgstr ""
 
-#. Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo...
 #: paragraph:9,sentence:63
+msgctxt "Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo..."
 msgid "Several other groups and/or individuals were so impressed by Jerry’s “experiment” that they modeled centers after his."
 msgstr ""
 
-#. Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo...
 #: paragraph:9,sentence:64
+msgctxt "Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo..."
 msgid "The Center for Creative Alternatives in Denver was either the fourth or fifth center established, and Bill sat on our board of directors, the only other board of any kind he was part of besides the Tiburon Center."
 msgstr ""
 
-#. Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo...
 #: paragraph:9,sentence:65
+msgctxt "Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo..."
 msgid "In the mid 1970s, the idea of lay people substantively helping one another was a new idea."
 msgstr ""
 
-#. Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo...
 #: paragraph:9,sentence:66
+msgctxt "Paragraph 9: In Denver in late 1979, six of us interested in attitudinal healing formed a center based on Jerry’s Center for Attitudinal Healing in Tiburon. Four years earlier Jerry had felt called to provide a fo..."
 msgid "Jerry pioneered the formation of lay support groups, and within a short time after implementing his ideas, support groups sprang up like mushrooms."
 msgstr ""
 
-#. Paragraph 10: When we held our center’s grand opening in April 1980, Jerry and Bill joined us. Jerry made a wonderful presentation, as always, and Bill remained unobtrusively in the background but definitely presen...
 #: paragraph:10,sentence:67
+msgctxt "Paragraph 10: When we held our center’s grand opening in April 1980, Jerry and Bill joined us. Jerry made a wonderful presentation, as always, and Bill remained unobtrusively in the background but definitely presen..."
 msgid "When we held our center’s grand opening in April 1980, Jerry and Bill joined us."
 msgstr ""
 
-#. Paragraph 10: When we held our center’s grand opening in April 1980, Jerry and Bill joined us. Jerry made a wonderful presentation, as always, and Bill remained unobtrusively in the background but definitely presen...
 #: paragraph:10,sentence:68
+msgctxt "Paragraph 10: When we held our center’s grand opening in April 1980, Jerry and Bill joined us. Jerry made a wonderful presentation, as always, and Bill remained unobtrusively in the background but definitely presen..."
 msgid "Jerry made a wonderful presentation, as always, and Bill remained unobtrusively in the background but definitely present, adding substance to the occasion."
 msgstr ""
 
-#. Paragraph 10: When we held our center’s grand opening in April 1980, Jerry and Bill joined us. Jerry made a wonderful presentation, as always, and Bill remained unobtrusively in the background but definitely presen...
 #: paragraph:10,sentence:69
+msgctxt "Paragraph 10: When we held our center’s grand opening in April 1980, Jerry and Bill joined us. Jerry made a wonderful presentation, as always, and Bill remained unobtrusively in the background but definitely presen..."
 msgid "We deeply appreciated his willingness to support our endeavor."
 msgstr ""
 
-#. Paragraph 10: When we held our center’s grand opening in April 1980, Jerry and Bill joined us. Jerry made a wonderful presentation, as always, and Bill remained unobtrusively in the background but definitely presen...
 #: paragraph:10,sentence:70
+msgctxt "Paragraph 10: When we held our center’s grand opening in April 1980, Jerry and Bill joined us. Jerry made a wonderful presentation, as always, and Bill remained unobtrusively in the background but definitely presen..."
 msgid "During the reception afterward, he had a chance to mingle with the Denver students, which gave him yet another opportunity to witness ACIM’s impact firsthand and to hear more of its effect on changing people’s lives."
 msgstr ""
 
-#. Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges...
 #: paragraph:11,sentence:71
+msgctxt "Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges..."
 msgid "Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes."
 msgstr ""
 
-#. Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges...
 #: paragraph:11,sentence:72
+msgctxt "Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges..."
 msgid "Seeking to learn from challenges Jerry had faced, we clearly stated that the services and groups offered were based on principles from ACIM, not on a smorgasbord of potentially competing theories."
 msgstr ""
 
-#. Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges...
 #: paragraph:11,sentence:73
+msgctxt "Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges..."
 msgid "We presumed we would make mistakes, but at least they wouldn’t be the same ones he had encountered."
 msgstr ""
 
-#. Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges...
 #: paragraph:11,sentence:74
+msgctxt "Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges..."
 msgid "We wanted to practice Course principles with children or adults with catastrophic illnesses, as Jerry was successfully doing, and in addition, to include anyone in crisis or transition, anyone whose lives seemed unfulfilled."
 msgstr ""
 
-#. Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges...
 #: paragraph:11,sentence:75
+msgctxt "Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges..."
 msgid "Thus, we decided to conduct a volunteer-training series so those who chose to join us would know what we stood for."
 msgstr ""
 
-#. Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges...
 #: paragraph:11,sentence:76
+msgctxt "Paragraph 11: Our center started with a handful of support groups, as well as what turned into ACIM classes, although they were originally established as volunteer-training classes. Seeking to learn from challenges..."
 msgid "Offhandedly, we announced that the series would also be available to anyone wishing to learn more about ACIM."
 msgstr ""
 
-#. Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole...
 #: paragraph:12,sentence:77
+msgctxt "Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole..."
 msgid "To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course."
 msgstr ""
 
-#. Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole...
 #: paragraph:12,sentence:78
+msgctxt "Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole..."
 msgid "Some apparently wanted to read it but found it difficult."
 msgstr ""
 
-#. Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole...
 #: paragraph:12,sentence:79
+msgctxt "Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole..."
 msgid "Our ACIM overview series, a retooled version of our volunteer-training program, provided clarity about the Course’s philosophy, how it worked, what it was and was not for, making the material much more accessible."
 msgstr ""
 
-#. Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole...
 #: paragraph:12,sentence:80
+msgctxt "Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole..."
 msgid "Although not designed as a substitute for practicing ACIM, our classes made it easier to take the first steps of self-study, its original purpose."
 msgstr ""
 
-#. Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole...
 #: paragraph:12,sentence:81
+msgctxt "Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole..."
 msgid "Beginning in February 1980, we facilitated the series many times during the early 1980s, spawning further study groups for those who wanted to continue group work."
 msgstr ""
 
-#. Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole...
 #: paragraph:12,sentence:82
+msgctxt "Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole..."
 msgid "It was a great example of proceeding in one direction only to find you have been rerouted elsewhere."
 msgstr ""
 
-#. Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole...
 #: paragraph:12,sentence:83
+msgctxt "Paragraph 12: To our surprise, only a few wanted to be volunteers but many were interested in learning about the Course. Some apparently wanted to read it but found it difficult. Our ACIM overview series, a retoole..."
 msgid "Though not our original game plan, the classes turned out to be important venues for teaching what we needed to learn and as preparation for chapters not yet dreamed of."
 msgstr ""
 
-#. Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th...
 #: paragraph:13,sentence:84
+msgctxt "Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th..."
 msgid "Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits."
 msgstr ""
 
-#. Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th...
 #: paragraph:13,sentence:85
+msgctxt "Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th..."
 msgid "As we prepared for the evening, we asked him if he wanted to stay at home or attend the class. “I want to come,” he answered, “but don’t tell anyone who I am.” We promised not to disclose his identity, but were certain that someone would find him out."
 msgstr ""
 
-#. Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th...
 #: paragraph:13,sentence:86
+msgctxt "Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th..."
 msgid "For most of his life, I think Bill was honestly unaware that people recognized something unique about him, and he thought if he didn’t say anything, his anonymity would be protected."
 msgstr ""
 
-#. Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th...
 #: paragraph:13,sentence:87
+msgctxt "Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th..."
 msgid "Since his name was common enough, we introduced him simply as Bill, a friend visiting from out of town and attending just that one night."
 msgstr ""
 
-#. Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th...
 #: paragraph:13,sentence:88
+msgctxt "Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th..."
 msgid "The classes were long, from 7:30 to 10:00 and often beyond, with a break in the middle."
 msgstr ""
 
-#. Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th...
 #: paragraph:13,sentence:89
+msgctxt "Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th..."
 msgid "Sure enough, suspecting he was not an ordinary Course student, people asked during the break, “Who is that guy, anyway?” We repeated our story that he was a friend visiting for a few days, which was accurate but incomplete."
 msgstr ""
 
-#. Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th...
 #: paragraph:13,sentence:90
+msgctxt "Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th..."
 msgid "Sensing something unusual, they started to talk to him, and predictably, as he was drawn into conversation, the secret eventually came out, as he was unwilling to lie when the questions became more probing."
 msgstr ""
 
-#. Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th...
 #: paragraph:13,sentence:91
+msgctxt "Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th..."
 msgid "He still didn’t participate outwardly in any way, however, even after being “discovered.” Class members asked questions but not of him."
 msgstr ""
 
-#. Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th...
 #: paragraph:13,sentence:92
+msgctxt "Paragraph 13: Jaison Kayn and I originally taught the overview series, and a class was in progress during one of Bill’s visits. As we prepared for the evening, we asked him if he wanted to stay at home or attend th..."
 msgid "I always found it hilarious that he thought he could sit there unnoticed, radiating his light in the middle of the class."
 msgstr ""
 
-#. Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett...
 #: paragraph:14,sentence:93
+msgctxt "Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett..."
 msgid "Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience."
 msgstr ""
 
-#. Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett...
 #: paragraph:14,sentence:94
+msgctxt "Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett..."
 msgid "Having Bill there as a smiling student was somewhat unsettling."
 msgstr ""
 
-#. Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett...
 #: paragraph:14,sentence:95
+msgctxt "Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett..."
 msgid "It felt approximately like preaching the Sermon on the Mount with Jesus sitting in the third row."
 msgstr ""
 
-#. Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett...
 #: paragraph:14,sentence:96
+msgctxt "Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett..."
 msgid "On subsequent visits, I got used to it, but the first time was challenging, to say the least."
 msgstr ""
 
-#. Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett...
 #: paragraph:14,sentence:97
+msgctxt "Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett..."
 msgid "Hugh Prather commented that Bill would also faithfully attend his or Jerry’s presentations, when they were in Tiburon, and was always interested in what they had to say."
 msgstr ""
 
-#. Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett...
 #: paragraph:14,sentence:98
+msgctxt "Paragraph 14: Although Bill and I had shared a platform on a few occasions before and after those classes, I had never taught one with him in the audience. Having Bill there as a smiling student was somewhat unsett..."
 msgid "Hugh felt Bill genuinely thought he could learn something from him."
 msgstr ""
 
-#. Paragraph 15: Just as teaching with Bill or having him in the audience was a stretch for me, and standing before a group challenging for him, any person willing to confront conditioning, long-held beliefs, and fear...
 #: paragraph:15,sentence:99
+msgctxt "Paragraph 15: Just as teaching with Bill or having him in the audience was a stretch for me, and standing before a group challenging for him, any person willing to confront conditioning, long-held beliefs, and fear..."
 msgid "Just as teaching with Bill or having him in the audience was a stretch for me, and standing before a group challenging for him, any person willing to confront conditioning, long-held beliefs, and fear of the unknown is courageous."
 msgstr ""
 
-#. Paragraph 15: Just as teaching with Bill or having him in the audience was a stretch for me, and standing before a group challenging for him, any person willing to confront conditioning, long-held beliefs, and fear...
 #: paragraph:15,sentence:100
+msgctxt "Paragraph 15: Just as teaching with Bill or having him in the audience was a stretch for me, and standing before a group challenging for him, any person willing to confront conditioning, long-held beliefs, and fear..."
 msgid "Every small step of self-discovery requires determination, and the Course comforts and encourages us as we take them."
 msgstr ""
 
-#. Paragraph 15: Just as teaching with Bill or having him in the audience was a stretch for me, and standing before a group challenging for him, any person willing to confront conditioning, long-held beliefs, and fear...
 #: paragraph:15,sentence:101
+msgctxt "Paragraph 15: Just as teaching with Bill or having him in the audience was a stretch for me, and standing before a group challenging for him, any person willing to confront conditioning, long-held beliefs, and fear..."
 msgid "So did Bill."
 msgstr ""
 
-#. Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin...
 #: paragraph:16,sentence:102
+msgctxt "Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin..."
 msgid "Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life."
 msgstr ""
 
-#. Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin...
 #: paragraph:16,sentence:103
+msgctxt "Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin..."
 msgid "That collaboration extended to include Pat Hopkins, Hugh Prather, and after Helen’s death, Bob Skutch."
 msgstr ""
 
-#. Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin...
 #: paragraph:16,sentence:104
+msgctxt "Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin..."
 msgid "Bill continued some of his own writing; he and Roger Walsh co-authored a revised version of the chapter on personality theory for the Comprehensive Textbook on Psychiatry."
 msgstr ""
 
-#. Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin...
 #: paragraph:16,sentence:105
+msgctxt "Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin..."
 msgid "He also started a novel, but it never went anywhere."
 msgstr ""
 
-#. Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin...
 #: paragraph:16,sentence:106
+msgctxt "Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin..."
 msgid "Years earlier, more than one psychic reading told Bill he would be living by the water some day, writing children’s books with cartoons."
 msgstr ""
 
-#. Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin...
 #: paragraph:16,sentence:107
+msgctxt "Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin..."
 msgid "Naturally, with his background he found that the most unlikely of predictions, but there he was, organizing Jerry’s book, Love Is Letting Go of Fear, which included many cartoons to illustrate relevant points about the Course.[35] His attention to detail and long history of voluminous writing and editing was very helpful to Jerry and added substantively to his books."
 msgstr ""
 
-#. Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin...
 #: paragraph:16,sentence:108
+msgctxt "Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin..."
 msgid "Jerry even asked him if he wanted to be listed as a co-author, but Bill declined."
 msgstr ""
 
-#. Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin...
 #: paragraph:16,sentence:109
+msgctxt "Paragraph 16: Collaborating with Jules Finegold on several books, both Jerry Jampolsky’s and their own, had been Bill’s first project on settling into his new life. That collaboration extended to include Pat Hopkin..."
 msgid "He was still dodging the spotlight."
 msgstr ""
 
-#. Paragraph 17: There was plenty on his plate besides writing. Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly J...
 #: paragraph:17,sentence:110
+msgctxt "Paragraph 17: There was plenty on his plate besides writing. Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly J..."
 msgid "There was plenty on his plate besides writing."
 msgstr ""
 
-#. Paragraph 17: There was plenty on his plate besides writing. Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly J...
 #: paragraph:17,sentence:111
+msgctxt "Paragraph 17: There was plenty on his plate besides writing. Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly J..."
 msgid "Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly Jerry."
 msgstr ""
 
-#. Paragraph 17: There was plenty on his plate besides writing. Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly J...
 #: paragraph:17,sentence:112
+msgctxt "Paragraph 17: There was plenty on his plate besides writing. Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly J..."
 msgid "Being helpful to Jerry, who was going through some trying times, was a major reason for his moving to California."
 msgstr ""
 
-#. Paragraph 17: There was plenty on his plate besides writing. Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly J...
 #: paragraph:17,sentence:113
+msgctxt "Paragraph 17: There was plenty on his plate besides writing. Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly J..."
 msgid "Years later, as he became less of a “project” for Bill, Jerry jokingly mused that he wasn’t sure if Bill had reduced his ministrations because he thought he had succeeded or because it was a hopeless task."
 msgstr ""
 
-#. Paragraph 17: There was plenty on his plate besides writing. Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly J...
 #: paragraph:17,sentence:114
+msgctxt "Paragraph 17: There was plenty on his plate besides writing. Just as his friends wanted to support and nurture him, Bill, in turn, was consistently and generously available for all his close friends, particularly J..."
 msgid "Jerry knew perfectly well, of course, how much Bill cared for him."
 msgstr ""
 
-#. Paragraph 18: In Tiburon, in addition to focusing considerable time on writing and self-reflection, Bill served on the board of directors for the Center for Attitudinal Healing, where some issue or relationship oft...
 #: paragraph:18,sentence:115
+msgctxt "Paragraph 18: In Tiburon, in addition to focusing considerable time on writing and self-reflection, Bill served on the board of directors for the Center for Attitudinal Healing, where some issue or relationship oft..."
 msgid "In Tiburon, in addition to focusing considerable time on writing and self-reflection, Bill served on the board of directors for the Center for Attitudinal Healing, where some issue or relationship often seemed to require his wise counsel."
 msgstr ""
 
-#. Paragraph 18: In Tiburon, in addition to focusing considerable time on writing and self-reflection, Bill served on the board of directors for the Center for Attitudinal Healing, where some issue or relationship oft...
 #: paragraph:18,sentence:116
+msgctxt "Paragraph 18: In Tiburon, in addition to focusing considerable time on writing and self-reflection, Bill served on the board of directors for the Center for Attitudinal Healing, where some issue or relationship oft..."
 msgid "For several months he also devoted time to being interviewed for a video history of ACIM, though that first attempt was never released commercially."
 msgstr ""
 
-#. Paragraph 18: In Tiburon, in addition to focusing considerable time on writing and self-reflection, Bill served on the board of directors for the Center for Attitudinal Healing, where some issue or relationship oft...
 #: paragraph:18,sentence:117
+msgctxt "Paragraph 18: In Tiburon, in addition to focusing considerable time on writing and self-reflection, Bill served on the board of directors for the Center for Attitudinal Healing, where some issue or relationship oft..."
 msgid "A couple of years later, a BBC producer who was a friend of Judy’s directed the video, The Story of A Course In Miracles, which involved more time-consuming filming of Bill telling his story."
 msgstr ""
 
-#. Paragraph 18: In Tiburon, in addition to focusing considerable time on writing and self-reflection, Bill served on the board of directors for the Center for Attitudinal Healing, where some issue or relationship oft...
 #: paragraph:18,sentence:118
+msgctxt "Paragraph 18: In Tiburon, in addition to focusing considerable time on writing and self-reflection, Bill served on the board of directors for the Center for Attitudinal Healing, where some issue or relationship oft..."
 msgid "He also had the daily nine o’clock meetings at Jerry’s, attended a weekly Course group, and had countless meetings with new people he met through Jerry or Judy."
 msgstr ""
 
-#. Paragraph 19: “New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time. Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some w...
 #: paragraph:19,sentence:119
+msgctxt "Paragraph 19: “New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time. Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some w..."
 msgid "“New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time"
 msgstr ""
 
-#. Paragraph 19: “New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time. Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some w...
 #: paragraph:19,sentence:120
+msgctxt "Paragraph 19: “New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time. Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some w..."
 msgid "Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some were interested in learning about his center and some were intrigued with him"
 msgstr ""
 
-#. Paragraph 19: “New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time. Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some w...
 #: paragraph:19,sentence:121
+msgctxt "Paragraph 19: “New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time. Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some w..."
 msgid "When I entered the scene, the center was three and a half years old and had already attracted major national publicity; its star was on the rise"
 msgstr ""
 
-#. Paragraph 19: “New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time. Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some w...
 #: paragraph:19,sentence:122
+msgctxt "Paragraph 19: “New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time. Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some w..."
 msgid "And any household over which Judy presides is always a three-ring circus at the very least"
 msgstr ""
 
-#. Paragraph 19: “New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time. Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some w...
 #: paragraph:19,sentence:123
+msgctxt "Paragraph 19: “New people met through Jerry or Judy” should be emphasized because they occupied no small portion of his time. Jerry was the quintessential Pied Piper, drawing people to Tiburon from all over; some w..."
 msgid "The edition of New Realities magazine that first announced ACIM to the world also featured an interview with Judy:"
 msgstr ""
 
-#. Paragraph 20: As president of the Foundation for Inner Peace, Judith R. Skutch’s life in the 1970s can best be summarized as a typical day in her consciousness exploratorium salon in the Skutch’s large New York Cit...
 #: paragraph:20,sentence:124
+msgctxt "Paragraph 20: As president of the Foundation for Inner Peace, Judith R. Skutch’s life in the 1970s can best be summarized as a typical day in her consciousness exploratorium salon in the Skutch’s large New York Cit..."
 msgid "As president of the Foundation for Inner Peace, Judith R. Skutch’s life in the 1970s can best be summarized as a typical day in her consciousness exploratorium salon in the Skutch’s large New York City apartment."
 msgstr ""
 
-#. Paragraph 20: As president of the Foundation for Inner Peace, Judith R. Skutch’s life in the 1970s can best be summarized as a typical day in her consciousness exploratorium salon in the Skutch’s large New York Cit...
 #: paragraph:20,sentence:125
+msgctxt "Paragraph 20: As president of the Foundation for Inner Peace, Judith R. Skutch’s life in the 1970s can best be summarized as a typical day in her consciousness exploratorium salon in the Skutch’s large New York Cit..."
 msgid "In one room a motion picture is being screened to a group interested in biofeedback."
 msgstr ""
 
-#. Paragraph 20: As president of the Foundation for Inner Peace, Judith R. Skutch’s life in the 1970s can best be summarized as a typical day in her consciousness exploratorium salon in the Skutch’s large New York Cit...
 #: paragraph:20,sentence:126
+msgctxt "Paragraph 20: As president of the Foundation for Inner Peace, Judith R. Skutch’s life in the 1970s can best be summarized as a typical day in her consciousness exploratorium salon in the Skutch’s large New York Cit..."
 msgid "In another are seekers deep in meditation training."
 msgstr ""
 
-#. Paragraph 20: As president of the Foundation for Inner Peace, Judith R. Skutch’s life in the 1970s can best be summarized as a typical day in her consciousness exploratorium salon in the Skutch’s large New York Cit...
 #: paragraph:20,sentence:127
+msgctxt "Paragraph 20: As president of the Foundation for Inner Peace, Judith R. Skutch’s life in the 1970s can best be summarized as a typical day in her consciousness exploratorium salon in the Skutch’s large New York Cit..."
 msgid "In still another room a medical research meeting is in progress."
 msgstr ""
 
-#. Paragraph 21: Skutch herself seems to be in all places at once as she also juggles three telephones connecting people in the consciousness field to each other. And at any given moment, one might find an Edgar Mitch...
 #: paragraph:21,sentence:128
+msgctxt "Paragraph 21: Skutch herself seems to be in all places at once as she also juggles three telephones connecting people in the consciousness field to each other. And at any given moment, one might find an Edgar Mitch..."
 msgid "Skutch herself seems to be in all places at once as she also juggles three telephones connecting people in the consciousness field to each other"
 msgstr ""
 
-#. Paragraph 21: Skutch herself seems to be in all places at once as she also juggles three telephones connecting people in the consciousness field to each other. And at any given moment, one might find an Edgar Mitch...
 #: paragraph:21,sentence:129
+msgctxt "Paragraph 21: Skutch herself seems to be in all places at once as she also juggles three telephones connecting people in the consciousness field to each other. And at any given moment, one might find an Edgar Mitch..."
 msgid "And at any given moment, one might find an Edgar Mitchell, a Swami Muktananda, or a Uri Geller on hand, not to mention the usual assortment of mediums, mystics, and scientists—or just friends of friends"
 msgstr ""
 
-#. Paragraph 21: Skutch herself seems to be in all places at once as she also juggles three telephones connecting people in the consciousness field to each other. And at any given moment, one might find an Edgar Mitch...
 #: paragraph:21,sentence:130
+msgctxt "Paragraph 21: Skutch herself seems to be in all places at once as she also juggles three telephones connecting people in the consciousness field to each other. And at any given moment, one might find an Edgar Mitch..."
 msgid "To a first-time visitor, it seems a miracle that such a petite lady can keep all of this going at once, in addition to often serving her home-cooked dinners to those gathered.[36]"
 msgstr ""
 
-#. Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou...
 #: paragraph:22,sentence:131
+msgctxt "Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou..."
 msgid "When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Foundation for Inner Peace"
 msgstr ""
 
-#. Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou...
 #: paragraph:22,sentence:132
+msgctxt "Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou..."
 msgid "When Judy and her current husband, William (Whit) Whitson, established their home, the Foundation functions were divided between their household and Bob Skutch’s"
 msgstr ""
 
-#. Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou...
 #: paragraph:22,sentence:133
+msgctxt "Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou..."
 msgid "When Judy and Whit began overseeing the foreign-language translations of ACIM (eighteen have been published and six more are in process), with all the busyness and drama that involved, that comprised only one ring of the ongoing circus"
 msgstr ""
 
-#. Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou...
 #: paragraph:22,sentence:134
+msgctxt "Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou..."
 msgid "Thus, Jerry and Judy, with their respective households and organizations, were responsible for legions of people—friends, family and extended family, the famous and unknown, movers and shakers of the consciousness movement, those who wanted to offer help, curiosity seekers, and more—streaming through Tiburon"
 msgstr ""
 
-#. Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou...
 #: paragraph:22,sentence:135
+msgctxt "Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou..."
 msgid "They often included Bill in various activities, either to make sure he felt included and welcome in his new environs or because they sought his advice and counsel"
 msgstr ""
 
-#. Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou...
 #: paragraph:22,sentence:136
+msgctxt "Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou..."
 msgid "He was one busy fellow"
 msgstr ""
 
-#. Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou...
 #: paragraph:22,sentence:137
+msgctxt "Paragraph 22: When the Skutches moved to Tiburon, Judy’s inclinations for gathering those at the leading edge of consciousness exploration continued unabated, and their home continued to be headquarters for the Fou..."
 msgid "Judy’s daughter, Tammy, remembers:"
 msgstr ""
 
-#. Paragraph 23: I noticed that when Bill moved to California, he began to relate to many more people in the playful manner that he had always related to me. It was as though the more he practiced the Course, and the ...
 #: paragraph:23,sentence:138
+msgctxt "Paragraph 23: I noticed that when Bill moved to California, he began to relate to many more people in the playful manner that he had always related to me. It was as though the more he practiced the Course, and the ..."
 msgid "I noticed that when Bill moved to California, he began to relate to many more people in the playful manner that he had always related to me."
 msgstr ""
 
-#. Paragraph 23: I noticed that when Bill moved to California, he began to relate to many more people in the playful manner that he had always related to me. It was as though the more he practiced the Course, and the ...
 #: paragraph:23,sentence:139
+msgctxt "Paragraph 23: I noticed that when Bill moved to California, he began to relate to many more people in the playful manner that he had always related to me. It was as though the more he practiced the Course, and the ..."
 msgid "It was as though the more he practiced the Course, and the farther he got from his old establishment life in New York, the more he let loose his indomitable, charming, childlike self."
 msgstr ""
 
-#. Paragraph 24: Dressed up for the dinner parties After graduation, I didn’t see Bill for long intervals. Whenever we did see each other, it was usually for some special occasion or dinner party my mother was orchest...
 #: paragraph:24,sentence:140
+msgctxt "Paragraph 24: Dressed up for the dinner parties After graduation, I didn’t see Bill for long intervals. Whenever we did see each other, it was usually for some special occasion or dinner party my mother was orchest..."
 msgid "Dressed up for the dinner parties After graduation, I didn’t see Bill for long intervals"
 msgstr ""
 
-#. Paragraph 24: Dressed up for the dinner parties After graduation, I didn’t see Bill for long intervals. Whenever we did see each other, it was usually for some special occasion or dinner party my mother was orchest...
 #: paragraph:24,sentence:141
+msgctxt "Paragraph 24: Dressed up for the dinner parties After graduation, I didn’t see Bill for long intervals. Whenever we did see each other, it was usually for some special occasion or dinner party my mother was orchest..."
 msgid "Whenever we did see each other, it was usually for some special occasion or dinner party my mother was orchestrating"
 msgstr ""
 
-#. Paragraph 24: Dressed up for the dinner parties After graduation, I didn’t see Bill for long intervals. Whenever we did see each other, it was usually for some special occasion or dinner party my mother was orchest...
 #: paragraph:24,sentence:142
+msgctxt "Paragraph 24: Dressed up for the dinner parties After graduation, I didn’t see Bill for long intervals. Whenever we did see each other, it was usually for some special occasion or dinner party my mother was orchest..."
 msgid "Inasmuch as the location and our lives were different, the situation still seemed the same and we comfortably slipped into our playful roles with each other"
 msgstr ""
 
-#. Paragraph 24: Dressed up for the dinner parties After graduation, I didn’t see Bill for long intervals. Whenever we did see each other, it was usually for some special occasion or dinner party my mother was orchest...
 #: paragraph:24,sentence:143
+msgctxt "Paragraph 24: Dressed up for the dinner parties After graduation, I didn’t see Bill for long intervals. Whenever we did see each other, it was usually for some special occasion or dinner party my mother was orchest..."
 msgid "We once again became participants in a never-ending dinner party in which guests and conversations altered—but the dessert was always chocolate—and Bill would continue somehow to make everything seem more palatable for me.[37]"
 msgstr ""
 
-#. Paragraph 25: When I was in Tiburon, aside from visiting with many people and having long discussions with Bill, I would assist him with organizing and editing Jerry’s work, beginning with a packet of eighteen card...
 #: paragraph:25,sentence:144
+msgctxt "Paragraph 25: When I was in Tiburon, aside from visiting with many people and having long discussions with Bill, I would assist him with organizing and editing Jerry’s work, beginning with a packet of eighteen card..."
 msgid "When I was in Tiburon, aside from visiting with many people and having long discussions with Bill, I would assist him with organizing and editing Jerry’s work, beginning with a packet of eighteen cards featuring commentaries on Course lessons particularly helpful to Jerry (now expanded to book form: To Give Is To Receive: An Eighteen Day Mini-Course on Healing Relationships).[38] Jerry’s first full-length book, Love Is Letting Go of Fear, was Bill’s next collaborative project with him and I occasionally joined him in that effort."
 msgstr ""
 
-#. Paragraph 25: When I was in Tiburon, aside from visiting with many people and having long discussions with Bill, I would assist him with organizing and editing Jerry’s work, beginning with a packet of eighteen card...
 #: paragraph:25,sentence:145
+msgctxt "Paragraph 25: When I was in Tiburon, aside from visiting with many people and having long discussions with Bill, I would assist him with organizing and editing Jerry’s work, beginning with a packet of eighteen card..."
 msgid "At the least, it was another way to spend quality time in each other’s company."
 msgstr ""
 
-#. Paragraph 25: When I was in Tiburon, aside from visiting with many people and having long discussions with Bill, I would assist him with organizing and editing Jerry’s work, beginning with a packet of eighteen card...
 #: paragraph:25,sentence:146
+msgctxt "Paragraph 25: When I was in Tiburon, aside from visiting with many people and having long discussions with Bill, I would assist him with organizing and editing Jerry’s work, beginning with a packet of eighteen card..."
 msgid "We enjoyed socializing with others of the Tiburon group and, with Jules in charge, toured San Francisco or the more scenic, rural parts of Marin County."
 msgstr ""
 
-#. Paragraph 25: When I was in Tiburon, aside from visiting with many people and having long discussions with Bill, I would assist him with organizing and editing Jerry’s work, beginning with a packet of eighteen card...
 #: paragraph:25,sentence:147
+msgctxt "Paragraph 25: When I was in Tiburon, aside from visiting with many people and having long discussions with Bill, I would assist him with organizing and editing Jerry’s work, beginning with a packet of eighteen card..."
 msgid "There was never a lack of interesting people to meet or things to do, but relating was what really mattered."
 msgstr ""
 
-#. Paragraph 26: Last but certainly not least, were the really funny episodes interspersed throughout our time together. Bill was a born comedian and would often make hilarious comments that were inside jokes. When ot...
 #: paragraph:26,sentence:148
+msgctxt "Paragraph 26: Last but certainly not least, were the really funny episodes interspersed throughout our time together. Bill was a born comedian and would often make hilarious comments that were inside jokes. When ot..."
 msgid "Last but certainly not least, were the really funny episodes interspersed throughout our time together."
 msgstr ""
 
-#. Paragraph 26: Last but certainly not least, were the really funny episodes interspersed throughout our time together. Bill was a born comedian and would often make hilarious comments that were inside jokes. When ot...
 #: paragraph:26,sentence:149
+msgctxt "Paragraph 26: Last but certainly not least, were the really funny episodes interspersed throughout our time together. Bill was a born comedian and would often make hilarious comments that were inside jokes. When ot..."
 msgid "Bill was a born comedian and would often make hilarious comments that were inside jokes."
 msgstr ""
 
-#. Paragraph 26: Last but certainly not least, were the really funny episodes interspersed throughout our time together. Bill was a born comedian and would often make hilarious comments that were inside jokes. When ot...
 #: paragraph:26,sentence:150
+msgctxt "Paragraph 26: Last but certainly not least, were the really funny episodes interspersed throughout our time together. Bill was a born comedian and would often make hilarious comments that were inside jokes. When ot..."
 msgid "When other people, especially visiting dignitaries, were around, he might innocently refer to something only he and I knew about, making it impossible to keep a straight face if we made eye contact."
 msgstr ""
 
-#. Paragraph 26: Last but certainly not least, were the really funny episodes interspersed throughout our time together. Bill was a born comedian and would often make hilarious comments that were inside jokes. When ot...
 #: paragraph:26,sentence:151
+msgctxt "Paragraph 26: Last but certainly not least, were the really funny episodes interspersed throughout our time together. Bill was a born comedian and would often make hilarious comments that were inside jokes. When ot..."
 msgid "Many of his friends also experienced his delightful, playful, and irreverent side, sharing with him a personal joke or watching as he wiggled his ears while looking very serious or proper (no one could figure out how he did that)."
 msgstr ""
 
-#. Paragraph 26: Last but certainly not least, were the really funny episodes interspersed throughout our time together. Bill was a born comedian and would often make hilarious comments that were inside jokes. When ot...
 #: paragraph:26,sentence:152
+msgctxt "Paragraph 26: Last but certainly not least, were the really funny episodes interspersed throughout our time together. Bill was a born comedian and would often make hilarious comments that were inside jokes. When ot..."
 msgid "He was more than willing to lighten things up when he decided someone was being overly serious or self-important."
 msgstr ""
 
-#. Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need...
 #: paragraph:27,sentence:153
+msgctxt "Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need..."
 msgid "In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood"
 msgstr ""
 
-#. Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need...
 #: paragraph:27,sentence:154
+msgctxt "Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need..."
 msgid "In New York he had no need to drive and hadn’t owned a car for more than two decades"
 msgstr ""
 
-#. Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need...
 #: paragraph:27,sentence:155
+msgctxt "Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need..."
 msgid "Therefore, if we went someplace farther afield than Tiburon and environs, someone else drove"
 msgstr ""
 
-#. Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need...
 #: paragraph:27,sentence:156
+msgctxt "Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need..."
 msgid "When it was time to return to Denver, Jules usually would take Bill and me to the airport"
 msgstr ""
 
-#. Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need...
 #: paragraph:27,sentence:157
+msgctxt "Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need..."
 msgid "As Jules waited, Bill always came to the gate and stayed with me until boarding time (this was long before heightened security measures), and he seemed genuinely sorry I was leaving"
 msgstr ""
 
-#. Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need...
 #: paragraph:27,sentence:158
+msgctxt "Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need..."
 msgid "We were very close but that doesn’t imply the “specialness” that precludes closeness to others"
 msgstr ""
 
-#. Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need...
 #: paragraph:27,sentence:159
+msgctxt "Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need..."
 msgid "Over the years, he had other treasured and important relationships as well"
 msgstr ""
 
-#. Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need...
 #: paragraph:27,sentence:160
+msgctxt "Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need..."
 msgid "The Course states: “Under the Holy Spirit’s teaching all relationships are seen as total commitments, yet they do not conflict with one another in any way"
 msgstr ""
 
-#. Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need...
 #: paragraph:27,sentence:161
+msgctxt "Paragraph 27: In Bill’s earlier California days, he was not yet driving, and several years passed before he felt comfortable enough to purchase a car and navigate around his neighborhood. In New York he had no need..."
 msgid "Perfect faith in each one, for its ability to satisfy you completely, arises only from perfect faith in yourself.”[39]"
 msgstr ""
 
